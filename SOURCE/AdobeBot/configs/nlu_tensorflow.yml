@@ -1,0 +1,10 @@
+pipeline:
+  - name: WhitespaceTokenizer
+  - name: RegexFeaturizer
+  - name: CRFEntityExtractor 
+    BILOU_flag: true 
+  - name: EntitySynonymMapper
+  - name: CountVectorsFeaturizer
+    token_pattern: (?u)\b\w+\b
+  - name: EmbeddingIntentClassifier
+language: en
