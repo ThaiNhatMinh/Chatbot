@@ -10,10 +10,16 @@ import time
 from nltk.stem import WordNetLemmatizer 
 from nltk.stem import PorterStemmer
 
+import spacy
+import neuralcoref
+
 ps =PorterStemmer()
 lemmatizer = WordNetLemmatizer() 
 
 story = []
+key = '6e682bc0-c5a5-11ea-ba66-b9792ca49ab8'
+statement = []
+
 def getRandomFromFile(filename):
 	lines = open(filename).read().splitlines()
 	myline =random.choice(lines)
@@ -41,47 +47,86 @@ class ActionSearchEntity(Action):
 		if version is not None:
 			context.append(version.upper())
 
-		#_objects_1 = next(tracker.get_slot("entity_1"), None)
 		_objects_1 = tracker.get_slot("object_1")
+		_objects_2 = tracker.get_slot("object_2")
+		_link = tracker.get_slot("link")
+		#04062020
+		_mention = tracker.get_slot("mention")
+		if _mention is not None:
+			nlp = spacy.load('en_core_web_sm')
+			neuralcoref.add_to_pipe(nlp, greedyness=0.52)
+			if len(statement) > 0:
+				conversation = statement[len(statement)-1]+ '. ' + tracker.latest_message.get('text') + '.'
+				doc = nlp(conversation)
+				print(doc)
+				if(doc._.coref_clusters != []):
+					cluster = doc._.coref_clusters[-1].mentions[-1]._.coref_cluster.main
+					print('cluster: ' + format(cluster))
+					if _objects_1 is None:
+						_objects_1 = format(cluster)
+
+					if _objects_1 != format(cluster) and _objects_2 is None:
+						_objects_2 = format(cluster)
+			else:
+				dispatcher.utter_message("[{'respone': 'I don't know what object you mention.'}]")
+				return []
+		else:
+			statement.append(tracker.latest_message.get('text'))
+			print(statement)
 		if _objects_1 is not None:
-			print(_objects_1)
+			print('obj1_what: ' + _objects_1)
+			query = 'What is ' + _objects_1
 			if _objects_1 == 'camera raw':
 				_objects_1 = _objects_1.title()
 				_objects_1 = ''.join(_objects_1.split())
-				#print(_objects_1)
 			else:
-				#print(_objects_1)
 				_objects_1 = _objects_1.replace(' ','_')
 				_objects_1 = _objects_1.capitalize()
-				print(_objects_1)
-			#print(_objects_1)
-			list_entity.append(_objects_1)
+			list_entity.append(_objects_1)			
 
-	#	_objects_2 = next(tracker.get_slot("entity_2"), None)
-			_objects_2 = tracker.get_slot("object_2")
+			if _link is not None:
+				query+= ' ' + _link
 			if _objects_2 is not None:
-				print(_objects_2)
+				query += ' ' + _objects_2
+				print('obj2_what: ' + _objects_2)
 				if _objects_2 == 'camera raw':
 					_objects_2 = _objects_2.title()
 					_objects_2 = ''.join(_objects_2.split())
-					#print(_objects_2)
 				else:
 					_objects_2 = _objects_2.replace(' ','_')
 					_objects_2 = _objects_2.capitalize()
-				list_entity.append(_objects_2)	
-			
-		#print(list_entity)  
+				list_entity.append(_objects_2)
+		
 		if not list_entity:
-			dispatcher.utter_template("utter_find_object", tracker)
+			dispatcher.utter_message("[{'respone': 'I don't know what object you mention.'}]")
+			#print('not list_entity')
 			return []
 			
 		else:
-			#print(len(list_entity))
+				
 			data = {'entity': list_entity, 'context': context}
+
 			list_content = call_API('ask_what', data)
-			#print(content)
-			if not list_content :
-				dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
+			if format(list_content) == "[['Type', []]]" :
+				#03062020
+				query += ' Adobe Photoshop'
+				#print(query)
+				headers = { 'apikey': key }
+				params = (
+					("q",query),)
+				response = requests.get('https://app.zenserp.com/api/v2/search', headers=headers, params=params)
+				data = response.json()
+				if not (data.get('featured_snippet') is None):
+					url = data["featured_snippet"]["url"]
+					#description = data["featured_snippet"]["description"]
+				elif not (data["organic"][0].get("url") is None):
+					url = data["organic"][0]["url"]
+				else:
+
+					url = data["organic"][0]["videos"][0]["url"]
+				#print(description)
+				res_online = [{'respone': url}]
+				dispatcher.utter_message(format(res_online))
 				return []
 			else:
 				#list_content = content['resp']
@@ -118,11 +163,11 @@ class ActionSearchEntity(Action):
 						res.append({"video" : video_list})
 					if image is not "":
 						res.append({"image": image})
-					
-
+					#print('have response')
 					dispatcher.utter_message(format(res))
+
 					time_2 = time.time()
-					print(time_2 - time_1)
+					#print(time_2 - time_1)
 					return []
 
 class ActionShowProcess(Action):
@@ -166,7 +211,6 @@ class ActionShowSteps(Action):
 		res = []
 		#dispatcher.utter_message("Wait a few mins")
 		process = tracker.latest_message.get('text')
-
 		story.append(tracker.latest_message.get('text'))
 		current_state = tracker.current_state()
 		msg = current_state.get('latest_message', {}) 
@@ -202,9 +246,6 @@ class ActionShowSteps(Action):
 		else:
 			dispatcher.utter_message("[{'respone': 'I don't have knowledge about this, you can check on our forum: https://forums.adobe.com/community/photoshop'}]")
 		
-		#tracker._reset()
-		#tracker._reset_slots()
-		#tracker.trigger_followup_action(ACTION_LISTEN_NAME)
 		time_2 = time.time()
 		print(time_2 - time_1)
 		return []
@@ -219,40 +260,29 @@ class ActionSearchHowAnswer(Action):
 		list_entity = []
 		operator = []
 		context = []
-
 		confirm = tracker.get_slot("confirm")
-		story.append(tracker.latest_message.get('text'))
-		current_state = tracker.current_state()
-		msg = current_state.get('latest_message', {}) 
-		story.append(msg)
-
+		story.append(tracker.latest_message.get('text'))	
+		
 		version = (tracker.get_slot("version"))
 		if version is not None:
 			context.append(version.upper())
-			print(version.upper())
 
 		os = (tracker.get_slot("OS"))
 		if os is not None:
 			os = os.title()
 			os = ''.join(os.split())
 			context.append(os)
-			print(os)
 
 		equipment = (tracker.get_slot("equipment"))
 		if equipment is not None:
 			equipment = equipment.title()
 			equipment = ''.join(equipment.split())
 			context.append(equipment)
-			print(equipment)
-
-		temp_tracker = tracker.copy()
-		#print(tracker.generate_all_prior_trackers())
-		print(temp_tracker.current_slot_values())
-		print(tracker.current_slot_values())
 
 		action = tracker.get_slot("action")
 
 		if action is not None:
+			query = 'How to '+ action
 			#action = ps.stem(action)
 			action = action.title()
 			action = action.split()
@@ -261,26 +291,56 @@ class ActionSearchHowAnswer(Action):
 					operator.append(op)
 
 		obj_1 = next(tracker.get_latest_entity_values("object_1"), None)
-		#obj_1 = tracker.get_slot("object_1")
-		#print(obj_1)
+		obj_2 = next(tracker.get_latest_entity_values("object_2"), None)
+		obj_3 = next(tracker.get_latest_entity_values("object_3"), None)
+		_link = next(tracker.get_latest_entity_values("link"), None)
+		
 
+		#04062020
+		_mention = tracker.get_slot("mention") 
+		if _mention is not None:			
+			nlp = spacy.load('en_core_web_sm')
+			neuralcoref.add_to_pipe(nlp, greedyness=0.52)
+			if len(statement) > 0: 
+				conversation = statement[len(statement)-1]+ '. ' + tracker.latest_message.get('text') + '.'			
+				doc = nlp(conversation)
+				print(doc)
+				if(doc._.coref_clusters != []):
+					cluster = doc._.coref_clusters[-1].mentions[-1]._.coref_cluster.main			
+					print('cluster: ' + format(cluster))
+					if obj_1 is None:
+						obj_1 = format(cluster)
+						 
+					if obj_1 != format(cluster) and obj_2 is None:
+						obj_2 = format(cluster)
+			else:
+				dispatcher.utter_message("[{'respone': 'I don't know what object you mention.'}]")
+				return []
+
+		else:
+			statement.append(tracker.latest_message.get('text'))
+			print(statement)
 		if obj_1 is not None:
-			print(obj_1)
-			if obj_1.lower() == 'camera raw' or obj_1.lower() == 'tool box' :
+			query += ' '+ obj_1
+			print('obj1_how: ' + obj_1)
+			if obj_1.lower() == 'camera raw' or obj_1.lower() == 'toolbox' :
 				obj_1 = obj_1.title()
 				obj_1 = ''.join(obj_1.split())
 				list_entity.append(obj_1)
+
 			else:
 				obj_1 = obj_1.title()
 				obj_1 = obj_1.split()
 				for item in obj_1:
 					list_entity.append(item)
-
-		obj_2 = next(tracker.get_latest_entity_values("object_2"), None)
+		
 		#obj_2 = tracker.get_slot("object_2")
+		if _link is not None:
+			query += ' '+ _link
 		if obj_2 is not None:
-			print(obj_2)
-			if obj_2.lower() == 'camera raw' or obj_2.lower() == 'tool box':
+			query += ' '+ obj_2
+			print('obj2_how: ' + obj_2)
+			if obj_2.lower() == 'camera raw' or obj_2.lower() == 'toolbox':
 				obj_2 = obj_2.title()
 				obj_2 = ''.join(obj_2.split())
 				list_entity.append(obj_2)
@@ -291,10 +351,10 @@ class ActionSearchHowAnswer(Action):
 				for item in obj_2:
 					list_entity.append(item)
 
-		obj_3 = next(tracker.get_latest_entity_values("object_3"), None)
 		if obj_3 is not None:
-			print(obj_3)
-			if obj_3.lower() == 'camera raw' or obj_3.lower() == 'tool box':
+			query += ' '+ obj_3
+			print('obj3_how: ' + obj_3)
+			if obj_3.lower() == 'camera raw' or obj_3.lower() == 'toolbox':
 				obj_3 = obj_3.title()
 				obj_3 = ''.join(obj_3.split())
 				list_entity.append(obj_3)
@@ -304,10 +364,7 @@ class ActionSearchHowAnswer(Action):
 				obj_3 = obj_3.split()
 				for item in obj_3:
 					list_entity.append(item)
-			
-		print(list_entity)
-		print(operator)
-		print(context)
+		
 		list_process = [] # array process
 		steps = [] # array steps
 		respone = ''
@@ -315,67 +372,77 @@ class ActionSearchHowAnswer(Action):
 		image = ''
 		res = []
 		data = {'operator': operator,'entity': list_entity, 'context': context}
-		list_content = call_API('ask_how', data)
-		#print(list_content)
-		if not list_content:
-			#print("Rong")
-			context = []
-			list_content.clear()
-			data = {'operator': operator,'entity': list_entity, 'context': context}
+		#print(operator)
+		#print(list_entity)
+		if operator != [] and list_entity != []:
 			list_content = call_API('ask_how', data)
-			#print(list_content)
-		
-		
-		if list_content:
-			for item in list_content:
-		
-				if item[0] == 'Process':
-					list_process = item[1]
-				elif item[0] == 'Video':
-					link_video = item[1]
-				elif item[0] == 'Respone':
-					respone = item[1]
-				elif item[0] == 'Step':
-					steps = item[1]
-				elif item[0] == 'Image':
-					image = item[1]
+			
+			# if not list_content:
+			# 	context = []
+			# 	list_content.clear()
+			# 	data = {'operator': operator,'entity': list_entity, 'context': context}
+			# 	list_content = call_API('ask_how', data)
+			if list_content:
+				for item in list_content:		
+					if item[0] == 'Process':
+						list_process = item[1]
+					elif item[0] == 'Video':
+						link_video = item[1]
+					elif item[0] == 'Respone':
+						respone = item[1]
+					elif item[0] == 'Step':
+						steps = item[1]
+					elif item[0] == 'Image':
+						image = item[1]
 
+				#dispatcher.utter_message(content['resp'])
+			video_respone = getRandomFromFile("file.txt")
+			if respone is not "":
+				res.append({"confirm": confirm})
+				res.append({"respone" : respone})
+			if list_process:
+				res.append({"process" : list_process})
+			if link_video is not "":
+				video_list = []
+				video_list.append({"res_video": video_respone})
+				video_list.append({"link": link_video})
+				res.append({"video" : video_list})
+			if steps:
+				res.append({"step" : steps})
+			if image is not "":
+				res.append({"image" : image})
 
-			#dispatcher.utter_message(content['resp'])
-		video_respone = getRandomFromFile("file.txt")
-		if respone is not "":
-			res.append({"confirm": confirm})
-			res.append({"respone" : respone})
-		if list_process:
-			res.append({"process" : list_process})
-		if link_video is not "":
-			video_list = []
-			video_list.append({"res_video": video_respone})
-			video_list.append({"link": link_video})
-			res.append({"video" : video_list})
-		if steps:
-			res.append({"step" : steps})
-		if image is not "":
-			res.append({"image" : image})
+			if not res:
+				#05062020
+				query += ' Adobe Photoshop'
+				print(query)
+				headers = { 'apikey': key }
+				params = (
+					("q",query),)
+				response = requests.get('https://app.zenserp.com/api/v2/search', headers=headers, params=params)
+				data = response.json()
+				if not (data.get('featured_snippet') is None):
+					url = data["featured_snippet"]["url"]
+					#description = data["featured_snippet"]["description"]
+				else:
+					url = data["organic"][0]["url"]
+				#print(description)
+				res_online = [{'respone': url}]
+				dispatcher.utter_message(format(res_online))
 
-		
-		#if not list_process:
-		#	dispatcher.utter_message(format(res))
-		#	return []
-		#else:
-		#print(res)
-		if not res:
+				time_2 = time.time()
+				print(time_2 - time_1)
+				return []
+			else:
+				dispatcher.utter_message(format(res))
+				time_2 = time.time()
+				print(time_2 - time_1)
+				return [SlotSet("list_process", list_process)]
+		else:
 			dispatcher.utter_message("[{'respone': 'I don't have knowledge about this, you can check on our forum: https://forums.adobe.com/community/photoshop'}]")
 			time_2 = time.time()
 			print(time_2 - time_1)
 			return []
-		else:
-			dispatcher.utter_message(format(res))
-			time_2 = time.time()
-			print(time_2 - time_1)
-			return [SlotSet("list_process", list_process)]
-
-
 
 
 class ActionRenew(Action): 	
@@ -387,7 +454,7 @@ class ActionRenew(Action):
 		#print(tracker.slots[0])
 		for slot in tracker.slots:
 			if tracker.slots[slot] != None:
-				print(tracker.slots[slot])
+				#print(tracker.slots[slot])
 				return_slots.append(SlotSet(slot, None))
 
 		file = open("history.txt", "a")
@@ -397,7 +464,7 @@ class ActionRenew(Action):
 		story.clear()
 		file.write("\n")
 		file.close()
-
+		
 		return return_slots
 
 class ActionRestart(Action):

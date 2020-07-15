@@ -85,13 +85,6 @@
 	- action_search_entity
 	- action_renew
 
-## story_000011
-* what_object{"object_1":"eyedropper","object_2":"tool"}
-    - slot{"object_1": "eyedropper", "object_2":"tool"}
-    - action_confirm
-	- action_search_entity
-	- action_renew
-
 ## story_00012
 * what_object{"object_1":"information channel"}
     - slot{"object_1": "information channel"}
@@ -106,9 +99,107 @@
 	- action_search_entity
 	- action_renew
 
+## story_000130
+* what_object{"object_1":"3D layer"}
+    - slot{"object_1": "3D layer"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_0001301
+* what_object{"object_1":"spot removal tool"}
+    - slot{"object_1": "spot removal tool"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_0001302
+* what_object{"object_1":"digital collage"}
+    - slot{"object_1": "digital collage"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_00013033
+* what_object{"object_1":"brush tool"}
+    - slot{"object_1": "brush tool"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_00013032
+* what_object{"object_1":"watermark"}
+    - slot{"object_1": "watermark"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_00013031
+* what_object{"object_1":"transparent fade"}
+    - slot{"object_1": "transparent fade"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_0001303
+* what_object{"object_1":"rectangle tool"}
+    - slot{"object_1": "rectangle tool"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_00013011
+* what_object{"object_1":"graduated filter"}
+    - slot{"object_1": "graduated filter"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_00013112
+* what_object{"object_1":"auto blend layer"}
+    - slot{"object_1": "auto blend layer"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_000131113
+* what_object{"object_1":"depth range mask"}
+    - slot{"object_1": "depth range mask"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
 ## story_00014
 * what_object{"object_1":"photomerge"}
     - slot{"object_1": "photomerge"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_000140
+* what_object{"object_1":"reflection"}
+    - slot{"object_1": "reflection"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_000141
+* what_object{"object_1":"hair brush"}
+    - slot{"object_1": "hair brush"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_000142
+* what_object{"object_1":"pen tool"}
+    - slot{"object_1": "pen tool"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_000141
+* what_object{"object_1":"green screen"}
+    - slot{"object_1": "green screen"}
     - action_confirm
 	- action_search_entity
 	- action_renew
@@ -152,9 +243,81 @@
 	- action_search_entity
 	- action_renew
 
+## story_000620
+	- restart
+* what_object{"object_1":"profiles"}
+    - slot{"object_1": "profiles"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_0006200
+	- restart
+* what_object{"object_1":"crop tool"}
+    - slot{"object_1": "crop tool"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_0006201
+	- restart
+* what_object{"object_1":"move tool"}
+    - slot{"object_1": "move tool"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_0006201
+	- restart
+* what_object{"object_1":"luminance range mask"}
+    - slot{"object_1": "luminance range mask"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_000621
+	- restart
+* what_object{"object_1":"color range mask"}
+    - slot{"object_1": "color range mask"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_0006210
+	- restart
+* what_object{"object_1":"clone stamp tool"}
+    - slot{"object_1": "clone stamp tool"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_000622
+	- restart
+* what_object{"object_1": "eyedropper tool"}
+    - slot{"object_1": "eyedropper tool"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
 ## story_00019
 	- restart
 * ask_how{"action":"add", "object_1":"text", "object_2":"image"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0001911
+	- restart
+* ask_how{"action":"add", "mention":"it", "object_2":"image"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0001912
+	- restart
+* ask_how{"action":"add", "object_1":"text", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -176,9 +339,25 @@
 	- action_show_process
 	- action_renew
 
+## story_0002111
+	- restart
+* ask_how{"action":"apply", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
 ## story_00022
 	- restart
 * ask_how{"action":"clean", "object_1":"photo", "object_2":"visualize spots"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0002211
+	- restart
+* ask_how{"action":"clean", "object_1":"photo", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -192,9 +371,25 @@
 	- action_show_process
 	- action_renew
 
+## story_00023_111
+	- restart
+* ask_how{"action":"copy and paste", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
 ## story_00023
 	- restart
 * ask_how{"action":"create", "object_1":"360", "object_2": "panorama"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0002311
+	- restart
+* ask_how{"action":"create", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -210,7 +405,15 @@
 
 ## story_00024_1
 	- restart
-* ask_how{"action":"add", "object_1":"profiles", "object_2": "favorites"}
+* ask_how{"action":"add", "object_1":"profiles", "link":"to", "object_2": "favorites"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_000241
+	- restart
+* ask_how{"action":"add", "mention":"them", "object_2": "favorites"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -226,7 +429,7 @@
 
 ## story_00026
 	- restart
-* ask_how{"action":"apply", "object_1":"profiles", "object_2": "image"}
+* ask_how{"action":"apply", "object_1":"profiles", "link":"to", "object_2": "image"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -234,7 +437,7 @@
 
 ## story_00027
 	- restart
-* ask_how{"action":"assign", "object_1":"profiles", "object_2": "image"}
+* ask_how{"action":"assign", "object_1":"profiles", "link": "to", "object_2": "image"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -258,7 +461,15 @@
 
 ## story_00030
 	- restart
-* ask_how{"action":"choose", "object_1":"color", "object_2": "tool box"}
+* ask_how{"action":"choose", "object_1":"color", "object_2": "toolbox"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0003011
+	- restart
+* ask_how{"action":"choose", "object_1":"color", "mention": "it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -280,6 +491,14 @@
 	- action_show_process
 	- action_renew
 
+## story_0003211
+	- restart
+* ask_how{"action":"combine", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+ 
 ## story_00033
 	- restart
 * ask_how{"action":"combine", "object_1":"image", "object_2": "auto blend layer"}
@@ -288,9 +507,17 @@
 	- action_show_process
 	- action_renew
 
+## story_0003311
+	- restart
+* ask_how{"action":"combine", "object_1":"image","link":"with", "mention": "it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
 ## story_00034
 	- restart
-* ask_how{"action":"convert", "object_1":"3D layer", "object_2": "2D layer"}
+* ask_how{"action":"convert", "object_1":"3D layer", "link":"to", "object_2": "2D layer"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -304,6 +531,21 @@
 	- action_show_process
 	- action_renew
 
+## story_0003511
+	- restart
+* ask_how{"action":"convert", "object_1":"3D layer", "link":"to", "mention": "it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0003512
+	- restart
+* ask_how{"action":"convert", "mention":"it", "object_2": "2D"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
 ## story_00036
 	- restart
 * ask_how{"action":"convert", "object_1":"color image", "object_2": "black and white image"}
@@ -337,6 +579,14 @@
 ## story_00038
 	- restart
 * ask_how{"action":"create", "object_1":"poster"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0003811
+	- restart
+* ask_how{"action":"create", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -464,6 +714,14 @@
 	- action_show_process
 	- action_renew
 
+## story_0004211
+	- restart
+* ask_how{"action":"crop", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
 ## story_00043
 	- restart
 * ask_how{"action":"delete", "object_1":"channel"}
@@ -472,9 +730,120 @@
 	- action_show_process
 	- action_renew
 
+## story_0004311
+	- restart
+* ask_how{"action":"delete", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004312
+	- restart
+* ask_how{"action":"make", "object_1":"background", "mention":"this"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004314
+	- restart
+* ask_how{"action":"expose", "mention":"it", "object_1":"individual images"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004315
+	- restart
+* ask_how{"action":"make", "object_1":"twitch overlays", "object_2":"rectangle"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004316
+	- restart
+* ask_how{"action":"create", "object_1":"rectangular shapes", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004317
+	- restart
+* ask_how{"action":"create", "object_1":"rectangular shapes", "mention":"this"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004318
+	- restart
+* ask_how{"action":"create", "object_1":"portfolio", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004318
+	- restart
+* ask_how{"action":"create", "object_1":"digital collage", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004318
+	- restart
+* ask_how{"action":"apply", "mention":"it", "link":"with", "object_2":"adjustment brush"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004319
+	- restart
+* ask_how{"action":"apply", "mention":"it", "link":"with" "object_2":"depth range mask"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004320
+	- restart
+* ask_how{"action":"apply", "mention":"it","link":"with", "object_2":"graduated filter"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004320
+	- restart
+* ask_how{"action":"apply", "mention":"it", "link":"with", "object_2":"luminance range mask"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
 ## story_00044
 	- restart
 * ask_how{"action":"edit", "object_1":"channel"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_0004411
+	- restart
+* ask_how{"action":"edit", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
+## story_00044110
+	- restart
+* ask_how{"action":"move", "object_1":"layer", "link":"use", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -488,9 +857,27 @@
 	- action_show_process
 	- action_renew
 
+## story_0004511
+	- restart
+* ask_how{"action":"find and replace", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+
 ## story_00046
 	- restart
 * ask_how{"action":"manage", "object_1":"camera raw"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+* choose_process
+	- action_show_steps
+	- action_renew
+
+## story_0004611
+	- restart
+* ask_how{"action":"manage", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -510,9 +897,35 @@
 	- action_show_steps
 	- action_renew
 
+## story_0006811
+	- restart
+* ask_how{"action":"manage", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+	- action_renew
+
 ## story_00069
 	- restart
 * ask_how{"action":"manage", "object_1":"camera raw"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+	- action_renew
+
+## story_0006911
+	- restart
+* ask_how{"action":"manage", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -540,9 +953,43 @@
 	- action_show_steps
 	- action_renew
 
+## story_0007011
+	- restart
+* ask_how{"action":"manage", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+	- action_renew
+
 ## story_00071
 	- restart
 * ask_how{"action":"manage", "object_1":"camera raw"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+	- action_renew
+
+## story_0007111
+	- restart
+* ask_how{"action":"manage", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -576,6 +1023,24 @@
 	- action_show_steps
 	- action_renew
 
+## story_0007211
+	- restart
+* ask_how{"action":"manage", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+* choose_process
+	- action_show_steps
+	- action_renew
+
 ## story_00047
 
 * ask_how{"action":"paint", "object_1":"3D", "object_2": "image"}
@@ -588,7 +1053,6 @@
 	- action_renew
 
 ## story_00048
-
 * ask_how{"action":"resize", "object_1":"image"}
 	- action_confirm
 	- action_search_how_answer
@@ -596,8 +1060,15 @@
 	- action_renew
 	- restart
 
-## story_00049
+## story_0004811
+* ask_how{"action":"resize", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_00049
 * ask_how{"action":"rotate", "object_1":"image"}
 	- action_confirm
 	- action_search_how_answer
@@ -605,8 +1076,15 @@
 	- action_renew
 	- restart
 
-## story_00050
+## story_0004911
+* ask_how{"action":"rotate", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_00050
 * ask_how{"action":"select", "object_1":"channel"}
 	- action_confirm
 	- action_search_how_answer
@@ -614,8 +1092,15 @@
 	- action_renew
 	- restart
 
-## story_00051
+## story_0005011
+* ask_how{"action":"select", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_00051
 * ask_how{"action":"show and hide", "object_1":"channel"}
 	- action_confirm
 	- action_search_how_answer
@@ -623,8 +1108,15 @@
 	- action_renew
 	- restart
 
-## story_00052
+## story_0005111
+* ask_how{"action":"show and hide", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_00052
 * ask_how{"action":"straighten", "object_1":"image"}
 	- action_confirm
 	- action_search_how_answer
@@ -632,8 +1124,15 @@
 	- action_renew
 	- restart
 
-## story_00053
+## story_0005211
+* ask_how{"action":"straighten", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_00053
 * ask_how{"action":"load", "object_1":"camera raw"}
 	- action_confirm
 	- action_search_how_answer
@@ -641,8 +1140,15 @@
 	- action_renew
 	- restart
 
-## story_00054
+## story_0005311
+* ask_how{"action":"load", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_00054
 * ask_how{"action":"paint", "object_1":"panorama"}
 	- action_confirm
 	- action_search_how_answer
@@ -650,8 +1156,15 @@
 	- action_renew
 	- restart
 
-## story_00055
+## story_0005411
+* ask_how{"action":"paint", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_00055
 * ask_how{"action":"reset", "object_1":"camera raw"}
 	- action_confirm
 	- action_search_how_answer
@@ -659,8 +1172,15 @@
 	- action_renew
 	- restart
 
-## story_00056
+## story_0005511
+* ask_how{"action":"reset", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_00056
 * ask_how{"action":"rotate", "object_1":"camera raw", "object_2": "view"}
 	- action_confirm
 	- action_search_how_answer
@@ -669,8 +1189,15 @@
 	- restart
 
 ## story_00057
-
 * ask_how{"action":"save", "object_1":"camera raw"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_00057
+* ask_how{"action":"save", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -687,7 +1214,6 @@
 	- restart
 
 ## story_00059
-
 * ask_how{"action":"take", "object_1":"picture", "object_2":"photomerge"}
 	- action_confirm
 	- action_search_how_answer
@@ -695,8 +1221,15 @@
 	- action_renew
 	- restart
 
-## story_00060
+## story_0005911
+* ask_how{"action":"take", "object_1":"picture", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_00060
 * ask_how{"action":"use", "object_2":"spot removal tool"}
 	- action_confirm
 	- action_search_how_answer
@@ -704,8 +1237,15 @@
 	- action_renew
 	- restart
 
-## story_00063
+## story_0006011
+* ask_how{"action":"use", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_00063
 * ask_how{"action":"crop", "object_1":"image"}
 	- action_confirm
 	- action_search_how_answer
@@ -713,9 +1253,32 @@
 	- action_renew
 	- restart
 
-## story_00064
+## story_0006311
+* ask_how{"action":"crop", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
 
+## story_0006312
+* ask_how{"action":"erase", "object_1":"image", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_00064
 * ask_how{"action":"change", "object_1":"measurement"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_0006411
+* ask_how{"action":"change", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -868,7 +1431,33 @@
 
 ## story_00095
 
-* ask_how{"action":"apply", "object_1":"local adjustment", "object_2":"adjustment brush"}
+* ask_how{"action":"apply", "object_1":"local adjustment", "link":"with", object_2":"adjustment brush"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_000950
+
+* ask_how{"action":"apply", "object_1":"local adjustment", "link":"use",  "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_00095011
+
+* ask_how{"link":"in",  "mention":"it", "action":"get rid of", "object_1":"grid"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+## story_0009501
+
+* ask_how{"link":"use",  "mention":"it", "action":"apply", "object_1":"local adjustment"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -877,7 +1466,7 @@
 
 ## story_00096
 	
-* ask_how{"action":"apply", "object_1":"local adjustment", "object_2":"color range mask"}
+* ask_how{"action":"apply", "object_1":"local adjustment", "link":"use", "object_2":"color range mask"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -886,7 +1475,7 @@
 
 ## story_00097
 	
-* ask_how{"action":"apply", "object_1":"local adjustment", "object_2":"depth range mask"}
+* ask_how{"action":"apply", "object_1":"local adjustment", "link":"use", "object_2":"depth range mask"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -895,7 +1484,7 @@
 
 ## story_00098
 	
-* ask_how{"action":"apply", "object_1":"local adjustment", "object_2":"graduated filter"}
+* ask_how{"action":"apply", "object_1":"local adjustment", "link":"use", "object_2":"graduated filter"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -904,7 +1493,7 @@
 
 ## story_00099
 	- restart
-* ask_how{"action":"apply", "object_1":"local adjustment", "object_2":"luminance range mask"}
+* ask_how{"action":"apply", "object_1":"local adjustment", "link":"with", "object_2":"luminance range mask"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -928,6 +1517,15 @@
 	- action_renew
 	- restart
 
+## story_0010211
+	
+* ask_how{"action":"fill", "mention":"it", "object_2":"color"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
 ## story_00103
 	
 * ask_how{"action":"add", "object_1":"dynamic", "object_2":"element", "object_3":"brush"}
@@ -937,8 +1535,7 @@
 	- action_renew
 	- restart
 
-## story_00104
-	
+## story_00104	
 * ask_how{"action":"adjust", "object_1":"color rendering", "object_2":"camera raw"}
 	- action_confirm
 	- action_search_how_answer
@@ -946,9 +1543,74 @@
 	- action_renew
 	- restart
 
-## story_00105
-	
+## story_00104	
+* ask_how{"action":"adjust", "mention":"it", "object_2":"camera raw"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_00105	
 * ask_how{"action":"create", "object_1":"digital collage", "object_2":"adobe stock"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_001051	
+* ask_how{"action":"remove", "mention":"it", "link":"from", "object_2":"photo"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+
+## story_001052
+* ask_how{"link":"use", "action":"remove", "mention":"it", "object_1":"background"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_001053	
+* ask_how{"action":"choose", "mention":"it", "object_2":"eyedropper"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_001052
+* ask_how{"action":"assign", "mention":"them","link":"to", "object_2":"image"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_001053
+* ask_how{"action":"assign", "object_1":"profiles", "link":"to", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_0010530
+* ask_how{"action":"assign", "mention":"them", "object_2":"image"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_0010520
+	
+* ask_how{"action":"create", "mention":"it", "object_2":"adobe stock"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -972,8 +1634,15 @@
 	- action_renew
 	- restart
 
-## story_00108
-	
+## story_0010711
+* ask_how{"action":"repair", "object_1":"image", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_00108	
 * ask_how{"action":"use", "object_1":"crop tool"}
 	- action_confirm
 	- action_search_how_answer
@@ -981,8 +1650,15 @@
 	- action_renew
 	- restart
 
+## story_0010811
+* ask_how{"action":"use", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
 ## story_00109
-	
 * ask_how{"action":"resize","object_1": "canvas", "object_2":"crop tool"}
 	- action_confirm
 	- action_search_how_answer
@@ -990,9 +1666,48 @@
 	- action_renew
 	- restart
 
-## story_00110
-	
+## story_0010911
+* ask_how{"action":"resize","object_1": "canvas", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_0010912
+* ask_how{"action":"resize","mention": "it", "object_2":"crop tool"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_00110	
 * ask_how{"action":"Stroke", "object_1":"path", "object_2":"color"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_001100	
+* ask_how{"action":"create", "object_1":"image", "object_2":"double exposure"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_001101
+* ask_how{"action":"create", "object_1":"stylized portrait", "object_2":"HDR tone"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_0011011
+* ask_how{"action":"Stroke", "mention":"it", "object_2":"color"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -1001,7 +1716,6 @@
 
 
 ## story_00112
-	
 * ask_how{"action":"create", "object_2":"paragraph style"}
 	- utter_ask_version
 * ask_how{"version":"CS6"}

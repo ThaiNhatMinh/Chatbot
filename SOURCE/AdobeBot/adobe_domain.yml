@@ -19,6 +19,10 @@ slots:
         type: list
     list_step:
         type: list
+    mention:
+        type: text
+    link:
+        type: text
 
 intents:
     - greet
