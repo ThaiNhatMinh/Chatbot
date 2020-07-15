@@ -9,15 +9,16 @@ import random
 import time
 from nltk.stem import WordNetLemmatizer 
 from nltk.stem import PorterStemmer
+import logging
+import OnlineRetrivial
 
 import spacy
 import neuralcoref
 
-ps =PorterStemmer()
+ps = PorterStemmer()
 lemmatizer = WordNetLemmatizer() 
 
 story = []
-key = 'c93c2550-c664-11ea-9d70-a945b336efec'
 statement = []
 
 def getRandomFromFile(filename):
@@ -93,17 +94,20 @@ class ActionSearchEntity(Action):
 				else:
 					_objects_2 = _objects_2.replace(' ','_')
 					_objects_2 = _objects_2.capitalize()
-				list_entity.append(_objects_2)
+				list_entity.append(_objects_2)	
 		if version is not None:
 			context.append(version.upper())
-
+		logging.info("text: {}".format(tracker.latest_message.get('text')))
+		logging.info("list_entity: {}".format(" ".join(list_entity)))
 		if not list_entity:
-			dispatcher.utter_message("[{'respone': 'I don't know what object you mention.'}]")
-			#print('not list_entity')
+			document = OnlineRetrivial.search_for(tracker.latest_message.get('text'))
+			if not document:
+				dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
+			else:
+				dispatcher.utter_message(document[0])
 			return []
 			
 		else:
-				
 			data = {'entity': list_entity, 'context': context}
 
 			list_content = call_API('ask_what', data)
@@ -112,23 +116,11 @@ class ActionSearchEntity(Action):
 				query += ' Adobe Photoshop'
 				if version is not None:
 					query += ' ' + (version.upper())
-				#print(query)
-				headers = { 'apikey': key }
-				params = (
-					("q",query),)
-				response = requests.get('https://app.zenserp.com/api/v2/search', headers=headers, params=params)
-				data = response.json()
-				if not (data.get('featured_snippet') is None):
-					url = data["featured_snippet"]["url"]
-					#description = data["featured_snippet"]["description"]
-				elif not (data["organic"][0].get("url") is None):
-					url = data["organic"][0]["url"]
+				doc = OnlineRetrivial.search_for(query)
+				if doc:
+					dispatcher.utter_message(doc[0])
 				else:
-
-					url = data["organic"][0]["videos"][0]["url"]
-				#print(description)
-				res_online = [{'respone': url}]
-				dispatcher.utter_message(format(res_online))
+					dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
 				return []
 			else:
 				#list_content = content['resp']
@@ -422,21 +414,13 @@ class ActionSearchHowAnswer(Action):
 				query += ' Adobe Photoshop'
 				if version is not None:
 					query += ' ' + version.upper()
-				print(query)
-				headers = { 'apikey': key }
-				params = (
-					("q",query),)
-				response = requests.get('https://app.zenserp.com/api/v2/search', headers=headers, params=params)
-				data = response.json()
-				if not (data.get('featured_snippet') is None):
-					url = data["featured_snippet"]["url"]
-					#description = data["featured_snippet"]["description"]
+				doc = OnlineRetrivial.search_for(query)
+				if doc is not None:
+					logging.info(doc)
+					dispatcher.utter_message(doc[0])
+					# dispatcher.utter_message(format(res))
 				else:
-					url = data["organic"][0]["url"]
-				#print(description)
-				res_online = [{'respone': url}]
-				dispatcher.utter_message(format(res_online))
-
+					dispatcher.utter_template("utter_find_object", tracker)
 				time_2 = time.time()
 				print(time_2 - time_1)
 				return []
