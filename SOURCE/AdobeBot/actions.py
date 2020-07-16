@@ -17,7 +17,7 @@ ps =PorterStemmer()
 lemmatizer = WordNetLemmatizer() 
 
 story = []
-key = '6e682bc0-c5a5-11ea-ba66-b9792ca49ab8'
+key = 'c93c2550-c664-11ea-9d70-a945b336efec'
 statement = []
 
 def getRandomFromFile(filename):
@@ -44,9 +44,7 @@ class ActionSearchEntity(Action):
 		story.append(msg)
 
 		version = next(tracker.get_latest_entity_values("version"), None)
-		if version is not None:
-			context.append(version.upper())
-
+		
 		_objects_1 = tracker.get_slot("object_1")
 		_objects_2 = tracker.get_slot("object_2")
 		_link = tracker.get_slot("link")
@@ -96,7 +94,9 @@ class ActionSearchEntity(Action):
 					_objects_2 = _objects_2.replace(' ','_')
 					_objects_2 = _objects_2.capitalize()
 				list_entity.append(_objects_2)
-		
+		if version is not None:
+			context.append(version.upper())
+
 		if not list_entity:
 			dispatcher.utter_message("[{'respone': 'I don't know what object you mention.'}]")
 			#print('not list_entity')
@@ -110,6 +110,8 @@ class ActionSearchEntity(Action):
 			if format(list_content) == "[['Type', []]]" :
 				#03062020
 				query += ' Adobe Photoshop'
+				if version is not None:
+					query += ' ' + (version.upper())
 				#print(query)
 				headers = { 'apikey': key }
 				params = (
@@ -294,7 +296,7 @@ class ActionSearchHowAnswer(Action):
 		obj_2 = next(tracker.get_latest_entity_values("object_2"), None)
 		obj_3 = next(tracker.get_latest_entity_values("object_3"), None)
 		_link = next(tracker.get_latest_entity_values("link"), None)
-		
+		_link2 = next(tracker.get_latest_entity_values("link_2"), None)
 
 		#04062020
 		_mention = tracker.get_slot("mention") 
@@ -313,6 +315,8 @@ class ActionSearchHowAnswer(Action):
 						 
 					if obj_1 != format(cluster) and obj_2 is None:
 						obj_2 = format(cluster)
+					if obj_1 != format(cluster) and obj_2 != format(cluster) and obj_3 is None:
+						obj_3 = format(cluster)
 			else:
 				dispatcher.utter_message("[{'respone': 'I don't know what object you mention.'}]")
 				return []
@@ -350,7 +354,8 @@ class ActionSearchHowAnswer(Action):
 				obj_2 = obj_2.split()
 				for item in obj_2:
 					list_entity.append(item)
-
+		if _link2 is not None:
+			query += ' '+ _link2
 		if obj_3 is not None:
 			query += ' '+ obj_3
 			print('obj3_how: ' + obj_3)
@@ -415,6 +420,8 @@ class ActionSearchHowAnswer(Action):
 			if not res:
 				#05062020
 				query += ' Adobe Photoshop'
+				if version is not None:
+					query += ' ' + version.upper()
 				print(query)
 				headers = { 'apikey': key }
 				params = (

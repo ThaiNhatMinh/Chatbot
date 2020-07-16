@@ -23,6 +23,8 @@ slots:
         type: text
     link:
         type: text
+    link_2:
+        type: text
 
 intents:
     - greet

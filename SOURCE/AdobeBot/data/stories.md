@@ -219,6 +219,14 @@
 	- action_search_entity
 	- action_renew
 
+## story_000161
+    - restart
+* what_object{"object_1":"halftone pattern"}
+    - slot{"object_1": "halftone pattern"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
 ## story_00017
 	- restart
 * what_object{"object_1":"spot color channel"}
@@ -231,6 +239,14 @@
 	- restart
 * what_object{"object_1":"workspace"}
     - slot{"object_1": "workspace"}
+    - action_confirm
+	- action_search_entity
+	- action_renew
+
+## story_000180
+	- restart
+* what_object{"object_1":"droplet"}
+    - slot{"object_1": "droplet"}
     - action_confirm
 	- action_search_entity
 	- action_renew
@@ -498,6 +514,14 @@
 	- action_search_how_answer
 	- action_show_process
 	- action_renew
+
+## story_0003212
+	- restart
+* ask_how{"action":"create", "mention":"it", "link":"in", "object_2":"shape"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
  
 ## story_00033
 	- restart
@@ -541,7 +565,7 @@
 
 ## story_0003512
 	- restart
-* ask_how{"action":"convert", "mention":"it", "object_2": "2D"}
+* ask_how{"action":"convert", "mention":"it", "object_2": "2D layer"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -1060,8 +1084,32 @@
 	- action_renew
 	- restart
 
+## story_000480
+* ask_how{"action":"remove", "mention":"it", "link":"from", "object_2":"glass picture frame"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_0004801
+* ask_how{"action":"remove", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
 ## story_0004811
 * ask_how{"action":"resize", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_0004812
+* ask_how{"action":"resize", "mention":"it", "link":"to fit", "object_2":"canvas"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -1094,6 +1142,14 @@
 
 ## story_0005011
 * ask_how{"action":"select", "mention":"it"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_0005012
+* ask_how{"action":"import","object_1":"photo","link":"into","object_2":"stack","link_2":"using", "mention":"it"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -1552,7 +1608,7 @@
 	- restart
 
 ## story_00105	
-* ask_how{"action":"create", "object_1":"digital collage", "object_2":"adobe stock"}
+* ask_how{"action":"create", "object_1":"digital collage", "link":"in", "object_2":"adobe stock"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -1561,6 +1617,23 @@
 
 ## story_001051	
 * ask_how{"action":"remove", "mention":"it", "link":"from", "object_2":"photo"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+## story_001055	
+* ask_how{"action":"remove", "mention":"it", "link":"from", "object_2":"background"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
+
+## story_001055	
+* ask_how{"action":"change", "mention":"it", "link":"with", "object_1":"thickness of line"}
 	- action_confirm
 	- action_search_how_answer
 	- action_show_process
@@ -1576,6 +1649,14 @@
 	- action_renew
 	- restart
 
+## story_0010521
+* ask_how{"link":"using", "action":"paint", "mention":"it", "object_1":"straight of line"}
+	- action_confirm
+	- action_search_how_answer
+	- action_show_process
+	- action_renew
+	- restart
+
 ## story_001053	
 * ask_how{"action":"choose", "mention":"it", "object_2":"eyedropper"}
 	- action_confirm
@@ -1584,7 +1665,7 @@
 	- action_renew
 	- restart
 
-## story_001052
+## story_0010522
 * ask_how{"action":"assign", "mention":"them","link":"to", "object_2":"image"}
 	- action_confirm
 	- action_search_how_answer

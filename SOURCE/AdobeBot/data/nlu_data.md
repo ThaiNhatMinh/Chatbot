@@ -58,6 +58,16 @@
 - whats [layer](object_1) [projection](object_2) painting ?
 - [layer](object_1) [projection](object_2) painting.
 
+- what is the [halftone pattern](object_1) ?
+- what is [halftone pattern](object_1) ?
+- please tell me about the [halftone pattern](object_1).
+- I dont know the [halftone pattern](object_1). Can you help me ?
+- I dont know what is the [halftone pattern](object_1). Can you help me ?
+- tell me about the [halftone pattern](object_1) .
+- whats the [halftone pattern](object_1) ?
+- whats [halftone pattern](object_1) ?
+- [halftone pattern](object_1).
+
 - what is the [channel](object_1) ?
 - what is [channel](object_1) ?
 - please tell me about the [channel](object_1).
@@ -369,6 +379,16 @@
 - whats the [profiles](object_1) ?
 - whats [profiles](object_1) ?
 - [profiles](object_1).
+
+- what is the [droplet](object_1) ?
+- what is [droplet](object_1) ?
+- please tell me about the [droplet](object_1).
+- I dont know the [droplet](object_1). Can you help me ?
+- I dont know what is the [droplet](object_1). Can you help me ?
+- tell me about the [droplet](object_1) .
+- whats the [droplet](object_1) ?
+- whats [droplet](object_1) ?
+- [droplet](object_1).
 
 - what is the [profiles](object_1) in [camera raw](object_2) ?
 - what is [profiles](object_1) in [camera raw](object_2) ?
@@ -1062,25 +1082,45 @@
 - show me the way to [erase](action) [image](object_1) with [it](mention) ?
 - is there any way to [erase](action) [image](object_1) with [it](mention) ?
 
-- how [remove](action) [reflection](object_1) from a [glass picture frame](object_2) ?
-- how to [remove](action) [reflection](object_1) from a [glass picture frame](object_2) ?
-- [remove](action) [reflection](object_1) from a [glass picture frame](object_2).
-- how do I [remove](action) [reflection](object_1) from a [glass picture frame](object_2) ?
-- i dont know how to [remove](action) [reflection](object_1) from a [glass picture frame](object_2) ?
-- i dont know how to [remove](action) [reflection](object_1) from a [glass picture frame](object_2). Can you help me ?
-- tell me how to [remove](action) [reflection](object_1) from a [glass picture frame](object_2) ?
-- show me the way to [remove](action) [reflection](object_1) from a [glass picture frame](object_2) ?
-- is there any way to [remove](action) [reflection](object_1) from a [glass picture frame](object_2) ?
+- how [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
+- how to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
+- [remove](action) [it](mention) [from](link) a [glass picture frame](object_2).
+- how do I [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
+- i dont know how to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
+- i dont know how to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2). Can you help me ?
+- tell me how to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
+- show me the way to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
+- is there any way to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
 
-- how [remove](action) [green screen](object_1) from [background](object_2) ?
-- how to [remove](action) [green screen](object_1) from [background](object_2) ?
-- [remove](action) [green screen](object_1) from [background](object_2).
-- how do I [remove](action) [green screen](object_1) from [background](object_2) ?
-- i dont know how to [remove](action) [green screen](object_1) from [background](object_2) ?
-- i dont know how to [remove](action) [green screen](object_1) from [background](object_2). Can you help me ?
-- tell me how to [remove](action) [green screen](object_1) from [background](object_2) ?
-- show me the way to [remove](action) [green screen](object_1) from [background](object_2) ?
-- is there any way to [remove](action) [green screen](object_1) from [background](object_2) ?
+- how [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
+- how to [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
+- [remove](action) [green screen](object_1) [from](link) [background](object_2).
+- how do I [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
+- i dont know how to [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
+- i dont know how to [remove](action) [green screen](object_1) [from](link) [background](object_2). Can you help me ?
+- tell me how to [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
+- show me the way to [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
+- is there any way to [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
+
+- how [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
+- how to [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
+- [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
+- how do I [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
+- i dont know how to [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
+- i dont know how to [change](action) [thickness of line](object_1) [with](link) [it](mention). Can you help me ?
+- tell me how to [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
+- show me the way to [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
+- is there any way to [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
+
+- how [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
+- how to [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
+- [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
+- how do I [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
+- i dont know how to [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
+- i dont know how to [paint](action) a [straight line](object_1) [using](link) [it](mention). Can you help me ?
+- tell me how to [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
+- show me the way to [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
+- is there any way to [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
 
 - How to [reset](action) Edit Settings Back to Default in adobe [camera raw](object_1)?
 - [camera raw](object_1) [reset](action) to original?
@@ -1160,6 +1200,16 @@
 - tell me how to [add](action) [conditional](object_1) [action](object_2) ?
 - show me the way to [add](action) [conditional](object_1) [action](object_2) ?
 - is there any way to [add](action) [conditional](object_1) [action](object_2) ?
+
+- how [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
+- how to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
+- [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
+- how do I [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
+- i dont know how to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
+- i dont know how to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention). Can you help me ?
+- tell me how to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
+- show me the way to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
+- is there any way to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
 
 - how [apply](action) saved [camera raw](object_1) settings ?
 - how to [apply](action) saved [camera raw](object_1) settings ?
@@ -1420,6 +1470,15 @@
 - tell me the way to [remove](action) [it](mention) [from](link) a [photo](object_2) ?
 - is there any way to [remove](action) [it](mention) [from](link) a [photo](object_2) ?
 
+- how to [remove](action) [it](mention) ?
+- [remove](action) [it](mention)
+- how do I [remove](action) [it](mention) ?
+- i dont know how to [remove](action) [it](mention) ?
+- tell me how to [remove](action) [it](mention) ?
+- show me the way to [remove](action) [it](mention) ?
+- tell me the way to [remove](action) [it](mention) ?
+- is there any way to [remove](action) [it](mention) ?
+
 - how to [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool ?
 - [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool
 - how do I [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool ?
@@ -1437,6 +1496,15 @@
 - tell me how to use [it](mention) to [create](action) a [portfolio](object_1) on the website ?
 - show me the way to use [it](mention) to [create](action) a [portfolio](object_1) on the website ?
 - is there any way to use [it](object_2) to [create](action) a [portfolio](object_1) on the website ?
+
+- how to [create](action) [it](mention) [in](link) a [shape](object_2) ?
+- [create](action) [it](mention) [in](link) a [shape](object_2)
+- how do I [create](action) [it](mention) [in](link) a [shape](object_2) ?
+- i dont know how to [create](action) [it](mention) [in](link) a [shape](object_2) ?
+- tell me how to [create](action) [it](mention) [in](link) a [shape](object_2) ?
+- show me the way to [create](action) [it](mention) [in](link) a [shape](object_2) ?
+- tell me the way to [create](action) [it](mention) [in](link) a [shape](object_2) ?
+- is there any way to [create](action) [it](mention) [in](link) a [shape](object_2) ?
 
 - how to [create](action) [digital collage](object_1) in [it](mention) ?
 - [create](action) [digital collage](object_1) in [it](mention)
@@ -1692,9 +1760,16 @@
 - show me the way to [edit](action) the [channel](object_1) ?
 - show me how to [edit](action) the [channel](object_1) ?
 - is there any way to [edit](action) the [channel](object_1) ?
+
 - how to [edit](action) [it](mention) ?
 - [edit](action) [it](mention)
 - how do I [edit](action) [it](mention) ?
+- i dont know how to [edit](action) [it](mention) ?
+- tell me the way to [edit](action) [it](mention) ?
+- tell me how to [edit](action) [it](mention) ?
+- show me the way to [edit](action) [it](mention) ?
+- show me how to [edit](action) [it](mention) ?
+- is there any way to [edit](action) [it](mention) ?
 
 - how to [edit](action) the [panorama](object_1) ?
 - [edit](action) the [panorama](object_1)
@@ -1761,6 +1836,16 @@
 - show me the way to [resize](action) the [image](object_1) ?
 - show me how to [resize](action) the [image](object_1) ?
 - is there any way to [resize](action) the [image](object_1) ?
+
+- how to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
+- [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
+- how do I [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
+- i dont know how to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
+- tell me the way to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
+- tell me how to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
+- show me the way to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
+- show me how to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
+- is there any way to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
 
 - how to [rotate](action) [image](object_1) ?
 - [rotate](action) [image](object_1)
@@ -2075,15 +2160,15 @@
 - [adjust](action) [color rendering](object_1) in [it](mention)
 - how do I [adjust](action) [color rendering](object_1) in [it](mention)
 
-- how to [create](action) [digital collage](object_1) in [adobe stock](object_2)
-- [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
-- how do I [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
-- i dont know how to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
-- tell me the way to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
-- tell me how to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
-- show me the way to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
-- show me how to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
-- is there any way to [adjust](action) [digital collage](object_1) in [adobe stock](object_2) ?
+- how to [create](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
+- [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
+- how do I [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
+- i dont know how to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
+- tell me the way to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
+- tell me how to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
+- show me the way to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
+- show me how to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
+- is there any way to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2) ?
 - how to [create](action) [it](mention) in [adobe stock](object_2)
 - [adjust](action) [it](mention) in [adobe stock](object_2)
 - how do I [adjust](action) [it](mention) in [adobe stock](object_2)
