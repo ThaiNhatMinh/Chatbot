@@ -8,6 +8,7 @@ from rasa_core.policies.memoization import MemoizationPolicy
 from owlready2 import *
 import numpy as np
 import matplotlib.pyplot as plt
+from handle_data import handleData
 
 logger = logging.getLogger(__name__)
 
@@ -24,7 +25,22 @@ class AdobeAPI(object):
                             PREFIX owl: <http://www.w3.org/2002/07/owl#>\
                             PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\
                             PREFIX ex: <http://fit.hcmus.edu.vn/ChatbotForTechniqueApp#>"
+        # self.reloadFile(self)
  
+    def reloadFile(self):
+        my_world = World()
+        my_world.get_ontology("ChatbotTechnique.owl").load()
+        self.graph = my_world.as_rdflib_graph()
+        self.namespace = "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\
+                            PREFIX owl: <http://www.w3.org/2002/07/owl#>\
+                            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\
+                            PREFIX ex: <http://fit.hcmus.edu.vn/ChatbotForTechniqueApp#>"
+
+    def importDataCommunity(self, data):
+        handle = handleData()
+        handle.getData(data)
+        handle.import_data()
+        # self.reloadFile()
 
     #def what(self,obj):
     #    query = self.namespace + "SELECT DISTINCT ?Question ?Response ?Video ?Image \
@@ -39,7 +55,6 @@ class AdobeAPI(object):
     #     GROUP BY ?Question ?Response ?Video ?Image"
         
     #    return query
-
     def what(self, obj, context):
         query = self.namespace + "SELECT DISTINCT ?Question ?Response ?Video ?Image \
         (count(?Object) as ?countObject) WHERE {"
@@ -362,3 +377,4 @@ class AdobeAPI(object):
 #print(len(a.search(list_arrapay)))
 #res = a.search_how(op,list_array,context)
 #print(res)
+        

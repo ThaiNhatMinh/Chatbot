@@ -1,0 +1,4 @@
+Story 
+what is the layer
+{'intent': {'name': 'what_object', 'confidence': 0.9667555689811707}, 'entities': [{'start': 12, 'end': 17, 'value': 'layer', 'entity': 'object_1', 'confidence': 0.9768646510163607, 'extractor': 'CRFEntityExtractor'}], 'intent_ranking': [{'name': 'what_object', 'confidence': 0.9667555689811707}, {'name': 'choose_process', 'confidence': 0.06633728742599487}, {'name': 'thankyou', 'confidence': 0.0}, {'name': 'ask_how', 'confidence': 0.0}, {'name': 'greet', 'confidence': 0.0}, {'name': 'ask_name', 'confidence': 0.0}, {'name': 'goodbye', 'confidence': 0.0}], 'text': 'what is the layer', 'model': 'current', 'project': 'default'}
+

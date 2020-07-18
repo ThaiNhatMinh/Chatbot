@@ -1,2 +1,2 @@
-model_checkpoint_path: "E:\\RASA\\Xay_dung_chatbot_ho_tro_tra_loi_cau_hoi_what_how_cho_cac_phan_mem_ki_thuat\\SOURCE\\AdobeBot\\models/nlu/default\\current\\component_5_EmbeddingIntentClassifier.ckpt"
-all_model_checkpoint_paths: "E:\\RASA\\Xay_dung_chatbot_ho_tro_tra_loi_cau_hoi_what_how_cho_cac_phan_mem_ki_thuat\\SOURCE\\AdobeBot\\models/nlu/default\\current\\component_5_EmbeddingIntentClassifier.ckpt"
+model_checkpoint_path: "E:\\DownloadChrome\\chatbot_rasa_UI\\git\\Chatbot\\SOURCE\\AdobeBot\\models/nlu/default\\current\\component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "E:\\DownloadChrome\\chatbot_rasa_UI\\git\\Chatbot\\SOURCE\\AdobeBot\\models/nlu/default\\current\\component_5_EmbeddingIntentClassifier.ckpt"

@@ -1,0 +1,15 @@
+Rasa process starting
+Restoring parameters from models/nlu/default/current\component_5_EmbeddingIntentClassifier.ckpt
+Scheduler started
+Rasa process starting
+Restoring parameters from models/nlu/default/current\component_5_EmbeddingIntentClassifier.ckpt
+Scheduler started
+Rasa process starting
+Restoring parameters from models/nlu/default/current\component_5_EmbeddingIntentClassifier.ckpt
+Scheduler started
+Rasa process starting
+Restoring parameters from models/nlu/default/current\component_5_EmbeddingIntentClassifier.ckpt
+Scheduler started
+Rasa Core server is up and running on http://localhost:5005
+Action 'action_renew' set a slot type 'confirm' that it never set during the training. This can throw of the prediction. Make sure to include training examples in your stories for the different types of slots this action can return. Remember: you need to set the slots manually in the stories by adding '- slot{"confirm": null}' after the action.
+Action 'action_renew' set a slot type 'object_1' that it never set during the training. This can throw of the prediction. Make sure to include training examples in your stories for the different types of slots this action can return. Remember: you need to set the slots manually in the stories by adding '- slot{"object_1": null}' after the action.

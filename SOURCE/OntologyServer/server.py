@@ -41,6 +41,17 @@ def ask_steps():
     res = search_steps_process(data['process'])
     return jsonify(resp = res)
 
+@app.route("/reload", methods=["GET"])
+def onReload():
+    res = BOT.reloadFile()
+    return jsonify(resp = "reloaded")
+
+@app.route("/import-data", methods=["POST"])
+def importData():
+    data = request.get_json()
+    res = BOT.importDataCommunity(data)
+    return jsonify(resp = "imported")
+
 if __name__ == "__main__":
     #app.run( host='172.29.64.182', port=274, debug = True, ssl_context="adhoc")
 	app.run(debug = True)

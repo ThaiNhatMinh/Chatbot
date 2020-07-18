@@ -56,6 +56,14 @@ slots:
     auto_fill: true
     initial_value: null
     type: rasa_core.slots.TextSlot
+  link:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  link_2:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
   list_process:
     auto_fill: true
     initial_value: null
@@ -64,6 +72,10 @@ slots:
     auto_fill: true
     initial_value: null
     type: rasa_core.slots.ListSlot
+  mention:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
   object_1:
     auto_fill: true
     initial_value: null

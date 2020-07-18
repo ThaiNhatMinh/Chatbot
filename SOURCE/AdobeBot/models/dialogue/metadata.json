@@ -2,12 +2,15 @@
   "action_fingerprints": {
     "action_listen": {
       "slots": [
-        "equipment",
+        "link",
         "object_1",
+        "equipment",
         "object_3",
+        "object_2",
+        "mention",
         "version",
         "action",
-        "object_2",
+        "link_2",
         "OS"
       ]
     },
@@ -17,10 +20,10 @@
     "action_renew": {
       "slots": []
     },
-    "utter_greet": {
+    "utter_ask_name": {
       "slots": []
     },
-    "utter_ask_name": {
+    "utter_greet": {
       "slots": []
     },
     "utter_thank_you": {
@@ -44,8 +47,8 @@
     "rasa_core.policies.fallback.FallbackPolicy",
     "rasa_core.policies.form_policy.FormPolicy"
   ],
-  "trained_at": "20200428-224228",
+  "trained_at": "20200718-212921",
   "rasa_core": "0.14.5",
-  "tensorflow": "1.13.2",
+  "tensorflow": "1.12.3",
   "sklearn": "0.20.4"
 }
