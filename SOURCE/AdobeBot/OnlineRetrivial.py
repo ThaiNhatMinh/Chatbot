@@ -4,6 +4,7 @@ import logging
 import SimilarityModel
 
 KEY = '83f78280-c5a1-11ea-a330-81d321b1e5f9'
+YOUTUBE_URL = "https://www.youtube.com/"
 
 def get_document(url):
     headers = {'Content-Type': 'application/json'}
@@ -55,6 +56,11 @@ def search_for(query):
     documents = get_document(url)
     if documents is None:
         return None
+    if url.startswith(YOUTUBE_URL):
+        result = [{'video': [
+            {'res_video': 'I have found a video about that may help you:'}, {'link': url}]}]
+        return [json.dumps(result), json.dumps(result)]
+
 
     # Check similarity between text and content of the article.
     lsi = SimilarityModel.LSIModel(documents, num_topics=len(documents))
