@@ -19,6 +19,7 @@ ps = PorterStemmer()
 lemmatizer = WordNetLemmatizer() 
 
 story = []
+key = '00ee0320-c84c-11ea-9fb3-3d967eb895f9'
 statement = []
 
 def getRandomFromFile(filename):
@@ -105,7 +106,31 @@ class ActionSearchEntity(Action):
 				dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
 			else:
 				dispatcher.utter_message(document[0])
+			query2 = tracker.latest_message.get('text')
+			headers = { 'Content-Type': 'application/json' }
+			body = {"sentence" : query2}
+			response = requests.post('https://sentence-analysis.herokuapp.com/analysis-sentence', headers=headers, data=json.dumps(body))
+			data = response.json()
+			
+			title = data["resp"]["title"]
+			
+			if data["resp"]["type"] == "WHAT_QUESTION" or data["resp"]["type"] == "HOW_QUESTION" :
+				
+				query_search = title.replace('_', ' ')
+				query_search += ' adobe photoshop'
+			
+			else:
+				dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
+				return []
+			document = OnlineRetrivial.search_for(query_search)
+			if not document:
+				dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
+				return []
+			else:
+				res.append({"respone" : document})
+				dispatcher.utter_message(format(res))
 			return []
+			
 			
 		else:
 			data = {'entity': list_entity, 'context': context}
@@ -113,7 +138,8 @@ class ActionSearchEntity(Action):
 			list_content = call_API('ask_what', data)
 			if format(list_content) == "[['Type', []]]" :
 				#03062020
-				query += ' Adobe Photoshop'
+				query += ' adobe photoshop'
+				print(query)
 				if version is not None:
 					query += ' ' + (version.upper())
 				doc = OnlineRetrivial.search_for(query)
@@ -274,7 +300,13 @@ class ActionSearchHowAnswer(Action):
 			context.append(equipment)
 
 		action = tracker.get_slot("action")
-
+		query = ''
+		list_process = [] # array process
+		steps = [] # array steps
+		respone = ''
+		link_video = ''
+		image = ''
+		res = []
 		if action is not None:
 			query = 'How to '+ action
 			#action = ps.stem(action)
@@ -283,6 +315,32 @@ class ActionSearchHowAnswer(Action):
 			for op in action:
 				if op != 'And':
 					operator.append(op)
+		else:
+			query2 = tracker.latest_message.get('text')
+			headers = { 'Content-Type': 'application/json' }
+			body = {"sentence" : query2}
+			response = requests.post('https://sentence-analysis.herokuapp.com/analysis-sentence', headers=headers, data=json.dumps(body))
+			data = response.json()
+			
+			title = data["resp"]["title"]
+			
+			if data["resp"]["type"] == "WHAT_QUESTION" or data["resp"]["type"] == "HOW_QUESTION" :
+				
+				query_search = title.replace('_', ' ')
+				query_search += ' adobe photoshop'
+				print(query_search)
+			
+			else:
+				dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
+				return []
+			
+			document = OnlineRetrivial.search_for(query_search)
+			if not document:
+				dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
+				return []
+			else:
+				res.append({"respone" : document})
+				dispatcher.utter_message(format(res))
 
 		obj_1 = next(tracker.get_latest_entity_values("object_1"), None)
 		obj_2 = next(tracker.get_latest_entity_values("object_2"), None)
@@ -361,24 +419,14 @@ class ActionSearchHowAnswer(Action):
 				obj_3 = obj_3.split()
 				for item in obj_3:
 					list_entity.append(item)
-		
-		list_process = [] # array process
-		steps = [] # array steps
-		respone = ''
-		link_video = ''
-		image = ''
-		res = []
+
+
 		data = {'operator': operator,'entity': list_entity, 'context': context}
 		#print(operator)
 		#print(list_entity)
 		if operator != [] and list_entity != []:
 			list_content = call_API('ask_how', data)
 			
-			# if not list_content:
-			# 	context = []
-			# 	list_content.clear()
-			# 	data = {'operator': operator,'entity': list_entity, 'context': context}
-			# 	list_content = call_API('ask_how', data)
 			if list_content:
 				for item in list_content:		
 					if item[0] == 'Process':
@@ -411,7 +459,7 @@ class ActionSearchHowAnswer(Action):
 
 			if not res:
 				#05062020
-				query += ' Adobe Photoshop'
+				query += ' adobe photoshop'
 				if version is not None:
 					query += ' ' + version.upper()
 				doc = OnlineRetrivial.search_for(query)
@@ -429,8 +477,8 @@ class ActionSearchHowAnswer(Action):
 				time_2 = time.time()
 				print(time_2 - time_1)
 				return [SlotSet("list_process", list_process)]
-		else:
-			dispatcher.utter_message("[{'respone': 'I don't have knowledge about this, you can check on our forum: https://forums.adobe.com/community/photoshop'}]")
+		
+			
 			time_2 = time.time()
 			print(time_2 - time_1)
 			return []
