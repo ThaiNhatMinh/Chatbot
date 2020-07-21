@@ -262,6 +262,8 @@ class AdobeAPI(object):
                     content.append(("Video",str(result.Video)))
                 if str(result.Response) != 'None':    
                     content.append(("Respone",str(result.Response)))
+                if str(result.Image) != 'None':
+                    content.append(("Image", str(result.Image)))
         
         if len(process) == 1:
             process[0] = process[0].replace(' ', '_')

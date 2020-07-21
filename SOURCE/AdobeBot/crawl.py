@@ -82,6 +82,7 @@ class crawlPtsComunity:
                anwserTxt = p.getText().replace("\xa0",". ")
                if "Hi" in anwserTxt: continue
                dataAnwser["answer"] += anwserTxt
+         dataAnwser["answer"] = dataAnwser["answer"].replace('"','')
          questionTxt = question.getText()
          questionTxt = questionTxt.replace("\n","")
          questionTxt = questionTxt.replace("\r","")

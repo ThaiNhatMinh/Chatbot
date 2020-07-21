@@ -104,13 +104,13 @@ export default {
           text = text.replace(/n"t /g, 'n not ')
           text = JSON.parse(text.replace(/"ve /g, ' have'))
           text.forEach(item => {
-            if (item.hasOwnProperty('confirm')) {
-              var message1 = {
-                owner: 'bot',
-                message: item.confirm
-              }
-              this.botResponse.push(message1)
-            }
+            // if (item.hasOwnProperty('confirm')) {
+            //   var message1 = {
+            //     owner: 'bot',
+            //     message: item.confirm
+            //   }
+            //   this.botResponse.push(message1)
+            // }
             if (item.hasOwnProperty('respone')) {
               var message1 = {
                 owner: 'bot',
