@@ -17,7 +17,7 @@
                 <v-btn small round color="success" dark @click="getStep(message.message)">{{message.message}}</v-btn>
               </div>
               <div class="text-xs-left" v-else>
-                 <p class="chat">{{message.message}}</p>
+                 <p class="chat" v-html="message.message"></p>
               </div>
           </v-flex>
         </v-layout>

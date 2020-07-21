@@ -2,8 +2,10 @@ import requests
 import json
 import logging
 import SimilarityModel
+import CrawlAdobeHelpx
 
-KEY = '83f78280-c5a1-11ea-a330-81d321b1e5f9'
+KEY = '00ee0320-c84c-11ea-9fb3-3d967eb895f9'
+ADOBEHELPX_URL = 'https://helpx.adobe.com'
 YOUTUBE_URL = "https://www.youtube.com/"
 
 def get_document(url):
@@ -53,14 +55,23 @@ def search_for(query):
         url = data["organic"][0]["videos"][0]["url"]
     # Get content of the article:
     logging.info("URL: " + url)
-    documents = get_document(url)
-    if documents is None:
-        return None
     if url.startswith(YOUTUBE_URL):
         result = [{'video': [
             {'res_video': 'I have found a video about that may help you:'}, {'link': url}]}]
         return [json.dumps(result), json.dumps(result)]
 
+    documents = []
+    if url.startswith(ADOBEHELPX_URL):
+        contents = CrawlAdobeHelpx.get(url)
+        if contents is None:
+            return None
+        for content in contents:
+            print(content.title)
+            documents.append(content.title)
+    else:
+        documents = get_document(url)
+        if documents is None:
+            return None
 
     # Check similarity between text and content of the article.
     lsi = SimilarityModel.LSIModel(documents, num_topics=len(documents))
@@ -68,14 +79,25 @@ def search_for(query):
     logging.info("Similarity information:")
     for i, sim in lsi_sim:
         logging.info("({}, {})".format(i, sim))
-    # return documents[lsi_sim[0][0]]
 
+    result = documents[lsi_sim[0][0]]
+
+    if url.startswith(ADOBEHELPX_URL):
+        result_for_web = []
+        for content in contents[lsi_sim[0][0]].contents:
+            if content[0] == 'text':
+                result_for_web.append({'respone': content[1]})
+            elif content[0] == 'image':
+                result_for_web.append({'image': content[1]})
+            else:
+                result_for_web.append({'respone': content[1]})
+    else:
+        result_for_web = [{'respone': documents[lsi_sim[0][0]]}]
     result_for_ontology = [{'question': query,
                             'answer':
                             {
-                                'answer': documents[lsi_sim[0][0]],
+                                'answer': result,
                                 'image': []
                             }}
                            ]
-    result_for_web = [{'respone': documents[lsi_sim[0][0]]}]
     return [json.dumps(result_for_web), json.dumps(result_for_ontology)]
