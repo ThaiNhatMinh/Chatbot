@@ -127,8 +127,7 @@ class ActionSearchEntity(Action):
 				dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
 				return []
 			else:
-				res.append({"respone" : document})
-				dispatcher.utter_message(format(res))
+				dispatcher.utter_message(document[0])
 			return []
 			
 			
@@ -339,8 +338,7 @@ class ActionSearchHowAnswer(Action):
 				dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
 				return []
 			else:
-				res.append({"respone" : document})
-				dispatcher.utter_message(format(res))
+				dispatcher.utter_message(document[0])
 
 		obj_1 = next(tracker.get_latest_entity_values("object_1"), None)
 		obj_2 = next(tracker.get_latest_entity_values("object_2"), None)
@@ -464,7 +462,6 @@ class ActionSearchHowAnswer(Action):
 					query += ' ' + version.upper()
 				doc = OnlineRetrivial.search_for(query)
 				if doc is not None:
-					logging.info(doc)
 					dispatcher.utter_message(doc[0])
 					# dispatcher.utter_message(format(res))
 				else:

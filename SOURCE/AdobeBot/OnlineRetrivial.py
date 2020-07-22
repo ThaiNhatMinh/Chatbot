@@ -25,6 +25,50 @@ def get_document(url):
             .format(url, resp.status_code, resp.content))
         return None
 
+def get_urls(query):
+    headers = { 'apikey': KEY }
+    params = (("q",query),)
+    logging.info(query)
+    response = requests.get('https://app.zenserp.com/api/v2/search', headers=headers, params=params)
+    if response.status_code != 200:
+        logging.info("Failed to search online: {}".format(response.status_code))
+        logging.info(response.content)
+        return None
+    data = response.json()
+    urls = []
+    # Get link of the article:
+    # ...
+    if not (data.get('featured_snippet') is None):
+        url = data["featured_snippet"]["url"]
+        urls.append(url)
+        #description = data["featured_snippet"]["description"]
+    elif not (data["organic"][0].get("url") is None):
+        url = data["organic"][0]["url"]
+        urls.append(url)
+    elif data["organic"][0].get('video') is not None:
+        url = data["organic"][0]["videos"][0]["url"]
+        urls.append(url)
+    else:
+        for res in data["organic"]:
+            if res.get('url') is not None:
+                url = res['url']
+                urls.append(url)
+    return urls
+
+def endcode(contents):
+    result = []
+    for content in contents:
+        if content[0] == 'text':
+            result.append({'respone': content[1]})
+        elif content[0] == 'video':
+            result.append({'video': [
+                {'res_video': 'I have found a video about that may help you:'}, {'link': content[1]}]})
+        elif content[0] == 'image':
+            result.append({'image': content[1]})
+        else:
+            result.append({'respone': content[1]})
+    return result
+
 def search_for(query):
     ''' Search over the internet 'text'.
         Get link of the article.
@@ -35,78 +79,63 @@ def search_for(query):
     '''
     # Search over the internet 'text':
     # ...
-    headers = { 'apikey': KEY }
-    params = (("q",query),)
-    logging.info(query)
-    response = requests.get('https://app.zenserp.com/api/v2/search', headers=headers, params=params)
-    if response.status_code != 200:
-        logging.info("Failed to search online: {}".format(response.status_code))
-        logging.info(response.content)
+    urls = get_urls(query)
+    if len(urls) == 0:
+        logging.error("Can not search over internet")
         return None
-    data = response.json()
-    # Get link of the article:
-    # ...
-    if not (data.get('featured_snippet') is None):
-        url = data["featured_snippet"]["url"]
-        #description = data["featured_snippet"]["description"]
-    elif not (data["organic"][0].get("url") is None):
-        url = data["organic"][0]["url"]
-    elif data["organic"][0].get('video') is not None:
-        url = data["organic"][0]["videos"][0]["url"]
-    else:
-        for res in data["organic"]:
-            if res.get('url') is not None:
-                return res['url']
-        else:
-            logging.error("Can not find any URL")
-            return None
-    # Get content of the article:
-    logging.info("URL: " + url)
-    if url.startswith(YOUTUBE_URL):
-        result = [{'video': [
-            {'res_video': 'I have found a video about that may help you:'}, {'link': url}]}]
-        return [json.dumps(result), json.dumps(result)]
 
     query = query.lower()
     query = query.split('adobe photoshop')[0] # Remove 'adobe photoshop', it is not helpful for similar checking
-    documents = []
-    if url.startswith(ADOBEHELPX_URL) and not query.startswith("what is"):
-        contents = CrawlAdobeHelpx.get(url)
-        if contents is None:
-            return None
-        for content in contents:
-            print(content.title)
-            documents.append(content.title)
-    else:
-        documents = get_document(url)
-        if documents is None:
-            return None
 
-    # Check similarity between text and content of the article.
-    lsi = SimilarityModel.LSIModel(documents, num_topics=len(documents))
-    lsi_sim = lsi.similarity(query)
-    logging.info("Similarity information:")
-    for i, sim in lsi_sim:
-        logging.info("({}, {})".format(i, sim))
+    for url in urls:
+        # Get content of the article:
+        logging.info("URL: " + url)
+        if url.startswith(YOUTUBE_URL):
+            result = [{'video': [
+                {'res_video': 'I have found a video about that may help you:'}, {'link': url}]}]
+            return [json.dumps(result), json.dumps(result)]
 
-    result = documents[lsi_sim[0][0]]
+        documents = []
+        if url.startswith(ADOBEHELPX_URL) and not query.startswith("what is"):
+            contents = CrawlAdobeHelpx.get(url)
+            if contents is None:
+                continue
+            num_video = 0
+            video_content = None
+            for content in contents:
+                print(content.title)
+                documents.append(content.title)
+                for c in content.contents:
+                    if type(c) is tuple and c[0] == 'video':
+                        num_video = num_video + 1
+                        video_content = content
+            # If there is one one video, return directly
+            if num_video == 1:
+                result = endcode(video_content.contents)
+                return [json.dumps(result), json.dumps(result)]
+        else:
+            documents = get_document(url)
+            if documents is None or len(documents) == 0:
+                continue
 
-    if url.startswith(ADOBEHELPX_URL) and not query.startswith("what is"):
-        result_for_web = []
-        for content in contents[lsi_sim[0][0]].contents:
-            if content[0] == 'text':
-                result_for_web.append({'respone': content[1]})
-            elif content[0] == 'image':
-                result_for_web.append({'image': content[1]})
-            else:
-                result_for_web.append({'respone': content[1]})
-    else:
-        result_for_web = [{'respone': documents[lsi_sim[0][0]]}]
-    result_for_ontology = [{'question': query,
-                            'answer':
-                            {
-                                'answer': result,
-                                'image': []
-                            }}
-                           ]
-    return [json.dumps(result_for_web), json.dumps(result_for_ontology)]
+        # Check similarity between text and content of the article.
+        lsi = SimilarityModel.LSIModel(documents, num_topics=len(documents))
+        lsi_sim = lsi.similarity(query)
+        logging.info("Similarity information:")
+        for i, sim in lsi_sim:
+            logging.info("({}, {})".format(i, sim))
+
+        result = documents[lsi_sim[0][0]]
+
+        if url.startswith(ADOBEHELPX_URL) and not query.startswith("what is"):
+            result_for_web = endcode(contents[lsi_sim[0][0]].contents)
+        else:
+            result_for_web = [{'respone': documents[lsi_sim[0][0]]}]
+        result_for_ontology = [{'question': query,
+                                'answer':
+                                {
+                                    'answer': result,
+                                    'image': []
+                                }}
+                            ]
+        return [json.dumps(result_for_web), json.dumps(result_for_ontology)]

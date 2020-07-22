@@ -150,6 +150,6 @@ def to_string(content: HelpXContent) -> str:
 
     return "".join(content.contents)
 
-for u in url:
-    get(u)
+# for u in url:
+#     get(u)
 # get(url[1])
