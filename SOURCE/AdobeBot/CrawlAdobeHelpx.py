@@ -36,7 +36,10 @@ url = ['https://helpx.adobe.com/photoshop-elements/using/creating-layers.html',
 'https://helpx.adobe.com/photoshop/using/choosing-colors.html',
 'https://helpx.adobe.com/photoshop/using/color-settings.html',
 'https://helpx.adobe.com/photoshop/how-to/camera-raw.html',
-'https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html']
+'https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html',
+'https://helpx.adobe.com/photoshop/using/create-smart-objects.html',
+'https://helpx.adobe.com/photoshop/key-concepts/composite.html',
+'https://helpx.adobe.com/photoshop/how-to/compositing.html']
 
 WEB_TUTORIAL = 'tutorial-content'
 WEB_ARTICLE = 'main-content'
@@ -67,7 +70,7 @@ def get(url):
                 contents.append(current)
             logger.info(u"Add header: {}\n".format(header))
             current = HelpXContent(header)
-        elif child['class'][0] == 'image':
+        elif child['class'][0] == 'image' and current is not None:
             current.add_image('https://helpx.adobe.com' + child.div.img['src'])
             logger.info("Add image: " + 'https://helpx.adobe.com' + child.div.img['src'] + '\n')
         elif child['class'][0] == 'text':
@@ -132,5 +135,4 @@ def to_string(content: HelpXContent) -> str:
 
     return "".join(content.contents)
 
-# for u in url:
-#     get(u)
+# get(url[-1])

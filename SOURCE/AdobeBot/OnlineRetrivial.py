@@ -4,7 +4,7 @@ import logging
 import SimilarityModel
 import CrawlAdobeHelpx
 
-KEY = '00ee0320-c84c-11ea-9fb3-3d967eb895f9'
+KEY = 'd6c17fb0-c9e6-11ea-a830-d3bbb7c9f2f6'
 ADOBEHELPX_URL = 'https://helpx.adobe.com'
 YOUTUBE_URL = "https://www.youtube.com/"
 
@@ -51,8 +51,15 @@ def search_for(query):
         #description = data["featured_snippet"]["description"]
     elif not (data["organic"][0].get("url") is None):
         url = data["organic"][0]["url"]
-    else:
+    elif data["organic"][0].get('video') is not None:
         url = data["organic"][0]["videos"][0]["url"]
+    else:
+        for res in data["organic"]:
+            if res.get('url') is not None:
+                return res['url']
+        else:
+            logging.error("Can not find any URL")
+            return None
     # Get content of the article:
     logging.info("URL: " + url)
     if url.startswith(YOUTUBE_URL):
@@ -60,8 +67,10 @@ def search_for(query):
             {'res_video': 'I have found a video about that may help you:'}, {'link': url}]}]
         return [json.dumps(result), json.dumps(result)]
 
+    query = query.lower()
+    query = query.split('adobe photoshop')[0] # Remove 'adobe photoshop', it is not helpful for similar checking
     documents = []
-    if url.startswith(ADOBEHELPX_URL):
+    if url.startswith(ADOBEHELPX_URL) and not query.startswith("what is"):
         contents = CrawlAdobeHelpx.get(url)
         if contents is None:
             return None
@@ -82,7 +91,7 @@ def search_for(query):
 
     result = documents[lsi_sim[0][0]]
 
-    if url.startswith(ADOBEHELPX_URL):
+    if url.startswith(ADOBEHELPX_URL) and not query.startswith("what is"):
         result_for_web = []
         for content in contents[lsi_sim[0][0]].contents:
             if content[0] == 'text':
