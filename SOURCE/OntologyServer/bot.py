@@ -36,10 +36,10 @@ class AdobeAPI(object):
                             PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\
                             PREFIX ex: <http://fit.hcmus.edu.vn/ChatbotForTechniqueApp#>"
 
-    def importDataCommunity(self, data):
+    def importDataCommunity(self, data, typeData):
         handle = handleData()
-        handle.getData(data)
-        handle.import_data()
+        handle.getData(data, typeData)
+        handle.import_data(typeData)
         # self.reloadFile()
 
     #def what(self,obj):

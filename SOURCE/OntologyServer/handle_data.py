@@ -60,7 +60,7 @@ class handleData:
                 objectOwl.append(obj)
         return objectOwl
 
-    def import_data(self):
+    def import_data(self, typeData):
         ET.register_namespace('','http://fit.hcmus.edu.vn/ChatbotForTechniqueApp#')
         ET.register_namespace('base','http://fit.hcmus.edu.vn/ChatbotForTechniqueApp')
         ET.register_namespace('owl','http://www.w3.org/2002/07/owl#')
@@ -79,7 +79,9 @@ class handleData:
         actionOwl = self.getAllAction()
 
         #xml parser
-        root = ET.parse(str(path) + '/handledata/data/data.xml').getroot()
+        dataName = '/data.xml'
+        if typeData == "online": dataName = '/dataOnline.xml'
+        root = ET.parse(str(path) + '/handledata/data' + dataName).getroot()
         treeOwl = ET.parse(str(path) + '/ChatbotTechnique.owl')
         rootOwl = treeOwl.getroot()
 
@@ -230,7 +232,7 @@ class handleData:
             #     rootOwl.append(step)
             
         treeOwl.write('ChatbotTechnique.owl')
-    def getData(self, data):
+    def getData(self, data, typeData):
         # Xử lý bỏ vào file xml
         root = ET.Element('data')
         for question in data:
@@ -314,7 +316,9 @@ class handleData:
             root.append(ontology)
 
         tree = ET.ElementTree(root)
-        tree.write(str(path) + "/handledata/data" + '/data.xml', encoding="utf-8")
+        dataName = '/data.xml'
+        if typeData == "online": dataName = '/dataOnline.xml'
+        tree.write(str(path) + "/handledata/data" + dataName, encoding="utf-8")
 
 def call_API(_type, content):
 	headers = {'Content-Type': 'application/json'}

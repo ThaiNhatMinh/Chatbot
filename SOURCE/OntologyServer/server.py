@@ -49,7 +49,13 @@ def onReload():
 @app.route("/import-data", methods=["POST"])
 def importData():
     data = request.get_json()
-    res = BOT.importDataCommunity(data)
+    res = BOT.importDataCommunity(data, "not_online")
+    return jsonify(resp = "imported")
+
+@app.route("/import-online", methods=["POST"])
+def importData():
+    data = request.get_json()
+    res = BOT.importDataCommunity(data, "online")
     return jsonify(resp = "imported")
 
 if __name__ == "__main__":
