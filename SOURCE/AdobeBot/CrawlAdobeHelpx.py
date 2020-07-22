@@ -12,6 +12,7 @@ logger = logging.getLogger("CrawAdobeHelpx")
 logger.setLevel(logging.DEBUG)
 parser = HTMLParser()
 def normalize_string(string):
+    string = str(string)
     new_str = string.strip()
     new_str = new_str.replace('\n', ' ')
     new_str = unescape(new_str)
@@ -77,21 +78,35 @@ def get(url):
             text = ''
             # logger.info("p: {}".format(''.join(child.div.contents)))
             # continue
-            for p in child.div.contents:
-                if type(p) is bs4.element.NavigableString:
-                    continue
-                if type(p.contents[0]) is bs4.element.Tag:
-                    text = text + str(p.contents[0])
-                elif p.name == 'p':
-                    text = text + normalize_string(p.contents[0])
-                elif p.name == 'ul' or p.name == 'ol':
-                    for li in p.contents:
+            text_element = child.findAll('div', attrs={'class': 'text'}, limit=1)[0]
+            for element in text_element.contents:
+                if element.name == 'p':
+                    text = text + normalize_string(element.contents[0])
+                elif element.name == 'ul' or element.name == 'ol':
+                    for li in element.contents:
                         if type(li) is bs4.element.NavigableString:
                             continue
                         if len(li.contents) == 1:
                             text = text + normalize_string(li.contents[0])
                         elif len(li.contents) > 1:
                             text = text + " ".join(str(c) for c in li.contents)
+                else:
+                    logging.error("Unknow tag: {}, content: '{}'".format(element.name, element))
+            # for p in child.div.contents:
+            #     if type(p) is bs4.element.NavigableString:
+            #         continue
+            #     if type(p.contents[0]) is bs4.element.Tag:
+            #         text = text + str(p.contents[0])
+            #     elif p.name == 'p':
+            #         text = text + normalize_string(p.contents[0])
+            #     elif p.name == 'ul' or p.name == 'ol':
+            #         for li in p.contents:
+            #             if type(li) is bs4.element.NavigableString:
+            #                 continue
+            #             if len(li.contents) == 1:
+            #                 text = text + normalize_string(li.contents[0])
+            #             elif len(li.contents) > 1:
+            #                 text = text + " ".join(str(c) for c in li.contents)
             text = normalize_string(text)
             logger.info("Add text: {}\n".format(text))
             current.add(text)
@@ -135,4 +150,6 @@ def to_string(content: HelpXContent) -> str:
 
     return "".join(content.contents)
 
-# get(url[-1])
+for u in url:
+    get(u)
+# get(url[1])

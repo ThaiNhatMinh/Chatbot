@@ -4,7 +4,7 @@ import logging
 import SimilarityModel
 import CrawlAdobeHelpx
 
-KEY = 'd6c17fb0-c9e6-11ea-a830-d3bbb7c9f2f6'
+KEY = 'f9ee0ed0-cbd4-11ea-9c95-555571ca657c'
 ADOBEHELPX_URL = 'https://helpx.adobe.com'
 YOUTUBE_URL = "https://www.youtube.com/"
 
