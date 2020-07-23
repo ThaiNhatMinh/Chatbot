@@ -32,7 +32,7 @@ class crawlPtsComunity:
       page = browser.page_source
 
       browser.quit()
-      self.soup = BeautifulSoup(page, 'html.parser')
+      self.soup = BeautifulSoup(page, 'html.parser').encode("utf-8")
    
    def get_link_to_array(self):
       previewCard = self.soup.find_all("div", {"class":"preview-card__translate-container"})
