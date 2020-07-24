@@ -2589,7 +2589,7 @@
 	- action_renew
 
 ## story_00308
-* what_object{"object_1":"New CS3 Web Premium installation same License Problem "No connection"}
+* what_object{"object_1":"New CS3 Web Premium installation same License Problem No connection"}
 	- slot{"object_1":"New CS3 Web Premium installation same License Problem "No connection"}
 	- action_confirm
 	- action_search_entity
