@@ -53,7 +53,7 @@ def importData():
     return jsonify(resp = "imported")
 
 @app.route("/import-online", methods=["POST"])
-def importData():
+def importDataOnline():
     data = request.get_json()
     res = BOT.importDataCommunity(data, "online")
     return jsonify(resp = "imported")
