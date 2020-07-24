@@ -249,11 +249,16 @@ class handleData:
             objectProperty.append(hasBrand)
             hasContext = ET.Element('hasContext')
             objectProperty.append(hasContext)
-
+            if question["type"] == "HOW_QUESTION":
+                hasProcess = ET.Element('hasProcess')
+                hasProcess.text = seperate.getTitle()
+                objectProperty.append(hasProcess)
             objectArr = seperate["object"]
             index = 0
+            checkInd = 3
+            if question["type"] == "WHAT_QUESTION":checkInd = 2
             for obj in objectArr:
-                if index < 3:
+                if index < checkInd:
                     if index == 0 and len(obj.split()) > 1:
                         hasObject = ET.Element('hasObject')
                         obj = obj.split()

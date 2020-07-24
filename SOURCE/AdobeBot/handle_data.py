@@ -31,9 +31,8 @@ class handleData:
                     "operation":seperate["action"],
                 }
                 howQues.append(data)
-        print(whatQues)
-        print(howQues)
-        with open(str(path) + "/data/nlu_data.md", 'r') as f:
+ 
+        with open(str(path) + "/data/nlu_data.md", 'r', encoding="utf-8") as f:
             contents = f.readlines()
 
         i = 0
@@ -55,7 +54,7 @@ class handleData:
             howStr = self.generateHow(howQues)
             contents[howindex] += howStr
 
-        with open(str(path) + "/data/nlu_data.md", 'w') as file:
+        with open(str(path) + "/data/nlu_data.md", 'w', encoding="utf-8") as file:
             file.writelines(contents)        
         
 
@@ -78,14 +77,14 @@ class handleData:
             userQues = dt["question"]
             usIndx = 1
             for obj in dt["object"]:
-                if usIndx < 4:
+                if usIndx < 3:
                     userQues = userQues.replace(obj, "[" + obj + "]" + "(object_" + str(usIndx) + ")")
                     usIndx+=1
             resp += "- " + userQues
             objStr = ""
             objIndex = 1
             for obj in dt["object"]:
-                if objIndex < 4:
+                if objIndex < 3:
                     objStr += "[" + obj + "]" + "(object_" + str(objIndex) + ") "
                     objIndex+=1
             for form in formWhat:
@@ -168,7 +167,7 @@ class handleData:
             ind = 1
             objStr = ''
             for obj in what["object"]:
-                if ind < 4:
+                if ind < 3:
                     objStr += '"object_' + str(ind) + '":"' + obj + '",'
                     ind+=1
             with open(str(path) + "/data/stories.md", 'a') as file:
