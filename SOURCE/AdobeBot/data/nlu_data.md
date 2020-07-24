@@ -28,6 +28,2844 @@
 - goodbye
 
 ## intent:what_object
+- Photoshop brush mode shortcuts not responding properly
+- what is the  ?
+- what is  ?
+- please tell me about the .
+- I dont know the . Can you help me ?
+- I dont know what is the . Can you help me ?
+- tell me about the .
+- whats the  ?
+- whats  ?
+- 
+
+- Accessing [Kyle T. Webster photoshop brushes](object_1) takes [me](object_2) to [a default Adobe screen](object_3)
+- what is the [Kyle T. Webster photoshop brushes](object_1) [me](object_2) [a default Adobe screen](object_3) ?
+- what is [Kyle T. Webster photoshop brushes](object_1) [me](object_2) [a default Adobe screen](object_3) ?
+- please tell me about the [Kyle T. Webster photoshop brushes](object_1) [me](object_2) [a default Adobe screen](object_3).
+- I dont know the [Kyle T. Webster photoshop brushes](object_1) [me](object_2) [a default Adobe screen](object_3). Can you help me ?
+- I dont know what is the [Kyle T. Webster photoshop brushes](object_1) [me](object_2) [a default Adobe screen](object_3). Can you help me ?
+- tell me about the [Kyle T. Webster photoshop brushes](object_1) [me](object_2) [a default Adobe screen](object_3).
+- whats the [Kyle T. Webster photoshop brushes](object_1) [me](object_2) [a default Adobe screen](object_3) ?
+- whats [Kyle T. Webster photoshop brushes](object_1) [me](object_2) [a default Adobe screen](object_3) ?
+- [Kyle T. Webster photoshop brushes](object_1) [me](object_2) [a default Adobe screen](object_3)
+
+- [Transform tool](object_1)
+- what is the [Transform tool](object_1) ?
+- what is [Transform tool](object_1) ?
+- please tell me about the [Transform tool](object_1).
+- I dont know the [Transform tool](object_1). Can you help me ?
+- I dont know what is the [Transform tool](object_1). Can you help me ?
+- tell me about the [Transform tool](object_1).
+- whats the [Transform tool](object_1) ?
+- whats [Transform tool](object_1) ?
+- [Transform tool](object_1)
+
+- [PNG files](object_1)
+- what is the [PNG files](object_1) ?
+- what is [PNG files](object_1) ?
+- please tell me about the [PNG files](object_1).
+- I dont know the [PNG files](object_1). Can you help me ?
+- I dont know what is the [PNG files](object_1). Can you help me ?
+- tell me about the [PNG files](object_1).
+- whats the [PNG files](object_1) ?
+- whats [PNG files](object_1) ?
+- [PNG files](object_1)
+
+- [Photoshop aspect ratio](object_1) is off (warped)
+- what is the [Photoshop aspect ratio](object_1) ?
+- what is [Photoshop aspect ratio](object_1) ?
+- please tell me about the [Photoshop aspect ratio](object_1).
+- I dont know the [Photoshop aspect ratio](object_1). Can you help me ?
+- I dont know what is the [Photoshop aspect ratio](object_1). Can you help me ?
+- tell me about the [Photoshop aspect ratio](object_1).
+- whats the [Photoshop aspect ratio](object_1) ?
+- whats [Photoshop aspect ratio](object_1) ?
+- [Photoshop aspect ratio](object_1)
+
+- [Crop tool](object_1)
+- what is the [Crop tool](object_1) ?
+- what is [Crop tool](object_1) ?
+- please tell me about the [Crop tool](object_1).
+- I dont know the [Crop tool](object_1). Can you help me ?
+- I dont know what is the [Crop tool](object_1). Can you help me ?
+- tell me about the [Crop tool](object_1).
+- whats the [Crop tool](object_1) ?
+- whats [Crop tool](object_1) ?
+- [Crop tool](object_1)
+
+- Are [any 32 bit versions](object_1) of [recent CC PS releases](object_2) available?
+- what is the [any 32 bit versions](object_1) [recent CC PS releases](object_2) ?
+- what is [any 32 bit versions](object_1) [recent CC PS releases](object_2) ?
+- please tell me about the [any 32 bit versions](object_1) [recent CC PS releases](object_2).
+- I dont know the [any 32 bit versions](object_1) [recent CC PS releases](object_2). Can you help me ?
+- I dont know what is the [any 32 bit versions](object_1) [recent CC PS releases](object_2). Can you help me ?
+- tell me about the [any 32 bit versions](object_1) [recent CC PS releases](object_2).
+- whats the [any 32 bit versions](object_1) [recent CC PS releases](object_2) ?
+- whats [any 32 bit versions](object_1) [recent CC PS releases](object_2) ?
+- [any 32 bit versions](object_1) [recent CC PS releases](object_2)
+
+- How to Change [Brush Tool Thumbnail Size](object_1) To Large
+- what is the [Brush Tool Thumbnail Size](object_1) ?
+- what is [Brush Tool Thumbnail Size](object_1) ?
+- please tell me about the [Brush Tool Thumbnail Size](object_1).
+- I dont know the [Brush Tool Thumbnail Size](object_1). Can you help me ?
+- I dont know what is the [Brush Tool Thumbnail Size](object_1). Can you help me ?
+- tell me about the [Brush Tool Thumbnail Size](object_1).
+- whats the [Brush Tool Thumbnail Size](object_1) ?
+- whats [Brush Tool Thumbnail Size](object_1) ?
+- [Brush Tool Thumbnail Size](object_1)
+
+- [Photoshop](object_1)
+- what is the [Photoshop](object_1) ?
+- what is [Photoshop](object_1) ?
+- please tell me about the [Photoshop](object_1).
+- I dont know the [Photoshop](object_1). Can you help me ?
+- I dont know what is the [Photoshop](object_1). Can you help me ?
+- tell me about the [Photoshop](object_1).
+- whats the [Photoshop](object_1) ?
+- whats [Photoshop](object_1) ?
+- [Photoshop](object_1)
+
+- [Размытие и векторная маска](object_1)
+- what is the [Размытие и векторная маска](object_1) ?
+- what is [Размытие и векторная маска](object_1) ?
+- please tell me about the [Размытие и векторная маска](object_1).
+- I dont know the [Размытие и векторная маска](object_1). Can you help me ?
+- I dont know what is the [Размытие и векторная маска](object_1). Can you help me ?
+- tell me about the [Размытие и векторная маска](object_1).
+- whats the [Размытие и векторная маска](object_1) ?
+- whats [Размытие и векторная маска](object_1) ?
+- [Размытие и векторная маска](object_1)
+
+- [Percentage](object_1) of [PC](object_2) vs [Mac PS CC licenses](object_3)?
+- what is the [Percentage](object_1) [PC](object_2) [Mac PS CC licenses](object_3) ?
+- what is [Percentage](object_1) [PC](object_2) [Mac PS CC licenses](object_3) ?
+- please tell me about the [Percentage](object_1) [PC](object_2) [Mac PS CC licenses](object_3).
+- I dont know the [Percentage](object_1) [PC](object_2) [Mac PS CC licenses](object_3). Can you help me ?
+- I dont know what is the [Percentage](object_1) [PC](object_2) [Mac PS CC licenses](object_3). Can you help me ?
+- tell me about the [Percentage](object_1) [PC](object_2) [Mac PS CC licenses](object_3).
+- whats the [Percentage](object_1) [PC](object_2) [Mac PS CC licenses](object_3) ?
+- whats [Percentage](object_1) [PC](object_2) [Mac PS CC licenses](object_3) ?
+- [Percentage](object_1) [PC](object_2) [Mac PS CC licenses](object_3)
+
+- [Scrubby](object_1) zoom problem
+- what is the [Scrubby](object_1) ?
+- what is [Scrubby](object_1) ?
+- please tell me about the [Scrubby](object_1).
+- I dont know the [Scrubby](object_1). Can you help me ?
+- I dont know what is the [Scrubby](object_1). Can you help me ?
+- tell me about the [Scrubby](object_1).
+- whats the [Scrubby](object_1) ?
+- whats [Scrubby](object_1) ?
+- [Scrubby](object_1)
+
+- [Command F question](object_1)
+- what is the [Command F question](object_1) ?
+- what is [Command F question](object_1) ?
+- please tell me about the [Command F question](object_1).
+- I dont know the [Command F question](object_1). Can you help me ?
+- I dont know what is the [Command F question](object_1). Can you help me ?
+- tell me about the [Command F question](object_1).
+- whats the [Command F question](object_1) ?
+- whats [Command F question](object_1) ?
+- [Command F question](object_1)
+
+- [Eye Dropper Tool](object_1)
+- what is the [Eye Dropper Tool](object_1) ?
+- what is [Eye Dropper Tool](object_1) ?
+- please tell me about the [Eye Dropper Tool](object_1).
+- I dont know the [Eye Dropper Tool](object_1). Can you help me ?
+- I dont know what is the [Eye Dropper Tool](object_1). Can you help me ?
+- tell me about the [Eye Dropper Tool](object_1).
+- whats the [Eye Dropper Tool](object_1) ?
+- whats [Eye Dropper Tool](object_1) ?
+- [Eye Dropper Tool](object_1)
+
+- [comment publier mon dossier html sur mon site](object_1)?
+- what is the [comment publier mon dossier html sur mon site](object_1) ?
+- what is [comment publier mon dossier html sur mon site](object_1) ?
+- please tell me about the [comment publier mon dossier html sur mon site](object_1).
+- I dont know the [comment publier mon dossier html sur mon site](object_1). Can you help me ?
+- I dont know what is the [comment publier mon dossier html sur mon site](object_1). Can you help me ?
+- tell me about the [comment publier mon dossier html sur mon site](object_1).
+- whats the [comment publier mon dossier html sur mon site](object_1) ?
+- whats [comment publier mon dossier html sur mon site](object_1) ?
+- [comment publier mon dossier html sur mon site](object_1)
+
+- [Photoshop CS6 ACE exam](object_1)
+- what is the [Photoshop CS6 ACE exam](object_1) ?
+- what is [Photoshop CS6 ACE exam](object_1) ?
+- please tell me about the [Photoshop CS6 ACE exam](object_1).
+- I dont know the [Photoshop CS6 ACE exam](object_1). Can you help me ?
+- I dont know what is the [Photoshop CS6 ACE exam](object_1). Can you help me ?
+- tell me about the [Photoshop CS6 ACE exam](object_1).
+- whats the [Photoshop CS6 ACE exam](object_1) ?
+- whats [Photoshop CS6 ACE exam](object_1) ?
+- [Photoshop CS6 ACE exam](object_1)
+
+- [PS2018/ Win 10 - HUD color picker](object_1) not showing up?
+- what is the [PS2018/ Win 10 - HUD color picker](object_1) ?
+- what is [PS2018/ Win 10 - HUD color picker](object_1) ?
+- please tell me about the [PS2018/ Win 10 - HUD color picker](object_1).
+- I dont know the [PS2018/ Win 10 - HUD color picker](object_1). Can you help me ?
+- I dont know what is the [PS2018/ Win 10 - HUD color picker](object_1). Can you help me ?
+- tell me about the [PS2018/ Win 10 - HUD color picker](object_1).
+- whats the [PS2018/ Win 10 - HUD color picker](object_1) ?
+- whats [PS2018/ Win 10 - HUD color picker](object_1) ?
+- [PS2018/ Win 10 - HUD color picker](object_1)
+
+- [Como foi realizado](object_1) e qual o nome deste efeito?
+- what is the [Como foi realizado](object_1) ?
+- what is [Como foi realizado](object_1) ?
+- please tell me about the [Como foi realizado](object_1).
+- I dont know the [Como foi realizado](object_1). Can you help me ?
+- I dont know what is the [Como foi realizado](object_1). Can you help me ?
+- tell me about the [Como foi realizado](object_1).
+- whats the [Como foi realizado](object_1) ?
+- whats [Como foi realizado](object_1) ?
+- [Como foi realizado](object_1)
+
+- [[CS6] Custom Panel hook](object_1) for [C++ API question](object_2)
+- what is the [[CS6] Custom Panel hook](object_1) [C++ API question](object_2) ?
+- what is [[CS6] Custom Panel hook](object_1) [C++ API question](object_2) ?
+- please tell me about the [[CS6] Custom Panel hook](object_1) [C++ API question](object_2).
+- I dont know the [[CS6] Custom Panel hook](object_1) [C++ API question](object_2). Can you help me ?
+- I dont know what is the [[CS6] Custom Panel hook](object_1) [C++ API question](object_2). Can you help me ?
+- tell me about the [[CS6] Custom Panel hook](object_1) [C++ API question](object_2).
+- whats the [[CS6] Custom Panel hook](object_1) [C++ API question](object_2) ?
+- whats [[CS6] Custom Panel hook](object_1) [C++ API question](object_2) ?
+- [[CS6] Custom Panel hook](object_1) [C++ API question](object_2)
+
+- [Digimarc](object_1)
+- what is the [Digimarc](object_1) ?
+- what is [Digimarc](object_1) ?
+- please tell me about the [Digimarc](object_1).
+- I dont know the [Digimarc](object_1). Can you help me ?
+- I dont know what is the [Digimarc](object_1). Can you help me ?
+- tell me about the [Digimarc](object_1).
+- whats the [Digimarc](object_1) ?
+- whats [Digimarc](object_1) ?
+- [Digimarc](object_1)
+
+- [Photoshop custom workspace preset](object_1) won't appear on [workspace list](object_2)
+- what is the [Photoshop custom workspace preset](object_1) [workspace list](object_2) ?
+- what is [Photoshop custom workspace preset](object_1) [workspace list](object_2) ?
+- please tell me about the [Photoshop custom workspace preset](object_1) [workspace list](object_2).
+- I dont know the [Photoshop custom workspace preset](object_1) [workspace list](object_2). Can you help me ?
+- I dont know what is the [Photoshop custom workspace preset](object_1) [workspace list](object_2). Can you help me ?
+- tell me about the [Photoshop custom workspace preset](object_1) [workspace list](object_2).
+- whats the [Photoshop custom workspace preset](object_1) [workspace list](object_2) ?
+- whats [Photoshop custom workspace preset](object_1) [workspace list](object_2) ?
+- [Photoshop custom workspace preset](object_1) [workspace list](object_2)
+
+- [puppet warp animation](object_1)
+- what is the [puppet warp animation](object_1) ?
+- what is [puppet warp animation](object_1) ?
+- please tell me about the [puppet warp animation](object_1).
+- I dont know the [puppet warp animation](object_1). Can you help me ?
+- I dont know what is the [puppet warp animation](object_1). Can you help me ?
+- tell me about the [puppet warp animation](object_1).
+- whats the [puppet warp animation](object_1) ?
+- whats [puppet warp animation](object_1) ?
+- [puppet warp animation](object_1)
+
+- [Adobe Photoshop CS2](object_1) upgrade - install
+- what is the [Adobe Photoshop CS2](object_1) ?
+- what is [Adobe Photoshop CS2](object_1) ?
+- please tell me about the [Adobe Photoshop CS2](object_1).
+- I dont know the [Adobe Photoshop CS2](object_1). Can you help me ?
+- I dont know what is the [Adobe Photoshop CS2](object_1). Can you help me ?
+- tell me about the [Adobe Photoshop CS2](object_1).
+- whats the [Adobe Photoshop CS2](object_1) ?
+- whats [Adobe Photoshop CS2](object_1) ?
+- [Adobe Photoshop CS2](object_1)
+
+- [Adobe Photoshop](object_1)
+- what is the [Adobe Photoshop](object_1) ?
+- what is [Adobe Photoshop](object_1) ?
+- please tell me about the [Adobe Photoshop](object_1).
+- I dont know the [Adobe Photoshop](object_1). Can you help me ?
+- I dont know what is the [Adobe Photoshop](object_1). Can you help me ?
+- tell me about the [Adobe Photoshop](object_1).
+- whats the [Adobe Photoshop](object_1) ?
+- whats [Adobe Photoshop](object_1) ?
+- [Adobe Photoshop](object_1)
+
+- [New Way](object_1) of [Selecting](object_2) [Layers](object_3) in Photoshop?
+- what is the [New Way](object_1) [Selecting](object_2) [Layers](object_3) ?
+- what is [New Way](object_1) [Selecting](object_2) [Layers](object_3) ?
+- please tell me about the [New Way](object_1) [Selecting](object_2) [Layers](object_3).
+- I dont know the [New Way](object_1) [Selecting](object_2) [Layers](object_3). Can you help me ?
+- I dont know what is the [New Way](object_1) [Selecting](object_2) [Layers](object_3). Can you help me ?
+- tell me about the [New Way](object_1) [Selecting](object_2) [Layers](object_3).
+- whats the [New Way](object_1) [Selecting](object_2) [Layers](object_3) ?
+- whats [New Way](object_1) [Selecting](object_2) [Layers](object_3) ?
+- [New Way](object_1) [Selecting](object_2) [Layers](object_3)
+
+- [Impossible d'ouvrir les pdf dans Photoshop CC](object_1)
+- what is the [Impossible d'ouvrir les pdf dans Photoshop CC](object_1) ?
+- what is [Impossible d'ouvrir les pdf dans Photoshop CC](object_1) ?
+- please tell me about the [Impossible d'ouvrir les pdf dans Photoshop CC](object_1).
+- I dont know the [Impossible d'ouvrir les pdf dans Photoshop CC](object_1). Can you help me ?
+- I dont know what is the [Impossible d'ouvrir les pdf dans Photoshop CC](object_1). Can you help me ?
+- tell me about the [Impossible d'ouvrir les pdf dans Photoshop CC](object_1).
+- whats the [Impossible d'ouvrir les pdf dans Photoshop CC](object_1) ?
+- whats [Impossible d'ouvrir les pdf dans Photoshop CC](object_1) ?
+- [Impossible d'ouvrir les pdf dans Photoshop CC](object_1)
+
+- Opening [a Raw File](object_1) from [Nikon](object_2) 3300
+- what is the [a Raw File](object_1) [Nikon](object_2) ?
+- what is [a Raw File](object_1) [Nikon](object_2) ?
+- please tell me about the [a Raw File](object_1) [Nikon](object_2).
+- I dont know the [a Raw File](object_1) [Nikon](object_2). Can you help me ?
+- I dont know what is the [a Raw File](object_1) [Nikon](object_2). Can you help me ?
+- tell me about the [a Raw File](object_1) [Nikon](object_2).
+- whats the [a Raw File](object_1) [Nikon](object_2) ?
+- whats [a Raw File](object_1) [Nikon](object_2) ?
+- [a Raw File](object_1) [Nikon](object_2)
+
+- [Brush Disfunction](object_1)
+- what is the [Brush Disfunction](object_1) ?
+- what is [Brush Disfunction](object_1) ?
+- please tell me about the [Brush Disfunction](object_1).
+- I dont know the [Brush Disfunction](object_1). Can you help me ?
+- I dont know what is the [Brush Disfunction](object_1). Can you help me ?
+- tell me about the [Brush Disfunction](object_1).
+- whats the [Brush Disfunction](object_1) ?
+- whats [Brush Disfunction](object_1) ?
+- [Brush Disfunction](object_1)
+
+- [Photoshop CS2](object_1) question
+- what is the [Photoshop CS2](object_1) ?
+- what is [Photoshop CS2](object_1) ?
+- please tell me about the [Photoshop CS2](object_1).
+- I dont know the [Photoshop CS2](object_1). Can you help me ?
+- I dont know what is the [Photoshop CS2](object_1). Can you help me ?
+- tell me about the [Photoshop CS2](object_1).
+- whats the [Photoshop CS2](object_1) ?
+- whats [Photoshop CS2](object_1) ?
+- [Photoshop CS2](object_1)
+
+- [Text updating](object_1)
+- what is the [Text updating](object_1) ?
+- what is [Text updating](object_1) ?
+- please tell me about the [Text updating](object_1).
+- I dont know the [Text updating](object_1). Can you help me ?
+- I dont know what is the [Text updating](object_1). Can you help me ?
+- tell me about the [Text updating](object_1).
+- whats the [Text updating](object_1) ?
+- whats [Text updating](object_1) ?
+- [Text updating](object_1)
+
+- [Resolution](object_1) of [image maps](object_2) in [3d objects](object_3)
+- what is the [Resolution](object_1) [image maps](object_2) [3d objects](object_3) ?
+- what is [Resolution](object_1) [image maps](object_2) [3d objects](object_3) ?
+- please tell me about the [Resolution](object_1) [image maps](object_2) [3d objects](object_3).
+- I dont know the [Resolution](object_1) [image maps](object_2) [3d objects](object_3). Can you help me ?
+- I dont know what is the [Resolution](object_1) [image maps](object_2) [3d objects](object_3). Can you help me ?
+- tell me about the [Resolution](object_1) [image maps](object_2) [3d objects](object_3).
+- whats the [Resolution](object_1) [image maps](object_2) [3d objects](object_3) ?
+- whats [Resolution](object_1) [image maps](object_2) [3d objects](object_3) ?
+- [Resolution](object_1) [image maps](object_2) [3d objects](object_3)
+
+- [Select Modify Expand command inconsistent](object_1) and [deviates](object_2) randomly
+- what is the [Select Modify Expand command inconsistent](object_1) [deviates](object_2) ?
+- what is [Select Modify Expand command inconsistent](object_1) [deviates](object_2) ?
+- please tell me about the [Select Modify Expand command inconsistent](object_1) [deviates](object_2).
+- I dont know the [Select Modify Expand command inconsistent](object_1) [deviates](object_2). Can you help me ?
+- I dont know what is the [Select Modify Expand command inconsistent](object_1) [deviates](object_2). Can you help me ?
+- tell me about the [Select Modify Expand command inconsistent](object_1) [deviates](object_2).
+- whats the [Select Modify Expand command inconsistent](object_1) [deviates](object_2) ?
+- whats [Select Modify Expand command inconsistent](object_1) [deviates](object_2) ?
+- [Select Modify Expand command inconsistent](object_1) [deviates](object_2)
+
+- How to transfer [Photoshop cc presets](object_1) onto [a new computer](object_2)
+- what is the [Photoshop cc presets](object_1) [a new computer](object_2) ?
+- what is [Photoshop cc presets](object_1) [a new computer](object_2) ?
+- please tell me about the [Photoshop cc presets](object_1) [a new computer](object_2).
+- I dont know the [Photoshop cc presets](object_1) [a new computer](object_2). Can you help me ?
+- I dont know what is the [Photoshop cc presets](object_1) [a new computer](object_2). Can you help me ?
+- tell me about the [Photoshop cc presets](object_1) [a new computer](object_2).
+- whats the [Photoshop cc presets](object_1) [a new computer](object_2) ?
+- whats [Photoshop cc presets](object_1) [a new computer](object_2) ?
+- [Photoshop cc presets](object_1) [a new computer](object_2)
+
+- [Upgrade woes](object_1)
+- what is the [Upgrade woes](object_1) ?
+- what is [Upgrade woes](object_1) ?
+- please tell me about the [Upgrade woes](object_1).
+- I dont know the [Upgrade woes](object_1). Can you help me ?
+- I dont know what is the [Upgrade woes](object_1). Can you help me ?
+- tell me about the [Upgrade woes](object_1).
+- whats the [Upgrade woes](object_1) ?
+- whats [Upgrade woes](object_1) ?
+- [Upgrade woes](object_1)
+
+- [PSD Files](object_1)
+- what is the [PSD Files](object_1) ?
+- what is [PSD Files](object_1) ?
+- please tell me about the [PSD Files](object_1).
+- I dont know the [PSD Files](object_1). Can you help me ?
+- I dont know what is the [PSD Files](object_1). Can you help me ?
+- tell me about the [PSD Files](object_1).
+- whats the [PSD Files](object_1) ?
+- whats [PSD Files](object_1) ?
+- [PSD Files](object_1)
+
+- [Layer Panel](object_1)
+- what is the [Layer Panel](object_1) ?
+- what is [Layer Panel](object_1) ?
+- please tell me about the [Layer Panel](object_1).
+- I dont know the [Layer Panel](object_1). Can you help me ?
+- I dont know what is the [Layer Panel](object_1). Can you help me ?
+- tell me about the [Layer Panel](object_1).
+- whats the [Layer Panel](object_1) ?
+- whats [Layer Panel](object_1) ?
+- [Layer Panel](object_1)
+
+- [PC](object_1) crashed and cannot get [PS CS4](object_2) re activated
+- what is the [PC](object_1) [PS CS4](object_2) ?
+- what is [PC](object_1) [PS CS4](object_2) ?
+- please tell me about the [PC](object_1) [PS CS4](object_2).
+- I dont know the [PC](object_1) [PS CS4](object_2). Can you help me ?
+- I dont know what is the [PC](object_1) [PS CS4](object_2). Can you help me ?
+- tell me about the [PC](object_1) [PS CS4](object_2).
+- whats the [PC](object_1) [PS CS4](object_2) ?
+- whats [PC](object_1) [PS CS4](object_2) ?
+- [PC](object_1) [PS CS4](object_2)
+
+- [Printer issues](object_1) in [Photoshop](object_2) and [Lightroom](object_3)
+- what is the [Printer issues](object_1) [Photoshop](object_2) [Lightroom](object_3) ?
+- what is [Printer issues](object_1) [Photoshop](object_2) [Lightroom](object_3) ?
+- please tell me about the [Printer issues](object_1) [Photoshop](object_2) [Lightroom](object_3).
+- I dont know the [Printer issues](object_1) [Photoshop](object_2) [Lightroom](object_3). Can you help me ?
+- I dont know what is the [Printer issues](object_1) [Photoshop](object_2) [Lightroom](object_3). Can you help me ?
+- tell me about the [Printer issues](object_1) [Photoshop](object_2) [Lightroom](object_3).
+- whats the [Printer issues](object_1) [Photoshop](object_2) [Lightroom](object_3) ?
+- whats [Printer issues](object_1) [Photoshop](object_2) [Lightroom](object_3) ?
+- [Printer issues](object_1) [Photoshop](object_2) [Lightroom](object_3)
+
+- [Thumbnail Cache Problem](object_1) of [PS CC](object_2) 19
+- what is the [Thumbnail Cache Problem](object_1) [PS CC](object_2) ?
+- what is [Thumbnail Cache Problem](object_1) [PS CC](object_2) ?
+- please tell me about the [Thumbnail Cache Problem](object_1) [PS CC](object_2).
+- I dont know the [Thumbnail Cache Problem](object_1) [PS CC](object_2). Can you help me ?
+- I dont know what is the [Thumbnail Cache Problem](object_1) [PS CC](object_2). Can you help me ?
+- tell me about the [Thumbnail Cache Problem](object_1) [PS CC](object_2).
+- whats the [Thumbnail Cache Problem](object_1) [PS CC](object_2) ?
+- whats [Thumbnail Cache Problem](object_1) [PS CC](object_2) ?
+- [Thumbnail Cache Problem](object_1) [PS CC](object_2)
+
+- [3D text outlines](object_1)
+- what is the [3D text outlines](object_1) ?
+- what is [3D text outlines](object_1) ?
+- please tell me about the [3D text outlines](object_1).
+- I dont know the [3D text outlines](object_1). Can you help me ?
+- I dont know what is the [3D text outlines](object_1). Can you help me ?
+- tell me about the [3D text outlines](object_1).
+- whats the [3D text outlines](object_1) ?
+- whats [3D text outlines](object_1) ?
+- [3D text outlines](object_1)
+
+- [PS CS2 printing problem](object_1)
+- what is the [PS CS2 printing problem](object_1) ?
+- what is [PS CS2 printing problem](object_1) ?
+- please tell me about the [PS CS2 printing problem](object_1).
+- I dont know the [PS CS2 printing problem](object_1). Can you help me ?
+- I dont know what is the [PS CS2 printing problem](object_1). Can you help me ?
+- tell me about the [PS CS2 printing problem](object_1).
+- whats the [PS CS2 printing problem](object_1) ?
+- whats [PS CS2 printing problem](object_1) ?
+- [PS CS2 printing problem](object_1)
+
+- [Revenir à la version](object_1) antérieure cc [2017 de Photoshop](object_2)
+- what is the [Revenir à la version](object_1) [2017 de Photoshop](object_2) ?
+- what is [Revenir à la version](object_1) [2017 de Photoshop](object_2) ?
+- please tell me about the [Revenir à la version](object_1) [2017 de Photoshop](object_2).
+- I dont know the [Revenir à la version](object_1) [2017 de Photoshop](object_2). Can you help me ?
+- I dont know what is the [Revenir à la version](object_1) [2017 de Photoshop](object_2). Can you help me ?
+- tell me about the [Revenir à la version](object_1) [2017 de Photoshop](object_2).
+- whats the [Revenir à la version](object_1) [2017 de Photoshop](object_2) ?
+- whats [Revenir à la version](object_1) [2017 de Photoshop](object_2) ?
+- [Revenir à la version](object_1) [2017 de Photoshop](object_2)
+
+- [installation](object_1)
+- what is the [installation](object_1) ?
+- what is [installation](object_1) ?
+- please tell me about the [installation](object_1).
+- I dont know the [installation](object_1). Can you help me ?
+- I dont know what is the [installation](object_1). Can you help me ?
+- tell me about the [installation](object_1).
+- whats the [installation](object_1) ?
+- whats [installation](object_1) ?
+- [installation](object_1)
+
+- [Photoshop Hangs](object_1) After [Upgrade](object_2) to [Ps CC](object_3) 2018
+- what is the [Photoshop Hangs](object_1) [Upgrade](object_2) [Ps CC](object_3) ?
+- what is [Photoshop Hangs](object_1) [Upgrade](object_2) [Ps CC](object_3) ?
+- please tell me about the [Photoshop Hangs](object_1) [Upgrade](object_2) [Ps CC](object_3).
+- I dont know the [Photoshop Hangs](object_1) [Upgrade](object_2) [Ps CC](object_3). Can you help me ?
+- I dont know what is the [Photoshop Hangs](object_1) [Upgrade](object_2) [Ps CC](object_3). Can you help me ?
+- tell me about the [Photoshop Hangs](object_1) [Upgrade](object_2) [Ps CC](object_3).
+- whats the [Photoshop Hangs](object_1) [Upgrade](object_2) [Ps CC](object_3) ?
+- whats [Photoshop Hangs](object_1) [Upgrade](object_2) [Ps CC](object_3) ?
+- [Photoshop Hangs](object_1) [Upgrade](object_2) [Ps CC](object_3)
+
+- [Connect Bridge CC](object_1) to [a hard disk download](object_2) of [CS6](object_3)
+- what is the [Connect Bridge CC](object_1) [a hard disk download](object_2) [CS6](object_3) ?
+- what is [Connect Bridge CC](object_1) [a hard disk download](object_2) [CS6](object_3) ?
+- please tell me about the [Connect Bridge CC](object_1) [a hard disk download](object_2) [CS6](object_3).
+- I dont know the [Connect Bridge CC](object_1) [a hard disk download](object_2) [CS6](object_3). Can you help me ?
+- I dont know what is the [Connect Bridge CC](object_1) [a hard disk download](object_2) [CS6](object_3). Can you help me ?
+- tell me about the [Connect Bridge CC](object_1) [a hard disk download](object_2) [CS6](object_3).
+- whats the [Connect Bridge CC](object_1) [a hard disk download](object_2) [CS6](object_3) ?
+- whats [Connect Bridge CC](object_1) [a hard disk download](object_2) [CS6](object_3) ?
+- [Connect Bridge CC](object_1) [a hard disk download](object_2) [CS6](object_3)
+
+- [Folder Dropdown](object_1) for [Saving](object_2) [Edited File](object_3) outside Current Path
+- what is the [Folder Dropdown](object_1) [Saving](object_2) [Edited File](object_3) ?
+- what is [Folder Dropdown](object_1) [Saving](object_2) [Edited File](object_3) ?
+- please tell me about the [Folder Dropdown](object_1) [Saving](object_2) [Edited File](object_3).
+- I dont know the [Folder Dropdown](object_1) [Saving](object_2) [Edited File](object_3). Can you help me ?
+- I dont know what is the [Folder Dropdown](object_1) [Saving](object_2) [Edited File](object_3). Can you help me ?
+- tell me about the [Folder Dropdown](object_1) [Saving](object_2) [Edited File](object_3).
+- whats the [Folder Dropdown](object_1) [Saving](object_2) [Edited File](object_3) ?
+- whats [Folder Dropdown](object_1) [Saving](object_2) [Edited File](object_3) ?
+- [Folder Dropdown](object_1) [Saving](object_2) [Edited File](object_3)
+
+- [Main Photoshop window](object_1) is blank even while [a file](object_2) is open, [I](object_3) can't see my work
+- what is the [Main Photoshop window](object_1) [a file](object_2) [I](object_3) ?
+- what is [Main Photoshop window](object_1) [a file](object_2) [I](object_3) ?
+- please tell me about the [Main Photoshop window](object_1) [a file](object_2) [I](object_3).
+- I dont know the [Main Photoshop window](object_1) [a file](object_2) [I](object_3). Can you help me ?
+- I dont know what is the [Main Photoshop window](object_1) [a file](object_2) [I](object_3). Can you help me ?
+- tell me about the [Main Photoshop window](object_1) [a file](object_2) [I](object_3).
+- whats the [Main Photoshop window](object_1) [a file](object_2) [I](object_3) ?
+- whats [Main Photoshop window](object_1) [a file](object_2) [I](object_3) ?
+- [Main Photoshop window](object_1) [a file](object_2) [I](object_3)
+
+- [Blend Mode Shortcuts Failing](object_1)
+- what is the [Blend Mode Shortcuts Failing](object_1) ?
+- what is [Blend Mode Shortcuts Failing](object_1) ?
+- please tell me about the [Blend Mode Shortcuts Failing](object_1).
+- I dont know the [Blend Mode Shortcuts Failing](object_1). Can you help me ?
+- I dont know what is the [Blend Mode Shortcuts Failing](object_1). Can you help me ?
+- tell me about the [Blend Mode Shortcuts Failing](object_1).
+- whats the [Blend Mode Shortcuts Failing](object_1) ?
+- whats [Blend Mode Shortcuts Failing](object_1) ?
+- [Blend Mode Shortcuts Failing](object_1)
+
+- [Adobe photo shop cc](object_1) 2018 is not running properly
+- what is the [Adobe photo shop cc](object_1) ?
+- what is [Adobe photo shop cc](object_1) ?
+- please tell me about the [Adobe photo shop cc](object_1).
+- I dont know the [Adobe photo shop cc](object_1). Can you help me ?
+- I dont know what is the [Adobe photo shop cc](object_1). Can you help me ?
+- tell me about the [Adobe photo shop cc](object_1).
+- whats the [Adobe photo shop cc](object_1) ?
+- whats [Adobe photo shop cc](object_1) ?
+- [Adobe photo shop cc](object_1)
+
+- [Pattern Stamp Tool strangeness](object_1)
+- what is the [Pattern Stamp Tool strangeness](object_1) ?
+- what is [Pattern Stamp Tool strangeness](object_1) ?
+- please tell me about the [Pattern Stamp Tool strangeness](object_1).
+- I dont know the [Pattern Stamp Tool strangeness](object_1). Can you help me ?
+- I dont know what is the [Pattern Stamp Tool strangeness](object_1). Can you help me ?
+- tell me about the [Pattern Stamp Tool strangeness](object_1).
+- whats the [Pattern Stamp Tool strangeness](object_1) ?
+- whats [Pattern Stamp Tool strangeness](object_1) ?
+- [Pattern Stamp Tool strangeness](object_1)
+
+- [Billboard poster](object_1)
+- what is the [Billboard poster](object_1) ?
+- what is [Billboard poster](object_1) ?
+- please tell me about the [Billboard poster](object_1).
+- I dont know the [Billboard poster](object_1). Can you help me ?
+- I dont know what is the [Billboard poster](object_1). Can you help me ?
+- tell me about the [Billboard poster](object_1).
+- whats the [Billboard poster](object_1) ?
+- whats [Billboard poster](object_1) ?
+- [Billboard poster](object_1)
+
+- [Quick Selection tool](object_1) not behaving [itself](object_2) in [Photoshop CC](object_3) 2017
+- what is the [Quick Selection tool](object_1) [itself](object_2) [Photoshop CC](object_3) ?
+- what is [Quick Selection tool](object_1) [itself](object_2) [Photoshop CC](object_3) ?
+- please tell me about the [Quick Selection tool](object_1) [itself](object_2) [Photoshop CC](object_3).
+- I dont know the [Quick Selection tool](object_1) [itself](object_2) [Photoshop CC](object_3). Can you help me ?
+- I dont know what is the [Quick Selection tool](object_1) [itself](object_2) [Photoshop CC](object_3). Can you help me ?
+- tell me about the [Quick Selection tool](object_1) [itself](object_2) [Photoshop CC](object_3).
+- whats the [Quick Selection tool](object_1) [itself](object_2) [Photoshop CC](object_3) ?
+- whats [Quick Selection tool](object_1) [itself](object_2) [Photoshop CC](object_3) ?
+- [Quick Selection tool](object_1) [itself](object_2) [Photoshop CC](object_3)
+
+- [Color Lookup issue](object_1) in [Photoshop CC](object_2) 2015.5.0
+- what is the [Color Lookup issue](object_1) [Photoshop CC](object_2) ?
+- what is [Color Lookup issue](object_1) [Photoshop CC](object_2) ?
+- please tell me about the [Color Lookup issue](object_1) [Photoshop CC](object_2).
+- I dont know the [Color Lookup issue](object_1) [Photoshop CC](object_2). Can you help me ?
+- I dont know what is the [Color Lookup issue](object_1) [Photoshop CC](object_2). Can you help me ?
+- tell me about the [Color Lookup issue](object_1) [Photoshop CC](object_2).
+- whats the [Color Lookup issue](object_1) [Photoshop CC](object_2) ?
+- whats [Color Lookup issue](object_1) [Photoshop CC](object_2) ?
+- [Color Lookup issue](object_1) [Photoshop CC](object_2)
+
+- [new Tools](object_1) list [layout](object_2)
+- what is the [new Tools](object_1) [layout](object_2) ?
+- what is [new Tools](object_1) [layout](object_2) ?
+- please tell me about the [new Tools](object_1) [layout](object_2).
+- I dont know the [new Tools](object_1) [layout](object_2). Can you help me ?
+- I dont know what is the [new Tools](object_1) [layout](object_2). Can you help me ?
+- tell me about the [new Tools](object_1) [layout](object_2).
+- whats the [new Tools](object_1) [layout](object_2) ?
+- whats [new Tools](object_1) [layout](object_2) ?
+- [new Tools](object_1) [layout](object_2)
+
+- [Clone Stamp](object_1)
+- what is the [Clone Stamp](object_1) ?
+- what is [Clone Stamp](object_1) ?
+- please tell me about the [Clone Stamp](object_1).
+- I dont know the [Clone Stamp](object_1). Can you help me ?
+- I dont know what is the [Clone Stamp](object_1). Can you help me ?
+- tell me about the [Clone Stamp](object_1).
+- whats the [Clone Stamp](object_1) ?
+- whats [Clone Stamp](object_1) ?
+- [Clone Stamp](object_1)
+
+- [Anneau d'aperçu profondeur galerie d'effet de flou](object_1)
+- what is the [Anneau d'aperçu profondeur galerie d'effet de flou](object_1) ?
+- what is [Anneau d'aperçu profondeur galerie d'effet de flou](object_1) ?
+- please tell me about the [Anneau d'aperçu profondeur galerie d'effet de flou](object_1).
+- I dont know the [Anneau d'aperçu profondeur galerie d'effet de flou](object_1). Can you help me ?
+- I dont know what is the [Anneau d'aperçu profondeur galerie d'effet de flou](object_1). Can you help me ?
+- tell me about the [Anneau d'aperçu profondeur galerie d'effet de flou](object_1).
+- whats the [Anneau d'aperçu profondeur galerie d'effet de flou](object_1) ?
+- whats [Anneau d'aperçu profondeur galerie d'effet de flou](object_1) ?
+- [Anneau d'aperçu profondeur galerie d'effet de flou](object_1)
+
+- [Downgrade Photoshop](object_1)
+- what is the [Downgrade Photoshop](object_1) ?
+- what is [Downgrade Photoshop](object_1) ?
+- please tell me about the [Downgrade Photoshop](object_1).
+- I dont know the [Downgrade Photoshop](object_1). Can you help me ?
+- I dont know what is the [Downgrade Photoshop](object_1). Can you help me ?
+- tell me about the [Downgrade Photoshop](object_1).
+- whats the [Downgrade Photoshop](object_1) ?
+- whats [Downgrade Photoshop](object_1) ?
+- [Downgrade Photoshop](object_1)
+
+- [Adobe Photoshop ACE Exam promo code](object_1)
+- what is the [Adobe Photoshop ACE Exam promo code](object_1) ?
+- what is [Adobe Photoshop ACE Exam promo code](object_1) ?
+- please tell me about the [Adobe Photoshop ACE Exam promo code](object_1).
+- I dont know the [Adobe Photoshop ACE Exam promo code](object_1). Can you help me ?
+- I dont know what is the [Adobe Photoshop ACE Exam promo code](object_1). Can you help me ?
+- tell me about the [Adobe Photoshop ACE Exam promo code](object_1).
+- whats the [Adobe Photoshop ACE Exam promo code](object_1) ?
+- whats [Adobe Photoshop ACE Exam promo code](object_1) ?
+- [Adobe Photoshop ACE Exam promo code](object_1)
+
+- [Darker Color blend mode behaviour](object_1)
+- what is the [Darker Color blend mode behaviour](object_1) ?
+- what is [Darker Color blend mode behaviour](object_1) ?
+- please tell me about the [Darker Color blend mode behaviour](object_1).
+- I dont know the [Darker Color blend mode behaviour](object_1). Can you help me ?
+- I dont know what is the [Darker Color blend mode behaviour](object_1). Can you help me ?
+- tell me about the [Darker Color blend mode behaviour](object_1).
+- whats the [Darker Color blend mode behaviour](object_1) ?
+- whats [Darker Color blend mode behaviour](object_1) ?
+- [Darker Color blend mode behaviour](object_1)
+
+- [Exporting](object_1) [Issues](object_2)
+- what is the [Exporting](object_1) [Issues](object_2) ?
+- what is [Exporting](object_1) [Issues](object_2) ?
+- please tell me about the [Exporting](object_1) [Issues](object_2).
+- I dont know the [Exporting](object_1) [Issues](object_2). Can you help me ?
+- I dont know what is the [Exporting](object_1) [Issues](object_2). Can you help me ?
+- tell me about the [Exporting](object_1) [Issues](object_2).
+- whats the [Exporting](object_1) [Issues](object_2) ?
+- whats [Exporting](object_1) [Issues](object_2) ?
+- [Exporting](object_1) [Issues](object_2)
+
+- [Tile Layers](object_1) in [Ps](object_2)?
+- what is the [Tile Layers](object_1) [Ps](object_2) ?
+- what is [Tile Layers](object_1) [Ps](object_2) ?
+- please tell me about the [Tile Layers](object_1) [Ps](object_2).
+- I dont know the [Tile Layers](object_1) [Ps](object_2). Can you help me ?
+- I dont know what is the [Tile Layers](object_1) [Ps](object_2). Can you help me ?
+- tell me about the [Tile Layers](object_1) [Ps](object_2).
+- whats the [Tile Layers](object_1) [Ps](object_2) ?
+- whats [Tile Layers](object_1) [Ps](object_2) ?
+- [Tile Layers](object_1) [Ps](object_2)
+
+- [Timeline](object_1)
+- what is the [Timeline](object_1) ?
+- what is [Timeline](object_1) ?
+- please tell me about the [Timeline](object_1).
+- I dont know the [Timeline](object_1). Can you help me ?
+- I dont know what is the [Timeline](object_1). Can you help me ?
+- tell me about the [Timeline](object_1).
+- whats the [Timeline](object_1) ?
+- whats [Timeline](object_1) ?
+- [Timeline](object_1)
+
+- [New CC](object_1) updated and [character Window text size error](object_2)
+- what is the [New CC](object_1) [character Window text size error](object_2) ?
+- what is [New CC](object_1) [character Window text size error](object_2) ?
+- please tell me about the [New CC](object_1) [character Window text size error](object_2).
+- I dont know the [New CC](object_1) [character Window text size error](object_2). Can you help me ?
+- I dont know what is the [New CC](object_1) [character Window text size error](object_2). Can you help me ?
+- tell me about the [New CC](object_1) [character Window text size error](object_2).
+- whats the [New CC](object_1) [character Window text size error](object_2) ?
+- whats [New CC](object_1) [character Window text size error](object_2) ?
+- [New CC](object_1) [character Window text size error](object_2)
+
+- [Solar Eclipse](object_1)
+- what is the [Solar Eclipse](object_1) ?
+- what is [Solar Eclipse](object_1) ?
+- please tell me about the [Solar Eclipse](object_1).
+- I dont know the [Solar Eclipse](object_1). Can you help me ?
+- I dont know what is the [Solar Eclipse](object_1). Can you help me ?
+- tell me about the [Solar Eclipse](object_1).
+- whats the [Solar Eclipse](object_1) ?
+- whats [Solar Eclipse](object_1) ?
+- [Solar Eclipse](object_1)
+
+- [Layer Saver script](object_1) no longer works in [photoshop cc](object_2) 2017
+- what is the [Layer Saver script](object_1) [photoshop cc](object_2) ?
+- what is [Layer Saver script](object_1) [photoshop cc](object_2) ?
+- please tell me about the [Layer Saver script](object_1) [photoshop cc](object_2).
+- I dont know the [Layer Saver script](object_1) [photoshop cc](object_2). Can you help me ?
+- I dont know what is the [Layer Saver script](object_1) [photoshop cc](object_2). Can you help me ?
+- tell me about the [Layer Saver script](object_1) [photoshop cc](object_2).
+- whats the [Layer Saver script](object_1) [photoshop cc](object_2) ?
+- whats [Layer Saver script](object_1) [photoshop cc](object_2) ?
+- [Layer Saver script](object_1) [photoshop cc](object_2)
+
+- How to change [clone stamp brush cursor](object_1) from [a cross](object_2) back to [a circle](object_3)?
+- what is the [clone stamp brush cursor](object_1) [a cross](object_2) [a circle](object_3) ?
+- what is [clone stamp brush cursor](object_1) [a cross](object_2) [a circle](object_3) ?
+- please tell me about the [clone stamp brush cursor](object_1) [a cross](object_2) [a circle](object_3).
+- I dont know the [clone stamp brush cursor](object_1) [a cross](object_2) [a circle](object_3). Can you help me ?
+- I dont know what is the [clone stamp brush cursor](object_1) [a cross](object_2) [a circle](object_3). Can you help me ?
+- tell me about the [clone stamp brush cursor](object_1) [a cross](object_2) [a circle](object_3).
+- whats the [clone stamp brush cursor](object_1) [a cross](object_2) [a circle](object_3) ?
+- whats [clone stamp brush cursor](object_1) [a cross](object_2) [a circle](object_3) ?
+- [clone stamp brush cursor](object_1) [a cross](object_2) [a circle](object_3)
+
+- Can [I](object_1) record [a tutorial video](object_2) and use [it](object_3) for my blog?
+- what is the [I](object_1) [a tutorial video](object_2) [it](object_3) ?
+- what is [I](object_1) [a tutorial video](object_2) [it](object_3) ?
+- please tell me about the [I](object_1) [a tutorial video](object_2) [it](object_3).
+- I dont know the [I](object_1) [a tutorial video](object_2) [it](object_3). Can you help me ?
+- I dont know what is the [I](object_1) [a tutorial video](object_2) [it](object_3). Can you help me ?
+- tell me about the [I](object_1) [a tutorial video](object_2) [it](object_3).
+- whats the [I](object_1) [a tutorial video](object_2) [it](object_3) ?
+- whats [I](object_1) [a tutorial video](object_2) [it](object_3) ?
+- [I](object_1) [a tutorial video](object_2) [it](object_3)
+
+- [watercolor azeleas](object_1)
+- what is the [watercolor azeleas](object_1) ?
+- what is [watercolor azeleas](object_1) ?
+- please tell me about the [watercolor azeleas](object_1).
+- I dont know the [watercolor azeleas](object_1). Can you help me ?
+- I dont know what is the [watercolor azeleas](object_1). Can you help me ?
+- tell me about the [watercolor azeleas](object_1).
+- whats the [watercolor azeleas](object_1) ?
+- whats [watercolor azeleas](object_1) ?
+- [watercolor azeleas](object_1)
+
+- [Adobe CC platforms](object_1)
+- what is the [Adobe CC platforms](object_1) ?
+- what is [Adobe CC platforms](object_1) ?
+- please tell me about the [Adobe CC platforms](object_1).
+- I dont know the [Adobe CC platforms](object_1). Can you help me ?
+- I dont know what is the [Adobe CC platforms](object_1). Can you help me ?
+- tell me about the [Adobe CC platforms](object_1).
+- whats the [Adobe CC platforms](object_1) ?
+- whats [Adobe CC platforms](object_1) ?
+- [Adobe CC platforms](object_1)
+
+- [Photoshop CS2 activation](object_1) 2007/2017
+- what is the [Photoshop CS2 activation](object_1) ?
+- what is [Photoshop CS2 activation](object_1) ?
+- please tell me about the [Photoshop CS2 activation](object_1).
+- I dont know the [Photoshop CS2 activation](object_1). Can you help me ?
+- I dont know what is the [Photoshop CS2 activation](object_1). Can you help me ?
+- tell me about the [Photoshop CS2 activation](object_1).
+- whats the [Photoshop CS2 activation](object_1) ?
+- whats [Photoshop CS2 activation](object_1) ?
+- [Photoshop CS2 activation](object_1)
+
+- [BATCH ACTION](object_1)
+- what is the [BATCH ACTION](object_1) ?
+- what is [BATCH ACTION](object_1) ?
+- please tell me about the [BATCH ACTION](object_1).
+- I dont know the [BATCH ACTION](object_1). Can you help me ?
+- I dont know what is the [BATCH ACTION](object_1). Can you help me ?
+- tell me about the [BATCH ACTION](object_1).
+- whats the [BATCH ACTION](object_1) ?
+- whats [BATCH ACTION](object_1) ?
+- [BATCH ACTION](object_1)
+
+- Photoshop CC paint brush masking not working properly
+- what is the  ?
+- what is  ?
+- please tell me about the .
+- I dont know the . Can you help me ?
+- I dont know what is the . Can you help me ?
+- tell me about the .
+- whats the  ?
+- whats  ?
+- 
+
+- Don't laugh--[I](object_1) have [a Photoshop CS2 question](object_2)
+- what is the [I](object_1) [a Photoshop CS2 question](object_2) ?
+- what is [I](object_1) [a Photoshop CS2 question](object_2) ?
+- please tell me about the [I](object_1) [a Photoshop CS2 question](object_2).
+- I dont know the [I](object_1) [a Photoshop CS2 question](object_2). Can you help me ?
+- I dont know what is the [I](object_1) [a Photoshop CS2 question](object_2). Can you help me ?
+- tell me about the [I](object_1) [a Photoshop CS2 question](object_2).
+- whats the [I](object_1) [a Photoshop CS2 question](object_2) ?
+- whats [I](object_1) [a Photoshop CS2 question](object_2) ?
+- [I](object_1) [a Photoshop CS2 question](object_2)
+
+- [PS document window](object_1) goes [Black](object_2) when using [Dual Monitor](object_3) set up. PS CC 2017.0.1
+- what is the [PS document window](object_1) [Black](object_2) [Dual Monitor](object_3) ?
+- what is [PS document window](object_1) [Black](object_2) [Dual Monitor](object_3) ?
+- please tell me about the [PS document window](object_1) [Black](object_2) [Dual Monitor](object_3).
+- I dont know the [PS document window](object_1) [Black](object_2) [Dual Monitor](object_3). Can you help me ?
+- I dont know what is the [PS document window](object_1) [Black](object_2) [Dual Monitor](object_3). Can you help me ?
+- tell me about the [PS document window](object_1) [Black](object_2) [Dual Monitor](object_3).
+- whats the [PS document window](object_1) [Black](object_2) [Dual Monitor](object_3) ?
+- whats [PS document window](object_1) [Black](object_2) [Dual Monitor](object_3) ?
+- [PS document window](object_1) [Black](object_2) [Dual Monitor](object_3)
+
+- [Camera Raw Display problem](object_1) after updating [Camera Raw CC](object_2) today
+- what is the [Camera Raw Display problem](object_1) [Camera Raw CC](object_2) ?
+- what is [Camera Raw Display problem](object_1) [Camera Raw CC](object_2) ?
+- please tell me about the [Camera Raw Display problem](object_1) [Camera Raw CC](object_2).
+- I dont know the [Camera Raw Display problem](object_1) [Camera Raw CC](object_2). Can you help me ?
+- I dont know what is the [Camera Raw Display problem](object_1) [Camera Raw CC](object_2). Can you help me ?
+- tell me about the [Camera Raw Display problem](object_1) [Camera Raw CC](object_2).
+- whats the [Camera Raw Display problem](object_1) [Camera Raw CC](object_2) ?
+- whats [Camera Raw Display problem](object_1) [Camera Raw CC](object_2) ?
+- [Camera Raw Display problem](object_1) [Camera Raw CC](object_2)
+
+- Select and [Mask Tool](object_1) [Still Broken Photoshop CC](object_2) 2017
+- what is the [Mask Tool](object_1) [Still Broken Photoshop CC](object_2) ?
+- what is [Mask Tool](object_1) [Still Broken Photoshop CC](object_2) ?
+- please tell me about the [Mask Tool](object_1) [Still Broken Photoshop CC](object_2).
+- I dont know the [Mask Tool](object_1) [Still Broken Photoshop CC](object_2). Can you help me ?
+- I dont know what is the [Mask Tool](object_1) [Still Broken Photoshop CC](object_2). Can you help me ?
+- tell me about the [Mask Tool](object_1) [Still Broken Photoshop CC](object_2).
+- whats the [Mask Tool](object_1) [Still Broken Photoshop CC](object_2) ?
+- whats [Mask Tool](object_1) [Still Broken Photoshop CC](object_2) ?
+- [Mask Tool](object_1) [Still Broken Photoshop CC](object_2)
+
+- [Shape Dynamics brushstrokes](object_1) are not sharp
+- what is the [Shape Dynamics brushstrokes](object_1) ?
+- what is [Shape Dynamics brushstrokes](object_1) ?
+- please tell me about the [Shape Dynamics brushstrokes](object_1).
+- I dont know the [Shape Dynamics brushstrokes](object_1). Can you help me ?
+- I dont know what is the [Shape Dynamics brushstrokes](object_1). Can you help me ?
+- tell me about the [Shape Dynamics brushstrokes](object_1).
+- whats the [Shape Dynamics brushstrokes](object_1) ?
+- whats [Shape Dynamics brushstrokes](object_1) ?
+- [Shape Dynamics brushstrokes](object_1)
+
+- [camera raw](object_1)
+- what is the [camera raw](object_1) ?
+- what is [camera raw](object_1) ?
+- please tell me about the [camera raw](object_1).
+- I dont know the [camera raw](object_1). Can you help me ?
+- I dont know what is the [camera raw](object_1). Can you help me ?
+- tell me about the [camera raw](object_1).
+- whats the [camera raw](object_1) ?
+- whats [camera raw](object_1) ?
+- [camera raw](object_1)
+
+- [Photoshop Script](object_1) for [Saving Image](object_2)
+- what is the [Photoshop Script](object_1) [Saving Image](object_2) ?
+- what is [Photoshop Script](object_1) [Saving Image](object_2) ?
+- please tell me about the [Photoshop Script](object_1) [Saving Image](object_2).
+- I dont know the [Photoshop Script](object_1) [Saving Image](object_2). Can you help me ?
+- I dont know what is the [Photoshop Script](object_1) [Saving Image](object_2). Can you help me ?
+- tell me about the [Photoshop Script](object_1) [Saving Image](object_2).
+- whats the [Photoshop Script](object_1) [Saving Image](object_2) ?
+- whats [Photoshop Script](object_1) [Saving Image](object_2) ?
+- [Photoshop Script](object_1) [Saving Image](object_2)
+
+- [Mac Sierra compatibility](object_1) with [PS6](object_2) and [LR6](object_3) standalone software
+- what is the [Mac Sierra compatibility](object_1) [PS6](object_2) [LR6](object_3) ?
+- what is [Mac Sierra compatibility](object_1) [PS6](object_2) [LR6](object_3) ?
+- please tell me about the [Mac Sierra compatibility](object_1) [PS6](object_2) [LR6](object_3).
+- I dont know the [Mac Sierra compatibility](object_1) [PS6](object_2) [LR6](object_3). Can you help me ?
+- I dont know what is the [Mac Sierra compatibility](object_1) [PS6](object_2) [LR6](object_3). Can you help me ?
+- tell me about the [Mac Sierra compatibility](object_1) [PS6](object_2) [LR6](object_3).
+- whats the [Mac Sierra compatibility](object_1) [PS6](object_2) [LR6](object_3) ?
+- whats [Mac Sierra compatibility](object_1) [PS6](object_2) [LR6](object_3) ?
+- [Mac Sierra compatibility](object_1) [PS6](object_2) [LR6](object_3)
+
+- Re[-Publishing](object_1) Adobe sites (https://helpx.adobe.com/de/photoshop/how-to/make-animated-gif.html)
+- what is the [-Publishing](object_1) ?
+- what is [-Publishing](object_1) ?
+- please tell me about the [-Publishing](object_1).
+- I dont know the [-Publishing](object_1). Can you help me ?
+- I dont know what is the [-Publishing](object_1). Can you help me ?
+- tell me about the [-Publishing](object_1).
+- whats the [-Publishing](object_1) ?
+- whats [-Publishing](object_1) ?
+- [-Publishing](object_1)
+
+- [Any free color wheels](object_1) for [photoshop cs6](object_2)?
+- what is the [Any free color wheels](object_1) [photoshop cs6](object_2) ?
+- what is [Any free color wheels](object_1) [photoshop cs6](object_2) ?
+- please tell me about the [Any free color wheels](object_1) [photoshop cs6](object_2).
+- I dont know the [Any free color wheels](object_1) [photoshop cs6](object_2). Can you help me ?
+- I dont know what is the [Any free color wheels](object_1) [photoshop cs6](object_2). Can you help me ?
+- tell me about the [Any free color wheels](object_1) [photoshop cs6](object_2).
+- whats the [Any free color wheels](object_1) [photoshop cs6](object_2) ?
+- whats [Any free color wheels](object_1) [photoshop cs6](object_2) ?
+- [Any free color wheels](object_1) [photoshop cs6](object_2)
+
+- [Essential Toolbar](object_1)
+- what is the [Essential Toolbar](object_1) ?
+- what is [Essential Toolbar](object_1) ?
+- please tell me about the [Essential Toolbar](object_1).
+- I dont know the [Essential Toolbar](object_1). Can you help me ?
+- I dont know what is the [Essential Toolbar](object_1). Can you help me ?
+- tell me about the [Essential Toolbar](object_1).
+- whats the [Essential Toolbar](object_1) ?
+- whats [Essential Toolbar](object_1) ?
+- [Essential Toolbar](object_1)
+
+- [Adobe Photoshop](object_1) CS3- [Post](object_2) install issues
+- what is the [Adobe Photoshop](object_1) [Post](object_2) ?
+- what is [Adobe Photoshop](object_1) [Post](object_2) ?
+- please tell me about the [Adobe Photoshop](object_1) [Post](object_2).
+- I dont know the [Adobe Photoshop](object_1) [Post](object_2). Can you help me ?
+- I dont know what is the [Adobe Photoshop](object_1) [Post](object_2). Can you help me ?
+- tell me about the [Adobe Photoshop](object_1) [Post](object_2).
+- whats the [Adobe Photoshop](object_1) [Post](object_2) ?
+- whats [Adobe Photoshop](object_1) [Post](object_2) ?
+- [Adobe Photoshop](object_1) [Post](object_2)
+
+- [Data Sets](object_1) in [Photoshop Error](object_2)
+- what is the [Data Sets](object_1) [Photoshop Error](object_2) ?
+- what is [Data Sets](object_1) [Photoshop Error](object_2) ?
+- please tell me about the [Data Sets](object_1) [Photoshop Error](object_2).
+- I dont know the [Data Sets](object_1) [Photoshop Error](object_2). Can you help me ?
+- I dont know what is the [Data Sets](object_1) [Photoshop Error](object_2). Can you help me ?
+- tell me about the [Data Sets](object_1) [Photoshop Error](object_2).
+- whats the [Data Sets](object_1) [Photoshop Error](object_2) ?
+- whats [Data Sets](object_1) [Photoshop Error](object_2) ?
+- [Data Sets](object_1) [Photoshop Error](object_2)
+
+- [como certificarme por](object_1) adobe en [Photoshop](object_2)
+- what is the [como certificarme por](object_1) [Photoshop](object_2) ?
+- what is [como certificarme por](object_1) [Photoshop](object_2) ?
+- please tell me about the [como certificarme por](object_1) [Photoshop](object_2).
+- I dont know the [como certificarme por](object_1) [Photoshop](object_2). Can you help me ?
+- I dont know what is the [como certificarme por](object_1) [Photoshop](object_2). Can you help me ?
+- tell me about the [como certificarme por](object_1) [Photoshop](object_2).
+- whats the [como certificarme por](object_1) [Photoshop](object_2) ?
+- whats [como certificarme por](object_1) [Photoshop](object_2) ?
+- [como certificarme por](object_1) [Photoshop](object_2)
+
+- [Webster's Crosshatchers ABR file](object_1) will not download normally? Also, [the abr file](object_2) will not load with [a message](object_3) that there's a compatibility issue.
+- what is the [Webster's Crosshatchers ABR file](object_1) [the abr file](object_2) [a message](object_3) ?
+- what is [Webster's Crosshatchers ABR file](object_1) [the abr file](object_2) [a message](object_3) ?
+- please tell me about the [Webster's Crosshatchers ABR file](object_1) [the abr file](object_2) [a message](object_3).
+- I dont know the [Webster's Crosshatchers ABR file](object_1) [the abr file](object_2) [a message](object_3). Can you help me ?
+- I dont know what is the [Webster's Crosshatchers ABR file](object_1) [the abr file](object_2) [a message](object_3). Can you help me ?
+- tell me about the [Webster's Crosshatchers ABR file](object_1) [the abr file](object_2) [a message](object_3).
+- whats the [Webster's Crosshatchers ABR file](object_1) [the abr file](object_2) [a message](object_3) ?
+- whats [Webster's Crosshatchers ABR file](object_1) [the abr file](object_2) [a message](object_3) ?
+- [Webster's Crosshatchers ABR file](object_1) [the abr file](object_2) [a message](object_3)
+
+- [Curves](object_1)
+- what is the [Curves](object_1) ?
+- what is [Curves](object_1) ?
+- please tell me about the [Curves](object_1).
+- I dont know the [Curves](object_1). Can you help me ?
+- I dont know what is the [Curves](object_1). Can you help me ?
+- tell me about the [Curves](object_1).
+- whats the [Curves](object_1) ?
+- whats [Curves](object_1) ?
+- [Curves](object_1)
+
+- [Photoshop CC Print](object_1) to PDF cropping to [paper size](object_2)
+- what is the [Photoshop CC Print](object_1) [paper size](object_2) ?
+- what is [Photoshop CC Print](object_1) [paper size](object_2) ?
+- please tell me about the [Photoshop CC Print](object_1) [paper size](object_2).
+- I dont know the [Photoshop CC Print](object_1) [paper size](object_2). Can you help me ?
+- I dont know what is the [Photoshop CC Print](object_1) [paper size](object_2). Can you help me ?
+- tell me about the [Photoshop CC Print](object_1) [paper size](object_2).
+- whats the [Photoshop CC Print](object_1) [paper size](object_2) ?
+- whats [Photoshop CC Print](object_1) [paper size](object_2) ?
+- [Photoshop CC Print](object_1) [paper size](object_2)
+
+- [PhSh CC2018](object_1)
+- what is the [PhSh CC2018](object_1) ?
+- what is [PhSh CC2018](object_1) ?
+- please tell me about the [PhSh CC2018](object_1).
+- I dont know the [PhSh CC2018](object_1). Can you help me ?
+- I dont know what is the [PhSh CC2018](object_1). Can you help me ?
+- tell me about the [PhSh CC2018](object_1).
+- whats the [PhSh CC2018](object_1) ?
+- whats [PhSh CC2018](object_1) ?
+- [PhSh CC2018](object_1)
+
+- [No MacBook Touchbar support](object_1)?
+- what is the [No MacBook Touchbar support](object_1) ?
+- what is [No MacBook Touchbar support](object_1) ?
+- please tell me about the [No MacBook Touchbar support](object_1).
+- I dont know the [No MacBook Touchbar support](object_1). Can you help me ?
+- I dont know what is the [No MacBook Touchbar support](object_1). Can you help me ?
+- tell me about the [No MacBook Touchbar support](object_1).
+- whats the [No MacBook Touchbar support](object_1) ?
+- whats [No MacBook Touchbar support](object_1) ?
+- [No MacBook Touchbar support](object_1)
+
+- [payment method](object_1)
+- what is the [payment method](object_1) ?
+- what is [payment method](object_1) ?
+- please tell me about the [payment method](object_1).
+- I dont know the [payment method](object_1). Can you help me ?
+- I dont know what is the [payment method](object_1). Can you help me ?
+- tell me about the [payment method](object_1).
+- whats the [payment method](object_1) ?
+- whats [payment method](object_1) ?
+- [payment method](object_1)
+
+- [Mask Selection](object_1) in [Photoshop CS6](object_2)
+- what is the [Mask Selection](object_1) [Photoshop CS6](object_2) ?
+- what is [Mask Selection](object_1) [Photoshop CS6](object_2) ?
+- please tell me about the [Mask Selection](object_1) [Photoshop CS6](object_2).
+- I dont know the [Mask Selection](object_1) [Photoshop CS6](object_2). Can you help me ?
+- I dont know what is the [Mask Selection](object_1) [Photoshop CS6](object_2). Can you help me ?
+- tell me about the [Mask Selection](object_1) [Photoshop CS6](object_2).
+- whats the [Mask Selection](object_1) [Photoshop CS6](object_2) ?
+- whats [Mask Selection](object_1) [Photoshop CS6](object_2) ?
+- [Mask Selection](object_1) [Photoshop CS6](object_2)
+
+- For [animated gifs](object_1): [gifsicle](object_2) sets Photoshops SaveForWeb parameter "lossy" to 60 that cannot be changed.
+- what is the [animated gifs](object_1) [gifsicle](object_2) ?
+- what is [animated gifs](object_1) [gifsicle](object_2) ?
+- please tell me about the [animated gifs](object_1) [gifsicle](object_2).
+- I dont know the [animated gifs](object_1) [gifsicle](object_2). Can you help me ?
+- I dont know what is the [animated gifs](object_1) [gifsicle](object_2). Can you help me ?
+- tell me about the [animated gifs](object_1) [gifsicle](object_2).
+- whats the [animated gifs](object_1) [gifsicle](object_2) ?
+- whats [animated gifs](object_1) [gifsicle](object_2) ?
+- [animated gifs](object_1) [gifsicle](object_2)
+
+- [Curvature Pen tool](object_1) for [Illustrator](object_2)?
+- what is the [Curvature Pen tool](object_1) [Illustrator](object_2) ?
+- what is [Curvature Pen tool](object_1) [Illustrator](object_2) ?
+- please tell me about the [Curvature Pen tool](object_1) [Illustrator](object_2).
+- I dont know the [Curvature Pen tool](object_1) [Illustrator](object_2). Can you help me ?
+- I dont know what is the [Curvature Pen tool](object_1) [Illustrator](object_2). Can you help me ?
+- tell me about the [Curvature Pen tool](object_1) [Illustrator](object_2).
+- whats the [Curvature Pen tool](object_1) [Illustrator](object_2) ?
+- whats [Curvature Pen tool](object_1) [Illustrator](object_2) ?
+- [Curvature Pen tool](object_1) [Illustrator](object_2)
+
+- [Photoshop CS6 installer initialization error](object_1)
+- what is the [Photoshop CS6 installer initialization error](object_1) ?
+- what is [Photoshop CS6 installer initialization error](object_1) ?
+- please tell me about the [Photoshop CS6 installer initialization error](object_1).
+- I dont know the [Photoshop CS6 installer initialization error](object_1). Can you help me ?
+- I dont know what is the [Photoshop CS6 installer initialization error](object_1). Can you help me ?
+- tell me about the [Photoshop CS6 installer initialization error](object_1).
+- whats the [Photoshop CS6 installer initialization error](object_1) ?
+- whats [Photoshop CS6 installer initialization error](object_1) ?
+- [Photoshop CS6 installer initialization error](object_1)
+
+- [Import web](object_1) into [Photoshop CC](object_2)
+- what is the [Import web](object_1) [Photoshop CC](object_2) ?
+- what is [Import web](object_1) [Photoshop CC](object_2) ?
+- please tell me about the [Import web](object_1) [Photoshop CC](object_2).
+- I dont know the [Import web](object_1) [Photoshop CC](object_2). Can you help me ?
+- I dont know what is the [Import web](object_1) [Photoshop CC](object_2). Can you help me ?
+- tell me about the [Import web](object_1) [Photoshop CC](object_2).
+- whats the [Import web](object_1) [Photoshop CC](object_2) ?
+- whats [Import web](object_1) [Photoshop CC](object_2) ?
+- [Import web](object_1) [Photoshop CC](object_2)
+
+- How can [I](object_1) open [old Adobe Edge Reflow](object_2) [.RFLW files](object_3)?
+- what is the [I](object_1) [old Adobe Edge Reflow](object_2) [.RFLW files](object_3) ?
+- what is [I](object_1) [old Adobe Edge Reflow](object_2) [.RFLW files](object_3) ?
+- please tell me about the [I](object_1) [old Adobe Edge Reflow](object_2) [.RFLW files](object_3).
+- I dont know the [I](object_1) [old Adobe Edge Reflow](object_2) [.RFLW files](object_3). Can you help me ?
+- I dont know what is the [I](object_1) [old Adobe Edge Reflow](object_2) [.RFLW files](object_3). Can you help me ?
+- tell me about the [I](object_1) [old Adobe Edge Reflow](object_2) [.RFLW files](object_3).
+- whats the [I](object_1) [old Adobe Edge Reflow](object_2) [.RFLW files](object_3) ?
+- whats [I](object_1) [old Adobe Edge Reflow](object_2) [.RFLW files](object_3) ?
+- [I](object_1) [old Adobe Edge Reflow](object_2) [.RFLW files](object_3)
+
+- [Paint Bucket](object_1) turns to [Red Circle](object_2) with [Line](object_3) (Why?)
+- what is the [Paint Bucket](object_1) [Red Circle](object_2) [Line](object_3) ?
+- what is [Paint Bucket](object_1) [Red Circle](object_2) [Line](object_3) ?
+- please tell me about the [Paint Bucket](object_1) [Red Circle](object_2) [Line](object_3).
+- I dont know the [Paint Bucket](object_1) [Red Circle](object_2) [Line](object_3). Can you help me ?
+- I dont know what is the [Paint Bucket](object_1) [Red Circle](object_2) [Line](object_3). Can you help me ?
+- tell me about the [Paint Bucket](object_1) [Red Circle](object_2) [Line](object_3).
+- whats the [Paint Bucket](object_1) [Red Circle](object_2) [Line](object_3) ?
+- whats [Paint Bucket](object_1) [Red Circle](object_2) [Line](object_3) ?
+- [Paint Bucket](object_1) [Red Circle](object_2) [Line](object_3)
+
+- [Ps](object_1) 2018 [centra las imágenes](object_2) en [pantalla al hacer clic](object_3) en capas
+- what is the [Ps](object_1) [centra las imágenes](object_2) [pantalla al hacer clic](object_3) ?
+- what is [Ps](object_1) [centra las imágenes](object_2) [pantalla al hacer clic](object_3) ?
+- please tell me about the [Ps](object_1) [centra las imágenes](object_2) [pantalla al hacer clic](object_3).
+- I dont know the [Ps](object_1) [centra las imágenes](object_2) [pantalla al hacer clic](object_3). Can you help me ?
+- I dont know what is the [Ps](object_1) [centra las imágenes](object_2) [pantalla al hacer clic](object_3). Can you help me ?
+- tell me about the [Ps](object_1) [centra las imágenes](object_2) [pantalla al hacer clic](object_3).
+- whats the [Ps](object_1) [centra las imágenes](object_2) [pantalla al hacer clic](object_3) ?
+- whats [Ps](object_1) [centra las imágenes](object_2) [pantalla al hacer clic](object_3) ?
+- [Ps](object_1) [centra las imágenes](object_2) [pantalla al hacer clic](object_3)
+
+- [Linear dodge](object_1) & [color](object_2) burn dull in [Creative Cloud](object_3) vs CS6
+- what is the [Linear dodge](object_1) [color](object_2) [Creative Cloud](object_3) ?
+- what is [Linear dodge](object_1) [color](object_2) [Creative Cloud](object_3) ?
+- please tell me about the [Linear dodge](object_1) [color](object_2) [Creative Cloud](object_3).
+- I dont know the [Linear dodge](object_1) [color](object_2) [Creative Cloud](object_3). Can you help me ?
+- I dont know what is the [Linear dodge](object_1) [color](object_2) [Creative Cloud](object_3). Can you help me ?
+- tell me about the [Linear dodge](object_1) [color](object_2) [Creative Cloud](object_3).
+- whats the [Linear dodge](object_1) [color](object_2) [Creative Cloud](object_3) ?
+- whats [Linear dodge](object_1) [color](object_2) [Creative Cloud](object_3) ?
+- [Linear dodge](object_1) [color](object_2) [Creative Cloud](object_3)
+
+- [fuji x-pro2 RAF](object_1) files [opening](object_2) in black and white in [photoshop CC](object_3)
+- what is the [fuji x-pro2 RAF](object_1) [opening](object_2) [photoshop CC](object_3) ?
+- what is [fuji x-pro2 RAF](object_1) [opening](object_2) [photoshop CC](object_3) ?
+- please tell me about the [fuji x-pro2 RAF](object_1) [opening](object_2) [photoshop CC](object_3).
+- I dont know the [fuji x-pro2 RAF](object_1) [opening](object_2) [photoshop CC](object_3). Can you help me ?
+- I dont know what is the [fuji x-pro2 RAF](object_1) [opening](object_2) [photoshop CC](object_3). Can you help me ?
+- tell me about the [fuji x-pro2 RAF](object_1) [opening](object_2) [photoshop CC](object_3).
+- whats the [fuji x-pro2 RAF](object_1) [opening](object_2) [photoshop CC](object_3) ?
+- whats [fuji x-pro2 RAF](object_1) [opening](object_2) [photoshop CC](object_3) ?
+- [fuji x-pro2 RAF](object_1) [opening](object_2) [photoshop CC](object_3)
+
+- Photoshop CS6 Download issue - please help
+- what is the  ?
+- what is  ?
+- please tell me about the .
+- I dont know the . Can you help me ?
+- I dont know what is the . Can you help me ?
+- tell me about the .
+- whats the  ?
+- whats  ?
+- 
+
+- Wacom Intuos chaning [Brush Size/Opacity](object_1) dosnt work
+- what is the [Brush Size/Opacity](object_1) ?
+- what is [Brush Size/Opacity](object_1) ?
+- please tell me about the [Brush Size/Opacity](object_1).
+- I dont know the [Brush Size/Opacity](object_1). Can you help me ?
+- I dont know what is the [Brush Size/Opacity](object_1). Can you help me ?
+- tell me about the [Brush Size/Opacity](object_1).
+- whats the [Brush Size/Opacity](object_1) ?
+- whats [Brush Size/Opacity](object_1) ?
+- [Brush Size/Opacity](object_1)
+
+- [Performance issues](object_1) with [Photoshop CC](object_2) 2018?
+- what is the [Performance issues](object_1) [Photoshop CC](object_2) ?
+- what is [Performance issues](object_1) [Photoshop CC](object_2) ?
+- please tell me about the [Performance issues](object_1) [Photoshop CC](object_2).
+- I dont know the [Performance issues](object_1) [Photoshop CC](object_2). Can you help me ?
+- I dont know what is the [Performance issues](object_1) [Photoshop CC](object_2). Can you help me ?
+- tell me about the [Performance issues](object_1) [Photoshop CC](object_2).
+- whats the [Performance issues](object_1) [Photoshop CC](object_2) ?
+- whats [Performance issues](object_1) [Photoshop CC](object_2) ?
+- [Performance issues](object_1) [Photoshop CC](object_2)
+
+- [Borderless printing, custom size](object_1) via [pdf](object_2)
+- what is the [Borderless printing, custom size](object_1) [pdf](object_2) ?
+- what is [Borderless printing, custom size](object_1) [pdf](object_2) ?
+- please tell me about the [Borderless printing, custom size](object_1) [pdf](object_2).
+- I dont know the [Borderless printing, custom size](object_1) [pdf](object_2). Can you help me ?
+- I dont know what is the [Borderless printing, custom size](object_1) [pdf](object_2). Can you help me ?
+- tell me about the [Borderless printing, custom size](object_1) [pdf](object_2).
+- whats the [Borderless printing, custom size](object_1) [pdf](object_2) ?
+- whats [Borderless printing, custom size](object_1) [pdf](object_2) ?
+- [Borderless printing, custom size](object_1) [pdf](object_2)
+
+- Pen Stops Working After Using [It](object_1) for [a While](object_2)?
+- what is the [It](object_1) [a While](object_2) ?
+- what is [It](object_1) [a While](object_2) ?
+- please tell me about the [It](object_1) [a While](object_2).
+- I dont know the [It](object_1) [a While](object_2). Can you help me ?
+- I dont know what is the [It](object_1) [a While](object_2). Can you help me ?
+- tell me about the [It](object_1) [a While](object_2).
+- whats the [It](object_1) [a While](object_2) ?
+- whats [It](object_1) [a While](object_2) ?
+- [It](object_1) [a While](object_2)
+
+- [stylus use](object_1) in [photoshop](object_2)
+- what is the [stylus use](object_1) [photoshop](object_2) ?
+- what is [stylus use](object_1) [photoshop](object_2) ?
+- please tell me about the [stylus use](object_1) [photoshop](object_2).
+- I dont know the [stylus use](object_1) [photoshop](object_2). Can you help me ?
+- I dont know what is the [stylus use](object_1) [photoshop](object_2). Can you help me ?
+- tell me about the [stylus use](object_1) [photoshop](object_2).
+- whats the [stylus use](object_1) [photoshop](object_2) ?
+- whats [stylus use](object_1) [photoshop](object_2) ?
+- [stylus use](object_1) [photoshop](object_2)
+
+- [Ik ben](object_1) een penseel kwijt, en [ik weet niet waneer](object_2) en [hoe dat gebeurd](object_3) is
+- what is the [Ik ben](object_1) [ik weet niet waneer](object_2) [hoe dat gebeurd](object_3) ?
+- what is [Ik ben](object_1) [ik weet niet waneer](object_2) [hoe dat gebeurd](object_3) ?
+- please tell me about the [Ik ben](object_1) [ik weet niet waneer](object_2) [hoe dat gebeurd](object_3).
+- I dont know the [Ik ben](object_1) [ik weet niet waneer](object_2) [hoe dat gebeurd](object_3). Can you help me ?
+- I dont know what is the [Ik ben](object_1) [ik weet niet waneer](object_2) [hoe dat gebeurd](object_3). Can you help me ?
+- tell me about the [Ik ben](object_1) [ik weet niet waneer](object_2) [hoe dat gebeurd](object_3).
+- whats the [Ik ben](object_1) [ik weet niet waneer](object_2) [hoe dat gebeurd](object_3) ?
+- whats [Ik ben](object_1) [ik weet niet waneer](object_2) [hoe dat gebeurd](object_3) ?
+- [Ik ben](object_1) [ik weet niet waneer](object_2) [hoe dat gebeurd](object_3)
+
+- [Saving](object_1) [Error](object_2)
+- what is the [Saving](object_1) [Error](object_2) ?
+- what is [Saving](object_1) [Error](object_2) ?
+- please tell me about the [Saving](object_1) [Error](object_2).
+- I dont know the [Saving](object_1) [Error](object_2). Can you help me ?
+- I dont know what is the [Saving](object_1) [Error](object_2). Can you help me ?
+- tell me about the [Saving](object_1) [Error](object_2).
+- whats the [Saving](object_1) [Error](object_2) ?
+- whats [Saving](object_1) [Error](object_2) ?
+- [Saving](object_1) [Error](object_2)
+
+- [Layer counter](object_1)
+- what is the [Layer counter](object_1) ?
+- what is [Layer counter](object_1) ?
+- please tell me about the [Layer counter](object_1).
+- I dont know the [Layer counter](object_1). Can you help me ?
+- I dont know what is the [Layer counter](object_1). Can you help me ?
+- tell me about the [Layer counter](object_1).
+- whats the [Layer counter](object_1) ?
+- whats [Layer counter](object_1) ?
+- [Layer counter](object_1)
+
+- [Interface Photoshop cc](object_1) 2017
+- what is the [Interface Photoshop cc](object_1) ?
+- what is [Interface Photoshop cc](object_1) ?
+- please tell me about the [Interface Photoshop cc](object_1).
+- I dont know the [Interface Photoshop cc](object_1). Can you help me ?
+- I dont know what is the [Interface Photoshop cc](object_1). Can you help me ?
+- tell me about the [Interface Photoshop cc](object_1).
+- whats the [Interface Photoshop cc](object_1) ?
+- whats [Interface Photoshop cc](object_1) ?
+- [Interface Photoshop cc](object_1)
+
+- [Lag Problems](object_1) with [Photoshop CC](object_2) on [my Wacom Mobile Studio Pro](object_3)
+- what is the [Lag Problems](object_1) [Photoshop CC](object_2) [my Wacom Mobile Studio Pro](object_3) ?
+- what is [Lag Problems](object_1) [Photoshop CC](object_2) [my Wacom Mobile Studio Pro](object_3) ?
+- please tell me about the [Lag Problems](object_1) [Photoshop CC](object_2) [my Wacom Mobile Studio Pro](object_3).
+- I dont know the [Lag Problems](object_1) [Photoshop CC](object_2) [my Wacom Mobile Studio Pro](object_3). Can you help me ?
+- I dont know what is the [Lag Problems](object_1) [Photoshop CC](object_2) [my Wacom Mobile Studio Pro](object_3). Can you help me ?
+- tell me about the [Lag Problems](object_1) [Photoshop CC](object_2) [my Wacom Mobile Studio Pro](object_3).
+- whats the [Lag Problems](object_1) [Photoshop CC](object_2) [my Wacom Mobile Studio Pro](object_3) ?
+- whats [Lag Problems](object_1) [Photoshop CC](object_2) [my Wacom Mobile Studio Pro](object_3) ?
+- [Lag Problems](object_1) [Photoshop CC](object_2) [my Wacom Mobile Studio Pro](object_3)
+
+- [Adobe Photoshop CC](object_1) 2017 [Paint Bucket Issue](object_2)
+- what is the [Adobe Photoshop CC](object_1) [Paint Bucket Issue](object_2) ?
+- what is [Adobe Photoshop CC](object_1) [Paint Bucket Issue](object_2) ?
+- please tell me about the [Adobe Photoshop CC](object_1) [Paint Bucket Issue](object_2).
+- I dont know the [Adobe Photoshop CC](object_1) [Paint Bucket Issue](object_2). Can you help me ?
+- I dont know what is the [Adobe Photoshop CC](object_1) [Paint Bucket Issue](object_2). Can you help me ?
+- tell me about the [Adobe Photoshop CC](object_1) [Paint Bucket Issue](object_2).
+- whats the [Adobe Photoshop CC](object_1) [Paint Bucket Issue](object_2) ?
+- whats [Adobe Photoshop CC](object_1) [Paint Bucket Issue](object_2) ?
+- [Adobe Photoshop CC](object_1) [Paint Bucket Issue](object_2)
+
+- [Forme dynamique](object_1)
+- what is the [Forme dynamique](object_1) ?
+- what is [Forme dynamique](object_1) ?
+- please tell me about the [Forme dynamique](object_1).
+- I dont know the [Forme dynamique](object_1). Can you help me ?
+- I dont know what is the [Forme dynamique](object_1). Can you help me ?
+- tell me about the [Forme dynamique](object_1).
+- whats the [Forme dynamique](object_1) ?
+- whats [Forme dynamique](object_1) ?
+- [Forme dynamique](object_1)
+
+- [Fuji RAF files](object_1) are opened in [Photoshop](object_2) and [Bridge](object_3) in black and white rather than in color.
+- what is the [Fuji RAF files](object_1) [Photoshop](object_2) [Bridge](object_3) ?
+- what is [Fuji RAF files](object_1) [Photoshop](object_2) [Bridge](object_3) ?
+- please tell me about the [Fuji RAF files](object_1) [Photoshop](object_2) [Bridge](object_3).
+- I dont know the [Fuji RAF files](object_1) [Photoshop](object_2) [Bridge](object_3). Can you help me ?
+- I dont know what is the [Fuji RAF files](object_1) [Photoshop](object_2) [Bridge](object_3). Can you help me ?
+- tell me about the [Fuji RAF files](object_1) [Photoshop](object_2) [Bridge](object_3).
+- whats the [Fuji RAF files](object_1) [Photoshop](object_2) [Bridge](object_3) ?
+- whats [Fuji RAF files](object_1) [Photoshop](object_2) [Bridge](object_3) ?
+- [Fuji RAF files](object_1) [Photoshop](object_2) [Bridge](object_3)
+
+- [Color Range](object_1) slide bar greyscaled issue.
+- what is the [Color Range](object_1) ?
+- what is [Color Range](object_1) ?
+- please tell me about the [Color Range](object_1).
+- I dont know the [Color Range](object_1). Can you help me ?
+- I dont know what is the [Color Range](object_1). Can you help me ?
+- tell me about the [Color Range](object_1).
+- whats the [Color Range](object_1) ?
+- whats [Color Range](object_1) ?
+- [Color Range](object_1)
+
+- [Blur Gallery](object_1) in [CC2018](object_2)
+- what is the [Blur Gallery](object_1) [CC2018](object_2) ?
+- what is [Blur Gallery](object_1) [CC2018](object_2) ?
+- please tell me about the [Blur Gallery](object_1) [CC2018](object_2).
+- I dont know the [Blur Gallery](object_1) [CC2018](object_2). Can you help me ?
+- I dont know what is the [Blur Gallery](object_1) [CC2018](object_2). Can you help me ?
+- tell me about the [Blur Gallery](object_1) [CC2018](object_2).
+- whats the [Blur Gallery](object_1) [CC2018](object_2) ?
+- whats [Blur Gallery](object_1) [CC2018](object_2) ?
+- [Blur Gallery](object_1) [CC2018](object_2)
+
+- [Adobe crash reporter service](object_1) has stopped working
+- what is the [Adobe crash reporter service](object_1) ?
+- what is [Adobe crash reporter service](object_1) ?
+- please tell me about the [Adobe crash reporter service](object_1).
+- I dont know the [Adobe crash reporter service](object_1). Can you help me ?
+- I dont know what is the [Adobe crash reporter service](object_1). Can you help me ?
+- tell me about the [Adobe crash reporter service](object_1).
+- whats the [Adobe crash reporter service](object_1) ?
+- whats [Adobe crash reporter service](object_1) ?
+- [Adobe crash reporter service](object_1)
+
+- [pen tool](object_1)
+- what is the [pen tool](object_1) ?
+- what is [pen tool](object_1) ?
+- please tell me about the [pen tool](object_1).
+- I dont know the [pen tool](object_1). Can you help me ?
+- I dont know what is the [pen tool](object_1). Can you help me ?
+- tell me about the [pen tool](object_1).
+- whats the [pen tool](object_1) ?
+- whats [pen tool](object_1) ?
+- [pen tool](object_1)
+
+- [[Q] Keyboard shortcut](object_1) for [Font Size Change](object_2) in [different languages](object_3).
+- what is the [[Q] Keyboard shortcut](object_1) [Font Size Change](object_2) [different languages](object_3) ?
+- what is [[Q] Keyboard shortcut](object_1) [Font Size Change](object_2) [different languages](object_3) ?
+- please tell me about the [[Q] Keyboard shortcut](object_1) [Font Size Change](object_2) [different languages](object_3).
+- I dont know the [[Q] Keyboard shortcut](object_1) [Font Size Change](object_2) [different languages](object_3). Can you help me ?
+- I dont know what is the [[Q] Keyboard shortcut](object_1) [Font Size Change](object_2) [different languages](object_3). Can you help me ?
+- tell me about the [[Q] Keyboard shortcut](object_1) [Font Size Change](object_2) [different languages](object_3).
+- whats the [[Q] Keyboard shortcut](object_1) [Font Size Change](object_2) [different languages](object_3) ?
+- whats [[Q] Keyboard shortcut](object_1) [Font Size Change](object_2) [different languages](object_3) ?
+- [[Q] Keyboard shortcut](object_1) [Font Size Change](object_2) [different languages](object_3)
+
+- [Embed Creative Cloud Library Objects](object_1)
+- what is the [Embed Creative Cloud Library Objects](object_1) ?
+- what is [Embed Creative Cloud Library Objects](object_1) ?
+- please tell me about the [Embed Creative Cloud Library Objects](object_1).
+- I dont know the [Embed Creative Cloud Library Objects](object_1). Can you help me ?
+- I dont know what is the [Embed Creative Cloud Library Objects](object_1). Can you help me ?
+- tell me about the [Embed Creative Cloud Library Objects](object_1).
+- whats the [Embed Creative Cloud Library Objects](object_1) ?
+- whats [Embed Creative Cloud Library Objects](object_1) ?
+- [Embed Creative Cloud Library Objects](object_1)
+
+- Photoshop CC Selection Missing? Help Please.
+- what is the  ?
+- what is  ?
+- please tell me about the .
+- I dont know the . Can you help me ?
+- I dont know what is the . Can you help me ?
+- tell me about the .
+- whats the  ?
+- whats  ?
+- 
+
+- [CS4 Error message/ Java SE](object_1) [6 runtime](object_2)
+- what is the [CS4 Error message/ Java SE](object_1) [6 runtime](object_2) ?
+- what is [CS4 Error message/ Java SE](object_1) [6 runtime](object_2) ?
+- please tell me about the [CS4 Error message/ Java SE](object_1) [6 runtime](object_2).
+- I dont know the [CS4 Error message/ Java SE](object_1) [6 runtime](object_2). Can you help me ?
+- I dont know what is the [CS4 Error message/ Java SE](object_1) [6 runtime](object_2). Can you help me ?
+- tell me about the [CS4 Error message/ Java SE](object_1) [6 runtime](object_2).
+- whats the [CS4 Error message/ Java SE](object_1) [6 runtime](object_2) ?
+- whats [CS4 Error message/ Java SE](object_1) [6 runtime](object_2) ?
+- [CS4 Error message/ Java SE](object_1) [6 runtime](object_2)
+
+- [Smart Object Automation Script](object_1)
+- what is the [Smart Object Automation Script](object_1) ?
+- what is [Smart Object Automation Script](object_1) ?
+- please tell me about the [Smart Object Automation Script](object_1).
+- I dont know the [Smart Object Automation Script](object_1). Can you help me ?
+- I dont know what is the [Smart Object Automation Script](object_1). Can you help me ?
+- tell me about the [Smart Object Automation Script](object_1).
+- whats the [Smart Object Automation Script](object_1) ?
+- whats [Smart Object Automation Script](object_1) ?
+- [Smart Object Automation Script](object_1)
+
+- [Practice file](object_1)
+- what is the [Practice file](object_1) ?
+- what is [Practice file](object_1) ?
+- please tell me about the [Practice file](object_1).
+- I dont know the [Practice file](object_1). Can you help me ?
+- I dont know what is the [Practice file](object_1). Can you help me ?
+- tell me about the [Practice file](object_1).
+- whats the [Practice file](object_1) ?
+- whats [Practice file](object_1) ?
+- [Practice file](object_1)
+
+- [Pixelated Text](object_1)
+- what is the [Pixelated Text](object_1) ?
+- what is [Pixelated Text](object_1) ?
+- please tell me about the [Pixelated Text](object_1).
+- I dont know the [Pixelated Text](object_1). Can you help me ?
+- I dont know what is the [Pixelated Text](object_1). Can you help me ?
+- tell me about the [Pixelated Text](object_1).
+- whats the [Pixelated Text](object_1) ?
+- whats [Pixelated Text](object_1) ?
+- [Pixelated Text](object_1)
+
+- [Photoshop and Lightroom color profiles](object_1)
+- what is the [Photoshop and Lightroom color profiles](object_1) ?
+- what is [Photoshop and Lightroom color profiles](object_1) ?
+- please tell me about the [Photoshop and Lightroom color profiles](object_1).
+- I dont know the [Photoshop and Lightroom color profiles](object_1). Can you help me ?
+- I dont know what is the [Photoshop and Lightroom color profiles](object_1). Can you help me ?
+- tell me about the [Photoshop and Lightroom color profiles](object_1).
+- whats the [Photoshop and Lightroom color profiles](object_1) ?
+- whats [Photoshop and Lightroom color profiles](object_1) ?
+- [Photoshop and Lightroom color profiles](object_1)
+
+- [Photo discolorisation](object_1)
+- what is the [Photo discolorisation](object_1) ?
+- what is [Photo discolorisation](object_1) ?
+- please tell me about the [Photo discolorisation](object_1).
+- I dont know the [Photo discolorisation](object_1). Can you help me ?
+- I dont know what is the [Photo discolorisation](object_1). Can you help me ?
+- tell me about the [Photo discolorisation](object_1).
+- whats the [Photo discolorisation](object_1) ?
+- whats [Photo discolorisation](object_1) ?
+- [Photo discolorisation](object_1)
+
+- [PS language](object_1)
+- what is the [PS language](object_1) ?
+- what is [PS language](object_1) ?
+- please tell me about the [PS language](object_1).
+- I dont know the [PS language](object_1). Can you help me ?
+- I dont know what is the [PS language](object_1). Can you help me ?
+- tell me about the [PS language](object_1).
+- whats the [PS language](object_1) ?
+- whats [PS language](object_1) ?
+- [PS language](object_1)
+
+- [Photoshop CC](object_1) freezing
+- what is the [Photoshop CC](object_1) ?
+- what is [Photoshop CC](object_1) ?
+- please tell me about the [Photoshop CC](object_1).
+- I dont know the [Photoshop CC](object_1). Can you help me ?
+- I dont know what is the [Photoshop CC](object_1). Can you help me ?
+- tell me about the [Photoshop CC](object_1).
+- whats the [Photoshop CC](object_1) ?
+- whats [Photoshop CC](object_1) ?
+- [Photoshop CC](object_1)
+
+- [Question](object_1)
+- what is the [Question](object_1) ?
+- what is [Question](object_1) ?
+- please tell me about the [Question](object_1).
+- I dont know the [Question](object_1). Can you help me ?
+- I dont know what is the [Question](object_1). Can you help me ?
+- tell me about the [Question](object_1).
+- whats the [Question](object_1) ?
+- whats [Question](object_1) ?
+- [Question](object_1)
+
+- [PS CC](object_1) 2018 - 3 [Drop Shadow tools](object_2) under [Layer Styles](object_3)?
+- what is the [PS CC](object_1) [Drop Shadow tools](object_2) [Layer Styles](object_3) ?
+- what is [PS CC](object_1) [Drop Shadow tools](object_2) [Layer Styles](object_3) ?
+- please tell me about the [PS CC](object_1) [Drop Shadow tools](object_2) [Layer Styles](object_3).
+- I dont know the [PS CC](object_1) [Drop Shadow tools](object_2) [Layer Styles](object_3). Can you help me ?
+- I dont know what is the [PS CC](object_1) [Drop Shadow tools](object_2) [Layer Styles](object_3). Can you help me ?
+- tell me about the [PS CC](object_1) [Drop Shadow tools](object_2) [Layer Styles](object_3).
+- whats the [PS CC](object_1) [Drop Shadow tools](object_2) [Layer Styles](object_3) ?
+- whats [PS CC](object_1) [Drop Shadow tools](object_2) [Layer Styles](object_3) ?
+- [PS CC](object_1) [Drop Shadow tools](object_2) [Layer Styles](object_3)
+
+- [Pen tool](object_1) help
+- what is the [Pen tool](object_1) ?
+- what is [Pen tool](object_1) ?
+- please tell me about the [Pen tool](object_1).
+- I dont know the [Pen tool](object_1). Can you help me ?
+- I dont know what is the [Pen tool](object_1). Can you help me ?
+- tell me about the [Pen tool](object_1).
+- whats the [Pen tool](object_1) ?
+- whats [Pen tool](object_1) ?
+- [Pen tool](object_1)
+
+- [Photoshop Utilisation texte](object_1) [(polices](object_2))
+- what is the [Photoshop Utilisation texte](object_1) [(polices](object_2) ?
+- what is [Photoshop Utilisation texte](object_1) [(polices](object_2) ?
+- please tell me about the [Photoshop Utilisation texte](object_1) [(polices](object_2).
+- I dont know the [Photoshop Utilisation texte](object_1) [(polices](object_2). Can you help me ?
+- I dont know what is the [Photoshop Utilisation texte](object_1) [(polices](object_2). Can you help me ?
+- tell me about the [Photoshop Utilisation texte](object_1) [(polices](object_2).
+- whats the [Photoshop Utilisation texte](object_1) [(polices](object_2) ?
+- whats [Photoshop Utilisation texte](object_1) [(polices](object_2) ?
+- [Photoshop Utilisation texte](object_1) [(polices](object_2)
+
+- [Pressure sensitivity](object_1) in [Photoshop CC](object_2) 2017
+- what is the [Pressure sensitivity](object_1) [Photoshop CC](object_2) ?
+- what is [Pressure sensitivity](object_1) [Photoshop CC](object_2) ?
+- please tell me about the [Pressure sensitivity](object_1) [Photoshop CC](object_2).
+- I dont know the [Pressure sensitivity](object_1) [Photoshop CC](object_2). Can you help me ?
+- I dont know what is the [Pressure sensitivity](object_1) [Photoshop CC](object_2). Can you help me ?
+- tell me about the [Pressure sensitivity](object_1) [Photoshop CC](object_2).
+- whats the [Pressure sensitivity](object_1) [Photoshop CC](object_2) ?
+- whats [Pressure sensitivity](object_1) [Photoshop CC](object_2) ?
+- [Pressure sensitivity](object_1) [Photoshop CC](object_2)
+
+- Photoshop/Camera Raw | Displaying Colors Incorrectly?
+- what is the  ?
+- what is  ?
+- please tell me about the .
+- I dont know the . Can you help me ?
+- I dont know what is the . Can you help me ?
+- tell me about the .
+- whats the  ?
+- whats  ?
+- 
+
+- [photoshop count tool](object_1)
+- what is the [photoshop count tool](object_1) ?
+- what is [photoshop count tool](object_1) ?
+- please tell me about the [photoshop count tool](object_1).
+- I dont know the [photoshop count tool](object_1). Can you help me ?
+- I dont know what is the [photoshop count tool](object_1). Can you help me ?
+- tell me about the [photoshop count tool](object_1).
+- whats the [photoshop count tool](object_1) ?
+- whats [photoshop count tool](object_1) ?
+- [photoshop count tool](object_1)
+
+- Photoshop CC gradient banding
+- what is the  ?
+- what is  ?
+- please tell me about the .
+- I dont know the . Can you help me ?
+- I dont know what is the . Can you help me ?
+- tell me about the .
+- whats the  ?
+- whats  ?
+- 
+
+- [OpenCL-Beschleunigung](object_1) in [Adobe Photoshop](object_2) CC mit [AMD FirePro W7000](object_3) (OpenCL 1.2)
+- what is the [OpenCL-Beschleunigung](object_1) [Adobe Photoshop](object_2) [AMD FirePro W7000](object_3) ?
+- what is [OpenCL-Beschleunigung](object_1) [Adobe Photoshop](object_2) [AMD FirePro W7000](object_3) ?
+- please tell me about the [OpenCL-Beschleunigung](object_1) [Adobe Photoshop](object_2) [AMD FirePro W7000](object_3).
+- I dont know the [OpenCL-Beschleunigung](object_1) [Adobe Photoshop](object_2) [AMD FirePro W7000](object_3). Can you help me ?
+- I dont know what is the [OpenCL-Beschleunigung](object_1) [Adobe Photoshop](object_2) [AMD FirePro W7000](object_3). Can you help me ?
+- tell me about the [OpenCL-Beschleunigung](object_1) [Adobe Photoshop](object_2) [AMD FirePro W7000](object_3).
+- whats the [OpenCL-Beschleunigung](object_1) [Adobe Photoshop](object_2) [AMD FirePro W7000](object_3) ?
+- whats [OpenCL-Beschleunigung](object_1) [Adobe Photoshop](object_2) [AMD FirePro W7000](object_3) ?
+- [OpenCL-Beschleunigung](object_1) [Adobe Photoshop](object_2) [AMD FirePro W7000](object_3)
+
+- [Photoshop Artboard size](object_1) and [Smart Objects](object_2)
+- what is the [Photoshop Artboard size](object_1) [Smart Objects](object_2) ?
+- what is [Photoshop Artboard size](object_1) [Smart Objects](object_2) ?
+- please tell me about the [Photoshop Artboard size](object_1) [Smart Objects](object_2).
+- I dont know the [Photoshop Artboard size](object_1) [Smart Objects](object_2). Can you help me ?
+- I dont know what is the [Photoshop Artboard size](object_1) [Smart Objects](object_2). Can you help me ?
+- tell me about the [Photoshop Artboard size](object_1) [Smart Objects](object_2).
+- whats the [Photoshop Artboard size](object_1) [Smart Objects](object_2) ?
+- whats [Photoshop Artboard size](object_1) [Smart Objects](object_2) ?
+- [Photoshop Artboard size](object_1) [Smart Objects](object_2)
+
+- [RAM HOG](object_1)
+- what is the [RAM HOG](object_1) ?
+- what is [RAM HOG](object_1) ?
+- please tell me about the [RAM HOG](object_1).
+- I dont know the [RAM HOG](object_1). Can you help me ?
+- I dont know what is the [RAM HOG](object_1). Can you help me ?
+- tell me about the [RAM HOG](object_1).
+- whats the [RAM HOG](object_1) ?
+- whats [RAM HOG](object_1) ?
+- [RAM HOG](object_1)
+
+- [Mémoriser les actions](object_1)
+- what is the [Mémoriser les actions](object_1) ?
+- what is [Mémoriser les actions](object_1) ?
+- please tell me about the [Mémoriser les actions](object_1).
+- I dont know the [Mémoriser les actions](object_1). Can you help me ?
+- I dont know what is the [Mémoriser les actions](object_1). Can you help me ?
+- tell me about the [Mémoriser les actions](object_1).
+- whats the [Mémoriser les actions](object_1) ?
+- whats [Mémoriser les actions](object_1) ?
+- [Mémoriser les actions](object_1)
+
+- [Lesson Files](object_1)
+- what is the [Lesson Files](object_1) ?
+- what is [Lesson Files](object_1) ?
+- please tell me about the [Lesson Files](object_1).
+- I dont know the [Lesson Files](object_1). Can you help me ?
+- I dont know what is the [Lesson Files](object_1). Can you help me ?
+- tell me about the [Lesson Files](object_1).
+- whats the [Lesson Files](object_1) ?
+- whats [Lesson Files](object_1) ?
+- [Lesson Files](object_1)
+
+- [Color overlay](object_1)
+- what is the [Color overlay](object_1) ?
+- what is [Color overlay](object_1) ?
+- please tell me about the [Color overlay](object_1).
+- I dont know the [Color overlay](object_1). Can you help me ?
+- I dont know what is the [Color overlay](object_1). Can you help me ?
+- tell me about the [Color overlay](object_1).
+- whats the [Color overlay](object_1) ?
+- whats [Color overlay](object_1) ?
+- [Color overlay](object_1)
+
+- [Appcrash problem](object_1)
+- what is the [Appcrash problem](object_1) ?
+- what is [Appcrash problem](object_1) ?
+- please tell me about the [Appcrash problem](object_1).
+- I dont know the [Appcrash problem](object_1). Can you help me ?
+- I dont know what is the [Appcrash problem](object_1). Can you help me ?
+- tell me about the [Appcrash problem](object_1).
+- whats the [Appcrash problem](object_1) ?
+- whats [Appcrash problem](object_1) ?
+- [Appcrash problem](object_1)
+
+- [Text Alignment Buttons](object_1) in [Toolbar](object_2) Have Flipped [90 Degrees](object_3)
+- what is the [Text Alignment Buttons](object_1) [Toolbar](object_2) [90 Degrees](object_3) ?
+- what is [Text Alignment Buttons](object_1) [Toolbar](object_2) [90 Degrees](object_3) ?
+- please tell me about the [Text Alignment Buttons](object_1) [Toolbar](object_2) [90 Degrees](object_3).
+- I dont know the [Text Alignment Buttons](object_1) [Toolbar](object_2) [90 Degrees](object_3). Can you help me ?
+- I dont know what is the [Text Alignment Buttons](object_1) [Toolbar](object_2) [90 Degrees](object_3). Can you help me ?
+- tell me about the [Text Alignment Buttons](object_1) [Toolbar](object_2) [90 Degrees](object_3).
+- whats the [Text Alignment Buttons](object_1) [Toolbar](object_2) [90 Degrees](object_3) ?
+- whats [Text Alignment Buttons](object_1) [Toolbar](object_2) [90 Degrees](object_3) ?
+- [Text Alignment Buttons](object_1) [Toolbar](object_2) [90 Degrees](object_3)
+
+- [Editing images](object_1) in [Photoshop](object_2) from [Lightroom](object_3)
+- what is the [Editing images](object_1) [Photoshop](object_2) [Lightroom](object_3) ?
+- what is [Editing images](object_1) [Photoshop](object_2) [Lightroom](object_3) ?
+- please tell me about the [Editing images](object_1) [Photoshop](object_2) [Lightroom](object_3).
+- I dont know the [Editing images](object_1) [Photoshop](object_2) [Lightroom](object_3). Can you help me ?
+- I dont know what is the [Editing images](object_1) [Photoshop](object_2) [Lightroom](object_3). Can you help me ?
+- tell me about the [Editing images](object_1) [Photoshop](object_2) [Lightroom](object_3).
+- whats the [Editing images](object_1) [Photoshop](object_2) [Lightroom](object_3) ?
+- whats [Editing images](object_1) [Photoshop](object_2) [Lightroom](object_3) ?
+- [Editing images](object_1) [Photoshop](object_2) [Lightroom](object_3)
+
+- [Cut Outs](object_1)
+- what is the [Cut Outs](object_1) ?
+- what is [Cut Outs](object_1) ?
+- please tell me about the [Cut Outs](object_1).
+- I dont know the [Cut Outs](object_1). Can you help me ?
+- I dont know what is the [Cut Outs](object_1). Can you help me ?
+- tell me about the [Cut Outs](object_1).
+- whats the [Cut Outs](object_1) ?
+- whats [Cut Outs](object_1) ?
+- [Cut Outs](object_1)
+
+- [Sunbeams](object_1) shape
+- what is the [Sunbeams](object_1) ?
+- what is [Sunbeams](object_1) ?
+- please tell me about the [Sunbeams](object_1).
+- I dont know the [Sunbeams](object_1). Can you help me ?
+- I dont know what is the [Sunbeams](object_1). Can you help me ?
+- tell me about the [Sunbeams](object_1).
+- whats the [Sunbeams](object_1) ?
+- whats [Sunbeams](object_1) ?
+- [Sunbeams](object_1)
+
+- [CS6 Crashing](object_1)
+- what is the [CS6 Crashing](object_1) ?
+- what is [CS6 Crashing](object_1) ?
+- please tell me about the [CS6 Crashing](object_1).
+- I dont know the [CS6 Crashing](object_1). Can you help me ?
+- I dont know what is the [CS6 Crashing](object_1). Can you help me ?
+- tell me about the [CS6 Crashing](object_1).
+- whats the [CS6 Crashing](object_1) ?
+- whats [CS6 Crashing](object_1) ?
+- [CS6 Crashing](object_1)
+
+- Why [Color Replacement tool](object_1) isn't available?
+- what is the [Color Replacement tool](object_1) ?
+- what is [Color Replacement tool](object_1) ?
+- please tell me about the [Color Replacement tool](object_1).
+- I dont know the [Color Replacement tool](object_1). Can you help me ?
+- I dont know what is the [Color Replacement tool](object_1). Can you help me ?
+- tell me about the [Color Replacement tool](object_1).
+- whats the [Color Replacement tool](object_1) ?
+- whats [Color Replacement tool](object_1) ?
+- [Color Replacement tool](object_1)
+
+- [You](object_1) decide not to renew your Photoshop [CS6](object_2) CC subscription; [who](object_3) owns the images you manipulated with Photoshop [CS6](object_2) CC?
+- what is the [You](object_1) [CS6](object_2) [who](object_3) ?
+- what is [You](object_1) [CS6](object_2) [who](object_3) ?
+- please tell me about the [You](object_1) [CS6](object_2) [who](object_3).
+- I dont know the [You](object_1) [CS6](object_2) [who](object_3). Can you help me ?
+- I dont know what is the [You](object_1) [CS6](object_2) [who](object_3). Can you help me ?
+- tell me about the [You](object_1) [CS6](object_2) [who](object_3).
+- whats the [You](object_1) [CS6](object_2) [who](object_3) ?
+- whats [You](object_1) [CS6](object_2) [who](object_3) ?
+- [You](object_1) [CS6](object_2) [who](object_3)
+
+- Vanishing [Point](object_1) Two [Point](object_1) Perspective 3D
+- what is the [Point](object_1) [Two Point Perspective 3D](object_2) ?
+- what is [Point](object_1) [Two Point Perspective 3D](object_2) ?
+- please tell me about the [Point](object_1) [Two Point Perspective 3D](object_2).
+- I dont know the [Point](object_1) [Two Point Perspective 3D](object_2). Can you help me ?
+- I dont know what is the [Point](object_1) [Two Point Perspective 3D](object_2). Can you help me ?
+- tell me about the [Point](object_1) [Two Point Perspective 3D](object_2).
+- whats the [Point](object_1) [Two Point Perspective 3D](object_2) ?
+- whats [Point](object_1) [Two Point Perspective 3D](object_2) ?
+- [Point](object_1) [Two Point Perspective 3D](object_2)
+
+- [snapshots](object_1)
+- what is the [snapshots](object_1) ?
+- what is [snapshots](object_1) ?
+- please tell me about the [snapshots](object_1).
+- I dont know the [snapshots](object_1). Can you help me ?
+- I dont know what is the [snapshots](object_1). Can you help me ?
+- tell me about the [snapshots](object_1).
+- whats the [snapshots](object_1) ?
+- whats [snapshots](object_1) ?
+- [snapshots](object_1)
+
+- [CS3](object_1)
+- what is the [CS3](object_1) ?
+- what is [CS3](object_1) ?
+- please tell me about the [CS3](object_1).
+- I dont know the [CS3](object_1). Can you help me ?
+- I dont know what is the [CS3](object_1). Can you help me ?
+- tell me about the [CS3](object_1).
+- whats the [CS3](object_1) ?
+- whats [CS3](object_1) ?
+- [CS3](object_1)
+
+- [2018 Photoshop CC Font size/kerning/spacing/tracking/scale](object_1) No longer updates without leaving [the input field](object_2)
+- what is the [2018 Photoshop CC Font size/kerning/spacing/tracking/scale](object_1) [the input field](object_2) ?
+- what is [2018 Photoshop CC Font size/kerning/spacing/tracking/scale](object_1) [the input field](object_2) ?
+- please tell me about the [2018 Photoshop CC Font size/kerning/spacing/tracking/scale](object_1) [the input field](object_2).
+- I dont know the [2018 Photoshop CC Font size/kerning/spacing/tracking/scale](object_1) [the input field](object_2). Can you help me ?
+- I dont know what is the [2018 Photoshop CC Font size/kerning/spacing/tracking/scale](object_1) [the input field](object_2). Can you help me ?
+- tell me about the [2018 Photoshop CC Font size/kerning/spacing/tracking/scale](object_1) [the input field](object_2).
+- whats the [2018 Photoshop CC Font size/kerning/spacing/tracking/scale](object_1) [the input field](object_2) ?
+- whats [2018 Photoshop CC Font size/kerning/spacing/tracking/scale](object_1) [the input field](object_2) ?
+- [2018 Photoshop CC Font size/kerning/spacing/tracking/scale](object_1) [the input field](object_2)
+
+- Save as [PDF Error](object_1) with [Bevel Stroke Emboss](object_2)
+- what is the [PDF Error](object_1) [Bevel Stroke Emboss](object_2) ?
+- what is [PDF Error](object_1) [Bevel Stroke Emboss](object_2) ?
+- please tell me about the [PDF Error](object_1) [Bevel Stroke Emboss](object_2).
+- I dont know the [PDF Error](object_1) [Bevel Stroke Emboss](object_2). Can you help me ?
+- I dont know what is the [PDF Error](object_1) [Bevel Stroke Emboss](object_2). Can you help me ?
+- tell me about the [PDF Error](object_1) [Bevel Stroke Emboss](object_2).
+- whats the [PDF Error](object_1) [Bevel Stroke Emboss](object_2) ?
+- whats [PDF Error](object_1) [Bevel Stroke Emboss](object_2) ?
+- [PDF Error](object_1) [Bevel Stroke Emboss](object_2)
+
+- [Mini Bridge Failure](object_1)
+- what is the [Mini Bridge Failure](object_1) ?
+- what is [Mini Bridge Failure](object_1) ?
+- please tell me about the [Mini Bridge Failure](object_1).
+- I dont know the [Mini Bridge Failure](object_1). Can you help me ?
+- I dont know what is the [Mini Bridge Failure](object_1). Can you help me ?
+- tell me about the [Mini Bridge Failure](object_1).
+- whats the [Mini Bridge Failure](object_1) ?
+- whats [Mini Bridge Failure](object_1) ?
+- [Mini Bridge Failure](object_1)
+
+- [app](object_1) keeps telling [me](object_2) [my trial mode](object_3) is over even though i’ve already purchased a Creative Cloud subscription for this [app](object_1) (photoshop)
+- what is the [app](object_1) [me](object_2) [my trial mode](object_3) ?
+- what is [app](object_1) [me](object_2) [my trial mode](object_3) ?
+- please tell me about the [app](object_1) [me](object_2) [my trial mode](object_3).
+- I dont know the [app](object_1) [me](object_2) [my trial mode](object_3). Can you help me ?
+- I dont know what is the [app](object_1) [me](object_2) [my trial mode](object_3). Can you help me ?
+- tell me about the [app](object_1) [me](object_2) [my trial mode](object_3).
+- whats the [app](object_1) [me](object_2) [my trial mode](object_3) ?
+- whats [app](object_1) [me](object_2) [my trial mode](object_3) ?
+- [app](object_1) [me](object_2) [my trial mode](object_3)
+
+- [PS versions](object_1)
+- what is the [PS versions](object_1) ?
+- what is [PS versions](object_1) ?
+- please tell me about the [PS versions](object_1).
+- I dont know the [PS versions](object_1). Can you help me ?
+- I dont know what is the [PS versions](object_1). Can you help me ?
+- tell me about the [PS versions](object_1).
+- whats the [PS versions](object_1) ?
+- whats [PS versions](object_1) ?
+- [PS versions](object_1)
+
+- [Radial Blur](object_1) For [Solar Eclipse Post-Processing](object_2)
+- what is the [Radial Blur](object_1) [Solar Eclipse Post-Processing](object_2) ?
+- what is [Radial Blur](object_1) [Solar Eclipse Post-Processing](object_2) ?
+- please tell me about the [Radial Blur](object_1) [Solar Eclipse Post-Processing](object_2).
+- I dont know the [Radial Blur](object_1) [Solar Eclipse Post-Processing](object_2). Can you help me ?
+- I dont know what is the [Radial Blur](object_1) [Solar Eclipse Post-Processing](object_2). Can you help me ?
+- tell me about the [Radial Blur](object_1) [Solar Eclipse Post-Processing](object_2).
+- whats the [Radial Blur](object_1) [Solar Eclipse Post-Processing](object_2) ?
+- whats [Radial Blur](object_1) [Solar Eclipse Post-Processing](object_2) ?
+- [Radial Blur](object_1) [Solar Eclipse Post-Processing](object_2)
+
+- [Arrowhead concavity setting](object_1)
+- what is the [Arrowhead concavity setting](object_1) ?
+- what is [Arrowhead concavity setting](object_1) ?
+- please tell me about the [Arrowhead concavity setting](object_1).
+- I dont know the [Arrowhead concavity setting](object_1). Can you help me ?
+- I dont know what is the [Arrowhead concavity setting](object_1). Can you help me ?
+- tell me about the [Arrowhead concavity setting](object_1).
+- whats the [Arrowhead concavity setting](object_1) ?
+- whats [Arrowhead concavity setting](object_1) ?
+- [Arrowhead concavity setting](object_1)
+
+- [Photoshop Font Rendering Changes](object_1) While Working [(Problem](object_2))
+- what is the [Photoshop Font Rendering Changes](object_1) [(Problem](object_2) ?
+- what is [Photoshop Font Rendering Changes](object_1) [(Problem](object_2) ?
+- please tell me about the [Photoshop Font Rendering Changes](object_1) [(Problem](object_2).
+- I dont know the [Photoshop Font Rendering Changes](object_1) [(Problem](object_2). Can you help me ?
+- I dont know what is the [Photoshop Font Rendering Changes](object_1) [(Problem](object_2). Can you help me ?
+- tell me about the [Photoshop Font Rendering Changes](object_1) [(Problem](object_2).
+- whats the [Photoshop Font Rendering Changes](object_1) [(Problem](object_2) ?
+- whats [Photoshop Font Rendering Changes](object_1) [(Problem](object_2) ?
+- [Photoshop Font Rendering Changes](object_1) [(Problem](object_2)
+
+- How to copy, rotate and paste [(ex. pattern](object_1) on [a shirt](object_2))?
+- what is the [(ex. pattern](object_1) [a shirt](object_2) ?
+- what is [(ex. pattern](object_1) [a shirt](object_2) ?
+- please tell me about the [(ex. pattern](object_1) [a shirt](object_2).
+- I dont know the [(ex. pattern](object_1) [a shirt](object_2). Can you help me ?
+- I dont know what is the [(ex. pattern](object_1) [a shirt](object_2). Can you help me ?
+- tell me about the [(ex. pattern](object_1) [a shirt](object_2).
+- whats the [(ex. pattern](object_1) [a shirt](object_2) ?
+- whats [(ex. pattern](object_1) [a shirt](object_2) ?
+- [(ex. pattern](object_1) [a shirt](object_2)
+
+- [Photoshop 3d camera](object_1) rotated instead of [3d layer](object_2) (+[Video](object_3))
+- what is the [Photoshop 3d camera](object_1) [3d layer](object_2) [Video](object_3) ?
+- what is [Photoshop 3d camera](object_1) [3d layer](object_2) [Video](object_3) ?
+- please tell me about the [Photoshop 3d camera](object_1) [3d layer](object_2) [Video](object_3).
+- I dont know the [Photoshop 3d camera](object_1) [3d layer](object_2) [Video](object_3). Can you help me ?
+- I dont know what is the [Photoshop 3d camera](object_1) [3d layer](object_2) [Video](object_3). Can you help me ?
+- tell me about the [Photoshop 3d camera](object_1) [3d layer](object_2) [Video](object_3).
+- whats the [Photoshop 3d camera](object_1) [3d layer](object_2) [Video](object_3) ?
+- whats [Photoshop 3d camera](object_1) [3d layer](object_2) [Video](object_3) ?
+- [Photoshop 3d camera](object_1) [3d layer](object_2) [Video](object_3)
+
+- [Wacom mapping issues](object_1), again
+- what is the [Wacom mapping issues](object_1) ?
+- what is [Wacom mapping issues](object_1) ?
+- please tell me about the [Wacom mapping issues](object_1).
+- I dont know the [Wacom mapping issues](object_1). Can you help me ?
+- I dont know what is the [Wacom mapping issues](object_1). Can you help me ?
+- tell me about the [Wacom mapping issues](object_1).
+- whats the [Wacom mapping issues](object_1) ?
+- whats [Wacom mapping issues](object_1) ?
+- [Wacom mapping issues](object_1)
+
+- [AdobePaper TexturesPro](object_1)
+- what is the [AdobePaper TexturesPro](object_1) ?
+- what is [AdobePaper TexturesPro](object_1) ?
+- please tell me about the [AdobePaper TexturesPro](object_1).
+- I dont know the [AdobePaper TexturesPro](object_1). Can you help me ?
+- I dont know what is the [AdobePaper TexturesPro](object_1). Can you help me ?
+- tell me about the [AdobePaper TexturesPro](object_1).
+- whats the [AdobePaper TexturesPro](object_1) ?
+- whats [AdobePaper TexturesPro](object_1) ?
+- [AdobePaper TexturesPro](object_1)
+
+- [Quittung](object_1)
+- what is the [Quittung](object_1) ?
+- what is [Quittung](object_1) ?
+- please tell me about the [Quittung](object_1).
+- I dont know the [Quittung](object_1). Can you help me ?
+- I dont know what is the [Quittung](object_1). Can you help me ?
+- tell me about the [Quittung](object_1).
+- whats the [Quittung](object_1) ?
+- whats [Quittung](object_1) ?
+- [Quittung](object_1)
+
+- [PS CC pen tool changes](object_1)
+- what is the [PS CC pen tool changes](object_1) ?
+- what is [PS CC pen tool changes](object_1) ?
+- please tell me about the [PS CC pen tool changes](object_1).
+- I dont know the [PS CC pen tool changes](object_1). Can you help me ?
+- I dont know what is the [PS CC pen tool changes](object_1). Can you help me ?
+- tell me about the [PS CC pen tool changes](object_1).
+- whats the [PS CC pen tool changes](object_1) ?
+- whats [PS CC pen tool changes](object_1) ?
+- [PS CC pen tool changes](object_1)
+
+- Missing [LR Photos](object_1) in [Photoshop Welcome Screen](object_2)
+- what is the [LR Photos](object_1) [Photoshop Welcome Screen](object_2) ?
+- what is [LR Photos](object_1) [Photoshop Welcome Screen](object_2) ?
+- please tell me about the [LR Photos](object_1) [Photoshop Welcome Screen](object_2).
+- I dont know the [LR Photos](object_1) [Photoshop Welcome Screen](object_2). Can you help me ?
+- I dont know what is the [LR Photos](object_1) [Photoshop Welcome Screen](object_2). Can you help me ?
+- tell me about the [LR Photos](object_1) [Photoshop Welcome Screen](object_2).
+- whats the [LR Photos](object_1) [Photoshop Welcome Screen](object_2) ?
+- whats [LR Photos](object_1) [Photoshop Welcome Screen](object_2) ?
+- [LR Photos](object_1) [Photoshop Welcome Screen](object_2)
+
+- Bring [IPTC Keyword field data](object_1) into [Javascript](object_2) as [a string](object_3)
+- what is the [IPTC Keyword field data](object_1) [Javascript](object_2) [a string](object_3) ?
+- what is [IPTC Keyword field data](object_1) [Javascript](object_2) [a string](object_3) ?
+- please tell me about the [IPTC Keyword field data](object_1) [Javascript](object_2) [a string](object_3).
+- I dont know the [IPTC Keyword field data](object_1) [Javascript](object_2) [a string](object_3). Can you help me ?
+- I dont know what is the [IPTC Keyword field data](object_1) [Javascript](object_2) [a string](object_3). Can you help me ?
+- tell me about the [IPTC Keyword field data](object_1) [Javascript](object_2) [a string](object_3).
+- whats the [IPTC Keyword field data](object_1) [Javascript](object_2) [a string](object_3) ?
+- whats [IPTC Keyword field data](object_1) [Javascript](object_2) [a string](object_3) ?
+- [IPTC Keyword field data](object_1) [Javascript](object_2) [a string](object_3)
+
+- [2gb max file size](object_1) .psd , [anyone](object_2) needs more like [me](object_3)?
+- what is the [2gb max file size](object_1) [anyone](object_2) [me](object_3) ?
+- what is [2gb max file size](object_1) [anyone](object_2) [me](object_3) ?
+- please tell me about the [2gb max file size](object_1) [anyone](object_2) [me](object_3).
+- I dont know the [2gb max file size](object_1) [anyone](object_2) [me](object_3). Can you help me ?
+- I dont know what is the [2gb max file size](object_1) [anyone](object_2) [me](object_3). Can you help me ?
+- tell me about the [2gb max file size](object_1) [anyone](object_2) [me](object_3).
+- whats the [2gb max file size](object_1) [anyone](object_2) [me](object_3) ?
+- whats [2gb max file size](object_1) [anyone](object_2) [me](object_3) ?
+- [2gb max file size](object_1) [anyone](object_2) [me](object_3)
+
+- [CTRL+ALT+Z input](object_1)
+- what is the [CTRL+ALT+Z input](object_1) ?
+- what is [CTRL+ALT+Z input](object_1) ?
+- please tell me about the [CTRL+ALT+Z input](object_1).
+- I dont know the [CTRL+ALT+Z input](object_1). Can you help me ?
+- I dont know what is the [CTRL+ALT+Z input](object_1). Can you help me ?
+- tell me about the [CTRL+ALT+Z input](object_1).
+- whats the [CTRL+ALT+Z input](object_1) ?
+- whats [CTRL+ALT+Z input](object_1) ?
+- [CTRL+ALT+Z input](object_1)
+
+- [Photoshop](object_2) CC trial-[I](object_1) already paid [Photoshop](object_2)
+- what is the [I](object_1) [Photoshop](object_2) ?
+- what is [I](object_1) [Photoshop](object_2) ?
+- please tell me about the [I](object_1) [Photoshop](object_2).
+- I dont know the [I](object_1) [Photoshop](object_2). Can you help me ?
+- I dont know what is the [I](object_1) [Photoshop](object_2). Can you help me ?
+- tell me about the [I](object_1) [Photoshop](object_2).
+- whats the [I](object_1) [Photoshop](object_2) ?
+- whats [I](object_1) [Photoshop](object_2) ?
+- [I](object_1) [Photoshop](object_2)
+
+- [CS3 Activation Trouble](object_1)
+- what is the [CS3 Activation Trouble](object_1) ?
+- what is [CS3 Activation Trouble](object_1) ?
+- please tell me about the [CS3 Activation Trouble](object_1).
+- I dont know the [CS3 Activation Trouble](object_1). Can you help me ?
+- I dont know what is the [CS3 Activation Trouble](object_1). Can you help me ?
+- tell me about the [CS3 Activation Trouble](object_1).
+- whats the [CS3 Activation Trouble](object_1) ?
+- whats [CS3 Activation Trouble](object_1) ?
+- [CS3 Activation Trouble](object_1)
+
+- [NEW SURFACE](object_1) [PRO  4096 SURFACE PEN 在PHOTOSHOP下](object_2) 放大画布只能移动画布
+- what is the [NEW SURFACE](object_1) [PRO  4096 SURFACE PEN 在PHOTOSHOP下](object_2) ?
+- what is [NEW SURFACE](object_1) [PRO  4096 SURFACE PEN 在PHOTOSHOP下](object_2) ?
+- please tell me about the [NEW SURFACE](object_1) [PRO  4096 SURFACE PEN 在PHOTOSHOP下](object_2).
+- I dont know the [NEW SURFACE](object_1) [PRO  4096 SURFACE PEN 在PHOTOSHOP下](object_2). Can you help me ?
+- I dont know what is the [NEW SURFACE](object_1) [PRO  4096 SURFACE PEN 在PHOTOSHOP下](object_2). Can you help me ?
+- tell me about the [NEW SURFACE](object_1) [PRO  4096 SURFACE PEN 在PHOTOSHOP下](object_2).
+- whats the [NEW SURFACE](object_1) [PRO  4096 SURFACE PEN 在PHOTOSHOP下](object_2) ?
+- whats [NEW SURFACE](object_1) [PRO  4096 SURFACE PEN 在PHOTOSHOP下](object_2) ?
+- [NEW SURFACE](object_1) [PRO  4096 SURFACE PEN 在PHOTOSHOP下](object_2)
+
+- [Guided Edits Page](object_1)
+- what is the [Guided Edits Page](object_1) ?
+- what is [Guided Edits Page](object_1) ?
+- please tell me about the [Guided Edits Page](object_1).
+- I dont know the [Guided Edits Page](object_1). Can you help me ?
+- I dont know what is the [Guided Edits Page](object_1). Can you help me ?
+- tell me about the [Guided Edits Page](object_1).
+- whats the [Guided Edits Page](object_1) ?
+- whats [Guided Edits Page](object_1) ?
+- [Guided Edits Page](object_1)
+
+- [CS6 PS file flattens](object_1) when opened on [a PC](object_2)
+- what is the [CS6 PS file flattens](object_1) [a PC](object_2) ?
+- what is [CS6 PS file flattens](object_1) [a PC](object_2) ?
+- please tell me about the [CS6 PS file flattens](object_1) [a PC](object_2).
+- I dont know the [CS6 PS file flattens](object_1) [a PC](object_2). Can you help me ?
+- I dont know what is the [CS6 PS file flattens](object_1) [a PC](object_2). Can you help me ?
+- tell me about the [CS6 PS file flattens](object_1) [a PC](object_2).
+- whats the [CS6 PS file flattens](object_1) [a PC](object_2) ?
+- whats [CS6 PS file flattens](object_1) [a PC](object_2) ?
+- [CS6 PS file flattens](object_1) [a PC](object_2)
+
+- [Problem PS CS6](object_1), [Full [Screen](object_3) Menu](object_2) Bar off [Screen](object_3)
+- what is the [Problem PS CS6](object_1) [Full Screen Menu](object_2) [Screen](object_3) ?
+- what is [Problem PS CS6](object_1) [Full Screen Menu](object_2) [Screen](object_3) ?
+- please tell me about the [Problem PS CS6](object_1) [Full Screen Menu](object_2) [Screen](object_3).
+- I dont know the [Problem PS CS6](object_1) [Full Screen Menu](object_2) [Screen](object_3). Can you help me ?
+- I dont know what is the [Problem PS CS6](object_1) [Full Screen Menu](object_2) [Screen](object_3). Can you help me ?
+- tell me about the [Problem PS CS6](object_1) [Full Screen Menu](object_2) [Screen](object_3).
+- whats the [Problem PS CS6](object_1) [Full Screen Menu](object_2) [Screen](object_3) ?
+- whats [Problem PS CS6](object_1) [Full Screen Menu](object_2) [Screen](object_3) ?
+- [Problem PS CS6](object_1) [Full Screen Menu](object_2) [Screen](object_3)
+
+- [Movie Poster Artwork](object_1) to [Vector Image](object_2)?
+- what is the [Movie Poster Artwork](object_1) [Vector Image](object_2) ?
+- what is [Movie Poster Artwork](object_1) [Vector Image](object_2) ?
+- please tell me about the [Movie Poster Artwork](object_1) [Vector Image](object_2).
+- I dont know the [Movie Poster Artwork](object_1) [Vector Image](object_2). Can you help me ?
+- I dont know what is the [Movie Poster Artwork](object_1) [Vector Image](object_2). Can you help me ?
+- tell me about the [Movie Poster Artwork](object_1) [Vector Image](object_2).
+- whats the [Movie Poster Artwork](object_1) [Vector Image](object_2) ?
+- whats [Movie Poster Artwork](object_1) [Vector Image](object_2) ?
+- [Movie Poster Artwork](object_1) [Vector Image](object_2)
+
+- [Reset PS tools](object_1) [[Branched](object_2)]
+- what is the [Reset PS tools](object_1) [[Branched](object_2) ?
+- what is [Reset PS tools](object_1) [[Branched](object_2) ?
+- please tell me about the [Reset PS tools](object_1) [[Branched](object_2).
+- I dont know the [Reset PS tools](object_1) [[Branched](object_2). Can you help me ?
+- I dont know what is the [Reset PS tools](object_1) [[Branched](object_2). Can you help me ?
+- tell me about the [Reset PS tools](object_1) [[Branched](object_2).
+- whats the [Reset PS tools](object_1) [[Branched](object_2) ?
+- whats [Reset PS tools](object_1) [[Branched](object_2) ?
+- [Reset PS tools](object_1) [[Branched](object_2)
+
+- [URL link](object_1) in [photoshop PDF](object_2)
+- what is the [URL link](object_1) [photoshop PDF](object_2) ?
+- what is [URL link](object_1) [photoshop PDF](object_2) ?
+- please tell me about the [URL link](object_1) [photoshop PDF](object_2).
+- I dont know the [URL link](object_1) [photoshop PDF](object_2). Can you help me ?
+- I dont know what is the [URL link](object_1) [photoshop PDF](object_2). Can you help me ?
+- tell me about the [URL link](object_1) [photoshop PDF](object_2).
+- whats the [URL link](object_1) [photoshop PDF](object_2) ?
+- whats [URL link](object_1) [photoshop PDF](object_2) ?
+- [URL link](object_1) [photoshop PDF](object_2)
+
+- Lightroom - open as [smart object LAYERS](object_1) in [Photoshop](object_2)
+- what is the [smart object LAYERS](object_1) [Photoshop](object_2) ?
+- what is [smart object LAYERS](object_1) [Photoshop](object_2) ?
+- please tell me about the [smart object LAYERS](object_1) [Photoshop](object_2).
+- I dont know the [smart object LAYERS](object_1) [Photoshop](object_2). Can you help me ?
+- I dont know what is the [smart object LAYERS](object_1) [Photoshop](object_2). Can you help me ?
+- tell me about the [smart object LAYERS](object_1) [Photoshop](object_2).
+- whats the [smart object LAYERS](object_1) [Photoshop](object_2) ?
+- whats [smart object LAYERS](object_1) [Photoshop](object_2) ?
+- [smart object LAYERS](object_1) [Photoshop](object_2)
+
+- [Photoshop](object_1) Scripting- [Smart objects](object_2) - How can [I](object_3) get the changes made to a layer that is a smart object
+- what is the [Photoshop](object_1) [Smart objects](object_2) [I](object_3) ?
+- what is [Photoshop](object_1) [Smart objects](object_2) [I](object_3) ?
+- please tell me about the [Photoshop](object_1) [Smart objects](object_2) [I](object_3).
+- I dont know the [Photoshop](object_1) [Smart objects](object_2) [I](object_3). Can you help me ?
+- I dont know what is the [Photoshop](object_1) [Smart objects](object_2) [I](object_3). Can you help me ?
+- tell me about the [Photoshop](object_1) [Smart objects](object_2) [I](object_3).
+- whats the [Photoshop](object_1) [Smart objects](object_2) [I](object_3) ?
+- whats [Photoshop](object_1) [Smart objects](object_2) [I](object_3) ?
+- [Photoshop](object_1) [Smart objects](object_2) [I](object_3)
+
+- [Photoshop CS6](object_1)
+- what is the [Photoshop CS6](object_1) ?
+- what is [Photoshop CS6](object_1) ?
+- please tell me about the [Photoshop CS6](object_1).
+- I dont know the [Photoshop CS6](object_1). Can you help me ?
+- I dont know what is the [Photoshop CS6](object_1). Can you help me ?
+- tell me about the [Photoshop CS6](object_1).
+- whats the [Photoshop CS6](object_1) ?
+- whats [Photoshop CS6](object_1) ?
+- [Photoshop CS6](object_1)
+
+- Printing to [11x17 Paper](object_1) from [Photoshop](object_2)
+- what is the [11x17 Paper](object_1) [Photoshop](object_2) ?
+- what is [11x17 Paper](object_1) [Photoshop](object_2) ?
+- please tell me about the [11x17 Paper](object_1) [Photoshop](object_2).
+- I dont know the [11x17 Paper](object_1) [Photoshop](object_2). Can you help me ?
+- I dont know what is the [11x17 Paper](object_1) [Photoshop](object_2). Can you help me ?
+- tell me about the [11x17 Paper](object_1) [Photoshop](object_2).
+- whats the [11x17 Paper](object_1) [Photoshop](object_2) ?
+- whats [11x17 Paper](object_1) [Photoshop](object_2) ?
+- [11x17 Paper](object_1) [Photoshop](object_2)
+
+- [BLURB type](object_1)
+- what is the [BLURB type](object_1) ?
+- what is [BLURB type](object_1) ?
+- please tell me about the [BLURB type](object_1).
+- I dont know the [BLURB type](object_1). Can you help me ?
+- I dont know what is the [BLURB type](object_1). Can you help me ?
+- tell me about the [BLURB type](object_1).
+- whats the [BLURB type](object_1) ?
+- whats [BLURB type](object_1) ?
+- [BLURB type](object_1)
+
+- [Smart Object](object_1) from [InDesign](object_2)
+- what is the [Smart Object](object_1) [InDesign](object_2) ?
+- what is [Smart Object](object_1) [InDesign](object_2) ?
+- please tell me about the [Smart Object](object_1) [InDesign](object_2).
+- I dont know the [Smart Object](object_1) [InDesign](object_2). Can you help me ?
+- I dont know what is the [Smart Object](object_1) [InDesign](object_2). Can you help me ?
+- tell me about the [Smart Object](object_1) [InDesign](object_2).
+- whats the [Smart Object](object_1) [InDesign](object_2) ?
+- whats [Smart Object](object_1) [InDesign](object_2) ?
+- [Smart Object](object_1) [InDesign](object_2)
+
+- [Very slow printer](object_1) set up and printing with [latest PS CC version](object_2)
+- what is the [Very slow printer](object_1) [latest PS CC version](object_2) ?
+- what is [Very slow printer](object_1) [latest PS CC version](object_2) ?
+- please tell me about the [Very slow printer](object_1) [latest PS CC version](object_2).
+- I dont know the [Very slow printer](object_1) [latest PS CC version](object_2). Can you help me ?
+- I dont know what is the [Very slow printer](object_1) [latest PS CC version](object_2). Can you help me ?
+- tell me about the [Very slow printer](object_1) [latest PS CC version](object_2).
+- whats the [Very slow printer](object_1) [latest PS CC version](object_2) ?
+- whats [Very slow printer](object_1) [latest PS CC version](object_2) ?
+- [Very slow printer](object_1) [latest PS CC version](object_2)
+
+- [Inscript Malayalam font problems](object_1)
+- what is the [Inscript Malayalam font problems](object_1) ?
+- what is [Inscript Malayalam font problems](object_1) ?
+- please tell me about the [Inscript Malayalam font problems](object_1).
+- I dont know the [Inscript Malayalam font problems](object_1). Can you help me ?
+- I dont know what is the [Inscript Malayalam font problems](object_1). Can you help me ?
+- tell me about the [Inscript Malayalam font problems](object_1).
+- whats the [Inscript Malayalam font problems](object_1) ?
+- whats [Inscript Malayalam font problems](object_1) ?
+- [Inscript Malayalam font problems](object_1)
+
+- [Camera Raw filter](object_1) on [Photoshop CC](object_2) 2017 "freezing" [the iMac](object_3)
+- what is the [Camera Raw filter](object_1) [Photoshop CC](object_2) [the iMac](object_3) ?
+- what is [Camera Raw filter](object_1) [Photoshop CC](object_2) [the iMac](object_3) ?
+- please tell me about the [Camera Raw filter](object_1) [Photoshop CC](object_2) [the iMac](object_3).
+- I dont know the [Camera Raw filter](object_1) [Photoshop CC](object_2) [the iMac](object_3). Can you help me ?
+- I dont know what is the [Camera Raw filter](object_1) [Photoshop CC](object_2) [the iMac](object_3). Can you help me ?
+- tell me about the [Camera Raw filter](object_1) [Photoshop CC](object_2) [the iMac](object_3).
+- whats the [Camera Raw filter](object_1) [Photoshop CC](object_2) [the iMac](object_3) ?
+- whats [Camera Raw filter](object_1) [Photoshop CC](object_2) [the iMac](object_3) ?
+- [Camera Raw filter](object_1) [Photoshop CC](object_2) [the iMac](object_3)
+
+- [Ugee](object_1) tablet [pressure sensitivity issue](object_2)
+- what is the [Ugee](object_1) [pressure sensitivity issue](object_2) ?
+- what is [Ugee](object_1) [pressure sensitivity issue](object_2) ?
+- please tell me about the [Ugee](object_1) [pressure sensitivity issue](object_2).
+- I dont know the [Ugee](object_1) [pressure sensitivity issue](object_2). Can you help me ?
+- I dont know what is the [Ugee](object_1) [pressure sensitivity issue](object_2). Can you help me ?
+- tell me about the [Ugee](object_1) [pressure sensitivity issue](object_2).
+- whats the [Ugee](object_1) [pressure sensitivity issue](object_2) ?
+- whats [Ugee](object_1) [pressure sensitivity issue](object_2) ?
+- [Ugee](object_1) [pressure sensitivity issue](object_2)
+
+- where is [the arrow tool](object_1) in [PS cc](object_2) 2017?
+- what is the [the arrow tool](object_1) [PS cc](object_2) ?
+- what is [the arrow tool](object_1) [PS cc](object_2) ?
+- please tell me about the [the arrow tool](object_1) [PS cc](object_2).
+- I dont know the [the arrow tool](object_1) [PS cc](object_2). Can you help me ?
+- I dont know what is the [the arrow tool](object_1) [PS cc](object_2). Can you help me ?
+- tell me about the [the arrow tool](object_1) [PS cc](object_2).
+- whats the [the arrow tool](object_1) [PS cc](object_2) ?
+- whats [the arrow tool](object_1) [PS cc](object_2) ?
+- [the arrow tool](object_1) [PS cc](object_2)
+
+- [Saving](object_1) [TIFF](object_2) in [PS CC](object_3)
+- what is the [Saving](object_1) [TIFF](object_2) [PS CC](object_3) ?
+- what is [Saving](object_1) [TIFF](object_2) [PS CC](object_3) ?
+- please tell me about the [Saving](object_1) [TIFF](object_2) [PS CC](object_3).
+- I dont know the [Saving](object_1) [TIFF](object_2) [PS CC](object_3). Can you help me ?
+- I dont know what is the [Saving](object_1) [TIFF](object_2) [PS CC](object_3). Can you help me ?
+- tell me about the [Saving](object_1) [TIFF](object_2) [PS CC](object_3).
+- whats the [Saving](object_1) [TIFF](object_2) [PS CC](object_3) ?
+- whats [Saving](object_1) [TIFF](object_2) [PS CC](object_3) ?
+- [Saving](object_1) [TIFF](object_2) [PS CC](object_3)
+
+- [Green Screen Error](object_1)
+- what is the [Green Screen Error](object_1) ?
+- what is [Green Screen Error](object_1) ?
+- please tell me about the [Green Screen Error](object_1).
+- I dont know the [Green Screen Error](object_1). Can you help me ?
+- I dont know what is the [Green Screen Error](object_1). Can you help me ?
+- tell me about the [Green Screen Error](object_1).
+- whats the [Green Screen Error](object_1) ?
+- whats [Green Screen Error](object_1) ?
+- [Green Screen Error](object_1)
+
+- [Art History Brush Tool Presets](object_1) in [PS CC](object_2) 2018
+- what is the [Art History Brush Tool Presets](object_1) [PS CC](object_2) ?
+- what is [Art History Brush Tool Presets](object_1) [PS CC](object_2) ?
+- please tell me about the [Art History Brush Tool Presets](object_1) [PS CC](object_2).
+- I dont know the [Art History Brush Tool Presets](object_1) [PS CC](object_2). Can you help me ?
+- I dont know what is the [Art History Brush Tool Presets](object_1) [PS CC](object_2). Can you help me ?
+- tell me about the [Art History Brush Tool Presets](object_1) [PS CC](object_2).
+- whats the [Art History Brush Tool Presets](object_1) [PS CC](object_2) ?
+- whats [Art History Brush Tool Presets](object_1) [PS CC](object_2) ?
+- [Art History Brush Tool Presets](object_1) [PS CC](object_2)
+
+- Copy and Paste [an Custom Drawn Area](object_1) in [CS3](object_2)
+- what is the [an Custom Drawn Area](object_1) [CS3](object_2) ?
+- what is [an Custom Drawn Area](object_1) [CS3](object_2) ?
+- please tell me about the [an Custom Drawn Area](object_1) [CS3](object_2).
+- I dont know the [an Custom Drawn Area](object_1) [CS3](object_2). Can you help me ?
+- I dont know what is the [an Custom Drawn Area](object_1) [CS3](object_2). Can you help me ?
+- tell me about the [an Custom Drawn Area](object_1) [CS3](object_2).
+- whats the [an Custom Drawn Area](object_1) [CS3](object_2) ?
+- whats [an Custom Drawn Area](object_1) [CS3](object_2) ?
+- [an Custom Drawn Area](object_1) [CS3](object_2)
+
+- [Photoshop CS6 Update](object_1) 13.1.2 Keeps Failing [(Error code](object_2): U44M1P7)
+- what is the [Photoshop CS6 Update](object_1) [(Error code](object_2) ?
+- what is [Photoshop CS6 Update](object_1) [(Error code](object_2) ?
+- please tell me about the [Photoshop CS6 Update](object_1) [(Error code](object_2).
+- I dont know the [Photoshop CS6 Update](object_1) [(Error code](object_2). Can you help me ?
+- I dont know what is the [Photoshop CS6 Update](object_1) [(Error code](object_2). Can you help me ?
+- tell me about the [Photoshop CS6 Update](object_1) [(Error code](object_2).
+- whats the [Photoshop CS6 Update](object_1) [(Error code](object_2) ?
+- whats [Photoshop CS6 Update](object_1) [(Error code](object_2) ?
+- [Photoshop CS6 Update](object_1) [(Error code](object_2)
+
+- [Photoshop 10.1.2](object_1) on [Mac - Introduced terrible brush lag](object_2)
+- what is the [Photoshop 10.1.2](object_1) [Mac - Introduced terrible brush lag](object_2) ?
+- what is [Photoshop 10.1.2](object_1) [Mac - Introduced terrible brush lag](object_2) ?
+- please tell me about the [Photoshop 10.1.2](object_1) [Mac - Introduced terrible brush lag](object_2).
+- I dont know the [Photoshop 10.1.2](object_1) [Mac - Introduced terrible brush lag](object_2). Can you help me ?
+- I dont know what is the [Photoshop 10.1.2](object_1) [Mac - Introduced terrible brush lag](object_2). Can you help me ?
+- tell me about the [Photoshop 10.1.2](object_1) [Mac - Introduced terrible brush lag](object_2).
+- whats the [Photoshop 10.1.2](object_1) [Mac - Introduced terrible brush lag](object_2) ?
+- whats [Photoshop 10.1.2](object_1) [Mac - Introduced terrible brush lag](object_2) ?
+- [Photoshop 10.1.2](object_1) [Mac - Introduced terrible brush lag](object_2)
+
+- [Licence Error](object_1)
+- what is the [Licence Error](object_1) ?
+- what is [Licence Error](object_1) ?
+- please tell me about the [Licence Error](object_1).
+- I dont know the [Licence Error](object_1). Can you help me ?
+- I dont know what is the [Licence Error](object_1). Can you help me ?
+- tell me about the [Licence Error](object_1).
+- whats the [Licence Error](object_1) ?
+- whats [Licence Error](object_1) ?
+- [Licence Error](object_1)
+
+- [Script Repair](object_1) After [Update](object_2)
+- what is the [Script Repair](object_1) [Update](object_2) ?
+- what is [Script Repair](object_1) [Update](object_2) ?
+- please tell me about the [Script Repair](object_1) [Update](object_2).
+- I dont know the [Script Repair](object_1) [Update](object_2). Can you help me ?
+- I dont know what is the [Script Repair](object_1) [Update](object_2). Can you help me ?
+- tell me about the [Script Repair](object_1) [Update](object_2).
+- whats the [Script Repair](object_1) [Update](object_2) ?
+- whats [Script Repair](object_1) [Update](object_2) ?
+- [Script Repair](object_1) [Update](object_2)
+
+- [PS printing](object_1)
+- what is the [PS printing](object_1) ?
+- what is [PS printing](object_1) ?
+- please tell me about the [PS printing](object_1).
+- I dont know the [PS printing](object_1). Can you help me ?
+- I dont know what is the [PS printing](object_1). Can you help me ?
+- tell me about the [PS printing](object_1).
+- whats the [PS printing](object_1) ?
+- whats [PS printing](object_1) ?
+- [PS printing](object_1)
+
+- [unknown psb file](object_1) at [PS startup](object_2)
+- what is the [unknown psb file](object_1) [PS startup](object_2) ?
+- what is [unknown psb file](object_1) [PS startup](object_2) ?
+- please tell me about the [unknown psb file](object_1) [PS startup](object_2).
+- I dont know the [unknown psb file](object_1) [PS startup](object_2). Can you help me ?
+- I dont know what is the [unknown psb file](object_1) [PS startup](object_2). Can you help me ?
+- tell me about the [unknown psb file](object_1) [PS startup](object_2).
+- whats the [unknown psb file](object_1) [PS startup](object_2) ?
+- whats [unknown psb file](object_1) [PS startup](object_2) ?
+- [unknown psb file](object_1) [PS startup](object_2)
+
+- [Photoshop si blocca](object_1)
+- what is the [Photoshop si blocca](object_1) ?
+- what is [Photoshop si blocca](object_1) ?
+- please tell me about the [Photoshop si blocca](object_1).
+- I dont know the [Photoshop si blocca](object_1). Can you help me ?
+- I dont know what is the [Photoshop si blocca](object_1). Can you help me ?
+- tell me about the [Photoshop si blocca](object_1).
+- whats the [Photoshop si blocca](object_1) ?
+- whats [Photoshop si blocca](object_1) ?
+- [Photoshop si blocca](object_1)
+
+- [Kleurenpalet](object_1)
+- what is the [Kleurenpalet](object_1) ?
+- what is [Kleurenpalet](object_1) ?
+- please tell me about the [Kleurenpalet](object_1).
+- I dont know the [Kleurenpalet](object_1). Can you help me ?
+- I dont know what is the [Kleurenpalet](object_1). Can you help me ?
+- tell me about the [Kleurenpalet](object_1).
+- whats the [Kleurenpalet](object_1) ?
+- whats [Kleurenpalet](object_1) ?
+- [Kleurenpalet](object_1)
+
+- [Screen Brightness](object_1)
+- what is the [Screen Brightness](object_1) ?
+- what is [Screen Brightness](object_1) ?
+- please tell me about the [Screen Brightness](object_1).
+- I dont know the [Screen Brightness](object_1). Can you help me ?
+- I dont know what is the [Screen Brightness](object_1). Can you help me ?
+- tell me about the [Screen Brightness](object_1).
+- whats the [Screen Brightness](object_1) ?
+- whats [Screen Brightness](object_1) ?
+- [Screen Brightness](object_1)
+
+- [Vista Previa de archivos](object_1) .PSD
+- what is the [Vista Previa de archivos](object_1) ?
+- what is [Vista Previa de archivos](object_1) ?
+- please tell me about the [Vista Previa de archivos](object_1).
+- I dont know the [Vista Previa de archivos](object_1). Can you help me ?
+- I dont know what is the [Vista Previa de archivos](object_1). Can you help me ?
+- tell me about the [Vista Previa de archivos](object_1).
+- whats the [Vista Previa de archivos](object_1) ?
+- whats [Vista Previa de archivos](object_1) ?
+- [Vista Previa de archivos](object_1)
+
+- [Saving](object_1) [pictures](object_2) in [Photoshop](object_3) 2018
+- what is the [Saving](object_1) [pictures](object_2) [Photoshop](object_3) ?
+- what is [Saving](object_1) [pictures](object_2) [Photoshop](object_3) ?
+- please tell me about the [Saving](object_1) [pictures](object_2) [Photoshop](object_3).
+- I dont know the [Saving](object_1) [pictures](object_2) [Photoshop](object_3). Can you help me ?
+- I dont know what is the [Saving](object_1) [pictures](object_2) [Photoshop](object_3). Can you help me ?
+- tell me about the [Saving](object_1) [pictures](object_2) [Photoshop](object_3).
+- whats the [Saving](object_1) [pictures](object_2) [Photoshop](object_3) ?
+- whats [Saving](object_1) [pictures](object_2) [Photoshop](object_3) ?
+- [Saving](object_1) [pictures](object_2) [Photoshop](object_3)
+
+- [Problem](object_1) exporting [w/ Transparent Background](object_2)
+- what is the [Problem](object_1) [w/ Transparent Background](object_2) ?
+- what is [Problem](object_1) [w/ Transparent Background](object_2) ?
+- please tell me about the [Problem](object_1) [w/ Transparent Background](object_2).
+- I dont know the [Problem](object_1) [w/ Transparent Background](object_2). Can you help me ?
+- I dont know what is the [Problem](object_1) [w/ Transparent Background](object_2). Can you help me ?
+- tell me about the [Problem](object_1) [w/ Transparent Background](object_2).
+- whats the [Problem](object_1) [w/ Transparent Background](object_2) ?
+- whats [Problem](object_1) [w/ Transparent Background](object_2) ?
+- [Problem](object_1) [w/ Transparent Background](object_2)
+
+- Get [Text Rotation Value](object_1)?
+- what is the [Text Rotation Value](object_1) ?
+- what is [Text Rotation Value](object_1) ?
+- please tell me about the [Text Rotation Value](object_1).
+- I dont know the [Text Rotation Value](object_1). Can you help me ?
+- I dont know what is the [Text Rotation Value](object_1). Can you help me ?
+- tell me about the [Text Rotation Value](object_1).
+- whats the [Text Rotation Value](object_1) ?
+- whats [Text Rotation Value](object_1) ?
+- [Text Rotation Value](object_1)
+
+- [Raw und Dng Dateien](object_1) werden [nicht mehr geöffnet](object_2)
+- what is the [Raw und Dng Dateien](object_1) [nicht mehr geöffnet](object_2) ?
+- what is [Raw und Dng Dateien](object_1) [nicht mehr geöffnet](object_2) ?
+- please tell me about the [Raw und Dng Dateien](object_1) [nicht mehr geöffnet](object_2).
+- I dont know the [Raw und Dng Dateien](object_1) [nicht mehr geöffnet](object_2). Can you help me ?
+- I dont know what is the [Raw und Dng Dateien](object_1) [nicht mehr geöffnet](object_2). Can you help me ?
+- tell me about the [Raw und Dng Dateien](object_1) [nicht mehr geöffnet](object_2).
+- whats the [Raw und Dng Dateien](object_1) [nicht mehr geöffnet](object_2) ?
+- whats [Raw und Dng Dateien](object_1) [nicht mehr geöffnet](object_2) ?
+- [Raw und Dng Dateien](object_1) [nicht mehr geöffnet](object_2)
+
+- Can [anybody](object_1) point [me](object_2) in [the direction](object_3) of this action (If it is an action)
+- what is the [anybody](object_1) [me](object_2) [the direction](object_3) ?
+- what is [anybody](object_1) [me](object_2) [the direction](object_3) ?
+- please tell me about the [anybody](object_1) [me](object_2) [the direction](object_3).
+- I dont know the [anybody](object_1) [me](object_2) [the direction](object_3). Can you help me ?
+- I dont know what is the [anybody](object_1) [me](object_2) [the direction](object_3). Can you help me ?
+- tell me about the [anybody](object_1) [me](object_2) [the direction](object_3).
+- whats the [anybody](object_1) [me](object_2) [the direction](object_3) ?
+- whats [anybody](object_1) [me](object_2) [the direction](object_3) ?
+- [anybody](object_1) [me](object_2) [the direction](object_3)
+
+- [timeline default position](object_1)?
+- what is the [timeline default position](object_1) ?
+- what is [timeline default position](object_1) ?
+- please tell me about the [timeline default position](object_1).
+- I dont know the [timeline default position](object_1). Can you help me ?
+- I dont know what is the [timeline default position](object_1). Can you help me ?
+- tell me about the [timeline default position](object_1).
+- whats the [timeline default position](object_1) ?
+- whats [timeline default position](object_1) ?
+- [timeline default position](object_1)
+
+- Installing [CS5](object_1) on [MacBook Pro](object_2) with [MacOS X](object_3) 10.13.3
+- what is the [CS5](object_1) [MacBook Pro](object_2) [MacOS X](object_3) ?
+- what is [CS5](object_1) [MacBook Pro](object_2) [MacOS X](object_3) ?
+- please tell me about the [CS5](object_1) [MacBook Pro](object_2) [MacOS X](object_3).
+- I dont know the [CS5](object_1) [MacBook Pro](object_2) [MacOS X](object_3). Can you help me ?
+- I dont know what is the [CS5](object_1) [MacBook Pro](object_2) [MacOS X](object_3). Can you help me ?
+- tell me about the [CS5](object_1) [MacBook Pro](object_2) [MacOS X](object_3).
+- whats the [CS5](object_1) [MacBook Pro](object_2) [MacOS X](object_3) ?
+- whats [CS5](object_1) [MacBook Pro](object_2) [MacOS X](object_3) ?
+- [CS5](object_1) [MacBook Pro](object_2) [MacOS X](object_3)
+
+- [Photoshop App](object_1)
+- what is the [Photoshop App](object_1) ?
+- what is [Photoshop App](object_1) ?
+- please tell me about the [Photoshop App](object_1).
+- I dont know the [Photoshop App](object_1). Can you help me ?
+- I dont know what is the [Photoshop App](object_1). Can you help me ?
+- tell me about the [Photoshop App](object_1).
+- whats the [Photoshop App](object_1) ?
+- whats [Photoshop App](object_1) ?
+- [Photoshop App](object_1)
+
+- [Probleme tabulation](object_1)
+- what is the [Probleme tabulation](object_1) ?
+- what is [Probleme tabulation](object_1) ?
+- please tell me about the [Probleme tabulation](object_1).
+- I dont know the [Probleme tabulation](object_1). Can you help me ?
+- I dont know what is the [Probleme tabulation](object_1). Can you help me ?
+- tell me about the [Probleme tabulation](object_1).
+- whats the [Probleme tabulation](object_1) ?
+- whats [Probleme tabulation](object_1) ?
+- [Probleme tabulation](object_1)
+
+- [Errors](object_1) with [my Photoshop Panel Extension](object_2) in [CC2018 Photoshop](object_3)
+- what is the [Errors](object_1) [my Photoshop Panel Extension](object_2) [CC2018 Photoshop](object_3) ?
+- what is [Errors](object_1) [my Photoshop Panel Extension](object_2) [CC2018 Photoshop](object_3) ?
+- please tell me about the [Errors](object_1) [my Photoshop Panel Extension](object_2) [CC2018 Photoshop](object_3).
+- I dont know the [Errors](object_1) [my Photoshop Panel Extension](object_2) [CC2018 Photoshop](object_3). Can you help me ?
+- I dont know what is the [Errors](object_1) [my Photoshop Panel Extension](object_2) [CC2018 Photoshop](object_3). Can you help me ?
+- tell me about the [Errors](object_1) [my Photoshop Panel Extension](object_2) [CC2018 Photoshop](object_3).
+- whats the [Errors](object_1) [my Photoshop Panel Extension](object_2) [CC2018 Photoshop](object_3) ?
+- whats [Errors](object_1) [my Photoshop Panel Extension](object_2) [CC2018 Photoshop](object_3) ?
+- [Errors](object_1) [my Photoshop Panel Extension](object_2) [CC2018 Photoshop](object_3)
+
+- [Nikon D850 files](object_1)
+- what is the [Nikon D850 files](object_1) ?
+- what is [Nikon D850 files](object_1) ?
+- please tell me about the [Nikon D850 files](object_1).
+- I dont know the [Nikon D850 files](object_1). Can you help me ?
+- I dont know what is the [Nikon D850 files](object_1). Can you help me ?
+- tell me about the [Nikon D850 files](object_1).
+- whats the [Nikon D850 files](object_1) ?
+- whats [Nikon D850 files](object_1) ?
+- [Nikon D850 files](object_1)
+
+- Can [I](object_1) use [the "thick acrylic" brush](object_2) from [Adobe Sketch](object_3) in Photoshop?
+- what is the [I](object_1) [the "thick acrylic" brush](object_2) [Adobe Sketch](object_3) ?
+- what is [I](object_1) [the "thick acrylic" brush](object_2) [Adobe Sketch](object_3) ?
+- please tell me about the [I](object_1) [the "thick acrylic" brush](object_2) [Adobe Sketch](object_3).
+- I dont know the [I](object_1) [the "thick acrylic" brush](object_2) [Adobe Sketch](object_3). Can you help me ?
+- I dont know what is the [I](object_1) [the "thick acrylic" brush](object_2) [Adobe Sketch](object_3). Can you help me ?
+- tell me about the [I](object_1) [the "thick acrylic" brush](object_2) [Adobe Sketch](object_3).
+- whats the [I](object_1) [the "thick acrylic" brush](object_2) [Adobe Sketch](object_3) ?
+- whats [I](object_1) [the "thick acrylic" brush](object_2) [Adobe Sketch](object_3) ?
+- [I](object_1) [the "thick acrylic" brush](object_2) [Adobe Sketch](object_3)
+
+- [photoshop payment](object_1)
+- what is the [photoshop payment](object_1) ?
+- what is [photoshop payment](object_1) ?
+- please tell me about the [photoshop payment](object_1).
+- I dont know the [photoshop payment](object_1). Can you help me ?
+- I dont know what is the [photoshop payment](object_1). Can you help me ?
+- tell me about the [photoshop payment](object_1).
+- whats the [photoshop payment](object_1) ?
+- whats [photoshop payment](object_1) ?
+- [photoshop payment](object_1)
+
+- [Photoshop CC Brushes](object_1) and Pencils not working
+- what is the [Photoshop CC Brushes](object_1) ?
+- what is [Photoshop CC Brushes](object_1) ?
+- please tell me about the [Photoshop CC Brushes](object_1).
+- I dont know the [Photoshop CC Brushes](object_1). Can you help me ?
+- I dont know what is the [Photoshop CC Brushes](object_1). Can you help me ?
+- tell me about the [Photoshop CC Brushes](object_1).
+- whats the [Photoshop CC Brushes](object_1) ?
+- whats [Photoshop CC Brushes](object_1) ?
+- [Photoshop CC Brushes](object_1)
+
+- [Pixel Bender](object_1)
+- what is the [Pixel Bender](object_1) ?
+- what is [Pixel Bender](object_1) ?
+- please tell me about the [Pixel Bender](object_1).
+- I dont know the [Pixel Bender](object_1). Can you help me ?
+- I dont know what is the [Pixel Bender](object_1). Can you help me ?
+- tell me about the [Pixel Bender](object_1).
+- whats the [Pixel Bender](object_1) ?
+- whats [Pixel Bender](object_1) ?
+- [Pixel Bender](object_1)
+
+- [Photoshop](object_1) tablet [bug](object_2), [keyboard shortcuts](object_3) temporarily won't work
+- what is the [Photoshop](object_1) [bug](object_2) [keyboard shortcuts](object_3) ?
+- what is [Photoshop](object_1) [bug](object_2) [keyboard shortcuts](object_3) ?
+- please tell me about the [Photoshop](object_1) [bug](object_2) [keyboard shortcuts](object_3).
+- I dont know the [Photoshop](object_1) [bug](object_2) [keyboard shortcuts](object_3). Can you help me ?
+- I dont know what is the [Photoshop](object_1) [bug](object_2) [keyboard shortcuts](object_3). Can you help me ?
+- tell me about the [Photoshop](object_1) [bug](object_2) [keyboard shortcuts](object_3).
+- whats the [Photoshop](object_1) [bug](object_2) [keyboard shortcuts](object_3) ?
+- whats [Photoshop](object_1) [bug](object_2) [keyboard shortcuts](object_3) ?
+- [Photoshop](object_1) [bug](object_2) [keyboard shortcuts](object_3)
+
+- [PLEASE HELP](object_1)!!!  [Photoshop Brush](object_2) scrolls with [Vertical Pen input](object_3), Brushes with Horizontal.  reinstalling, scrapping the preference file, rolling back and re-updating drivers / photoshop, Nothing helps!
+- what is the [PLEASE HELP](object_1) [Photoshop Brush](object_2) [Vertical Pen input](object_3) ?
+- what is [PLEASE HELP](object_1) [Photoshop Brush](object_2) [Vertical Pen input](object_3) ?
+- please tell me about the [PLEASE HELP](object_1) [Photoshop Brush](object_2) [Vertical Pen input](object_3).
+- I dont know the [PLEASE HELP](object_1) [Photoshop Brush](object_2) [Vertical Pen input](object_3). Can you help me ?
+- I dont know what is the [PLEASE HELP](object_1) [Photoshop Brush](object_2) [Vertical Pen input](object_3). Can you help me ?
+- tell me about the [PLEASE HELP](object_1) [Photoshop Brush](object_2) [Vertical Pen input](object_3).
+- whats the [PLEASE HELP](object_1) [Photoshop Brush](object_2) [Vertical Pen input](object_3) ?
+- whats [PLEASE HELP](object_1) [Photoshop Brush](object_2) [Vertical Pen input](object_3) ?
+- [PLEASE HELP](object_1) [Photoshop Brush](object_2) [Vertical Pen input](object_3)
+
+- [Photoshop dialog box](object_1) always opens in [top left corner](object_2)
+- what is the [Photoshop dialog box](object_1) [top left corner](object_2) ?
+- what is [Photoshop dialog box](object_1) [top left corner](object_2) ?
+- please tell me about the [Photoshop dialog box](object_1) [top left corner](object_2).
+- I dont know the [Photoshop dialog box](object_1) [top left corner](object_2). Can you help me ?
+- I dont know what is the [Photoshop dialog box](object_1) [top left corner](object_2). Can you help me ?
+- tell me about the [Photoshop dialog box](object_1) [top left corner](object_2).
+- whats the [Photoshop dialog box](object_1) [top left corner](object_2) ?
+- whats [Photoshop dialog box](object_1) [top left corner](object_2) ?
+- [Photoshop dialog box](object_1) [top left corner](object_2)
+
+- Designing [a billboard - need help](object_1) with [specs](object_2) & [formatting](object_3)
+- what is the [a billboard - need help](object_1) [specs](object_2) [formatting](object_3) ?
+- what is [a billboard - need help](object_1) [specs](object_2) [formatting](object_3) ?
+- please tell me about the [a billboard - need help](object_1) [specs](object_2) [formatting](object_3).
+- I dont know the [a billboard - need help](object_1) [specs](object_2) [formatting](object_3). Can you help me ?
+- I dont know what is the [a billboard - need help](object_1) [specs](object_2) [formatting](object_3). Can you help me ?
+- tell me about the [a billboard - need help](object_1) [specs](object_2) [formatting](object_3).
+- whats the [a billboard - need help](object_1) [specs](object_2) [formatting](object_3) ?
+- whats [a billboard - need help](object_1) [specs](object_2) [formatting](object_3) ?
+- [a billboard - need help](object_1) [specs](object_2) [formatting](object_3)
+
+- [Activation Question](object_1)
+- what is the [Activation Question](object_1) ?
+- what is [Activation Question](object_1) ?
+- please tell me about the [Activation Question](object_1).
+- I dont know the [Activation Question](object_1). Can you help me ?
+- I dont know what is the [Activation Question](object_1). Can you help me ?
+- tell me about the [Activation Question](object_1).
+- whats the [Activation Question](object_1) ?
+- whats [Activation Question](object_1) ?
+- [Activation Question](object_1)
+
+- [ACR White Balance tool](object_1) zooming in
+- what is the [ACR White Balance tool](object_1) ?
+- what is [ACR White Balance tool](object_1) ?
+- please tell me about the [ACR White Balance tool](object_1).
+- I dont know the [ACR White Balance tool](object_1). Can you help me ?
+- I dont know what is the [ACR White Balance tool](object_1). Can you help me ?
+- tell me about the [ACR White Balance tool](object_1).
+- whats the [ACR White Balance tool](object_1) ?
+- whats [ACR White Balance tool](object_1) ?
+- [ACR White Balance tool](object_1)
+
+- [프린트시 세팅창에 나타나는](object_1) [사진의 화질](object_2)
+- what is the [프린트시 세팅창에 나타나는](object_1) [사진의 화질](object_2) ?
+- what is [프린트시 세팅창에 나타나는](object_1) [사진의 화질](object_2) ?
+- please tell me about the [프린트시 세팅창에 나타나는](object_1) [사진의 화질](object_2).
+- I dont know the [프린트시 세팅창에 나타나는](object_1) [사진의 화질](object_2). Can you help me ?
+- I dont know what is the [프린트시 세팅창에 나타나는](object_1) [사진의 화질](object_2). Can you help me ?
+- tell me about the [프린트시 세팅창에 나타나는](object_1) [사진의 화질](object_2).
+- whats the [프린트시 세팅창에 나타나는](object_1) [사진의 화질](object_2) ?
+- whats [프린트시 세팅창에 나타나는](object_1) [사진의 화질](object_2) ?
+- [프린트시 세팅창에 나타나는](object_1) [사진의 화질](object_2)
+
+- [Photoshop windows 'dragging](object_1)' after [High Sierra update](object_2)?
+- what is the [Photoshop windows 'dragging](object_1) [High Sierra update](object_2) ?
+- what is [Photoshop windows 'dragging](object_1) [High Sierra update](object_2) ?
+- please tell me about the [Photoshop windows 'dragging](object_1) [High Sierra update](object_2).
+- I dont know the [Photoshop windows 'dragging](object_1) [High Sierra update](object_2). Can you help me ?
+- I dont know what is the [Photoshop windows 'dragging](object_1) [High Sierra update](object_2). Can you help me ?
+- tell me about the [Photoshop windows 'dragging](object_1) [High Sierra update](object_2).
+- whats the [Photoshop windows 'dragging](object_1) [High Sierra update](object_2) ?
+- whats [Photoshop windows 'dragging](object_1) [High Sierra update](object_2) ?
+- [Photoshop windows 'dragging](object_1) [High Sierra update](object_2)
+
+- [Uninstall magicpicker](object_1)
+- what is the [Uninstall magicpicker](object_1) ?
+- what is [Uninstall magicpicker](object_1) ?
+- please tell me about the [Uninstall magicpicker](object_1).
+- I dont know the [Uninstall magicpicker](object_1). Can you help me ?
+- I dont know what is the [Uninstall magicpicker](object_1). Can you help me ?
+- tell me about the [Uninstall magicpicker](object_1).
+- whats the [Uninstall magicpicker](object_1) ?
+- whats [Uninstall magicpicker](object_1) ?
+- [Uninstall magicpicker](object_1)
+
+- [Wacom pen buttons](object_1) are ignored on [Photoshop](object_2) 19
+- what is the [Wacom pen buttons](object_1) [Photoshop](object_2) ?
+- what is [Wacom pen buttons](object_1) [Photoshop](object_2) ?
+- please tell me about the [Wacom pen buttons](object_1) [Photoshop](object_2).
+- I dont know the [Wacom pen buttons](object_1) [Photoshop](object_2). Can you help me ?
+- I dont know what is the [Wacom pen buttons](object_1) [Photoshop](object_2). Can you help me ?
+- tell me about the [Wacom pen buttons](object_1) [Photoshop](object_2).
+- whats the [Wacom pen buttons](object_1) [Photoshop](object_2) ?
+- whats [Wacom pen buttons](object_1) [Photoshop](object_2) ?
+- [Wacom pen buttons](object_1) [Photoshop](object_2)
+
+- [Memory](object_1)
+- what is the [Memory](object_1) ?
+- what is [Memory](object_1) ?
+- please tell me about the [Memory](object_1).
+- I dont know the [Memory](object_1). Can you help me ?
+- I dont know what is the [Memory](object_1). Can you help me ?
+- tell me about the [Memory](object_1).
+- whats the [Memory](object_1) ?
+- whats [Memory](object_1) ?
+- [Memory](object_1)
+
+- [Problem](object_1) of [RAM](object_2) with [PS](object_3) 2018, after MAJ Spring fall creator
+- what is the [Problem](object_1) [RAM](object_2) [PS](object_3) ?
+- what is [Problem](object_1) [RAM](object_2) [PS](object_3) ?
+- please tell me about the [Problem](object_1) [RAM](object_2) [PS](object_3).
+- I dont know the [Problem](object_1) [RAM](object_2) [PS](object_3). Can you help me ?
+- I dont know what is the [Problem](object_1) [RAM](object_2) [PS](object_3). Can you help me ?
+- tell me about the [Problem](object_1) [RAM](object_2) [PS](object_3).
+- whats the [Problem](object_1) [RAM](object_2) [PS](object_3) ?
+- whats [Problem](object_1) [RAM](object_2) [PS](object_3) ?
+- [Problem](object_1) [RAM](object_2) [PS](object_3)
+
+- Windows [10 - Photoshop Invalid](object_1) ICC Profile Description
+- what is the [10 - Photoshop Invalid](object_1) ?
+- what is [10 - Photoshop Invalid](object_1) ?
+- please tell me about the [10 - Photoshop Invalid](object_1).
+- I dont know the [10 - Photoshop Invalid](object_1). Can you help me ?
+- I dont know what is the [10 - Photoshop Invalid](object_1). Can you help me ?
+- tell me about the [10 - Photoshop Invalid](object_1).
+- whats the [10 - Photoshop Invalid](object_1) ?
+- whats [10 - Photoshop Invalid](object_1) ?
+- [10 - Photoshop Invalid](object_1)
+
+- How to center [something](object_1) on [the canvas](object_2)
+- what is the [something](object_1) [the canvas](object_2) ?
+- what is [something](object_1) [the canvas](object_2) ?
+- please tell me about the [something](object_1) [the canvas](object_2).
+- I dont know the [something](object_1) [the canvas](object_2). Can you help me ?
+- I dont know what is the [something](object_1) [the canvas](object_2). Can you help me ?
+- tell me about the [something](object_1) [the canvas](object_2).
+- whats the [something](object_1) [the canvas](object_2) ?
+- whats [something](object_1) [the canvas](object_2) ?
+- [something](object_1) [the canvas](object_2)
+
+- [Full Screen Mode](object_1) with [Menu Bar issue](object_2) with [multiple monitors](object_3)
+- what is the [Full Screen Mode](object_1) [Menu Bar issue](object_2) [multiple monitors](object_3) ?
+- what is [Full Screen Mode](object_1) [Menu Bar issue](object_2) [multiple monitors](object_3) ?
+- please tell me about the [Full Screen Mode](object_1) [Menu Bar issue](object_2) [multiple monitors](object_3).
+- I dont know the [Full Screen Mode](object_1) [Menu Bar issue](object_2) [multiple monitors](object_3). Can you help me ?
+- I dont know what is the [Full Screen Mode](object_1) [Menu Bar issue](object_2) [multiple monitors](object_3). Can you help me ?
+- tell me about the [Full Screen Mode](object_1) [Menu Bar issue](object_2) [multiple monitors](object_3).
+- whats the [Full Screen Mode](object_1) [Menu Bar issue](object_2) [multiple monitors](object_3) ?
+- whats [Full Screen Mode](object_1) [Menu Bar issue](object_2) [multiple monitors](object_3) ?
+- [Full Screen Mode](object_1) [Menu Bar issue](object_2) [multiple monitors](object_3)
+
+- [Select Bridge thumbnails](object_1) run [custom Photoshop script](object_2)
+- what is the [Select Bridge thumbnails](object_1) [custom Photoshop script](object_2) ?
+- what is [Select Bridge thumbnails](object_1) [custom Photoshop script](object_2) ?
+- please tell me about the [Select Bridge thumbnails](object_1) [custom Photoshop script](object_2).
+- I dont know the [Select Bridge thumbnails](object_1) [custom Photoshop script](object_2). Can you help me ?
+- I dont know what is the [Select Bridge thumbnails](object_1) [custom Photoshop script](object_2). Can you help me ?
+- tell me about the [Select Bridge thumbnails](object_1) [custom Photoshop script](object_2).
+- whats the [Select Bridge thumbnails](object_1) [custom Photoshop script](object_2) ?
+- whats [Select Bridge thumbnails](object_1) [custom Photoshop script](object_2) ?
+- [Select Bridge thumbnails](object_1) [custom Photoshop script](object_2)
+
+- [nVidia GeForce Mx series](object_1) for [Photoshop](object_2)
+- what is the [nVidia GeForce Mx series](object_1) [Photoshop](object_2) ?
+- what is [nVidia GeForce Mx series](object_1) [Photoshop](object_2) ?
+- please tell me about the [nVidia GeForce Mx series](object_1) [Photoshop](object_2).
+- I dont know the [nVidia GeForce Mx series](object_1) [Photoshop](object_2). Can you help me ?
+- I dont know what is the [nVidia GeForce Mx series](object_1) [Photoshop](object_2). Can you help me ?
+- tell me about the [nVidia GeForce Mx series](object_1) [Photoshop](object_2).
+- whats the [nVidia GeForce Mx series](object_1) [Photoshop](object_2) ?
+- whats [nVidia GeForce Mx series](object_1) [Photoshop](object_2) ?
+- [nVidia GeForce Mx series](object_1) [Photoshop](object_2)
+
+- Why is [it](object_1) that [a photo jpeg format](object_2) in Lightroom converts to [tiff](object_3) when I want to ed[it](object_1) [it](object_1) in Photoshop?
+- what is the [it](object_1) [a photo jpeg format](object_2) [tiff](object_3) ?
+- what is [it](object_1) [a photo jpeg format](object_2) [tiff](object_3) ?
+- please tell me about the [it](object_1) [a photo jpeg format](object_2) [tiff](object_3).
+- I dont know the [it](object_1) [a photo jpeg format](object_2) [tiff](object_3). Can you help me ?
+- I dont know what is the [it](object_1) [a photo jpeg format](object_2) [tiff](object_3). Can you help me ?
+- tell me about the [it](object_1) [a photo jpeg format](object_2) [tiff](object_3).
+- whats the [it](object_1) [a photo jpeg format](object_2) [tiff](object_3) ?
+- whats [it](object_1) [a photo jpeg format](object_2) [tiff](object_3) ?
+- [it](object_1) [a photo jpeg format](object_2) [tiff](object_3)
+
+- [mrs](object_1)
+- what is the [mrs](object_1) ?
+- what is [mrs](object_1) ?
+- please tell me about the [mrs](object_1).
+- I dont know the [mrs](object_1). Can you help me ?
+- I dont know what is the [mrs](object_1). Can you help me ?
+- tell me about the [mrs](object_1).
+- whats the [mrs](object_1) ?
+- whats [mrs](object_1) ?
+- [mrs](object_1)
+
+- [Photoshop](object_1)
+- what is the [Photoshop](object_1) ?
+- what is [Photoshop](object_1) ?
+- please tell me about the [Photoshop](object_1).
+- I dont know the [Photoshop](object_1). Can you help me ?
+- I dont know what is the [Photoshop](object_1). Can you help me ?
+- tell me about the [Photoshop](object_1).
+- whats the [Photoshop](object_1) ?
+- whats [Photoshop](object_1) ?
+- [Photoshop](object_1)
+
+- [Poor picture quality](object_1) in [Photoshop](object_2)
+- what is the [Poor picture quality](object_1) [Photoshop](object_2) ?
+- what is [Poor picture quality](object_1) [Photoshop](object_2) ?
+- please tell me about the [Poor picture quality](object_1) [Photoshop](object_2).
+- I dont know the [Poor picture quality](object_1) [Photoshop](object_2). Can you help me ?
+- I dont know what is the [Poor picture quality](object_1) [Photoshop](object_2). Can you help me ?
+- tell me about the [Poor picture quality](object_1) [Photoshop](object_2).
+- whats the [Poor picture quality](object_1) [Photoshop](object_2) ?
+- whats [Poor picture quality](object_1) [Photoshop](object_2) ?
+- [Poor picture quality](object_1) [Photoshop](object_2)
+
+- How to remove [Facebook Watermark](object_1) from [ShutterStock Images](object_2)?
+- what is the [Facebook Watermark](object_1) [ShutterStock Images](object_2) ?
+- what is [Facebook Watermark](object_1) [ShutterStock Images](object_2) ?
+- please tell me about the [Facebook Watermark](object_1) [ShutterStock Images](object_2).
+- I dont know the [Facebook Watermark](object_1) [ShutterStock Images](object_2). Can you help me ?
+- I dont know what is the [Facebook Watermark](object_1) [ShutterStock Images](object_2). Can you help me ?
+- tell me about the [Facebook Watermark](object_1) [ShutterStock Images](object_2).
+- whats the [Facebook Watermark](object_1) [ShutterStock Images](object_2) ?
+- whats [Facebook Watermark](object_1) [ShutterStock Images](object_2) ?
+- [Facebook Watermark](object_1) [ShutterStock Images](object_2)
+
+- [Horizontal Type Mask Tool](object_1)
+- what is the [Horizontal Type Mask Tool](object_1) ?
+- what is [Horizontal Type Mask Tool](object_1) ?
+- please tell me about the [Horizontal Type Mask Tool](object_1).
+- I dont know the [Horizontal Type Mask Tool](object_1). Can you help me ?
+- I dont know what is the [Horizontal Type Mask Tool](object_1). Can you help me ?
+- tell me about the [Horizontal Type Mask Tool](object_1).
+- whats the [Horizontal Type Mask Tool](object_1) ?
+- whats [Horizontal Type Mask Tool](object_1) ?
+- [Horizontal Type Mask Tool](object_1)
+
+- [Magic Wand tool tolerance](object_1) setting
+- what is the [Magic Wand tool tolerance](object_1) ?
+- what is [Magic Wand tool tolerance](object_1) ?
+- please tell me about the [Magic Wand tool tolerance](object_1).
+- I dont know the [Magic Wand tool tolerance](object_1). Can you help me ?
+- I dont know what is the [Magic Wand tool tolerance](object_1). Can you help me ?
+- tell me about the [Magic Wand tool tolerance](object_1).
+- whats the [Magic Wand tool tolerance](object_1) ?
+- whats [Magic Wand tool tolerance](object_1) ?
+- [Magic Wand tool tolerance](object_1)
+
+- [Bridge / ACR - Raw file colour space](object_1) showing as ["Untagged RGB](object_2)"
+- what is the [Bridge / ACR - Raw file colour space](object_1) ["Untagged RGB](object_2) ?
+- what is [Bridge / ACR - Raw file colour space](object_1) ["Untagged RGB](object_2) ?
+- please tell me about the [Bridge / ACR - Raw file colour space](object_1) ["Untagged RGB](object_2).
+- I dont know the [Bridge / ACR - Raw file colour space](object_1) ["Untagged RGB](object_2). Can you help me ?
+- I dont know what is the [Bridge / ACR - Raw file colour space](object_1) ["Untagged RGB](object_2). Can you help me ?
+- tell me about the [Bridge / ACR - Raw file colour space](object_1) ["Untagged RGB](object_2).
+- whats the [Bridge / ACR - Raw file colour space](object_1) ["Untagged RGB](object_2) ?
+- whats [Bridge / ACR - Raw file colour space](object_1) ["Untagged RGB](object_2) ?
+- [Bridge / ACR - Raw file colour space](object_1) ["Untagged RGB](object_2)
+
+- [Extensions panel](object_1) in [PS CC](object_2) 2018 is grey out
+- what is the [Extensions panel](object_1) [PS CC](object_2) ?
+- what is [Extensions panel](object_1) [PS CC](object_2) ?
+- please tell me about the [Extensions panel](object_1) [PS CC](object_2).
+- I dont know the [Extensions panel](object_1) [PS CC](object_2). Can you help me ?
+- I dont know what is the [Extensions panel](object_1) [PS CC](object_2). Can you help me ?
+- tell me about the [Extensions panel](object_1) [PS CC](object_2).
+- whats the [Extensions panel](object_1) [PS CC](object_2) ?
+- whats [Extensions panel](object_1) [PS CC](object_2) ?
+- [Extensions panel](object_1) [PS CC](object_2)
+
+- [Photoshop CS3](object_1)
+- what is the [Photoshop CS3](object_1) ?
+- what is [Photoshop CS3](object_1) ?
+- please tell me about the [Photoshop CS3](object_1).
+- I dont know the [Photoshop CS3](object_1). Can you help me ?
+- I dont know what is the [Photoshop CS3](object_1). Can you help me ?
+- tell me about the [Photoshop CS3](object_1).
+- whats the [Photoshop CS3](object_1) ?
+- whats [Photoshop CS3](object_1) ?
+- [Photoshop CS3](object_1)
+
+- [Print Quality Issues](object_1): [iMac](object_2) 2017 to [Epson SC P600](object_3) (both new)
+- what is the [Print Quality Issues](object_1) [iMac](object_2) [Epson SC P600](object_3) ?
+- what is [Print Quality Issues](object_1) [iMac](object_2) [Epson SC P600](object_3) ?
+- please tell me about the [Print Quality Issues](object_1) [iMac](object_2) [Epson SC P600](object_3).
+- I dont know the [Print Quality Issues](object_1) [iMac](object_2) [Epson SC P600](object_3). Can you help me ?
+- I dont know what is the [Print Quality Issues](object_1) [iMac](object_2) [Epson SC P600](object_3). Can you help me ?
+- tell me about the [Print Quality Issues](object_1) [iMac](object_2) [Epson SC P600](object_3).
+- whats the [Print Quality Issues](object_1) [iMac](object_2) [Epson SC P600](object_3) ?
+- whats [Print Quality Issues](object_1) [iMac](object_2) [Epson SC P600](object_3) ?
+- [Print Quality Issues](object_1) [iMac](object_2) [Epson SC P600](object_3)
+
+- [Photoshop CC](object_1) : [filtre/rendu](object_2) ["impossible le calque pas](object_3) modifiable directement
+- what is the [Photoshop CC](object_1) [filtre/rendu](object_2) ["impossible le calque pas](object_3) ?
+- what is [Photoshop CC](object_1) [filtre/rendu](object_2) ["impossible le calque pas](object_3) ?
+- please tell me about the [Photoshop CC](object_1) [filtre/rendu](object_2) ["impossible le calque pas](object_3).
+- I dont know the [Photoshop CC](object_1) [filtre/rendu](object_2) ["impossible le calque pas](object_3). Can you help me ?
+- I dont know what is the [Photoshop CC](object_1) [filtre/rendu](object_2) ["impossible le calque pas](object_3). Can you help me ?
+- tell me about the [Photoshop CC](object_1) [filtre/rendu](object_2) ["impossible le calque pas](object_3).
+- whats the [Photoshop CC](object_1) [filtre/rendu](object_2) ["impossible le calque pas](object_3) ?
+- whats [Photoshop CC](object_1) [filtre/rendu](object_2) ["impossible le calque pas](object_3) ?
+- [Photoshop CC](object_1) [filtre/rendu](object_2) ["impossible le calque pas](object_3)
+
+- [Align Text](object_1) To [the Text Frame - Huge Bug](object_2) In [RTL/Hebrew](object_3) !! Adobe CC 19.1.3
+- what is the [Align Text](object_1) [the Text Frame - Huge Bug](object_2) [RTL/Hebrew](object_3) ?
+- what is [Align Text](object_1) [the Text Frame - Huge Bug](object_2) [RTL/Hebrew](object_3) ?
+- please tell me about the [Align Text](object_1) [the Text Frame - Huge Bug](object_2) [RTL/Hebrew](object_3).
+- I dont know the [Align Text](object_1) [the Text Frame - Huge Bug](object_2) [RTL/Hebrew](object_3). Can you help me ?
+- I dont know what is the [Align Text](object_1) [the Text Frame - Huge Bug](object_2) [RTL/Hebrew](object_3). Can you help me ?
+- tell me about the [Align Text](object_1) [the Text Frame - Huge Bug](object_2) [RTL/Hebrew](object_3).
+- whats the [Align Text](object_1) [the Text Frame - Huge Bug](object_2) [RTL/Hebrew](object_3) ?
+- whats [Align Text](object_1) [the Text Frame - Huge Bug](object_2) [RTL/Hebrew](object_3) ?
+- [Align Text](object_1) [the Text Frame - Huge Bug](object_2) [RTL/Hebrew](object_3)
+
+- [Display Driver Warning](object_1)... but only for [One User](object_2)
+- what is the [Display Driver Warning](object_1) [One User](object_2) ?
+- what is [Display Driver Warning](object_1) [One User](object_2) ?
+- please tell me about the [Display Driver Warning](object_1) [One User](object_2).
+- I dont know the [Display Driver Warning](object_1) [One User](object_2). Can you help me ?
+- I dont know what is the [Display Driver Warning](object_1) [One User](object_2). Can you help me ?
+- tell me about the [Display Driver Warning](object_1) [One User](object_2).
+- whats the [Display Driver Warning](object_1) [One User](object_2) ?
+- whats [Display Driver Warning](object_1) [One User](object_2) ?
+- [Display Driver Warning](object_1) [One User](object_2)
+
+- [Ghost PS file](object_1) created when saving to [RAID drive](object_2)
+- what is the [Ghost PS file](object_1) [RAID drive](object_2) ?
+- what is [Ghost PS file](object_1) [RAID drive](object_2) ?
+- please tell me about the [Ghost PS file](object_1) [RAID drive](object_2).
+- I dont know the [Ghost PS file](object_1) [RAID drive](object_2). Can you help me ?
+- I dont know what is the [Ghost PS file](object_1) [RAID drive](object_2). Can you help me ?
+- tell me about the [Ghost PS file](object_1) [RAID drive](object_2).
+- whats the [Ghost PS file](object_1) [RAID drive](object_2) ?
+- whats [Ghost PS file](object_1) [RAID drive](object_2) ?
+- [Ghost PS file](object_1) [RAID drive](object_2)
+
+- Why does [Adobe Camera Raw](object_1) update so frequently?
+- what is the [Adobe Camera Raw](object_1) ?
+- what is [Adobe Camera Raw](object_1) ?
+- please tell me about the [Adobe Camera Raw](object_1).
+- I dont know the [Adobe Camera Raw](object_1). Can you help me ?
+- I dont know what is the [Adobe Camera Raw](object_1). Can you help me ?
+- tell me about the [Adobe Camera Raw](object_1).
+- whats the [Adobe Camera Raw](object_1) ?
+- whats [Adobe Camera Raw](object_1) ?
+- [Adobe Camera Raw](object_1)
+
+- [Clone Stamp](object_1)
+- what is the [Clone Stamp](object_1) ?
+- what is [Clone Stamp](object_1) ?
+- please tell me about the [Clone Stamp](object_1).
+- I dont know the [Clone Stamp](object_1). Can you help me ?
+- I dont know what is the [Clone Stamp](object_1). Can you help me ?
+- tell me about the [Clone Stamp](object_1).
+- whats the [Clone Stamp](object_1) ?
+- whats [Clone Stamp](object_1) ?
+- [Clone Stamp](object_1)
+
+- [Frequent font list](object_1) in [PS](object_2) 5.5
+- what is the [Frequent font list](object_1) [PS](object_2) ?
+- what is [Frequent font list](object_1) [PS](object_2) ?
+- please tell me about the [Frequent font list](object_1) [PS](object_2).
+- I dont know the [Frequent font list](object_1) [PS](object_2). Can you help me ?
+- I dont know what is the [Frequent font list](object_1) [PS](object_2). Can you help me ?
+- tell me about the [Frequent font list](object_1) [PS](object_2).
+- whats the [Frequent font list](object_1) [PS](object_2) ?
+- whats [Frequent font list](object_1) [PS](object_2) ?
+- [Frequent font list](object_1) [PS](object_2)
+
 - what is the [texture](object_1) painting ?
 - what is [texture](object_1) painting ?
 - please tell me about the [texture](object_1) painting.
@@ -58,16 +2896,6 @@
 - whats [layer](object_1) [projection](object_2) painting ?
 - [layer](object_1) [projection](object_2) painting.
 
-- what is the [halftone pattern](object_1) ?
-- what is [halftone pattern](object_1) ?
-- please tell me about the [halftone pattern](object_1).
-- I dont know the [halftone pattern](object_1). Can you help me ?
-- I dont know what is the [halftone pattern](object_1). Can you help me ?
-- tell me about the [halftone pattern](object_1) .
-- whats the [halftone pattern](object_1) ?
-- whats [halftone pattern](object_1) ?
-- [halftone pattern](object_1).
-
 - what is the [channel](object_1) ?
 - what is [channel](object_1) ?
 - please tell me about the [channel](object_1).
@@ -78,26 +2906,6 @@
 - whats [channel](object_1) ?
 - [channel](object_1).
 
-- what is the [brush tool](object_1) ?
-- what is [brush tool](object_1) ?
-- please tell me about the [brush tool](object_1).
-- I dont know the [brush tool](object_1). Can you help me ?
-- I dont know what is the [brush tool](object_1). Can you help me ?
-- tell me about the [brush tool](object_1) .
-- whats the [brush tool](object_1) ?
-- whats [brush tool](object_1) ?
-- [brush tool](object_1).
-
-- what is the [digital collage](object_1) ?
-- what is [digital collage](object_1) ?
-- please tell me about the [digital collage](object_1).
-- I dont know the [digital collage](object_1). Can you help me ?
-- I dont know what is the [digital collage](object_1). Can you help me ?
-- tell me about the [digital collage](object_1) .
-- whats the [digital collage](object_1) ?
-- whats [digital collage](object_1) ?
-- [digital collage](object_1).
-
 - what is the [alpha channel](object_1) ?
 - what is [alpha channel](object_1) ?
 - please tell me about the [alpha channel](object_1).
@@ -107,78 +2915,6 @@
 - whats the [alpha channel](object_1) ?
 - whats [alpha channel](object_1) ?
 - [alpha channel](object_1).
-
-- what is the [rectangle tool](object_1) ?
-- what is [rectangle tool](object_1) ?
-- please tell me about the [rectangle tool](object_1).
-- I dont know the [rectangle tool](object_1). Can you help me ?
-- I dont know what is the [rectangle tool](object_1). Can you help me ?
-- tell me about the [rectangle tool](object_1) .
-- whats the [rectangle tool](object_1) ?
-- whats [rectangle tool](object_1) ?
-- [rectangle tool](object_1).
-
-- what is the [watermark](object_1) ?
-- what is [watermark](object_1) ?
-- please tell me about the [watermark](object_1).
-- I dont know the [watermark](object_1). Can you help me ?
-- I dont know what is the [watermark](object_1). Can you help me ?
-- tell me about the [watermark](object_1) .
-- whats the [watermark](object_1) ?
-- whats [watermark](object_1) ?
-- [watermark](object_1).
-
-- what is the [reflection](object_1) ?
-- what is [reflection](object_1) ?
-- please tell me about the [reflection](object_1).
-- I dont know the [reflection](object_1). Can you help me ?
-- I dont know what is the [reflection](object_1). Can you help me ?
-- tell me about the [reflection](object_1) .
-- whats the [reflection](object_1) ?
-- whats [reflection](object_1) ?
-- [reflection](object_1).
-
-- what is the [hair brush](object_1) ?
-- what is [hair brush](object_1) ?
-- please tell me about the [hair brush](object_1).
-- I dont know the [hair brush](object_1). Can you help me ?
-- I dont know what is the [hair brush](object_1). Can you help me ?
-- tell me about the [hair brush](object_1) .
-- whats the [hair brush](object_1) ?
-- whats [hair brush](object_1) ?
-- [hair brush](object_1).
-
-- what is the [green screen](object_1) ?
-- what is [green screen](object_1) ?
-- please tell me about the [green screen](object_1).
-- I dont know the [green screen](object_1). Can you help me ?
-- I dont know what is the [green screen](object_1). Can you help me ?
-- tell me about the [green screen](object_1) .
-- whats the [green screen](object_1) ?
-- whats [green screen](object_1) ?
-- [green screen](object_1).
-
-
-
-- what is the [transparent fade](object_1) ?
-- what is [transparent fade](object_1) ?
-- please tell me about the [transparent fade](object_1).
-- I dont know the [transparent fade](object_1). Can you help me ?
-- I dont know what is the [transparent fade](object_1). Can you help me ?
-- tell me about the [transparent fade](object_1) .
-- whats the [transparent fade](object_1) ?
-- whats [transparent fade](object_1) ?
-- [transparent fade](object_1).
-
-- what is the [spot removal tool](object_1) ?
-- what is [spot removal tool](object_1) ?
-- please tell me about the [spot removal tool](object_1).
-- I dont know the [spot removal tool](object_1). Can you help me ?
-- I dont know what is the [spot removal tool](object_1). Can you help me ?
-- tell me about the [spot removal tool](object_1) .
-- whats the [spot removal tool](object_1) ?
-- whats [spot removal tool](object_1) ?
-- [spot removal tool](object_1).
 
 - what is the [bounding](object_1) [box](object_2)?
 - what is [bounding](object_1) [box](object_2)?
@@ -230,56 +2966,6 @@
 - whats [composite](object_1) ?
 - [composite](object_1).
 
-- what is the [smart object](object_1) ?
-- what is [smart object](object_1) ?
-- please tell me about the [smart object](object_1).
-- I dont know the [smart object](object_1). Can you help me ?
-- I dont know what is the [smart object](object_1). Can you help me ?
-- tell me about the [smart object](object_1) .
-- whats the [smart object](object_1) ?
-- whats [smart object](object_1) ?
-- [smart object](object_1).
-
-- what is the [digital noise](object_1) ?
-- what is [digital noise](object_1) ?
-- please tell me about the [digital noise](object_1).
-- I dont know the [digital noise](object_1). Can you help me ?
-- I dont know what is the [digital noise](object_1). Can you help me ?
-- tell me about the [digital noise](object_1) .
-- whats the [digital noise](object_1) ?
-- whats [digital noise](object_1) ?
-- [digital noise](object_1).
-
-- what is the [adobe stock](object_1) ?
-- what is [adobe stock](object_1) ?
-- please tell me about the [adobe stock](object_1).
-- I dont know the [adobe stock](object_1). Can you help me ?
-- I dont know what is the [adobe stock](object_1). Can you help me ?
-- tell me about the [adobe stock](object_1) .
-- whats the [adobe stock](object_1) ?
-- whats [adobe stock](object_1) ?
-- [adobe stock](object_1).
-
-- what is the [adobe portfolio](object_1) ?
-- what is [adobe portfolio](object_1) ?
-- please tell me about the [adobe portfolio](object_1).
-- I dont know the [adobe portfolio](object_1). Can you help me ?
-- I dont know what is the [adobe portfolio](object_1). Can you help me ?
-- tell me about the [adobe portfolio](object_1) .
-- whats the [adobe portfolio](object_1) ?
-- whats [adobe portfolio](object_1) ?
-- [adobe portfolio](object_1).
-
-- what is the [visualize spots](object_1) ?
-- what is [visualize spots](object_1) ?
-- please tell me about the [visualize spots](object_1).
-- I dont know the [visualize spots](object_1). Can you help me ?
-- I dont know what is the [visualize spots](object_1). Can you help me ?
-- tell me about the [visualize spots](object_1) .
-- whats the [visualize spots](object_1) ?
-- whats [visualize spots](object_1) ?
-- [visualize spots](object_1).
-
 - what is the [eyedropper](object_1) [tool](object_2) ?
 - what is [eyedropper](object_1) [tool](object_2) ?
 - please tell me about the [eyedropper](object_1) [tool](object_2).
@@ -310,46 +2996,6 @@
 - whats [panorama](object_1) ?
 - [panorama](object_1).
 
-- what is the [color range mask](object_1) ?
-- what is [color range mask](object_1) ?
-- please tell me about the [color range mask](object_1).
-- I dont know the [color range mask](object_1). Can you help me ?
-- I dont know what is the [color range mask](object_1). Can you help me ?
-- tell me about the [color range mask](object_1) .
-- whats the [color range mask](object_1) ?
-- whats [color range mask](object_1) ?
-- [color range mask](object_1).
-
-- what is the [depth range mask](object_1) ?
-- what is [depth range mask](object_1) ?
-- please tell me about the [depth range mask](object_1).
-- I dont know the [depth range mask](object_1). Can you help me ?
-- I dont know what is the [depth range mask](object_1). Can you help me ?
-- tell me about the [depth range mask](object_1) .
-- whats the [depth range mask](object_1) ?
-- whats [depth range mask](object_1) ?
-- [depth range mask](object_1).
-
-- what is the [crop tool](object_1) ?
-- what is [crop tool](object_1) ?
-- please tell me about the [crop tool](object_1).
-- I dont know the [crop tool](object_1). Can you help me ?
-- I dont know what is the [crop tool](object_1). Can you help me ?
-- tell me about the [crop tool](object_1) .
-- whats the [crop tool](object_1) ?
-- whats [crop tool](object_1) ?
-- [crop tool](object_1).
-
-- what is the [move tool](object_1) ?
-- what is [move tool](object_1) ?
-- please tell me about the [move tool](object_1).
-- I dont know the [move tool](object_1). Can you help me ?
-- I dont know what is the [move tool](object_1). Can you help me ?
-- tell me about the [move tool](object_1) .
-- whats the [move tool](object_1) ?
-- whats [move tool](object_1) ?
-- [move tool](object_1).
-
 - what is the [photomerge](object_1) ?
 - what is [photomerge](object_1) ?
 - please tell me about the [photomerge](object_1).
@@ -359,36 +3005,6 @@
 - whats the [photomerge](object_1) ?
 - whats [photomerge](object_1) ?
 - [photomerge](object_1).
-
-- what is the [clone stamp tool](object_1) ?
-- what is [clone stamp tool](object_1) ?
-- please tell me about the [clone stamp tool](object_1).
-- I dont know the [clone stamp tool](object_1). Can you help me ?
-- I dont know what is the [clone stamp tool](object_1). Can you help me ?
-- tell me about the [clone stamp tool](object_1) .
-- whats the [clone stamp tool](object_1) ?
-- whats [clone stamp tool](object_1) ?
-- [clone stamp tool](object_1).
-
-- what is the [profiles](object_1) ?
-- what is [profiles](object_1) ?
-- please tell me about the [profiles](object_1).
-- I dont know the [profiles](object_1). Can you help me ?
-- I dont know what is the [profiles](object_1). Can you help me ?
-- tell me about the [profiles](object_1) .
-- whats the [profiles](object_1) ?
-- whats [profiles](object_1) ?
-- [profiles](object_1).
-
-- what is the [droplet](object_1) ?
-- what is [droplet](object_1) ?
-- please tell me about the [droplet](object_1).
-- I dont know the [droplet](object_1). Can you help me ?
-- I dont know what is the [droplet](object_1). Can you help me ?
-- tell me about the [droplet](object_1) .
-- whats the [droplet](object_1) ?
-- whats [droplet](object_1) ?
-- [droplet](object_1).
 
 - what is the [profiles](object_1) in [camera raw](object_2) ?
 - what is [profiles](object_1) in [camera raw](object_2) ?
@@ -409,16 +3025,6 @@
 - whats the [selection](object_1) ?
 - whats [selection](object_1) ?
 - [selection](object_1).
-
-- what is the [luminance range mask](object_1) ?
-- what is [luminance range mask](object_1) ?
-- please tell me about the [luminance range mask](object_1).
-- I dont know the [luminance range mask](object_1). Can you help me ?
-- I dont know what is the [luminance range mask](object_1). Can you help me ?
-- tell me about the [luminance range mask](object_1) .
-- whats the [luminance range mask](object_1) ?
-- whats [luminance range mask](object_1) ?
-- [luminance range mask](object_1).
 
 - what is the [spot color channel](object_1) ?
 - what is [spot color channel](object_1) ?
@@ -550,16 +3156,6 @@
 - whats [Scale](object_1) ?
 - [Scale](object_1).
 
-- what is the [eyedropper tool](object_1) ?
-- what is [eyedropper tool](object_1) ?
-- please tell me about the [eyedropper tool](object_1).
-- I dont know the [eyedropper tool](object_1). Can you help me ?
-- I dont know what is the [eyedropper tool](object_1). Can you help me ?
-- tell me about the [eyedropper tool](object_1) .
-- whats the [eyedropper tool](object_1) ?
-- whats [eyedropper tool](object_1) ?
-- [eyedropper tool](object_1).
-
 - what is the [sepia tone](object_1) ?
 - what is [sepia tone](object_1) ?
 - please tell me about the [sepia tone](object_1).
@@ -570,16 +3166,6 @@
 - whats [sepia tone](object_1) ?
 - [sepia tone](object_1).
 
-- what is the [graduated filter](object_1) ?
-- what is [graduated filter](object_1) ?
-- please tell me about the [graduated filter](object_1).
-- I dont know the [graduated filter](object_1). Can you help me ?
-- I dont know what is the [graduated filter]](object_1). Can you help me ?
-- tell me about the [graduated filter](object_1) .
-- whats the [graduated filter](object_1) ?
-- whats [graduated filter](object_1) ?
-- [graduated filter](object_1).
-
 - what is the [sharpen](object_1) ?
 - what is [sharpen](object_1) ?
 - please tell me about the [sharpen](object_1).
@@ -589,36 +3175,6 @@
 - whats the [sharpen](object_1) ?
 - whats [sharpen](object_1) ?
 - [sharpen](object_1).
-
-- what is the [pen tool](object_1) ?
-- what is [pen tool](object_1) ?
-- please tell me about the [pen tool](object_1).
-- I dont know the [pen tool](object_1). Can you help me ?
-- I dont know what is the [pen tool](object_1). Can you help me ?
-- tell me about the [pen tool](object_1) .
-- whats the [pen tool](object_1) ?
-- whats [pen tool](object_1) ?
-- [pen tool](object_1).
-
-- what is the [3D layer](object_1) ?
-- what is [3D layer](object_1) ?
-- please tell me about the [3D layer](object_1).
-- I dont know the [3D layer](object_1). Can you help me ?
-- I dont know what is the [3D layer](object_1). Can you help me ?
-- tell me about the [3D layer](object_1) .
-- whats the [3D layer](object_1) ?
-- whats [3D layer](object_1) ?
-- [3D layer](object_1).
-
-- what is the [auto blend layer](object_1) ?
-- what is [auto blend layer](object_1) ?
-- please tell me about the [auto blend layer](object_1).
-- I dont know the [auto blend layer](object_1). Can you help me ?
-- I dont know what is the [auto blend layer](object_1). Can you help me ?
-- tell me about the [auto blend layer](object_1) .
-- whats the [auto blend layer](object_1) ?
-- whats [auto blend layer](object_1) ?
-- [auto blend layer](object_1).
 
 - what is the [compression](object_1) [image](object_2) ?
 - what is [compression](object_1) [image](object_2)  ?
@@ -1057,70 +3613,5248 @@
 - what about [blend mode](object_1) [vivid light](object_2).
 
 ## intent:ask_how
+- [Photoshop CC](object_1) 2018 and [MacOS](object_2) 10.13 [(HS](object_3))  // [Leading](action) issues with certain fonts
+- how to [Leading](action), the [Photoshop CC](object_1) [MacOS](object_2) [(HS](object_3) ?
+- [Leading](action), the [Photoshop CC](object_1) [MacOS](object_2) [(HS](object_3)
+- how do I [Leading](action), the [Photoshop CC](object_1) [MacOS](object_2) [(HS](object_3) ?
+- i dont know how to [Leading](action), the [Photoshop CC](object_1) [MacOS](object_2) [(HS](object_3) ?
+- tell me the way to [Leading](action), the [Photoshop CC](object_1) [MacOS](object_2) [(HS](object_3) ?
+- tell me how to [Leading](action), the [Photoshop CC](object_1) [MacOS](object_2) [(HS](object_3) ?
+- show me the way to [Leading](action), the [Photoshop CC](object_1) [MacOS](object_2) [(HS](object_3) ?
+- show me how to [Leading](action), the [Photoshop CC](object_1) [MacOS](object_2) [(HS](object_3) ?
+- is there any way to [Leading](action), the [Photoshop CC](object_1) [MacOS](object_2) [(HS](object_3) ?
+
+- [Files](object_1) [wo](action)n't open, then disappear in [PS](object_2)
+- how to [wo](action), the [Files](object_1) [PS](object_2) ?
+- [wo](action), the [Files](object_1) [PS](object_2)
+- how do I [wo](action), the [Files](object_1) [PS](object_2) ?
+- i dont know how to [wo](action), the [Files](object_1) [PS](object_2) ?
+- tell me the way to [wo](action), the [Files](object_1) [PS](object_2) ?
+- tell me how to [wo](action), the [Files](object_1) [PS](object_2) ?
+- show me the way to [wo](action), the [Files](object_1) [PS](object_2) ?
+- show me how to [wo](action), the [Files](object_1) [PS](object_2) ?
+- is there any way to [wo](action), the [Files](object_1) [PS](object_2) ?
+
+- [Forcing](action) [a user](object_1) to change [Artboard name](object_2)
+- how to [Forcing](action), the [a user](object_1) [Artboard name](object_2) ?
+- [Forcing](action), the [a user](object_1) [Artboard name](object_2)
+- how do I [Forcing](action), the [a user](object_1) [Artboard name](object_2) ?
+- i dont know how to [Forcing](action), the [a user](object_1) [Artboard name](object_2) ?
+- tell me the way to [Forcing](action), the [a user](object_1) [Artboard name](object_2) ?
+- tell me how to [Forcing](action), the [a user](object_1) [Artboard name](object_2) ?
+- show me the way to [Forcing](action), the [a user](object_1) [Artboard name](object_2) ?
+- show me how to [Forcing](action), the [a user](object_1) [Artboard name](object_2) ?
+- is there any way to [Forcing](action), the [a user](object_1) [Artboard name](object_2) ?
+
+- [My Move Tool](object_1) [Will](action) Not Resize [My [I](object_3)mage](object_2) Once [I](object_3) Place [I](object_3)t.
+- how to [Will](action), the [My Move Tool](object_1) [My Image](object_2) [I](object_3) ?
+- [Will](action), the [My Move Tool](object_1) [My Image](object_2) [I](object_3)
+- how do I [Will](action), the [My Move Tool](object_1) [My Image](object_2) [I](object_3) ?
+- i dont know how to [Will](action), the [My Move Tool](object_1) [My Image](object_2) [I](object_3) ?
+- tell me the way to [Will](action), the [My Move Tool](object_1) [My Image](object_2) [I](object_3) ?
+- tell me how to [Will](action), the [My Move Tool](object_1) [My Image](object_2) [I](object_3) ?
+- show me the way to [Will](action), the [My Move Tool](object_1) [My Image](object_2) [I](object_3) ?
+- show me how to [Will](action), the [My Move Tool](object_1) [My Image](object_2) [I](object_3) ?
+- is there any way to [Will](action), the [My Move Tool](object_1) [My Image](object_2) [I](object_3) ?
+
+- How to [create](action) [ball](object_1) from [picture](object_2)
+- how to [create](action), the [ball](object_1) [picture](object_2) ?
+- [create](action), the [ball](object_1) [picture](object_2)
+- how do I [create](action), the [ball](object_1) [picture](object_2) ?
+- i dont know how to [create](action), the [ball](object_1) [picture](object_2) ?
+- tell me the way to [create](action), the [ball](object_1) [picture](object_2) ?
+- tell me how to [create](action), the [ball](object_1) [picture](object_2) ?
+- show me the way to [create](action), the [ball](object_1) [picture](object_2) ?
+- show me how to [create](action), the [ball](object_1) [picture](object_2) ?
+- is there any way to [create](action), the [ball](object_1) [picture](object_2) ?
+
+- [jsx](object_1) [showing](action) [levels window](object_2)
+- how to [showing](action), the [jsx](object_1) [levels window](object_2) ?
+- [showing](action), the [jsx](object_1) [levels window](object_2)
+- how do I [showing](action), the [jsx](object_1) [levels window](object_2) ?
+- i dont know how to [showing](action), the [jsx](object_1) [levels window](object_2) ?
+- tell me the way to [showing](action), the [jsx](object_1) [levels window](object_2) ?
+- tell me how to [showing](action), the [jsx](object_1) [levels window](object_2) ?
+- show me the way to [showing](action), the [jsx](object_1) [levels window](object_2) ?
+- show me how to [showing](action), the [jsx](object_1) [levels window](object_2) ?
+- is there any way to [showing](action), the [jsx](object_1) [levels window](object_2) ?
+
+- [I](object_1) [downloaded](action) [free trial photoshop](object_2)
+- how to [downloaded](action), the [I](object_1) [free trial photoshop](object_2) ?
+- [downloaded](action), the [I](object_1) [free trial photoshop](object_2)
+- how do I [downloaded](action), the [I](object_1) [free trial photoshop](object_2) ?
+- i dont know how to [downloaded](action), the [I](object_1) [free trial photoshop](object_2) ?
+- tell me the way to [downloaded](action), the [I](object_1) [free trial photoshop](object_2) ?
+- tell me how to [downloaded](action), the [I](object_1) [free trial photoshop](object_2) ?
+- show me the way to [downloaded](action), the [I](object_1) [free trial photoshop](object_2) ?
+- show me how to [downloaded](action), the [I](object_1) [free trial photoshop](object_2) ?
+- is there any way to [downloaded](action), the [I](object_1) [free trial photoshop](object_2) ?
+
+- How to [keep](action) [Illustrator lines](object_1) deep black in [PS](object_2)
+- how to [keep](action), the [Illustrator lines](object_1) [PS](object_2) ?
+- [keep](action), the [Illustrator lines](object_1) [PS](object_2)
+- how do I [keep](action), the [Illustrator lines](object_1) [PS](object_2) ?
+- i dont know how to [keep](action), the [Illustrator lines](object_1) [PS](object_2) ?
+- tell me the way to [keep](action), the [Illustrator lines](object_1) [PS](object_2) ?
+- tell me how to [keep](action), the [Illustrator lines](object_1) [PS](object_2) ?
+- show me the way to [keep](action), the [Illustrator lines](object_1) [PS](object_2) ?
+- show me how to [keep](action), the [Illustrator lines](object_1) [PS](object_2) ?
+- is there any way to [keep](action), the [Illustrator lines](object_1) [PS](object_2) ?
+
+- [Ca](action)n't set [color values](object_1) percisly !
+- how to [Ca](action), the [color values](object_1) ?
+- [Ca](action), the [color values](object_1)
+- how do I [Ca](action), the [color values](object_1) ?
+- i dont know how to [Ca](action), the [color values](object_1) ?
+- tell me the way to [Ca](action), the [color values](object_1) ?
+- tell me how to [Ca](action), the [color values](object_1) ?
+- show me the way to [Ca](action), the [color values](object_1) ?
+- show me how to [Ca](action), the [color values](object_1) ?
+- is there any way to [Ca](action), the [color values](object_1) ?
+
+- [[Drop](action) shadow angle](object_1) not preserved when editing [layer style](object_2) for [multiple frames](object_3)
+- how to [Drop](action), the [Drop shadow angle](object_1) [layer style](object_2) [multiple frames](object_3) ?
+- [Drop](action), the [Drop shadow angle](object_1) [layer style](object_2) [multiple frames](object_3)
+- how do I [Drop](action), the [Drop shadow angle](object_1) [layer style](object_2) [multiple frames](object_3) ?
+- i dont know how to [Drop](action), the [Drop shadow angle](object_1) [layer style](object_2) [multiple frames](object_3) ?
+- tell me the way to [Drop](action), the [Drop shadow angle](object_1) [layer style](object_2) [multiple frames](object_3) ?
+- tell me how to [Drop](action), the [Drop shadow angle](object_1) [layer style](object_2) [multiple frames](object_3) ?
+- show me the way to [Drop](action), the [Drop shadow angle](object_1) [layer style](object_2) [multiple frames](object_3) ?
+- show me how to [Drop](action), the [Drop shadow angle](object_1) [layer style](object_2) [multiple frames](object_3) ?
+- is there any way to [Drop](action), the [Drop shadow angle](object_1) [layer style](object_2) [multiple frames](object_3) ?
+
+- [Ca](action)nt select [text](object_1) properly (driving [me](object_2) nuts)
+- how to [Ca](action), the [text](object_1) [me](object_2) ?
+- [Ca](action), the [text](object_1) [me](object_2)
+- how do I [Ca](action), the [text](object_1) [me](object_2) ?
+- i dont know how to [Ca](action), the [text](object_1) [me](object_2) ?
+- tell me the way to [Ca](action), the [text](object_1) [me](object_2) ?
+- tell me how to [Ca](action), the [text](object_1) [me](object_2) ?
+- show me the way to [Ca](action), the [text](object_1) [me](object_2) ?
+- show me how to [Ca](action), the [text](object_1) [me](object_2) ?
+- is there any way to [Ca](action), the [text](object_1) [me](object_2) ?
+
+- [Saving](action) [a lut](object_1) with [Photoshop CC](object_2) 2018 v19.0
+- how to [Saving](action), the [a lut](object_1) [Photoshop CC](object_2) ?
+- [Saving](action), the [a lut](object_1) [Photoshop CC](object_2)
+- how do I [Saving](action), the [a lut](object_1) [Photoshop CC](object_2) ?
+- i dont know how to [Saving](action), the [a lut](object_1) [Photoshop CC](object_2) ?
+- tell me the way to [Saving](action), the [a lut](object_1) [Photoshop CC](object_2) ?
+- tell me how to [Saving](action), the [a lut](object_1) [Photoshop CC](object_2) ?
+- show me the way to [Saving](action), the [a lut](object_1) [Photoshop CC](object_2) ?
+- show me how to [Saving](action), the [a lut](object_1) [Photoshop CC](object_2) ?
+- is there any way to [Saving](action), the [a lut](object_1) [Photoshop CC](object_2) ?
+
+- please [help](action) photoshop [cs6 image](object_1) small
+- how to [help](action), the [cs6 image](object_1) ?
+- [help](action), the [cs6 image](object_1)
+- how do I [help](action), the [cs6 image](object_1) ?
+- i dont know how to [help](action), the [cs6 image](object_1) ?
+- tell me the way to [help](action), the [cs6 image](object_1) ?
+- tell me how to [help](action), the [cs6 image](object_1) ?
+- show me the way to [help](action), the [cs6 image](object_1) ?
+- show me how to [help](action), the [cs6 image](object_1) ?
+- is there any way to [help](action), the [cs6 image](object_1) ?
+
+- [[Dashed](action) line irregular shape](object_1)
+- how to [Dashed](action), the [Dashed line irregular shape](object_1) ?
+- [Dashed](action), the [Dashed line irregular shape](object_1)
+- how do I [Dashed](action), the [Dashed line irregular shape](object_1) ?
+- i dont know how to [Dashed](action), the [Dashed line irregular shape](object_1) ?
+- tell me the way to [Dashed](action), the [Dashed line irregular shape](object_1) ?
+- tell me how to [Dashed](action), the [Dashed line irregular shape](object_1) ?
+- show me the way to [Dashed](action), the [Dashed line irregular shape](object_1) ?
+- show me how to [Dashed](action), the [Dashed line irregular shape](object_1) ?
+- is there any way to [Dashed](action), the [Dashed line irregular shape](object_1) ?
+
+- [PS CC](object_1) 2018 [font](object_2) [setting](action) [line spacing problem](object_3)?
+- how to [setting](action), the [PS CC](object_1) [font](object_2) [line spacing problem](object_3) ?
+- [setting](action), the [PS CC](object_1) [font](object_2) [line spacing problem](object_3)
+- how do I [setting](action), the [PS CC](object_1) [font](object_2) [line spacing problem](object_3) ?
+- i dont know how to [setting](action), the [PS CC](object_1) [font](object_2) [line spacing problem](object_3) ?
+- tell me the way to [setting](action), the [PS CC](object_1) [font](object_2) [line spacing problem](object_3) ?
+- tell me how to [setting](action), the [PS CC](object_1) [font](object_2) [line spacing problem](object_3) ?
+- show me the way to [setting](action), the [PS CC](object_1) [font](object_2) [line spacing problem](object_3) ?
+- show me how to [setting](action), the [PS CC](object_1) [font](object_2) [line spacing problem](object_3) ?
+- is there any way to [setting](action), the [PS CC](object_1) [font](object_2) [line spacing problem](object_3) ?
+
+- Unable to properly [run](action) [Photoshop](object_1) on [graphic tablet](object_2) after [latest Windows Update](object_3)
+- how to [run](action), the [Photoshop](object_1) [graphic tablet](object_2) [latest Windows Update](object_3) ?
+- [run](action), the [Photoshop](object_1) [graphic tablet](object_2) [latest Windows Update](object_3)
+- how do I [run](action), the [Photoshop](object_1) [graphic tablet](object_2) [latest Windows Update](object_3) ?
+- i dont know how to [run](action), the [Photoshop](object_1) [graphic tablet](object_2) [latest Windows Update](object_3) ?
+- tell me the way to [run](action), the [Photoshop](object_1) [graphic tablet](object_2) [latest Windows Update](object_3) ?
+- tell me how to [run](action), the [Photoshop](object_1) [graphic tablet](object_2) [latest Windows Update](object_3) ?
+- show me the way to [run](action), the [Photoshop](object_1) [graphic tablet](object_2) [latest Windows Update](object_3) ?
+- show me how to [run](action), the [Photoshop](object_1) [graphic tablet](object_2) [latest Windows Update](object_3) ?
+- is there any way to [run](action), the [Photoshop](object_1) [graphic tablet](object_2) [latest Windows Update](object_3) ?
+
+- [Could](action) not complete [this operation](object_1), [An unknown error](object_2) has occured
+- how to [Could](action), the [this operation](object_1) [An unknown error](object_2) ?
+- [Could](action), the [this operation](object_1) [An unknown error](object_2)
+- how do I [Could](action), the [this operation](object_1) [An unknown error](object_2) ?
+- i dont know how to [Could](action), the [this operation](object_1) [An unknown error](object_2) ?
+- tell me the way to [Could](action), the [this operation](object_1) [An unknown error](object_2) ?
+- tell me how to [Could](action), the [this operation](object_1) [An unknown error](object_2) ?
+- show me the way to [Could](action), the [this operation](object_1) [An unknown error](object_2) ?
+- show me how to [Could](action), the [this operation](object_1) [An unknown error](object_2) ?
+- is there any way to [Could](action), the [this operation](object_1) [An unknown error](object_2) ?
+
+- [Can](action) [Can](action) [a gradient](object_1) be used with [a halftone](object_2) and [not caus problems](object_3) for the commercial printer?
+- how to [Can](action), the [a gradient](object_1) [a halftone](object_2) [not caus problems](object_3) ?
+- [Can](action), the [a gradient](object_1) [a halftone](object_2) [not caus problems](object_3)
+- how do I [Can](action), the [a gradient](object_1) [a halftone](object_2) [not caus problems](object_3) ?
+- i dont know how to [Can](action), the [a gradient](object_1) [a halftone](object_2) [not caus problems](object_3) ?
+- tell me the way to [Can](action), the [a gradient](object_1) [a halftone](object_2) [not caus problems](object_3) ?
+- tell me how to [Can](action), the [a gradient](object_1) [a halftone](object_2) [not caus problems](object_3) ?
+- show me the way to [Can](action), the [a gradient](object_1) [a halftone](object_2) [not caus problems](object_3) ?
+- show me how to [Can](action), the [a gradient](object_1) [a halftone](object_2) [not caus problems](object_3) ?
+- is there any way to [Can](action), the [a gradient](object_1) [a halftone](object_2) [not caus problems](object_3) ?
+
+- [Placing](action) [smart objects](object_1) in [center](object_2) of [document](object_3)
+- how to [Placing](action), the [smart objects](object_1) [center](object_2) [document](object_3) ?
+- [Placing](action), the [smart objects](object_1) [center](object_2) [document](object_3)
+- how do I [Placing](action), the [smart objects](object_1) [center](object_2) [document](object_3) ?
+- i dont know how to [Placing](action), the [smart objects](object_1) [center](object_2) [document](object_3) ?
+- tell me the way to [Placing](action), the [smart objects](object_1) [center](object_2) [document](object_3) ?
+- tell me how to [Placing](action), the [smart objects](object_1) [center](object_2) [document](object_3) ?
+- show me the way to [Placing](action), the [smart objects](object_1) [center](object_2) [document](object_3) ?
+- show me how to [Placing](action), the [smart objects](object_1) [center](object_2) [document](object_3) ?
+- is there any way to [Placing](action), the [smart objects](object_1) [center](object_2) [document](object_3) ?
+
+- How to [change](action) [the creat[i](object_2)on meta data date](object_1) so [i](object_2) can syncron[i](object_2)ze [2 cameras](object_3) [i](object_2)n br[i](object_2)dge?
+- how to [change](action), the [the creation meta data date](object_1) [i](object_2) [2 cameras](object_3) ?
+- [change](action), the [the creation meta data date](object_1) [i](object_2) [2 cameras](object_3)
+- how do I [change](action), the [the creation meta data date](object_1) [i](object_2) [2 cameras](object_3) ?
+- i dont know how to [change](action), the [the creation meta data date](object_1) [i](object_2) [2 cameras](object_3) ?
+- tell me the way to [change](action), the [the creation meta data date](object_1) [i](object_2) [2 cameras](object_3) ?
+- tell me how to [change](action), the [the creation meta data date](object_1) [i](object_2) [2 cameras](object_3) ?
+- show me the way to [change](action), the [the creation meta data date](object_1) [i](object_2) [2 cameras](object_3) ?
+- show me how to [change](action), the [the creation meta data date](object_1) [i](object_2) [2 cameras](object_3) ?
+- is there any way to [change](action), the [the creation meta data date](object_1) [i](object_2) [2 cameras](object_3) ?
+
+- [Setting](action) [pixel RGB values](object_1)
+- how to [Setting](action), the [pixel RGB values](object_1) ?
+- [Setting](action), the [pixel RGB values](object_1)
+- how do I [Setting](action), the [pixel RGB values](object_1) ?
+- i dont know how to [Setting](action), the [pixel RGB values](object_1) ?
+- tell me the way to [Setting](action), the [pixel RGB values](object_1) ?
+- tell me how to [Setting](action), the [pixel RGB values](object_1) ?
+- show me the way to [Setting](action), the [pixel RGB values](object_1) ?
+- show me how to [Setting](action), the [pixel RGB values](object_1) ?
+- is there any way to [Setting](action), the [pixel RGB values](object_1) ?
+
+- [Problems](object_1) with [Select](object_2) & [Mask](object_3) - How [would](action) you remove the background from this image?
+- how to [would](action), the [Problems](object_1) [Select](object_2) [Mask](object_3) ?
+- [would](action), the [Problems](object_1) [Select](object_2) [Mask](object_3)
+- how do I [would](action), the [Problems](object_1) [Select](object_2) [Mask](object_3) ?
+- i dont know how to [would](action), the [Problems](object_1) [Select](object_2) [Mask](object_3) ?
+- tell me the way to [would](action), the [Problems](object_1) [Select](object_2) [Mask](object_3) ?
+- tell me how to [would](action), the [Problems](object_1) [Select](object_2) [Mask](object_3) ?
+- show me the way to [would](action), the [Problems](object_1) [Select](object_2) [Mask](object_3) ?
+- show me how to [would](action), the [Problems](object_1) [Select](object_2) [Mask](object_3) ?
+- is there any way to [would](action), the [Problems](object_1) [Select](object_2) [Mask](object_3) ?
+
+- [Ca](action)n't use [tools](object_1) on [image](object_2) with [layers](object_3)
+- how to [Ca](action), the [tools](object_1) [image](object_2) [layers](object_3) ?
+- [Ca](action), the [tools](object_1) [image](object_2) [layers](object_3)
+- how do I [Ca](action), the [tools](object_1) [image](object_2) [layers](object_3) ?
+- i dont know how to [Ca](action), the [tools](object_1) [image](object_2) [layers](object_3) ?
+- tell me the way to [Ca](action), the [tools](object_1) [image](object_2) [layers](object_3) ?
+- tell me how to [Ca](action), the [tools](object_1) [image](object_2) [layers](object_3) ?
+- show me the way to [Ca](action), the [tools](object_1) [image](object_2) [layers](object_3) ?
+- show me how to [Ca](action), the [tools](object_1) [image](object_2) [layers](object_3) ?
+- is there any way to [Ca](action), the [tools](object_1) [image](object_2) [layers](object_3) ?
+
+- [Inserting](action) [hand-drawn art](object_1) onto [photos](object_2) in [Photoshop](object_3)?
+- how to [Inserting](action), the [hand-drawn art](object_1) [photos](object_2) [Photoshop](object_3) ?
+- [Inserting](action), the [hand-drawn art](object_1) [photos](object_2) [Photoshop](object_3)
+- how do I [Inserting](action), the [hand-drawn art](object_1) [photos](object_2) [Photoshop](object_3) ?
+- i dont know how to [Inserting](action), the [hand-drawn art](object_1) [photos](object_2) [Photoshop](object_3) ?
+- tell me the way to [Inserting](action), the [hand-drawn art](object_1) [photos](object_2) [Photoshop](object_3) ?
+- tell me how to [Inserting](action), the [hand-drawn art](object_1) [photos](object_2) [Photoshop](object_3) ?
+- show me the way to [Inserting](action), the [hand-drawn art](object_1) [photos](object_2) [Photoshop](object_3) ?
+- show me how to [Inserting](action), the [hand-drawn art](object_1) [photos](object_2) [Photoshop](object_3) ?
+- is there any way to [Inserting](action), the [hand-drawn art](object_1) [photos](object_2) [Photoshop](object_3) ?
+
+- [Trouble](object_1) [importing](action) [images](object_2) other than [pngs](object_3)
+- how to [importing](action), the [Trouble](object_1) [images](object_2) [pngs](object_3) ?
+- [importing](action), the [Trouble](object_1) [images](object_2) [pngs](object_3)
+- how do I [importing](action), the [Trouble](object_1) [images](object_2) [pngs](object_3) ?
+- i dont know how to [importing](action), the [Trouble](object_1) [images](object_2) [pngs](object_3) ?
+- tell me the way to [importing](action), the [Trouble](object_1) [images](object_2) [pngs](object_3) ?
+- tell me how to [importing](action), the [Trouble](object_1) [images](object_2) [pngs](object_3) ?
+- show me the way to [importing](action), the [Trouble](object_1) [images](object_2) [pngs](object_3) ?
+- show me how to [importing](action), the [Trouble](object_1) [images](object_2) [pngs](object_3) ?
+- is there any way to [importing](action), the [Trouble](object_1) [images](object_2) [pngs](object_3) ?
+
+- How do [I](object_1) [locate](action) [the Zenith](object_2) of [a spherical panorama](object_3) for adding a logo?
+- how to [locate](action), the [I](object_1) [the Zenith](object_2) [a spherical panorama](object_3) ?
+- [locate](action), the [I](object_1) [the Zenith](object_2) [a spherical panorama](object_3)
+- how do I [locate](action), the [I](object_1) [the Zenith](object_2) [a spherical panorama](object_3) ?
+- i dont know how to [locate](action), the [I](object_1) [the Zenith](object_2) [a spherical panorama](object_3) ?
+- tell me the way to [locate](action), the [I](object_1) [the Zenith](object_2) [a spherical panorama](object_3) ?
+- tell me how to [locate](action), the [I](object_1) [the Zenith](object_2) [a spherical panorama](object_3) ?
+- show me the way to [locate](action), the [I](object_1) [the Zenith](object_2) [a spherical panorama](object_3) ?
+- show me how to [locate](action), the [I](object_1) [the Zenith](object_2) [a spherical panorama](object_3) ?
+- is there any way to [locate](action), the [I](object_1) [the Zenith](object_2) [a spherical panorama](object_3) ?
+
+- [images](object_1) not sharp unless [zoomed](action) to default [percentages](object_2)
+- how to [zoomed](action), the [images](object_1) [percentages](object_2) ?
+- [zoomed](action), the [images](object_1) [percentages](object_2)
+- how do I [zoomed](action), the [images](object_1) [percentages](object_2) ?
+- i dont know how to [zoomed](action), the [images](object_1) [percentages](object_2) ?
+- tell me the way to [zoomed](action), the [images](object_1) [percentages](object_2) ?
+- tell me how to [zoomed](action), the [images](object_1) [percentages](object_2) ?
+- show me the way to [zoomed](action), the [images](object_1) [percentages](object_2) ?
+- show me how to [zoomed](action), the [images](object_1) [percentages](object_2) ?
+- is there any way to [zoomed](action), the [images](object_1) [percentages](object_2) ?
+
+- [Create](action) [a copy](object_1) of [the current document](object_2) in [a subfolder](object_3) as the tiff format
+- how to [Create](action), the [a copy](object_1) [the current document](object_2) [a subfolder](object_3) ?
+- [Create](action), the [a copy](object_1) [the current document](object_2) [a subfolder](object_3)
+- how do I [Create](action), the [a copy](object_1) [the current document](object_2) [a subfolder](object_3) ?
+- i dont know how to [Create](action), the [a copy](object_1) [the current document](object_2) [a subfolder](object_3) ?
+- tell me the way to [Create](action), the [a copy](object_1) [the current document](object_2) [a subfolder](object_3) ?
+- tell me how to [Create](action), the [a copy](object_1) [the current document](object_2) [a subfolder](object_3) ?
+- show me the way to [Create](action), the [a copy](object_1) [the current document](object_2) [a subfolder](object_3) ?
+- show me how to [Create](action), the [a copy](object_1) [the current document](object_2) [a subfolder](object_3) ?
+- is there any way to [Create](action), the [a copy](object_1) [the current document](object_2) [a subfolder](object_3) ?
+
+- [Authorizing](action) [CS3 Illustrator](object_1) & [InDesign](object_2) for [new computer](object_3)
+- how to [Authorizing](action), the [CS3 Illustrator](object_1) [InDesign](object_2) [new computer](object_3) ?
+- [Authorizing](action), the [CS3 Illustrator](object_1) [InDesign](object_2) [new computer](object_3)
+- how do I [Authorizing](action), the [CS3 Illustrator](object_1) [InDesign](object_2) [new computer](object_3) ?
+- i dont know how to [Authorizing](action), the [CS3 Illustrator](object_1) [InDesign](object_2) [new computer](object_3) ?
+- tell me the way to [Authorizing](action), the [CS3 Illustrator](object_1) [InDesign](object_2) [new computer](object_3) ?
+- tell me how to [Authorizing](action), the [CS3 Illustrator](object_1) [InDesign](object_2) [new computer](object_3) ?
+- show me the way to [Authorizing](action), the [CS3 Illustrator](object_1) [InDesign](object_2) [new computer](object_3) ?
+- show me how to [Authorizing](action), the [CS3 Illustrator](object_1) [InDesign](object_2) [new computer](object_3) ?
+- is there any way to [Authorizing](action), the [CS3 Illustrator](object_1) [InDesign](object_2) [new computer](object_3) ?
+
+- [Stubborn tooltip](object_1) in [Camera Raw](object_2) [will](action) not go away [was: [Chris](object_3)]
+- how to [will](action), the [Stubborn tooltip](object_1) [Camera Raw](object_2) [Chris](object_3) ?
+- [will](action), the [Stubborn tooltip](object_1) [Camera Raw](object_2) [Chris](object_3)
+- how do I [will](action), the [Stubborn tooltip](object_1) [Camera Raw](object_2) [Chris](object_3) ?
+- i dont know how to [will](action), the [Stubborn tooltip](object_1) [Camera Raw](object_2) [Chris](object_3) ?
+- tell me the way to [will](action), the [Stubborn tooltip](object_1) [Camera Raw](object_2) [Chris](object_3) ?
+- tell me how to [will](action), the [Stubborn tooltip](object_1) [Camera Raw](object_2) [Chris](object_3) ?
+- show me the way to [will](action), the [Stubborn tooltip](object_1) [Camera Raw](object_2) [Chris](object_3) ?
+- show me how to [will](action), the [Stubborn tooltip](object_1) [Camera Raw](object_2) [Chris](object_3) ?
+- is there any way to [will](action), the [Stubborn tooltip](object_1) [Camera Raw](object_2) [Chris](object_3) ?
+
+- [Missing](action) [font-size change](object_1) with [Scroll Wheel](object_2)
+- how to [Missing](action), the [font-size change](object_1) [Scroll Wheel](object_2) ?
+- [Missing](action), the [font-size change](object_1) [Scroll Wheel](object_2)
+- how do I [Missing](action), the [font-size change](object_1) [Scroll Wheel](object_2) ?
+- i dont know how to [Missing](action), the [font-size change](object_1) [Scroll Wheel](object_2) ?
+- tell me the way to [Missing](action), the [font-size change](object_1) [Scroll Wheel](object_2) ?
+- tell me how to [Missing](action), the [font-size change](object_1) [Scroll Wheel](object_2) ?
+- show me the way to [Missing](action), the [font-size change](object_1) [Scroll Wheel](object_2) ?
+- show me how to [Missing](action), the [font-size change](object_1) [Scroll Wheel](object_2) ?
+- is there any way to [Missing](action), the [font-size change](object_1) [Scroll Wheel](object_2) ?
+
+- [Newbie question](object_1) about [optimizing](action) [images](object_2) for [the web](object_3)
+- how to [optimizing](action), the [Newbie question](object_1) [images](object_2) [the web](object_3) ?
+- [optimizing](action), the [Newbie question](object_1) [images](object_2) [the web](object_3)
+- how do I [optimizing](action), the [Newbie question](object_1) [images](object_2) [the web](object_3) ?
+- i dont know how to [optimizing](action), the [Newbie question](object_1) [images](object_2) [the web](object_3) ?
+- tell me the way to [optimizing](action), the [Newbie question](object_1) [images](object_2) [the web](object_3) ?
+- tell me how to [optimizing](action), the [Newbie question](object_1) [images](object_2) [the web](object_3) ?
+- show me the way to [optimizing](action), the [Newbie question](object_1) [images](object_2) [the web](object_3) ?
+- show me how to [optimizing](action), the [Newbie question](object_1) [images](object_2) [the web](object_3) ?
+- is there any way to [optimizing](action), the [Newbie question](object_1) [images](object_2) [the web](object_3) ?
+
+- [Fix](object_1) [textured](action) [lines](object_2) in [a photo](object_3)
+- how to [textured](action), the [Fix](object_1) [lines](object_2) [a photo](object_3) ?
+- [textured](action), the [Fix](object_1) [lines](object_2) [a photo](object_3)
+- how do I [textured](action), the [Fix](object_1) [lines](object_2) [a photo](object_3) ?
+- i dont know how to [textured](action), the [Fix](object_1) [lines](object_2) [a photo](object_3) ?
+- tell me the way to [textured](action), the [Fix](object_1) [lines](object_2) [a photo](object_3) ?
+- tell me how to [textured](action), the [Fix](object_1) [lines](object_2) [a photo](object_3) ?
+- show me the way to [textured](action), the [Fix](object_1) [lines](object_2) [a photo](object_3) ?
+- show me how to [textured](action), the [Fix](object_1) [lines](object_2) [a photo](object_3) ?
+- is there any way to [textured](action), the [Fix](object_1) [lines](object_2) [a photo](object_3) ?
+
+- How to [convert](action) [Sketch files](object_1) to [a layered Photoshop file](object_2)?
+- how to [convert](action), the [Sketch files](object_1) [a layered Photoshop file](object_2) ?
+- [convert](action), the [Sketch files](object_1) [a layered Photoshop file](object_2)
+- how do I [convert](action), the [Sketch files](object_1) [a layered Photoshop file](object_2) ?
+- i dont know how to [convert](action), the [Sketch files](object_1) [a layered Photoshop file](object_2) ?
+- tell me the way to [convert](action), the [Sketch files](object_1) [a layered Photoshop file](object_2) ?
+- tell me how to [convert](action), the [Sketch files](object_1) [a layered Photoshop file](object_2) ?
+- show me the way to [convert](action), the [Sketch files](object_1) [a layered Photoshop file](object_2) ?
+- show me how to [convert](action), the [Sketch files](object_1) [a layered Photoshop file](object_2) ?
+- is there any way to [convert](action), the [Sketch files](object_1) [a layered Photoshop file](object_2) ?
+
+- [CS6](object_1) and [Skyfonts](object_2)? [Uninstalled skyfonts](object_3) and now I [ca](action)n't save as a jpeg
+- how to [ca](action), the [CS6](object_1) [Skyfonts](object_2) [Uninstalled skyfonts](object_3) ?
+- [ca](action), the [CS6](object_1) [Skyfonts](object_2) [Uninstalled skyfonts](object_3)
+- how do I [ca](action), the [CS6](object_1) [Skyfonts](object_2) [Uninstalled skyfonts](object_3) ?
+- i dont know how to [ca](action), the [CS6](object_1) [Skyfonts](object_2) [Uninstalled skyfonts](object_3) ?
+- tell me the way to [ca](action), the [CS6](object_1) [Skyfonts](object_2) [Uninstalled skyfonts](object_3) ?
+- tell me how to [ca](action), the [CS6](object_1) [Skyfonts](object_2) [Uninstalled skyfonts](object_3) ?
+- show me the way to [ca](action), the [CS6](object_1) [Skyfonts](object_2) [Uninstalled skyfonts](object_3) ?
+- show me how to [ca](action), the [CS6](object_1) [Skyfonts](object_2) [Uninstalled skyfonts](object_3) ?
+- is there any way to [ca](action), the [CS6](object_1) [Skyfonts](object_2) [Uninstalled skyfonts](object_3) ?
+
+- how to [import](action) [a photo](object_1) ?
+- how to [import](action), the [a photo](object_1) ?
+- [import](action), the [a photo](object_1)
+- how do I [import](action), the [a photo](object_1) ?
+- i dont know how to [import](action), the [a photo](object_1) ?
+- tell me the way to [import](action), the [a photo](object_1) ?
+- tell me how to [import](action), the [a photo](object_1) ?
+- show me the way to [import](action), the [a photo](object_1) ?
+- show me how to [import](action), the [a photo](object_1) ?
+- is there any way to [import](action), the [a photo](object_1) ?
+
+- [DO Adobe](object_1) [provide](action) [free products](object_2) for [students](object_3)
+- how to [provide](action), the [DO Adobe](object_1) [free products](object_2) [students](object_3) ?
+- [provide](action), the [DO Adobe](object_1) [free products](object_2) [students](object_3)
+- how do I [provide](action), the [DO Adobe](object_1) [free products](object_2) [students](object_3) ?
+- i dont know how to [provide](action), the [DO Adobe](object_1) [free products](object_2) [students](object_3) ?
+- tell me the way to [provide](action), the [DO Adobe](object_1) [free products](object_2) [students](object_3) ?
+- tell me how to [provide](action), the [DO Adobe](object_1) [free products](object_2) [students](object_3) ?
+- show me the way to [provide](action), the [DO Adobe](object_1) [free products](object_2) [students](object_3) ?
+- show me how to [provide](action), the [DO Adobe](object_1) [free products](object_2) [students](object_3) ?
+- is there any way to [provide](action), the [DO Adobe](object_1) [free products](object_2) [students](object_3) ?
+
+- [updating](action) [payment info](object_1)
+- how to [updating](action), the [payment info](object_1) ?
+- [updating](action), the [payment info](object_1)
+- how do I [updating](action), the [payment info](object_1) ?
+- i dont know how to [updating](action), the [payment info](object_1) ?
+- tell me the way to [updating](action), the [payment info](object_1) ?
+- tell me how to [updating](action), the [payment info](object_1) ?
+- show me the way to [updating](action), the [payment info](object_1) ?
+- show me how to [updating](action), the [payment info](object_1) ?
+- is there any way to [updating](action), the [payment info](object_1) ?
+
+- [Preserving](action) [Color Profiles](object_1)
+- how to [Preserving](action), the [Color Profiles](object_1) ?
+- [Preserving](action), the [Color Profiles](object_1)
+- how do I [Preserving](action), the [Color Profiles](object_1) ?
+- i dont know how to [Preserving](action), the [Color Profiles](object_1) ?
+- tell me the way to [Preserving](action), the [Color Profiles](object_1) ?
+- tell me how to [Preserving](action), the [Color Profiles](object_1) ?
+- show me the way to [Preserving](action), the [Color Profiles](object_1) ?
+- show me how to [Preserving](action), the [Color Profiles](object_1) ?
+- is there any way to [Preserving](action), the [Color Profiles](object_1) ?
+
+- [Print](object_1) does not [print](action) [current version](object_2) of [the file](object_3)
+- how to [print](action), the [Print](object_1) [current version](object_2) [the file](object_3) ?
+- [print](action), the [Print](object_1) [current version](object_2) [the file](object_3)
+- how do I [print](action), the [Print](object_1) [current version](object_2) [the file](object_3) ?
+- i dont know how to [print](action), the [Print](object_1) [current version](object_2) [the file](object_3) ?
+- tell me the way to [print](action), the [Print](object_1) [current version](object_2) [the file](object_3) ?
+- tell me how to [print](action), the [Print](object_1) [current version](object_2) [the file](object_3) ?
+- show me the way to [print](action), the [Print](object_1) [current version](object_2) [the file](object_3) ?
+- show me how to [print](action), the [Print](object_1) [current version](object_2) [the file](object_3) ?
+- is there any way to [print](action), the [Print](object_1) [current version](object_2) [the file](object_3) ?
+
+- [CC2017](object_1) - not [working](action) pressure sensitivity
+- how to [working](action), the [CC2017](object_1) ?
+- [working](action), the [CC2017](object_1)
+- how do I [working](action), the [CC2017](object_1) ?
+- i dont know how to [working](action), the [CC2017](object_1) ?
+- tell me the way to [working](action), the [CC2017](object_1) ?
+- tell me how to [working](action), the [CC2017](object_1) ?
+- show me the way to [working](action), the [CC2017](object_1) ?
+- show me how to [working](action), the [CC2017](object_1) ?
+- is there any way to [working](action), the [CC2017](object_1) ?
+
+- Content aware [ca](action)n't remove [unwanted item](object_1) from [photo](object_2)
+- how to [ca](action), the [unwanted item](object_1) [photo](object_2) ?
+- [ca](action), the [unwanted item](object_1) [photo](object_2)
+- how do I [ca](action), the [unwanted item](object_1) [photo](object_2) ?
+- i dont know how to [ca](action), the [unwanted item](object_1) [photo](object_2) ?
+- tell me the way to [ca](action), the [unwanted item](object_1) [photo](object_2) ?
+- tell me how to [ca](action), the [unwanted item](object_1) [photo](object_2) ?
+- show me the way to [ca](action), the [unwanted item](object_1) [photo](object_2) ?
+- show me how to [ca](action), the [unwanted item](object_1) [photo](object_2) ?
+- is there any way to [ca](action), the [unwanted item](object_1) [photo](object_2) ?
+
+- [Changing](action) [default tab highlight](object_1)
+- how to [Changing](action), the [default tab highlight](object_1) ?
+- [Changing](action), the [default tab highlight](object_1)
+- how do I [Changing](action), the [default tab highlight](object_1) ?
+- i dont know how to [Changing](action), the [default tab highlight](object_1) ?
+- tell me the way to [Changing](action), the [default tab highlight](object_1) ?
+- tell me how to [Changing](action), the [default tab highlight](object_1) ?
+- show me the way to [Changing](action), the [default tab highlight](object_1) ?
+- show me how to [Changing](action), the [default tab highlight](object_1) ?
+- is there any way to [Changing](action), the [default tab highlight](object_1) ?
+
+- How do [you](object_1) properly [post](action) [script](object_2) in [these forums](object_3)?!?
+- how to [post](action), the [you](object_1) [script](object_2) [these forums](object_3) ?
+- [post](action), the [you](object_1) [script](object_2) [these forums](object_3)
+- how do I [post](action), the [you](object_1) [script](object_2) [these forums](object_3) ?
+- i dont know how to [post](action), the [you](object_1) [script](object_2) [these forums](object_3) ?
+- tell me the way to [post](action), the [you](object_1) [script](object_2) [these forums](object_3) ?
+- tell me how to [post](action), the [you](object_1) [script](object_2) [these forums](object_3) ?
+- show me the way to [post](action), the [you](object_1) [script](object_2) [these forums](object_3) ?
+- show me how to [post](action), the [you](object_1) [script](object_2) [these forums](object_3) ?
+- is there any way to [post](action), the [you](object_1) [script](object_2) [these forums](object_3) ?
+
+- Get [Photoshop](object_1) [foreground](action) color as [RGB value](object_2)
+- how to [foreground](action), the [Photoshop](object_1) [RGB value](object_2) ?
+- [foreground](action), the [Photoshop](object_1) [RGB value](object_2)
+- how do I [foreground](action), the [Photoshop](object_1) [RGB value](object_2) ?
+- i dont know how to [foreground](action), the [Photoshop](object_1) [RGB value](object_2) ?
+- tell me the way to [foreground](action), the [Photoshop](object_1) [RGB value](object_2) ?
+- tell me how to [foreground](action), the [Photoshop](object_1) [RGB value](object_2) ?
+- show me the way to [foreground](action), the [Photoshop](object_1) [RGB value](object_2) ?
+- show me how to [foreground](action), the [Photoshop](object_1) [RGB value](object_2) ?
+- is there any way to [foreground](action), the [Photoshop](object_1) [RGB value](object_2) ?
+
+- [[Photoshop](action) transparency issue](object_1)
+- how to [Photoshop](action), the [Photoshop transparency issue](object_1) ?
+- [Photoshop](action), the [Photoshop transparency issue](object_1)
+- how do I [Photoshop](action), the [Photoshop transparency issue](object_1) ?
+- i dont know how to [Photoshop](action), the [Photoshop transparency issue](object_1) ?
+- tell me the way to [Photoshop](action), the [Photoshop transparency issue](object_1) ?
+- tell me how to [Photoshop](action), the [Photoshop transparency issue](object_1) ?
+- show me the way to [Photoshop](action), the [Photoshop transparency issue](object_1) ?
+- show me how to [Photoshop](action), the [Photoshop transparency issue](object_1) ?
+- is there any way to [Photoshop](action), the [Photoshop transparency issue](object_1) ?
+
+- [Images](object_1) [wo](action)n't open/[can't](object_2) see [open images](object_3) in Photoshop CC
+- how to [wo](action), the [Images](object_1) [can't](object_2) [open images](object_3) ?
+- [wo](action), the [Images](object_1) [can't](object_2) [open images](object_3)
+- how do I [wo](action), the [Images](object_1) [can't](object_2) [open images](object_3) ?
+- i dont know how to [wo](action), the [Images](object_1) [can't](object_2) [open images](object_3) ?
+- tell me the way to [wo](action), the [Images](object_1) [can't](object_2) [open images](object_3) ?
+- tell me how to [wo](action), the [Images](object_1) [can't](object_2) [open images](object_3) ?
+- show me the way to [wo](action), the [Images](object_1) [can't](object_2) [open images](object_3) ?
+- show me how to [wo](action), the [Images](object_1) [can't](object_2) [open images](object_3) ?
+- is there any way to [wo](action), the [Images](object_1) [can't](object_2) [open images](object_3) ?
+
+- How do [I](object_1) [save](action) [paths](object_2) made by [pen tool](object_3)? Photoshop CS6
+- how to [save](action), the [I](object_1) [paths](object_2) [pen tool](object_3) ?
+- [save](action), the [I](object_1) [paths](object_2) [pen tool](object_3)
+- how do I [save](action), the [I](object_1) [paths](object_2) [pen tool](object_3) ?
+- i dont know how to [save](action), the [I](object_1) [paths](object_2) [pen tool](object_3) ?
+- tell me the way to [save](action), the [I](object_1) [paths](object_2) [pen tool](object_3) ?
+- tell me how to [save](action), the [I](object_1) [paths](object_2) [pen tool](object_3) ?
+- show me the way to [save](action), the [I](object_1) [paths](object_2) [pen tool](object_3) ?
+- show me how to [save](action), the [I](object_1) [paths](object_2) [pen tool](object_3) ?
+- is there any way to [save](action), the [I](object_1) [paths](object_2) [pen tool](object_3) ?
+
+- How to [change](action) [font-size](object_1) with [buttons](object_2) up and down
+- how to [change](action), the [font-size](object_1) [buttons](object_2) ?
+- [change](action), the [font-size](object_1) [buttons](object_2)
+- how do I [change](action), the [font-size](object_1) [buttons](object_2) ?
+- i dont know how to [change](action), the [font-size](object_1) [buttons](object_2) ?
+- tell me the way to [change](action), the [font-size](object_1) [buttons](object_2) ?
+- tell me how to [change](action), the [font-size](object_1) [buttons](object_2) ?
+- show me the way to [change](action), the [font-size](object_1) [buttons](object_2) ?
+- show me how to [change](action), the [font-size](object_1) [buttons](object_2) ?
+- is there any way to [change](action), the [font-size](object_1) [buttons](object_2) ?
+
+- [Seeing](action) [text size changes](object_1) in [updated Photoshop CC](object_2)
+- how to [Seeing](action), the [text size changes](object_1) [updated Photoshop CC](object_2) ?
+- [Seeing](action), the [text size changes](object_1) [updated Photoshop CC](object_2)
+- how do I [Seeing](action), the [text size changes](object_1) [updated Photoshop CC](object_2) ?
+- i dont know how to [Seeing](action), the [text size changes](object_1) [updated Photoshop CC](object_2) ?
+- tell me the way to [Seeing](action), the [text size changes](object_1) [updated Photoshop CC](object_2) ?
+- tell me how to [Seeing](action), the [text size changes](object_1) [updated Photoshop CC](object_2) ?
+- show me the way to [Seeing](action), the [text size changes](object_1) [updated Photoshop CC](object_2) ?
+- show me how to [Seeing](action), the [text size changes](object_1) [updated Photoshop CC](object_2) ?
+- is there any way to [Seeing](action), the [text size changes](object_1) [updated Photoshop CC](object_2) ?
+
+- [Problem](object_1) [processing](action) [Raw files](object_2) with [Adobe Photoshop CC](object_3) 2018
+- how to [processing](action), the [Problem](object_1) [Raw files](object_2) [Adobe Photoshop CC](object_3) ?
+- [processing](action), the [Problem](object_1) [Raw files](object_2) [Adobe Photoshop CC](object_3)
+- how do I [processing](action), the [Problem](object_1) [Raw files](object_2) [Adobe Photoshop CC](object_3) ?
+- i dont know how to [processing](action), the [Problem](object_1) [Raw files](object_2) [Adobe Photoshop CC](object_3) ?
+- tell me the way to [processing](action), the [Problem](object_1) [Raw files](object_2) [Adobe Photoshop CC](object_3) ?
+- tell me how to [processing](action), the [Problem](object_1) [Raw files](object_2) [Adobe Photoshop CC](object_3) ?
+- show me the way to [processing](action), the [Problem](object_1) [Raw files](object_2) [Adobe Photoshop CC](object_3) ?
+- show me how to [processing](action), the [Problem](object_1) [Raw files](object_2) [Adobe Photoshop CC](object_3) ?
+- is there any way to [processing](action), the [Problem](object_1) [Raw files](object_2) [Adobe Photoshop CC](object_3) ?
+
+- [Saving](action) [Large Files](object_1) as [JPEG](object_2)
+- how to [Saving](action), the [Large Files](object_1) [JPEG](object_2) ?
+- [Saving](action), the [Large Files](object_1) [JPEG](object_2)
+- how do I [Saving](action), the [Large Files](object_1) [JPEG](object_2) ?
+- i dont know how to [Saving](action), the [Large Files](object_1) [JPEG](object_2) ?
+- tell me the way to [Saving](action), the [Large Files](object_1) [JPEG](object_2) ?
+- tell me how to [Saving](action), the [Large Files](object_1) [JPEG](object_2) ?
+- show me the way to [Saving](action), the [Large Files](object_1) [JPEG](object_2) ?
+- show me how to [Saving](action), the [Large Files](object_1) [JPEG](object_2) ?
+- is there any way to [Saving](action), the [Large Files](object_1) [JPEG](object_2) ?
+
+- [[Scaling](action) problem](object_1) when pasting [PS art](object_2) in back of [AI text](object_3)
+- how to [Scaling](action), the [Scaling problem](object_1) [PS art](object_2) [AI text](object_3) ?
+- [Scaling](action), the [Scaling problem](object_1) [PS art](object_2) [AI text](object_3)
+- how do I [Scaling](action), the [Scaling problem](object_1) [PS art](object_2) [AI text](object_3) ?
+- i dont know how to [Scaling](action), the [Scaling problem](object_1) [PS art](object_2) [AI text](object_3) ?
+- tell me the way to [Scaling](action), the [Scaling problem](object_1) [PS art](object_2) [AI text](object_3) ?
+- tell me how to [Scaling](action), the [Scaling problem](object_1) [PS art](object_2) [AI text](object_3) ?
+- show me the way to [Scaling](action), the [Scaling problem](object_1) [PS art](object_2) [AI text](object_3) ?
+- show me how to [Scaling](action), the [Scaling problem](object_1) [PS art](object_2) [AI text](object_3) ?
+- is there any way to [Scaling](action), the [Scaling problem](object_1) [PS art](object_2) [AI text](object_3) ?
+
+- [Stop](action) [Generator Image Assets](object_1)
+- how to [Stop](action), the [Generator Image Assets](object_1) ?
+- [Stop](action), the [Generator Image Assets](object_1)
+- how do I [Stop](action), the [Generator Image Assets](object_1) ?
+- i dont know how to [Stop](action), the [Generator Image Assets](object_1) ?
+- tell me the way to [Stop](action), the [Generator Image Assets](object_1) ?
+- tell me how to [Stop](action), the [Generator Image Assets](object_1) ?
+- show me the way to [Stop](action), the [Generator Image Assets](object_1) ?
+- show me how to [Stop](action), the [Generator Image Assets](object_1) ?
+- is there any way to [Stop](action), the [Generator Image Assets](object_1) ?
+
+- [save](action) [all layers](object_1) as [one psd](object_2) so [i](object_3) can use [i](object_3)n after effects
+- how to [save](action), the [all layers](object_1) [one psd](object_2) [i](object_3) ?
+- [save](action), the [all layers](object_1) [one psd](object_2) [i](object_3)
+- how do I [save](action), the [all layers](object_1) [one psd](object_2) [i](object_3) ?
+- i dont know how to [save](action), the [all layers](object_1) [one psd](object_2) [i](object_3) ?
+- tell me the way to [save](action), the [all layers](object_1) [one psd](object_2) [i](object_3) ?
+- tell me how to [save](action), the [all layers](object_1) [one psd](object_2) [i](object_3) ?
+- show me the way to [save](action), the [all layers](object_1) [one psd](object_2) [i](object_3) ?
+- show me how to [save](action), the [all layers](object_1) [one psd](object_2) [i](object_3) ?
+- is there any way to [save](action), the [all layers](object_1) [one psd](object_2) [i](object_3) ?
+
+- How do [I](object_1) [resize](action) [an image](object_2)?
+- how to [resize](action), the [I](object_1) [an image](object_2) ?
+- [resize](action), the [I](object_1) [an image](object_2)
+- how do I [resize](action), the [I](object_1) [an image](object_2) ?
+- i dont know how to [resize](action), the [I](object_1) [an image](object_2) ?
+- tell me the way to [resize](action), the [I](object_1) [an image](object_2) ?
+- tell me how to [resize](action), the [I](object_1) [an image](object_2) ?
+- show me the way to [resize](action), the [I](object_1) [an image](object_2) ?
+- show me how to [resize](action), the [I](object_1) [an image](object_2) ?
+- is there any way to [resize](action), the [I](object_1) [an image](object_2) ?
+
+- [Trouble](object_1) with [photo color](object_2) when [saving](action) [an image](object_3) for web
+- how to [saving](action), the [Trouble](object_1) [photo color](object_2) [an image](object_3) ?
+- [saving](action), the [Trouble](object_1) [photo color](object_2) [an image](object_3)
+- how do I [saving](action), the [Trouble](object_1) [photo color](object_2) [an image](object_3) ?
+- i dont know how to [saving](action), the [Trouble](object_1) [photo color](object_2) [an image](object_3) ?
+- tell me the way to [saving](action), the [Trouble](object_1) [photo color](object_2) [an image](object_3) ?
+- tell me how to [saving](action), the [Trouble](object_1) [photo color](object_2) [an image](object_3) ?
+- show me the way to [saving](action), the [Trouble](object_1) [photo color](object_2) [an image](object_3) ?
+- show me how to [saving](action), the [Trouble](object_1) [photo color](object_2) [an image](object_3) ?
+- is there any way to [saving](action), the [Trouble](object_1) [photo color](object_2) [an image](object_3) ?
+
+- [Iterating](action) [image lines](object_1) [pixel](object_2) by [pixel](object_2)
+- how to [Iterating](action), the [image lines](object_1) [pixel](object_2) ?
+- [Iterating](action), the [image lines](object_1) [pixel](object_2)
+- how do I [Iterating](action), the [image lines](object_1) [pixel](object_2) ?
+- i dont know how to [Iterating](action), the [image lines](object_1) [pixel](object_2) ?
+- tell me the way to [Iterating](action), the [image lines](object_1) [pixel](object_2) ?
+- tell me how to [Iterating](action), the [image lines](object_1) [pixel](object_2) ?
+- show me the way to [Iterating](action), the [image lines](object_1) [pixel](object_2) ?
+- show me how to [Iterating](action), the [image lines](object_1) [pixel](object_2) ?
+- is there any way to [Iterating](action), the [image lines](object_1) [pixel](object_2) ?
+
+- [[Healing](action) brush tool](object_1): How to get rid of [black outline](object_2)?
+- how to [Healing](action), the [Healing brush tool](object_1) [black outline](object_2) ?
+- [Healing](action), the [Healing brush tool](object_1) [black outline](object_2)
+- how do I [Healing](action), the [Healing brush tool](object_1) [black outline](object_2) ?
+- i dont know how to [Healing](action), the [Healing brush tool](object_1) [black outline](object_2) ?
+- tell me the way to [Healing](action), the [Healing brush tool](object_1) [black outline](object_2) ?
+- tell me how to [Healing](action), the [Healing brush tool](object_1) [black outline](object_2) ?
+- show me the way to [Healing](action), the [Healing brush tool](object_1) [black outline](object_2) ?
+- show me how to [Healing](action), the [Healing brush tool](object_1) [black outline](object_2) ?
+- is there any way to [Healing](action), the [Healing brush tool](object_1) [black outline](object_2) ?
+
+- [Adding](action) [water](object_1) drops to [an image](object_2)
+- how to [Adding](action), the [water](object_1) [an image](object_2) ?
+- [Adding](action), the [water](object_1) [an image](object_2)
+- how do I [Adding](action), the [water](object_1) [an image](object_2) ?
+- i dont know how to [Adding](action), the [water](object_1) [an image](object_2) ?
+- tell me the way to [Adding](action), the [water](object_1) [an image](object_2) ?
+- tell me how to [Adding](action), the [water](object_1) [an image](object_2) ?
+- show me the way to [Adding](action), the [water](object_1) [an image](object_2) ?
+- show me how to [Adding](action), the [water](object_1) [an image](object_2) ?
+- is there any way to [Adding](action), the [water](object_1) [an image](object_2) ?
+
+- [Export [2D](action) artwork](object_1) to [a .dae file](object_2)
+- how to [2D](action), the [Export 2D artwork](object_1) [a .dae file](object_2) ?
+- [2D](action), the [Export 2D artwork](object_1) [a .dae file](object_2)
+- how do I [2D](action), the [Export 2D artwork](object_1) [a .dae file](object_2) ?
+- i dont know how to [2D](action), the [Export 2D artwork](object_1) [a .dae file](object_2) ?
+- tell me the way to [2D](action), the [Export 2D artwork](object_1) [a .dae file](object_2) ?
+- tell me how to [2D](action), the [Export 2D artwork](object_1) [a .dae file](object_2) ?
+- show me the way to [2D](action), the [Export 2D artwork](object_1) [a .dae file](object_2) ?
+- show me how to [2D](action), the [Export 2D artwork](object_1) [a .dae file](object_2) ?
+- is there any way to [2D](action), the [Export 2D artwork](object_1) [a .dae file](object_2) ?
+
+- [Trying](action) to edit [gif](object_1): Placing [a person's head](object_2) over [the one](object_3) on the [gif](object_1)
+- how to [Trying](action), the [gif](object_1) [a person's head](object_2) [the one](object_3) ?
+- [Trying](action), the [gif](object_1) [a person's head](object_2) [the one](object_3)
+- how do I [Trying](action), the [gif](object_1) [a person's head](object_2) [the one](object_3) ?
+- i dont know how to [Trying](action), the [gif](object_1) [a person's head](object_2) [the one](object_3) ?
+- tell me the way to [Trying](action), the [gif](object_1) [a person's head](object_2) [the one](object_3) ?
+- tell me how to [Trying](action), the [gif](object_1) [a person's head](object_2) [the one](object_3) ?
+- show me the way to [Trying](action), the [gif](object_1) [a person's head](object_2) [the one](object_3) ?
+- show me how to [Trying](action), the [gif](object_1) [a person's head](object_2) [the one](object_3) ?
+- is there any way to [Trying](action), the [gif](object_1) [a person's head](object_2) [the one](object_3) ?
+
+- [Notice](action) [open documents](object_1)
+- how to [Notice](action), the [open documents](object_1) ?
+- [Notice](action), the [open documents](object_1)
+- how do I [Notice](action), the [open documents](object_1) ?
+- i dont know how to [Notice](action), the [open documents](object_1) ?
+- tell me the way to [Notice](action), the [open documents](object_1) ?
+- tell me how to [Notice](action), the [open documents](object_1) ?
+- show me the way to [Notice](action), the [open documents](object_1) ?
+- show me how to [Notice](action), the [open documents](object_1) ?
+- is there any way to [Notice](action), the [open documents](object_1) ?
+
+- [Photoshop](object_1) [compresses](action) [all files](object_2) in [PSD format](object_3)
+- how to [compresses](action), the [Photoshop](object_1) [all files](object_2) [PSD format](object_3) ?
+- [compresses](action), the [Photoshop](object_1) [all files](object_2) [PSD format](object_3)
+- how do I [compresses](action), the [Photoshop](object_1) [all files](object_2) [PSD format](object_3) ?
+- i dont know how to [compresses](action), the [Photoshop](object_1) [all files](object_2) [PSD format](object_3) ?
+- tell me the way to [compresses](action), the [Photoshop](object_1) [all files](object_2) [PSD format](object_3) ?
+- tell me how to [compresses](action), the [Photoshop](object_1) [all files](object_2) [PSD format](object_3) ?
+- show me the way to [compresses](action), the [Photoshop](object_1) [all files](object_2) [PSD format](object_3) ?
+- show me how to [compresses](action), the [Photoshop](object_1) [all files](object_2) [PSD format](object_3) ?
+- is there any way to [compresses](action), the [Photoshop](object_1) [all files](object_2) [PSD format](object_3) ?
+
+- [Fill](action) [Quick Key](object_1) not working after install [Photoshop CC](object_2) 2017
+- how to [Fill](action), the [Quick Key](object_1) [Photoshop CC](object_2) ?
+- [Fill](action), the [Quick Key](object_1) [Photoshop CC](object_2)
+- how do I [Fill](action), the [Quick Key](object_1) [Photoshop CC](object_2) ?
+- i dont know how to [Fill](action), the [Quick Key](object_1) [Photoshop CC](object_2) ?
+- tell me the way to [Fill](action), the [Quick Key](object_1) [Photoshop CC](object_2) ?
+- tell me how to [Fill](action), the [Quick Key](object_1) [Photoshop CC](object_2) ?
+- show me the way to [Fill](action), the [Quick Key](object_1) [Photoshop CC](object_2) ?
+- show me how to [Fill](action), the [Quick Key](object_1) [Photoshop CC](object_2) ?
+- is there any way to [Fill](action), the [Quick Key](object_1) [Photoshop CC](object_2) ?
+
+- Why is [PS](object_1) [showing](action) [different colors](object_2) when exporting ?
+- how to [showing](action), the [PS](object_1) [different colors](object_2) ?
+- [showing](action), the [PS](object_1) [different colors](object_2)
+- how do I [showing](action), the [PS](object_1) [different colors](object_2) ?
+- i dont know how to [showing](action), the [PS](object_1) [different colors](object_2) ?
+- tell me the way to [showing](action), the [PS](object_1) [different colors](object_2) ?
+- tell me how to [showing](action), the [PS](object_1) [different colors](object_2) ?
+- show me the way to [showing](action), the [PS](object_1) [different colors](object_2) ?
+- show me how to [showing](action), the [PS](object_1) [different colors](object_2) ?
+- is there any way to [showing](action), the [PS](object_1) [different colors](object_2) ?
+
+- [PS CC](object_1) 18 Select and Mask [causes](action) "Could not apply [the workspace](object_2) because of [a program error](object_3)."
+- how to [causes](action), the [PS CC](object_1) [the workspace](object_2) [a program error](object_3) ?
+- [causes](action), the [PS CC](object_1) [the workspace](object_2) [a program error](object_3)
+- how do I [causes](action), the [PS CC](object_1) [the workspace](object_2) [a program error](object_3) ?
+- i dont know how to [causes](action), the [PS CC](object_1) [the workspace](object_2) [a program error](object_3) ?
+- tell me the way to [causes](action), the [PS CC](object_1) [the workspace](object_2) [a program error](object_3) ?
+- tell me how to [causes](action), the [PS CC](object_1) [the workspace](object_2) [a program error](object_3) ?
+- show me the way to [causes](action), the [PS CC](object_1) [the workspace](object_2) [a program error](object_3) ?
+- show me how to [causes](action), the [PS CC](object_1) [the workspace](object_2) [a program error](object_3) ?
+- is there any way to [causes](action), the [PS CC](object_1) [the workspace](object_2) [a program error](object_3) ?
+
+- [PS](object_1) [wo](action)nt open [ANY jpgs](object_2), gifs ect since [the lates](object_3) 2017 update - HELP!!!!
+- how to [wo](action), the [PS](object_1) [ANY jpgs](object_2) [the lates](object_3) ?
+- [wo](action), the [PS](object_1) [ANY jpgs](object_2) [the lates](object_3)
+- how do I [wo](action), the [PS](object_1) [ANY jpgs](object_2) [the lates](object_3) ?
+- i dont know how to [wo](action), the [PS](object_1) [ANY jpgs](object_2) [the lates](object_3) ?
+- tell me the way to [wo](action), the [PS](object_1) [ANY jpgs](object_2) [the lates](object_3) ?
+- tell me how to [wo](action), the [PS](object_1) [ANY jpgs](object_2) [the lates](object_3) ?
+- show me the way to [wo](action), the [PS](object_1) [ANY jpgs](object_2) [the lates](object_3) ?
+- show me how to [wo](action), the [PS](object_1) [ANY jpgs](object_2) [the lates](object_3) ?
+- is there any way to [wo](action), the [PS](object_1) [ANY jpgs](object_2) [the lates](object_3) ?
+
+- [script](object_1) to [select](action) [the hand tool](object_2) and [full screen mode](object_3) with menu bar for osx,can i use them?
+- how to [select](action), the [script](object_1) [the hand tool](object_2) [full screen mode](object_3) ?
+- [select](action), the [script](object_1) [the hand tool](object_2) [full screen mode](object_3)
+- how do I [select](action), the [script](object_1) [the hand tool](object_2) [full screen mode](object_3) ?
+- i dont know how to [select](action), the [script](object_1) [the hand tool](object_2) [full screen mode](object_3) ?
+- tell me the way to [select](action), the [script](object_1) [the hand tool](object_2) [full screen mode](object_3) ?
+- tell me how to [select](action), the [script](object_1) [the hand tool](object_2) [full screen mode](object_3) ?
+- show me the way to [select](action), the [script](object_1) [the hand tool](object_2) [full screen mode](object_3) ?
+- show me how to [select](action), the [script](object_1) [the hand tool](object_2) [full screen mode](object_3) ?
+- is there any way to [select](action), the [script](object_1) [the hand tool](object_2) [full screen mode](object_3) ?
+
+- [Playing](action) [an action](object_1) from [a certain step](object_2) using [Extendscript](object_3) or Javascript
+- how to [Playing](action), the [an action](object_1) [a certain step](object_2) [Extendscript](object_3) ?
+- [Playing](action), the [an action](object_1) [a certain step](object_2) [Extendscript](object_3)
+- how do I [Playing](action), the [an action](object_1) [a certain step](object_2) [Extendscript](object_3) ?
+- i dont know how to [Playing](action), the [an action](object_1) [a certain step](object_2) [Extendscript](object_3) ?
+- tell me the way to [Playing](action), the [an action](object_1) [a certain step](object_2) [Extendscript](object_3) ?
+- tell me how to [Playing](action), the [an action](object_1) [a certain step](object_2) [Extendscript](object_3) ?
+- show me the way to [Playing](action), the [an action](object_1) [a certain step](object_2) [Extendscript](object_3) ?
+- show me how to [Playing](action), the [an action](object_1) [a certain step](object_2) [Extendscript](object_3) ?
+- is there any way to [Playing](action), the [an action](object_1) [a certain step](object_2) [Extendscript](object_3) ?
+
+- How to [change](action) [inches](object_1) to [centimeters](object_2) in [CC](object_3) 2018?
+- how to [change](action), the [inches](object_1) [centimeters](object_2) [CC](object_3) ?
+- [change](action), the [inches](object_1) [centimeters](object_2) [CC](object_3)
+- how do I [change](action), the [inches](object_1) [centimeters](object_2) [CC](object_3) ?
+- i dont know how to [change](action), the [inches](object_1) [centimeters](object_2) [CC](object_3) ?
+- tell me the way to [change](action), the [inches](object_1) [centimeters](object_2) [CC](object_3) ?
+- tell me how to [change](action), the [inches](object_1) [centimeters](object_2) [CC](object_3) ?
+- show me the way to [change](action), the [inches](object_1) [centimeters](object_2) [CC](object_3) ?
+- show me how to [change](action), the [inches](object_1) [centimeters](object_2) [CC](object_3) ?
+- is there any way to [change](action), the [inches](object_1) [centimeters](object_2) [CC](object_3) ?
+
+- [Added](action) [too many adjustment layers](object_1)(?) now can't edit [whole image](object_2) anymore???
+- how to [Added](action), the [too many adjustment layers](object_1) [whole image](object_2) ?
+- [Added](action), the [too many adjustment layers](object_1) [whole image](object_2)
+- how do I [Added](action), the [too many adjustment layers](object_1) [whole image](object_2) ?
+- i dont know how to [Added](action), the [too many adjustment layers](object_1) [whole image](object_2) ?
+- tell me the way to [Added](action), the [too many adjustment layers](object_1) [whole image](object_2) ?
+- tell me how to [Added](action), the [too many adjustment layers](object_1) [whole image](object_2) ?
+- show me the way to [Added](action), the [too many adjustment layers](object_1) [whole image](object_2) ?
+- show me how to [Added](action), the [too many adjustment layers](object_1) [whole image](object_2) ?
+- is there any way to [Added](action), the [too many adjustment layers](object_1) [whole image](object_2) ?
+
+- [Add](action) [new layer](object_1) just above [the active layer](object_2)
+- how to [Add](action), the [new layer](object_1) [the active layer](object_2) ?
+- [Add](action), the [new layer](object_1) [the active layer](object_2)
+- how do I [Add](action), the [new layer](object_1) [the active layer](object_2) ?
+- i dont know how to [Add](action), the [new layer](object_1) [the active layer](object_2) ?
+- tell me the way to [Add](action), the [new layer](object_1) [the active layer](object_2) ?
+- tell me how to [Add](action), the [new layer](object_1) [the active layer](object_2) ?
+- show me the way to [Add](action), the [new layer](object_1) [the active layer](object_2) ?
+- show me how to [Add](action), the [new layer](object_1) [the active layer](object_2) ?
+- is there any way to [Add](action), the [new layer](object_1) [the active layer](object_2) ?
+
+- How to [scale](action) [an object](object_1) from [the center](object_2) in [PhotoshopCC](object_3)
+- how to [scale](action), the [an object](object_1) [the center](object_2) [PhotoshopCC](object_3) ?
+- [scale](action), the [an object](object_1) [the center](object_2) [PhotoshopCC](object_3)
+- how do I [scale](action), the [an object](object_1) [the center](object_2) [PhotoshopCC](object_3) ?
+- i dont know how to [scale](action), the [an object](object_1) [the center](object_2) [PhotoshopCC](object_3) ?
+- tell me the way to [scale](action), the [an object](object_1) [the center](object_2) [PhotoshopCC](object_3) ?
+- tell me how to [scale](action), the [an object](object_1) [the center](object_2) [PhotoshopCC](object_3) ?
+- show me the way to [scale](action), the [an object](object_1) [the center](object_2) [PhotoshopCC](object_3) ?
+- show me how to [scale](action), the [an object](object_1) [the center](object_2) [PhotoshopCC](object_3) ?
+- is there any way to [scale](action), the [an object](object_1) [the center](object_2) [PhotoshopCC](object_3) ?
+
+- How to [draw](action) [pixel data](object_1) into [a layer](object_2) from [Generator](object_3)
+- how to [draw](action), the [pixel data](object_1) [a layer](object_2) [Generator](object_3) ?
+- [draw](action), the [pixel data](object_1) [a layer](object_2) [Generator](object_3)
+- how do I [draw](action), the [pixel data](object_1) [a layer](object_2) [Generator](object_3) ?
+- i dont know how to [draw](action), the [pixel data](object_1) [a layer](object_2) [Generator](object_3) ?
+- tell me the way to [draw](action), the [pixel data](object_1) [a layer](object_2) [Generator](object_3) ?
+- tell me how to [draw](action), the [pixel data](object_1) [a layer](object_2) [Generator](object_3) ?
+- show me the way to [draw](action), the [pixel data](object_1) [a layer](object_2) [Generator](object_3) ?
+- show me how to [draw](action), the [pixel data](object_1) [a layer](object_2) [Generator](object_3) ?
+- is there any way to [draw](action), the [pixel data](object_1) [a layer](object_2) [Generator](object_3) ?
+
+- How to [find](action) [tree pattern](object_1) on [latest version](object_2) [CS6](object_3)
+- how to [find](action), the [tree pattern](object_1) [latest version](object_2) [CS6](object_3) ?
+- [find](action), the [tree pattern](object_1) [latest version](object_2) [CS6](object_3)
+- how do I [find](action), the [tree pattern](object_1) [latest version](object_2) [CS6](object_3) ?
+- i dont know how to [find](action), the [tree pattern](object_1) [latest version](object_2) [CS6](object_3) ?
+- tell me the way to [find](action), the [tree pattern](object_1) [latest version](object_2) [CS6](object_3) ?
+- tell me how to [find](action), the [tree pattern](object_1) [latest version](object_2) [CS6](object_3) ?
+- show me the way to [find](action), the [tree pattern](object_1) [latest version](object_2) [CS6](object_3) ?
+- show me how to [find](action), the [tree pattern](object_1) [latest version](object_2) [CS6](object_3) ?
+- is there any way to [find](action), the [tree pattern](object_1) [latest version](object_2) [CS6](object_3) ?
+
+- How to [select](action) and reshape [an object](object_1)
+- how to [select](action), the [an object](object_1) ?
+- [select](action), the [an object](object_1)
+- how do I [select](action), the [an object](object_1) ?
+- i dont know how to [select](action), the [an object](object_1) ?
+- tell me the way to [select](action), the [an object](object_1) ?
+- tell me how to [select](action), the [an object](object_1) ?
+- show me the way to [select](action), the [an object](object_1) ?
+- show me how to [select](action), the [an object](object_1) ?
+- is there any way to [select](action), the [an object](object_1) ?
+
+- [Photoshop](object_1) not [saving](action) [all layers](object_2) when [saving](action) as [tif](object_3)
+- how to [saving](action), the [Photoshop](object_1) [all layers](object_2) [tif](object_3) ?
+- [saving](action), the [Photoshop](object_1) [all layers](object_2) [tif](object_3)
+- how do I [saving](action), the [Photoshop](object_1) [all layers](object_2) [tif](object_3) ?
+- i dont know how to [saving](action), the [Photoshop](object_1) [all layers](object_2) [tif](object_3) ?
+- tell me the way to [saving](action), the [Photoshop](object_1) [all layers](object_2) [tif](object_3) ?
+- tell me how to [saving](action), the [Photoshop](object_1) [all layers](object_2) [tif](object_3) ?
+- show me the way to [saving](action), the [Photoshop](object_1) [all layers](object_2) [tif](object_3) ?
+- show me how to [saving](action), the [Photoshop](object_1) [all layers](object_2) [tif](object_3) ?
+- is there any way to [saving](action), the [Photoshop](object_1) [all layers](object_2) [tif](object_3) ?
+
+- [Ca](action)n't export [a 12000x13000 pixel](object_1) [Jpeg](object_2)? [Max scale](object_3) is 80%?
+- how to [Ca](action), the [a 12000x13000 pixel](object_1) [Jpeg](object_2) [Max scale](object_3) ?
+- [Ca](action), the [a 12000x13000 pixel](object_1) [Jpeg](object_2) [Max scale](object_3)
+- how do I [Ca](action), the [a 12000x13000 pixel](object_1) [Jpeg](object_2) [Max scale](object_3) ?
+- i dont know how to [Ca](action), the [a 12000x13000 pixel](object_1) [Jpeg](object_2) [Max scale](object_3) ?
+- tell me the way to [Ca](action), the [a 12000x13000 pixel](object_1) [Jpeg](object_2) [Max scale](object_3) ?
+- tell me how to [Ca](action), the [a 12000x13000 pixel](object_1) [Jpeg](object_2) [Max scale](object_3) ?
+- show me the way to [Ca](action), the [a 12000x13000 pixel](object_1) [Jpeg](object_2) [Max scale](object_3) ?
+- show me how to [Ca](action), the [a 12000x13000 pixel](object_1) [Jpeg](object_2) [Max scale](object_3) ?
+- is there any way to [Ca](action), the [a 12000x13000 pixel](object_1) [Jpeg](object_2) [Max scale](object_3) ?
+
+- [Selecting](action) [image layers](object_1) within [a mask layer](object_2)
+- how to [Selecting](action), the [image layers](object_1) [a mask layer](object_2) ?
+- [Selecting](action), the [image layers](object_1) [a mask layer](object_2)
+- how do I [Selecting](action), the [image layers](object_1) [a mask layer](object_2) ?
+- i dont know how to [Selecting](action), the [image layers](object_1) [a mask layer](object_2) ?
+- tell me the way to [Selecting](action), the [image layers](object_1) [a mask layer](object_2) ?
+- tell me how to [Selecting](action), the [image layers](object_1) [a mask layer](object_2) ?
+- show me the way to [Selecting](action), the [image layers](object_1) [a mask layer](object_2) ?
+- show me how to [Selecting](action), the [image layers](object_1) [a mask layer](object_2) ?
+- is there any way to [Selecting](action), the [image layers](object_1) [a mask layer](object_2) ?
+
+- Recent [file](object_1)s [workspace](action) not appearing on [file](object_1) open
+- how to [workspace](action), the [file](object_1) ?
+- [workspace](action), the [file](object_1)
+- how do I [workspace](action), the [file](object_1) ?
+- i dont know how to [workspace](action), the [file](object_1) ?
+- tell me the way to [workspace](action), the [file](object_1) ?
+- tell me how to [workspace](action), the [file](object_1) ?
+- show me the way to [workspace](action), the [file](object_1) ?
+- show me how to [workspace](action), the [file](object_1) ?
+- is there any way to [workspace](action), the [file](object_1) ?
+
+- [Installing](action) [asl styles](object_1)
+- how to [Installing](action), the [asl styles](object_1) ?
+- [Installing](action), the [asl styles](object_1)
+- how do I [Installing](action), the [asl styles](object_1) ?
+- i dont know how to [Installing](action), the [asl styles](object_1) ?
+- tell me the way to [Installing](action), the [asl styles](object_1) ?
+- tell me how to [Installing](action), the [asl styles](object_1) ?
+- show me the way to [Installing](action), the [asl styles](object_1) ?
+- show me how to [Installing](action), the [asl styles](object_1) ?
+- is there any way to [Installing](action), the [asl styles](object_1) ?
+
+- [Changing](action) [the color theme](object_1) of [Photoshop](object_2), Specifically the selected layer color
+- how to [Changing](action), the [the color theme](object_1) [Photoshop](object_2) ?
+- [Changing](action), the [the color theme](object_1) [Photoshop](object_2)
+- how do I [Changing](action), the [the color theme](object_1) [Photoshop](object_2) ?
+- i dont know how to [Changing](action), the [the color theme](object_1) [Photoshop](object_2) ?
+- tell me the way to [Changing](action), the [the color theme](object_1) [Photoshop](object_2) ?
+- tell me how to [Changing](action), the [the color theme](object_1) [Photoshop](object_2) ?
+- show me the way to [Changing](action), the [the color theme](object_1) [Photoshop](object_2) ?
+- show me how to [Changing](action), the [the color theme](object_1) [Photoshop](object_2) ?
+- is there any way to [Changing](action), the [the color theme](object_1) [Photoshop](object_2) ?
+
+- [What](object_1) is [the easiest way](object_2) to [add](action) [a signature](object_3) and copyright symbol to photos?
+- how to [add](action), the [What](object_1) [the easiest way](object_2) [a signature](object_3) ?
+- [add](action), the [What](object_1) [the easiest way](object_2) [a signature](object_3)
+- how do I [add](action), the [What](object_1) [the easiest way](object_2) [a signature](object_3) ?
+- i dont know how to [add](action), the [What](object_1) [the easiest way](object_2) [a signature](object_3) ?
+- tell me the way to [add](action), the [What](object_1) [the easiest way](object_2) [a signature](object_3) ?
+- tell me how to [add](action), the [What](object_1) [the easiest way](object_2) [a signature](object_3) ?
+- show me the way to [add](action), the [What](object_1) [the easiest way](object_2) [a signature](object_3) ?
+- show me how to [add](action), the [What](object_1) [the easiest way](object_2) [a signature](object_3) ?
+- is there any way to [add](action), the [What](object_1) [the easiest way](object_2) [a signature](object_3) ?
+
+- How do [I](object_1) [make](action) [an image](object_2) with [animation](object_3)? ([I](object_1)t's for an Ad)
+- how to [make](action), the [I](object_1) [an image](object_2) [animation](object_3) ?
+- [make](action), the [I](object_1) [an image](object_2) [animation](object_3)
+- how do I [make](action), the [I](object_1) [an image](object_2) [animation](object_3) ?
+- i dont know how to [make](action), the [I](object_1) [an image](object_2) [animation](object_3) ?
+- tell me the way to [make](action), the [I](object_1) [an image](object_2) [animation](object_3) ?
+- tell me how to [make](action), the [I](object_1) [an image](object_2) [animation](object_3) ?
+- show me the way to [make](action), the [I](object_1) [an image](object_2) [animation](object_3) ?
+- show me how to [make](action), the [I](object_1) [an image](object_2) [animation](object_3) ?
+- is there any way to [make](action), the [I](object_1) [an image](object_2) [animation](object_3) ?
+
+- [Rotating](action) [a line](object_1) with [an arrowhead](object_2)?
+- how to [Rotating](action), the [a line](object_1) [an arrowhead](object_2) ?
+- [Rotating](action), the [a line](object_1) [an arrowhead](object_2)
+- how do I [Rotating](action), the [a line](object_1) [an arrowhead](object_2) ?
+- i dont know how to [Rotating](action), the [a line](object_1) [an arrowhead](object_2) ?
+- tell me the way to [Rotating](action), the [a line](object_1) [an arrowhead](object_2) ?
+- tell me how to [Rotating](action), the [a line](object_1) [an arrowhead](object_2) ?
+- show me the way to [Rotating](action), the [a line](object_1) [an arrowhead](object_2) ?
+- show me how to [Rotating](action), the [a line](object_1) [an arrowhead](object_2) ?
+- is there any way to [Rotating](action), the [a line](object_1) [an arrowhead](object_2) ?
+
+- [Layers](object_1), etc... [windows](object_2) [DON'T](action) float on [top](object_3)
+- how to [DON'T](action), the [Layers](object_1) [windows](object_2) [top](object_3) ?
+- [DON'T](action), the [Layers](object_1) [windows](object_2) [top](object_3)
+- how do I [DON'T](action), the [Layers](object_1) [windows](object_2) [top](object_3) ?
+- i dont know how to [DON'T](action), the [Layers](object_1) [windows](object_2) [top](object_3) ?
+- tell me the way to [DON'T](action), the [Layers](object_1) [windows](object_2) [top](object_3) ?
+- tell me how to [DON'T](action), the [Layers](object_1) [windows](object_2) [top](object_3) ?
+- show me the way to [DON'T](action), the [Layers](object_1) [windows](object_2) [top](object_3) ?
+- show me how to [DON'T](action), the [Layers](object_1) [windows](object_2) [top](object_3) ?
+- is there any way to [DON'T](action), the [Layers](object_1) [windows](object_2) [top](object_3) ?
+
+- [Lens correction](object_1) [missing](action) [Pentax cameras](object_2)
+- how to [missing](action), the [Lens correction](object_1) [Pentax cameras](object_2) ?
+- [missing](action), the [Lens correction](object_1) [Pentax cameras](object_2)
+- how do I [missing](action), the [Lens correction](object_1) [Pentax cameras](object_2) ?
+- i dont know how to [missing](action), the [Lens correction](object_1) [Pentax cameras](object_2) ?
+- tell me the way to [missing](action), the [Lens correction](object_1) [Pentax cameras](object_2) ?
+- tell me how to [missing](action), the [Lens correction](object_1) [Pentax cameras](object_2) ?
+- show me the way to [missing](action), the [Lens correction](object_1) [Pentax cameras](object_2) ?
+- show me how to [missing](action), the [Lens correction](object_1) [Pentax cameras](object_2) ?
+- is there any way to [missing](action), the [Lens correction](object_1) [Pentax cameras](object_2) ?
+
+- [Placing](action) [a watermark](object_1) in [the same spot](object_2) on [different images](object_3)?
+- how to [Placing](action), the [a watermark](object_1) [the same spot](object_2) [different images](object_3) ?
+- [Placing](action), the [a watermark](object_1) [the same spot](object_2) [different images](object_3)
+- how do I [Placing](action), the [a watermark](object_1) [the same spot](object_2) [different images](object_3) ?
+- i dont know how to [Placing](action), the [a watermark](object_1) [the same spot](object_2) [different images](object_3) ?
+- tell me the way to [Placing](action), the [a watermark](object_1) [the same spot](object_2) [different images](object_3) ?
+- tell me how to [Placing](action), the [a watermark](object_1) [the same spot](object_2) [different images](object_3) ?
+- show me the way to [Placing](action), the [a watermark](object_1) [the same spot](object_2) [different images](object_3) ?
+- show me how to [Placing](action), the [a watermark](object_1) [the same spot](object_2) [different images](object_3) ?
+- is there any way to [Placing](action), the [a watermark](object_1) [the same spot](object_2) [different images](object_3) ?
+
+- [Photoshop](object_1) [ca](action)n't open [the jpeg and psd files](object_2).
+- how to [ca](action), the [Photoshop](object_1) [the jpeg and psd files](object_2) ?
+- [ca](action), the [Photoshop](object_1) [the jpeg and psd files](object_2)
+- how do I [ca](action), the [Photoshop](object_1) [the jpeg and psd files](object_2) ?
+- i dont know how to [ca](action), the [Photoshop](object_1) [the jpeg and psd files](object_2) ?
+- tell me the way to [ca](action), the [Photoshop](object_1) [the jpeg and psd files](object_2) ?
+- tell me how to [ca](action), the [Photoshop](object_1) [the jpeg and psd files](object_2) ?
+- show me the way to [ca](action), the [Photoshop](object_1) [the jpeg and psd files](object_2) ?
+- show me how to [ca](action), the [Photoshop](object_1) [the jpeg and psd files](object_2) ?
+- is there any way to [ca](action), the [Photoshop](object_1) [the jpeg and psd files](object_2) ?
+
+- [Ca](action)n't warp [pasted AI vector Smart Object](object_1) using [Free Transform](object_2) in [PS CS6](object_3)
+- how to [Ca](action), the [pasted AI vector Smart Object](object_1) [Free Transform](object_2) [PS CS6](object_3) ?
+- [Ca](action), the [pasted AI vector Smart Object](object_1) [Free Transform](object_2) [PS CS6](object_3)
+- how do I [Ca](action), the [pasted AI vector Smart Object](object_1) [Free Transform](object_2) [PS CS6](object_3) ?
+- i dont know how to [Ca](action), the [pasted AI vector Smart Object](object_1) [Free Transform](object_2) [PS CS6](object_3) ?
+- tell me the way to [Ca](action), the [pasted AI vector Smart Object](object_1) [Free Transform](object_2) [PS CS6](object_3) ?
+- tell me how to [Ca](action), the [pasted AI vector Smart Object](object_1) [Free Transform](object_2) [PS CS6](object_3) ?
+- show me the way to [Ca](action), the [pasted AI vector Smart Object](object_1) [Free Transform](object_2) [PS CS6](object_3) ?
+- show me how to [Ca](action), the [pasted AI vector Smart Object](object_1) [Free Transform](object_2) [PS CS6](object_3) ?
+- is there any way to [Ca](action), the [pasted AI vector Smart Object](object_1) [Free Transform](object_2) [PS CS6](object_3) ?
+
+- How do [I](object_1) [apply](action) [I](object_1)mage adjustments to [ALL frames](object_3)
+- how to [apply](action), the [I](object_1) [Image adjustments](object_2) [ALL frames](object_3) ?
+- [apply](action), the [I](object_1) [Image adjustments](object_2) [ALL frames](object_3)
+- how do I [apply](action), the [I](object_1) [Image adjustments](object_2) [ALL frames](object_3) ?
+- i dont know how to [apply](action), the [I](object_1) [Image adjustments](object_2) [ALL frames](object_3) ?
+- tell me the way to [apply](action), the [I](object_1) [Image adjustments](object_2) [ALL frames](object_3) ?
+- tell me how to [apply](action), the [I](object_1) [Image adjustments](object_2) [ALL frames](object_3) ?
+- show me the way to [apply](action), the [I](object_1) [Image adjustments](object_2) [ALL frames](object_3) ?
+- show me how to [apply](action), the [I](object_1) [Image adjustments](object_2) [ALL frames](object_3) ?
+- is there any way to [apply](action), the [I](object_1) [Image adjustments](object_2) [ALL frames](object_3) ?
+
+- Do [I](object_1) have to [subscribe](action) to [extended Photoshop CC](object_2) in [order](object_3) to use the timeline feature?  [I](object_1) only [subscribe](action) to Photoshop and Adobe [I](object_1)llustrator CC.
+- how to [subscribe](action), the [I](object_1) [extended Photoshop CC](object_2) [order](object_3) ?
+- [subscribe](action), the [I](object_1) [extended Photoshop CC](object_2) [order](object_3)
+- how do I [subscribe](action), the [I](object_1) [extended Photoshop CC](object_2) [order](object_3) ?
+- i dont know how to [subscribe](action), the [I](object_1) [extended Photoshop CC](object_2) [order](object_3) ?
+- tell me the way to [subscribe](action), the [I](object_1) [extended Photoshop CC](object_2) [order](object_3) ?
+- tell me how to [subscribe](action), the [I](object_1) [extended Photoshop CC](object_2) [order](object_3) ?
+- show me the way to [subscribe](action), the [I](object_1) [extended Photoshop CC](object_2) [order](object_3) ?
+- show me how to [subscribe](action), the [I](object_1) [extended Photoshop CC](object_2) [order](object_3) ?
+- is there any way to [subscribe](action), the [I](object_1) [extended Photoshop CC](object_2) [order](object_3) ?
+
+- How do [I](object_1) [remove](action) [the background](object_2) from [a photo](object_3)?
+- how to [remove](action), the [I](object_1) [the background](object_2) [a photo](object_3) ?
+- [remove](action), the [I](object_1) [the background](object_2) [a photo](object_3)
+- how do I [remove](action), the [I](object_1) [the background](object_2) [a photo](object_3) ?
+- i dont know how to [remove](action), the [I](object_1) [the background](object_2) [a photo](object_3) ?
+- tell me the way to [remove](action), the [I](object_1) [the background](object_2) [a photo](object_3) ?
+- tell me how to [remove](action), the [I](object_1) [the background](object_2) [a photo](object_3) ?
+- show me the way to [remove](action), the [I](object_1) [the background](object_2) [a photo](object_3) ?
+- show me how to [remove](action), the [I](object_1) [the background](object_2) [a photo](object_3) ?
+- is there any way to [remove](action), the [I](object_1) [the background](object_2) [a photo](object_3) ?
+
+- [Photoshop cc 2017 windows](object_1) "[could](action) not apply [the workspace](object_2) because [the file](object_3) [could](action) not be found"
+- how to [could](action), the [Photoshop cc 2017 windows](object_1) [the workspace](object_2) [the file](object_3) ?
+- [could](action), the [Photoshop cc 2017 windows](object_1) [the workspace](object_2) [the file](object_3)
+- how do I [could](action), the [Photoshop cc 2017 windows](object_1) [the workspace](object_2) [the file](object_3) ?
+- i dont know how to [could](action), the [Photoshop cc 2017 windows](object_1) [the workspace](object_2) [the file](object_3) ?
+- tell me the way to [could](action), the [Photoshop cc 2017 windows](object_1) [the workspace](object_2) [the file](object_3) ?
+- tell me how to [could](action), the [Photoshop cc 2017 windows](object_1) [the workspace](object_2) [the file](object_3) ?
+- show me the way to [could](action), the [Photoshop cc 2017 windows](object_1) [the workspace](object_2) [the file](object_3) ?
+- show me how to [could](action), the [Photoshop cc 2017 windows](object_1) [the workspace](object_2) [the file](object_3) ?
+- is there any way to [could](action), the [Photoshop cc 2017 windows](object_1) [the workspace](object_2) [the file](object_3) ?
+
+- [Changing](action) [color](object_1) for [textile patterns](object_2)?
+- how to [Changing](action), the [color](object_1) [textile patterns](object_2) ?
+- [Changing](action), the [color](object_1) [textile patterns](object_2)
+- how do I [Changing](action), the [color](object_1) [textile patterns](object_2) ?
+- i dont know how to [Changing](action), the [color](object_1) [textile patterns](object_2) ?
+- tell me the way to [Changing](action), the [color](object_1) [textile patterns](object_2) ?
+- tell me how to [Changing](action), the [color](object_1) [textile patterns](object_2) ?
+- show me the way to [Changing](action), the [color](object_1) [textile patterns](object_2) ?
+- show me how to [Changing](action), the [color](object_1) [textile patterns](object_2) ?
+- is there any way to [Changing](action), the [color](object_1) [textile patterns](object_2) ?
+
+- why doesn't [photoshop](action) [cc](object_1) create [a file](object_2) in [the scratched disk](object_3) on sierra?
+- how to [photoshop](action), the [cc](object_1) [a file](object_2) [the scratched disk](object_3) ?
+- [photoshop](action), the [cc](object_1) [a file](object_2) [the scratched disk](object_3)
+- how do I [photoshop](action), the [cc](object_1) [a file](object_2) [the scratched disk](object_3) ?
+- i dont know how to [photoshop](action), the [cc](object_1) [a file](object_2) [the scratched disk](object_3) ?
+- tell me the way to [photoshop](action), the [cc](object_1) [a file](object_2) [the scratched disk](object_3) ?
+- tell me how to [photoshop](action), the [cc](object_1) [a file](object_2) [the scratched disk](object_3) ?
+- show me the way to [photoshop](action), the [cc](object_1) [a file](object_2) [the scratched disk](object_3) ?
+- show me how to [photoshop](action), the [cc](object_1) [a file](object_2) [the scratched disk](object_3) ?
+- is there any way to [photoshop](action), the [cc](object_1) [a file](object_2) [the scratched disk](object_3) ?
+
+- [Fixing](action) [light leak sprockets](object_1) on [scanned film photographs](object_2)
+- how to [Fixing](action), the [light leak sprockets](object_1) [scanned film photographs](object_2) ?
+- [Fixing](action), the [light leak sprockets](object_1) [scanned film photographs](object_2)
+- how do I [Fixing](action), the [light leak sprockets](object_1) [scanned film photographs](object_2) ?
+- i dont know how to [Fixing](action), the [light leak sprockets](object_1) [scanned film photographs](object_2) ?
+- tell me the way to [Fixing](action), the [light leak sprockets](object_1) [scanned film photographs](object_2) ?
+- tell me how to [Fixing](action), the [light leak sprockets](object_1) [scanned film photographs](object_2) ?
+- show me the way to [Fixing](action), the [light leak sprockets](object_1) [scanned film photographs](object_2) ?
+- show me how to [Fixing](action), the [light leak sprockets](object_1) [scanned film photographs](object_2) ?
+- is there any way to [Fixing](action), the [light leak sprockets](object_1) [scanned film photographs](object_2) ?
+
+- [[Healing](action) brush](object_1) edges on [gradients](object_2) [display issue](object_3)
+- how to [Healing](action), the [Healing brush](object_1) [gradients](object_2) [display issue](object_3) ?
+- [Healing](action), the [Healing brush](object_1) [gradients](object_2) [display issue](object_3)
+- how do I [Healing](action), the [Healing brush](object_1) [gradients](object_2) [display issue](object_3) ?
+- i dont know how to [Healing](action), the [Healing brush](object_1) [gradients](object_2) [display issue](object_3) ?
+- tell me the way to [Healing](action), the [Healing brush](object_1) [gradients](object_2) [display issue](object_3) ?
+- tell me how to [Healing](action), the [Healing brush](object_1) [gradients](object_2) [display issue](object_3) ?
+- show me the way to [Healing](action), the [Healing brush](object_1) [gradients](object_2) [display issue](object_3) ?
+- show me how to [Healing](action), the [Healing brush](object_1) [gradients](object_2) [display issue](object_3) ?
+- is there any way to [Healing](action), the [Healing brush](object_1) [gradients](object_2) [display issue](object_3) ?
+
+- [i](object_1) [ca](action)n't f[i](object_1)nd the smart blur opt[i](object_1)on
+- how to [ca](action), the [i](object_1) [the smart blur option](object_2) ?
+- [ca](action), the [i](object_1) [the smart blur option](object_2)
+- how do I [ca](action), the [i](object_1) [the smart blur option](object_2) ?
+- i dont know how to [ca](action), the [i](object_1) [the smart blur option](object_2) ?
+- tell me the way to [ca](action), the [i](object_1) [the smart blur option](object_2) ?
+- tell me how to [ca](action), the [i](object_1) [the smart blur option](object_2) ?
+- show me the way to [ca](action), the [i](object_1) [the smart blur option](object_2) ?
+- show me how to [ca](action), the [i](object_1) [the smart blur option](object_2) ?
+- is there any way to [ca](action), the [i](object_1) [the smart blur option](object_2) ?
+
+- How to [save](action) [the paths](object_1)?
+- how to [save](action), the [the paths](object_1) ?
+- [save](action), the [the paths](object_1)
+- how do I [save](action), the [the paths](object_1) ?
+- i dont know how to [save](action), the [the paths](object_1) ?
+- tell me the way to [save](action), the [the paths](object_1) ?
+- tell me how to [save](action), the [the paths](object_1) ?
+- show me the way to [save](action), the [the paths](object_1) ?
+- show me how to [save](action), the [the paths](object_1) ?
+- is there any way to [save](action), the [the paths](object_1) ?
+
+- [Photoshop](object_1) and [Lightroom](object_2) [exporting](action) [dark images](object_3)
+- how to [exporting](action), the [Photoshop](object_1) [Lightroom](object_2) [dark images](object_3) ?
+- [exporting](action), the [Photoshop](object_1) [Lightroom](object_2) [dark images](object_3)
+- how do I [exporting](action), the [Photoshop](object_1) [Lightroom](object_2) [dark images](object_3) ?
+- i dont know how to [exporting](action), the [Photoshop](object_1) [Lightroom](object_2) [dark images](object_3) ?
+- tell me the way to [exporting](action), the [Photoshop](object_1) [Lightroom](object_2) [dark images](object_3) ?
+- tell me how to [exporting](action), the [Photoshop](object_1) [Lightroom](object_2) [dark images](object_3) ?
+- show me the way to [exporting](action), the [Photoshop](object_1) [Lightroom](object_2) [dark images](object_3) ?
+- show me how to [exporting](action), the [Photoshop](object_1) [Lightroom](object_2) [dark images](object_3) ?
+- is there any way to [exporting](action), the [Photoshop](object_1) [Lightroom](object_2) [dark images](object_3) ?
+
+- [create](action) [a folder](object_1) in [presets](object_2)[/scripts](object_3)
+- how to [create](action), the [a folder](object_1) [presets](object_2) [/scripts](object_3) ?
+- [create](action), the [a folder](object_1) [presets](object_2) [/scripts](object_3)
+- how do I [create](action), the [a folder](object_1) [presets](object_2) [/scripts](object_3) ?
+- i dont know how to [create](action), the [a folder](object_1) [presets](object_2) [/scripts](object_3) ?
+- tell me the way to [create](action), the [a folder](object_1) [presets](object_2) [/scripts](object_3) ?
+- tell me how to [create](action), the [a folder](object_1) [presets](object_2) [/scripts](object_3) ?
+- show me the way to [create](action), the [a folder](object_1) [presets](object_2) [/scripts](object_3) ?
+- show me how to [create](action), the [a folder](object_1) [presets](object_2) [/scripts](object_3) ?
+- is there any way to [create](action), the [a folder](object_1) [presets](object_2) [/scripts](object_3) ?
+
+- [Scripting](object_1) [Lens Correction](object_2) to [process](action) [millions](object_3) of photos
+- how to [process](action), the [Scripting](object_1) [Lens Correction](object_2) [millions](object_3) ?
+- [process](action), the [Scripting](object_1) [Lens Correction](object_2) [millions](object_3)
+- how do I [process](action), the [Scripting](object_1) [Lens Correction](object_2) [millions](object_3) ?
+- i dont know how to [process](action), the [Scripting](object_1) [Lens Correction](object_2) [millions](object_3) ?
+- tell me the way to [process](action), the [Scripting](object_1) [Lens Correction](object_2) [millions](object_3) ?
+- tell me how to [process](action), the [Scripting](object_1) [Lens Correction](object_2) [millions](object_3) ?
+- show me the way to [process](action), the [Scripting](object_1) [Lens Correction](object_2) [millions](object_3) ?
+- show me how to [process](action), the [Scripting](object_1) [Lens Correction](object_2) [millions](object_3) ?
+- is there any way to [process](action), the [Scripting](object_1) [Lens Correction](object_2) [millions](object_3) ?
+
+- Is there [a way](object_1) to [draw](action) over [something](object_2) and [erase](object_3)/replace the color with the same stroke?
+- how to [draw](action), the [a way](object_1) [something](object_2) [erase](object_3) ?
+- [draw](action), the [a way](object_1) [something](object_2) [erase](object_3)
+- how do I [draw](action), the [a way](object_1) [something](object_2) [erase](object_3) ?
+- i dont know how to [draw](action), the [a way](object_1) [something](object_2) [erase](object_3) ?
+- tell me the way to [draw](action), the [a way](object_1) [something](object_2) [erase](object_3) ?
+- tell me how to [draw](action), the [a way](object_1) [something](object_2) [erase](object_3) ?
+- show me the way to [draw](action), the [a way](object_1) [something](object_2) [erase](object_3) ?
+- show me how to [draw](action), the [a way](object_1) [something](object_2) [erase](object_3) ?
+- is there any way to [draw](action), the [a way](object_1) [something](object_2) [erase](object_3) ?
+
+- How do [I](object_1) [remove](action) [Assistance windows](object_2)?
+- how to [remove](action), the [I](object_1) [Assistance windows](object_2) ?
+- [remove](action), the [I](object_1) [Assistance windows](object_2)
+- how do I [remove](action), the [I](object_1) [Assistance windows](object_2) ?
+- i dont know how to [remove](action), the [I](object_1) [Assistance windows](object_2) ?
+- tell me the way to [remove](action), the [I](object_1) [Assistance windows](object_2) ?
+- tell me how to [remove](action), the [I](object_1) [Assistance windows](object_2) ?
+- show me the way to [remove](action), the [I](object_1) [Assistance windows](object_2) ?
+- show me how to [remove](action), the [I](object_1) [Assistance windows](object_2) ?
+- is there any way to [remove](action), the [I](object_1) [Assistance windows](object_2) ?
+
+- [Apply](action) [layer color id](object_1) based on [name](object_2)
+- how to [Apply](action), the [layer color id](object_1) [name](object_2) ?
+- [Apply](action), the [layer color id](object_1) [name](object_2)
+- how do I [Apply](action), the [layer color id](object_1) [name](object_2) ?
+- i dont know how to [Apply](action), the [layer color id](object_1) [name](object_2) ?
+- tell me the way to [Apply](action), the [layer color id](object_1) [name](object_2) ?
+- tell me how to [Apply](action), the [layer color id](object_1) [name](object_2) ?
+- show me the way to [Apply](action), the [layer color id](object_1) [name](object_2) ?
+- show me how to [Apply](action), the [layer color id](object_1) [name](object_2) ?
+- is there any way to [Apply](action), the [layer color id](object_1) [name](object_2) ?
+
+- [Select](object_1) and [Mask](object_2) [wo](action)n't Output to [Select](object_1)ion
+- how to [wo](action), the [Select](object_1) [Mask](object_2) [Selection](object_3) ?
+- [wo](action), the [Select](object_1) [Mask](object_2) [Selection](object_3)
+- how do I [wo](action), the [Select](object_1) [Mask](object_2) [Selection](object_3) ?
+- i dont know how to [wo](action), the [Select](object_1) [Mask](object_2) [Selection](object_3) ?
+- tell me the way to [wo](action), the [Select](object_1) [Mask](object_2) [Selection](object_3) ?
+- tell me how to [wo](action), the [Select](object_1) [Mask](object_2) [Selection](object_3) ?
+- show me the way to [wo](action), the [Select](object_1) [Mask](object_2) [Selection](object_3) ?
+- show me how to [wo](action), the [Select](object_1) [Mask](object_2) [Selection](object_3) ?
+- is there any way to [wo](action), the [Select](object_1) [Mask](object_2) [Selection](object_3) ?
+
+- how to [create](action) [an customization](object_1) of [bikes pictures](object_2) like changing [its parts](object_3)
+- how to [create](action), the [an customization](object_1) [bikes pictures](object_2) [its parts](object_3) ?
+- [create](action), the [an customization](object_1) [bikes pictures](object_2) [its parts](object_3)
+- how do I [create](action), the [an customization](object_1) [bikes pictures](object_2) [its parts](object_3) ?
+- i dont know how to [create](action), the [an customization](object_1) [bikes pictures](object_2) [its parts](object_3) ?
+- tell me the way to [create](action), the [an customization](object_1) [bikes pictures](object_2) [its parts](object_3) ?
+- tell me how to [create](action), the [an customization](object_1) [bikes pictures](object_2) [its parts](object_3) ?
+- show me the way to [create](action), the [an customization](object_1) [bikes pictures](object_2) [its parts](object_3) ?
+- show me how to [create](action), the [an customization](object_1) [bikes pictures](object_2) [its parts](object_3) ?
+- is there any way to [create](action), the [an customization](object_1) [bikes pictures](object_2) [its parts](object_3) ?
+
+- [duplicating](action) [working tools](object_1) on [different screen](object_2)
+- how to [duplicating](action), the [working tools](object_1) [different screen](object_2) ?
+- [duplicating](action), the [working tools](object_1) [different screen](object_2)
+- how do I [duplicating](action), the [working tools](object_1) [different screen](object_2) ?
+- i dont know how to [duplicating](action), the [working tools](object_1) [different screen](object_2) ?
+- tell me the way to [duplicating](action), the [working tools](object_1) [different screen](object_2) ?
+- tell me how to [duplicating](action), the [working tools](object_1) [different screen](object_2) ?
+- show me the way to [duplicating](action), the [working tools](object_1) [different screen](object_2) ?
+- show me how to [duplicating](action), the [working tools](object_1) [different screen](object_2) ?
+- is there any way to [duplicating](action), the [working tools](object_1) [different screen](object_2) ?
+
+- [adobe d[i](object_2)ment[i](object_2)ons [advert](action) everyt[i](object_2)me](object_1) [i](object_2) use [warp tool](object_3)
+- how to [advert](action), the [adobe dimentions advert everytime](object_1) [i](object_2) [warp tool](object_3) ?
+- [advert](action), the [adobe dimentions advert everytime](object_1) [i](object_2) [warp tool](object_3)
+- how do I [advert](action), the [adobe dimentions advert everytime](object_1) [i](object_2) [warp tool](object_3) ?
+- i dont know how to [advert](action), the [adobe dimentions advert everytime](object_1) [i](object_2) [warp tool](object_3) ?
+- tell me the way to [advert](action), the [adobe dimentions advert everytime](object_1) [i](object_2) [warp tool](object_3) ?
+- tell me how to [advert](action), the [adobe dimentions advert everytime](object_1) [i](object_2) [warp tool](object_3) ?
+- show me the way to [advert](action), the [adobe dimentions advert everytime](object_1) [i](object_2) [warp tool](object_3) ?
+- show me how to [advert](action), the [adobe dimentions advert everytime](object_1) [i](object_2) [warp tool](object_3) ?
+- is there any way to [advert](action), the [adobe dimentions advert everytime](object_1) [i](object_2) [warp tool](object_3) ?
+
+- [Fitting](action) [the canvas](object_1) to [an oval object](object_2)?
+- how to [Fitting](action), the [the canvas](object_1) [an oval object](object_2) ?
+- [Fitting](action), the [the canvas](object_1) [an oval object](object_2)
+- how do I [Fitting](action), the [the canvas](object_1) [an oval object](object_2) ?
+- i dont know how to [Fitting](action), the [the canvas](object_1) [an oval object](object_2) ?
+- tell me the way to [Fitting](action), the [the canvas](object_1) [an oval object](object_2) ?
+- tell me how to [Fitting](action), the [the canvas](object_1) [an oval object](object_2) ?
+- show me the way to [Fitting](action), the [the canvas](object_1) [an oval object](object_2) ?
+- show me how to [Fitting](action), the [the canvas](object_1) [an oval object](object_2) ?
+- is there any way to [Fitting](action), the [the canvas](object_1) [an oval object](object_2) ?
+
+- Right [click](action) hold [issue](object_1) with [Wacom pen](object_2) ([Win10](object_3))
+- how to [click](action), the [issue](object_1) [Wacom pen](object_2) [Win10](object_3) ?
+- [click](action), the [issue](object_1) [Wacom pen](object_2) [Win10](object_3)
+- how do I [click](action), the [issue](object_1) [Wacom pen](object_2) [Win10](object_3) ?
+- i dont know how to [click](action), the [issue](object_1) [Wacom pen](object_2) [Win10](object_3) ?
+- tell me the way to [click](action), the [issue](object_1) [Wacom pen](object_2) [Win10](object_3) ?
+- tell me how to [click](action), the [issue](object_1) [Wacom pen](object_2) [Win10](object_3) ?
+- show me the way to [click](action), the [issue](object_1) [Wacom pen](object_2) [Win10](object_3) ?
+- show me how to [click](action), the [issue](object_1) [Wacom pen](object_2) [Win10](object_3) ?
+- is there any way to [click](action), the [issue](object_1) [Wacom pen](object_2) [Win10](object_3) ?
+
+- [Mac](object_1) [wo](action)n't install [Photoshop CS2](object_2)
+- how to [wo](action), the [Mac](object_1) [Photoshop CS2](object_2) ?
+- [wo](action), the [Mac](object_1) [Photoshop CS2](object_2)
+- how do I [wo](action), the [Mac](object_1) [Photoshop CS2](object_2) ?
+- i dont know how to [wo](action), the [Mac](object_1) [Photoshop CS2](object_2) ?
+- tell me the way to [wo](action), the [Mac](object_1) [Photoshop CS2](object_2) ?
+- tell me how to [wo](action), the [Mac](object_1) [Photoshop CS2](object_2) ?
+- show me the way to [wo](action), the [Mac](object_1) [Photoshop CS2](object_2) ?
+- show me how to [wo](action), the [Mac](object_1) [Photoshop CS2](object_2) ?
+- is there any way to [wo](action), the [Mac](object_1) [Photoshop CS2](object_2) ?
+
+- [Changing](action) [thickness](object_1) of [a line](object_2) drawn with [Line Tool](object_3):
+- how to [Changing](action), the [thickness](object_1) [a line](object_2) [Line Tool](object_3) ?
+- [Changing](action), the [thickness](object_1) [a line](object_2) [Line Tool](object_3)
+- how do I [Changing](action), the [thickness](object_1) [a line](object_2) [Line Tool](object_3) ?
+- i dont know how to [Changing](action), the [thickness](object_1) [a line](object_2) [Line Tool](object_3) ?
+- tell me the way to [Changing](action), the [thickness](object_1) [a line](object_2) [Line Tool](object_3) ?
+- tell me how to [Changing](action), the [thickness](object_1) [a line](object_2) [Line Tool](object_3) ?
+- show me the way to [Changing](action), the [thickness](object_1) [a line](object_2) [Line Tool](object_3) ?
+- show me how to [Changing](action), the [thickness](object_1) [a line](object_2) [Line Tool](object_3) ?
+- is there any way to [Changing](action), the [thickness](object_1) [a line](object_2) [Line Tool](object_3) ?
+
+- [Could](action) not load [actions](object_1) because an unexpected end-of-[file](object_2) was encountered.
+- how to [Could](action), the [actions](object_1) [file](object_2) ?
+- [Could](action), the [actions](object_1) [file](object_2)
+- how do I [Could](action), the [actions](object_1) [file](object_2) ?
+- i dont know how to [Could](action), the [actions](object_1) [file](object_2) ?
+- tell me the way to [Could](action), the [actions](object_1) [file](object_2) ?
+- tell me how to [Could](action), the [actions](object_1) [file](object_2) ?
+- show me the way to [Could](action), the [actions](object_1) [file](object_2) ?
+- show me how to [Could](action), the [actions](object_1) [file](object_2) ?
+- is there any way to [Could](action), the [actions](object_1) [file](object_2) ?
+
+- [crop](action) [a movie](object_1) in [a polygonal shape](object_2)?
+- how to [crop](action), the [a movie](object_1) [a polygonal shape](object_2) ?
+- [crop](action), the [a movie](object_1) [a polygonal shape](object_2)
+- how do I [crop](action), the [a movie](object_1) [a polygonal shape](object_2) ?
+- i dont know how to [crop](action), the [a movie](object_1) [a polygonal shape](object_2) ?
+- tell me the way to [crop](action), the [a movie](object_1) [a polygonal shape](object_2) ?
+- tell me how to [crop](action), the [a movie](object_1) [a polygonal shape](object_2) ?
+- show me the way to [crop](action), the [a movie](object_1) [a polygonal shape](object_2) ?
+- show me how to [crop](action), the [a movie](object_1) [a polygonal shape](object_2) ?
+- is there any way to [crop](action), the [a movie](object_1) [a polygonal shape](object_2) ?
+
+- How do [I](object_1) [set](action) [path width](object_2) ?
+- how to [set](action), the [I](object_1) [path width](object_2) ?
+- [set](action), the [I](object_1) [path width](object_2)
+- how do I [set](action), the [I](object_1) [path width](object_2) ?
+- i dont know how to [set](action), the [I](object_1) [path width](object_2) ?
+- tell me the way to [set](action), the [I](object_1) [path width](object_2) ?
+- tell me how to [set](action), the [I](object_1) [path width](object_2) ?
+- show me the way to [set](action), the [I](object_1) [path width](object_2) ?
+- show me how to [set](action), the [I](object_1) [path width](object_2) ?
+- is there any way to [set](action), the [I](object_1) [path width](object_2) ?
+
+- How to [crop](action) [an image](object_1) without changing [the liquify filter](object_2)?
+- how to [crop](action), the [an image](object_1) [the liquify filter](object_2) ?
+- [crop](action), the [an image](object_1) [the liquify filter](object_2)
+- how do I [crop](action), the [an image](object_1) [the liquify filter](object_2) ?
+- i dont know how to [crop](action), the [an image](object_1) [the liquify filter](object_2) ?
+- tell me the way to [crop](action), the [an image](object_1) [the liquify filter](object_2) ?
+- tell me how to [crop](action), the [an image](object_1) [the liquify filter](object_2) ?
+- show me the way to [crop](action), the [an image](object_1) [the liquify filter](object_2) ?
+- show me how to [crop](action), the [an image](object_1) [the liquify filter](object_2) ?
+- is there any way to [crop](action), the [an image](object_1) [the liquify filter](object_2) ?
+
+- How [can](action) [I](object_1) change [this words](object_2) from [the chest](object_3) of soldier ?
+- how to [can](action), the [I](object_1) [this words](object_2) [the chest](object_3) ?
+- [can](action), the [I](object_1) [this words](object_2) [the chest](object_3)
+- how do I [can](action), the [I](object_1) [this words](object_2) [the chest](object_3) ?
+- i dont know how to [can](action), the [I](object_1) [this words](object_2) [the chest](object_3) ?
+- tell me the way to [can](action), the [I](object_1) [this words](object_2) [the chest](object_3) ?
+- tell me how to [can](action), the [I](object_1) [this words](object_2) [the chest](object_3) ?
+- show me the way to [can](action), the [I](object_1) [this words](object_2) [the chest](object_3) ?
+- show me how to [can](action), the [I](object_1) [this words](object_2) [the chest](object_3) ?
+- is there any way to [can](action), the [I](object_1) [this words](object_2) [the chest](object_3) ?
+
+- [Help](action)! Can't find [Color Lookup](object_1) in [Photoshop CS5](object_2)
+- how to [Help](action), the [Color Lookup](object_1) [Photoshop CS5](object_2) ?
+- [Help](action), the [Color Lookup](object_1) [Photoshop CS5](object_2)
+- how do I [Help](action), the [Color Lookup](object_1) [Photoshop CS5](object_2) ?
+- i dont know how to [Help](action), the [Color Lookup](object_1) [Photoshop CS5](object_2) ?
+- tell me the way to [Help](action), the [Color Lookup](object_1) [Photoshop CS5](object_2) ?
+- tell me how to [Help](action), the [Color Lookup](object_1) [Photoshop CS5](object_2) ?
+- show me the way to [Help](action), the [Color Lookup](object_1) [Photoshop CS5](object_2) ?
+- show me how to [Help](action), the [Color Lookup](object_1) [Photoshop CS5](object_2) ?
+- is there any way to [Help](action), the [Color Lookup](object_1) [Photoshop CS5](object_2) ?
+
+- How do [you](object_1) [export](action) [an image](object_2) in [progressive jpeg format](object_3)?
+- how to [export](action), the [you](object_1) [an image](object_2) [progressive jpeg format](object_3) ?
+- [export](action), the [you](object_1) [an image](object_2) [progressive jpeg format](object_3)
+- how do I [export](action), the [you](object_1) [an image](object_2) [progressive jpeg format](object_3) ?
+- i dont know how to [export](action), the [you](object_1) [an image](object_2) [progressive jpeg format](object_3) ?
+- tell me the way to [export](action), the [you](object_1) [an image](object_2) [progressive jpeg format](object_3) ?
+- tell me how to [export](action), the [you](object_1) [an image](object_2) [progressive jpeg format](object_3) ?
+- show me the way to [export](action), the [you](object_1) [an image](object_2) [progressive jpeg format](object_3) ?
+- show me how to [export](action), the [you](object_1) [an image](object_2) [progressive jpeg format](object_3) ?
+- is there any way to [export](action), the [you](object_1) [an image](object_2) [progressive jpeg format](object_3) ?
+
+- [Show](action)/Hide [Selection Edges](object_1)
+- how to [Show](action), the [Selection Edges](object_1) ?
+- [Show](action), the [Selection Edges](object_1)
+- how do I [Show](action), the [Selection Edges](object_1) ?
+- i dont know how to [Show](action), the [Selection Edges](object_1) ?
+- tell me the way to [Show](action), the [Selection Edges](object_1) ?
+- tell me how to [Show](action), the [Selection Edges](object_1) ?
+- show me the way to [Show](action), the [Selection Edges](object_1) ?
+- show me how to [Show](action), the [Selection Edges](object_1) ?
+- is there any way to [Show](action), the [Selection Edges](object_1) ?
+
+- How do [I](object_1) [make](action) [a file](object_2) on [Photoshop](object_3) with text that can be edited in Adobe Reader?
+- how to [make](action), the [I](object_1) [a file](object_2) [Photoshop](object_3) ?
+- [make](action), the [I](object_1) [a file](object_2) [Photoshop](object_3)
+- how do I [make](action), the [I](object_1) [a file](object_2) [Photoshop](object_3) ?
+- i dont know how to [make](action), the [I](object_1) [a file](object_2) [Photoshop](object_3) ?
+- tell me the way to [make](action), the [I](object_1) [a file](object_2) [Photoshop](object_3) ?
+- tell me how to [make](action), the [I](object_1) [a file](object_2) [Photoshop](object_3) ?
+- show me the way to [make](action), the [I](object_1) [a file](object_2) [Photoshop](object_3) ?
+- show me how to [make](action), the [I](object_1) [a file](object_2) [Photoshop](object_3) ?
+- is there any way to [make](action), the [I](object_1) [a file](object_2) [Photoshop](object_3) ?
+
+- [2018 upgrade](object_1): [CTL+ATL shortcut](object_2) not [working](action) to change [brush sizes](object_3)
+- how to [working](action), the [2018 upgrade](object_1) [CTL+ATL shortcut](object_2) [brush sizes](object_3) ?
+- [working](action), the [2018 upgrade](object_1) [CTL+ATL shortcut](object_2) [brush sizes](object_3)
+- how do I [working](action), the [2018 upgrade](object_1) [CTL+ATL shortcut](object_2) [brush sizes](object_3) ?
+- i dont know how to [working](action), the [2018 upgrade](object_1) [CTL+ATL shortcut](object_2) [brush sizes](object_3) ?
+- tell me the way to [working](action), the [2018 upgrade](object_1) [CTL+ATL shortcut](object_2) [brush sizes](object_3) ?
+- tell me how to [working](action), the [2018 upgrade](object_1) [CTL+ATL shortcut](object_2) [brush sizes](object_3) ?
+- show me the way to [working](action), the [2018 upgrade](object_1) [CTL+ATL shortcut](object_2) [brush sizes](object_3) ?
+- show me how to [working](action), the [2018 upgrade](object_1) [CTL+ATL shortcut](object_2) [brush sizes](object_3) ?
+- is there any way to [working](action), the [2018 upgrade](object_1) [CTL+ATL shortcut](object_2) [brush sizes](object_3) ?
+
+- [Could](action) not complete [the Render Video command](object_1) because of [a program error](object_2) ?
+- how to [Could](action), the [the Render Video command](object_1) [a program error](object_2) ?
+- [Could](action), the [the Render Video command](object_1) [a program error](object_2)
+- how do I [Could](action), the [the Render Video command](object_1) [a program error](object_2) ?
+- i dont know how to [Could](action), the [the Render Video command](object_1) [a program error](object_2) ?
+- tell me the way to [Could](action), the [the Render Video command](object_1) [a program error](object_2) ?
+- tell me how to [Could](action), the [the Render Video command](object_1) [a program error](object_2) ?
+- show me the way to [Could](action), the [the Render Video command](object_1) [a program error](object_2) ?
+- show me how to [Could](action), the [the Render Video command](object_1) [a program error](object_2) ?
+- is there any way to [Could](action), the [the Render Video command](object_1) [a program error](object_2) ?
+
+- [List](object_1) folders only one heirarchy lower than [[selected](action) top level](object_2)?
+- how to [selected](action), the [List](object_1) [selected top level](object_2) ?
+- [selected](action), the [List](object_1) [selected top level](object_2)
+- how do I [selected](action), the [List](object_1) [selected top level](object_2) ?
+- i dont know how to [selected](action), the [List](object_1) [selected top level](object_2) ?
+- tell me the way to [selected](action), the [List](object_1) [selected top level](object_2) ?
+- tell me how to [selected](action), the [List](object_1) [selected top level](object_2) ?
+- show me the way to [selected](action), the [List](object_1) [selected top level](object_2) ?
+- show me how to [selected](action), the [List](object_1) [selected top level](object_2) ?
+- is there any way to [selected](action), the [List](object_1) [selected top level](object_2) ?
+
+- How [Can](action) [I](object_1) Fix This [I](object_1)ssue?
+- how to [Can](action), the [I](object_1) [This Issue](object_2) ?
+- [Can](action), the [I](object_1) [This Issue](object_2)
+- how do I [Can](action), the [I](object_1) [This Issue](object_2) ?
+- i dont know how to [Can](action), the [I](object_1) [This Issue](object_2) ?
+- tell me the way to [Can](action), the [I](object_1) [This Issue](object_2) ?
+- tell me how to [Can](action), the [I](object_1) [This Issue](object_2) ?
+- show me the way to [Can](action), the [I](object_1) [This Issue](object_2) ?
+- show me how to [Can](action), the [I](object_1) [This Issue](object_2) ?
+- is there any way to [Can](action), the [I](object_1) [This Issue](object_2) ?
+
+- [export multiple paths](object_1) from [adobe photoshop cs6](object_2) to adobe [[indesign](action) cs6 problem](object_3)
+- how to [indesign](action), the [export multiple paths](object_1) [adobe photoshop cs6](object_2) [indesign cs6 problem](object_3) ?
+- [indesign](action), the [export multiple paths](object_1) [adobe photoshop cs6](object_2) [indesign cs6 problem](object_3)
+- how do I [indesign](action), the [export multiple paths](object_1) [adobe photoshop cs6](object_2) [indesign cs6 problem](object_3) ?
+- i dont know how to [indesign](action), the [export multiple paths](object_1) [adobe photoshop cs6](object_2) [indesign cs6 problem](object_3) ?
+- tell me the way to [indesign](action), the [export multiple paths](object_1) [adobe photoshop cs6](object_2) [indesign cs6 problem](object_3) ?
+- tell me how to [indesign](action), the [export multiple paths](object_1) [adobe photoshop cs6](object_2) [indesign cs6 problem](object_3) ?
+- show me the way to [indesign](action), the [export multiple paths](object_1) [adobe photoshop cs6](object_2) [indesign cs6 problem](object_3) ?
+- show me how to [indesign](action), the [export multiple paths](object_1) [adobe photoshop cs6](object_2) [indesign cs6 problem](object_3) ?
+- is there any way to [indesign](action), the [export multiple paths](object_1) [adobe photoshop cs6](object_2) [indesign cs6 problem](object_3) ?
+
+- how to [move](action) [an image](object_1) into [a document](object_2) created by [PS file](object_3)/new in Photoshop CC 2017
+- how to [move](action), the [an image](object_1) [a document](object_2) [PS file](object_3) ?
+- [move](action), the [an image](object_1) [a document](object_2) [PS file](object_3)
+- how do I [move](action), the [an image](object_1) [a document](object_2) [PS file](object_3) ?
+- i dont know how to [move](action), the [an image](object_1) [a document](object_2) [PS file](object_3) ?
+- tell me the way to [move](action), the [an image](object_1) [a document](object_2) [PS file](object_3) ?
+- tell me how to [move](action), the [an image](object_1) [a document](object_2) [PS file](object_3) ?
+- show me the way to [move](action), the [an image](object_1) [a document](object_2) [PS file](object_3) ?
+- show me how to [move](action), the [an image](object_1) [a document](object_2) [PS file](object_3) ?
+- is there any way to [move](action), the [an image](object_1) [a document](object_2) [PS file](object_3) ?
+
+- [Opening](action) [MPO](object_1) and linking resulting [stereo images](object_2) for [editing purposes](object_3)
+- how to [Opening](action), the [MPO](object_1) [stereo images](object_2) [editing purposes](object_3) ?
+- [Opening](action), the [MPO](object_1) [stereo images](object_2) [editing purposes](object_3)
+- how do I [Opening](action), the [MPO](object_1) [stereo images](object_2) [editing purposes](object_3) ?
+- i dont know how to [Opening](action), the [MPO](object_1) [stereo images](object_2) [editing purposes](object_3) ?
+- tell me the way to [Opening](action), the [MPO](object_1) [stereo images](object_2) [editing purposes](object_3) ?
+- tell me how to [Opening](action), the [MPO](object_1) [stereo images](object_2) [editing purposes](object_3) ?
+- show me the way to [Opening](action), the [MPO](object_1) [stereo images](object_2) [editing purposes](object_3) ?
+- show me how to [Opening](action), the [MPO](object_1) [stereo images](object_2) [editing purposes](object_3) ?
+- is there any way to [Opening](action), the [MPO](object_1) [stereo images](object_2) [editing purposes](object_3) ?
+
+- [[Updated](action) cc](object_1) is not supporting [extract option](object_2)
+- how to [Updated](action), the [Updated cc](object_1) [extract option](object_2) ?
+- [Updated](action), the [Updated cc](object_1) [extract option](object_2)
+- how do I [Updated](action), the [Updated cc](object_1) [extract option](object_2) ?
+- i dont know how to [Updated](action), the [Updated cc](object_1) [extract option](object_2) ?
+- tell me the way to [Updated](action), the [Updated cc](object_1) [extract option](object_2) ?
+- tell me how to [Updated](action), the [Updated cc](object_1) [extract option](object_2) ?
+- show me the way to [Updated](action), the [Updated cc](object_1) [extract option](object_2) ?
+- show me how to [Updated](action), the [Updated cc](object_1) [extract option](object_2) ?
+- is there any way to [Updated](action), the [Updated cc](object_1) [extract option](object_2) ?
+
+- [Can](action) 3D tools/settings help boost [detail](object_1) in [low res paintings](object_2)?
+- how to [Can](action), the [detail](object_1) [low res paintings](object_2) ?
+- [Can](action), the [detail](object_1) [low res paintings](object_2)
+- how do I [Can](action), the [detail](object_1) [low res paintings](object_2) ?
+- i dont know how to [Can](action), the [detail](object_1) [low res paintings](object_2) ?
+- tell me the way to [Can](action), the [detail](object_1) [low res paintings](object_2) ?
+- tell me how to [Can](action), the [detail](object_1) [low res paintings](object_2) ?
+- show me the way to [Can](action), the [detail](object_1) [low res paintings](object_2) ?
+- show me how to [Can](action), the [detail](object_1) [low res paintings](object_2) ?
+- is there any way to [Can](action), the [detail](object_1) [low res paintings](object_2) ?
+
+- [I](object_1) [ca](action)n't set [any layers](object_2) to [Overlay](object_3). How to fix this?
+- how to [ca](action), the [I](object_1) [any layers](object_2) [Overlay](object_3) ?
+- [ca](action), the [I](object_1) [any layers](object_2) [Overlay](object_3)
+- how do I [ca](action), the [I](object_1) [any layers](object_2) [Overlay](object_3) ?
+- i dont know how to [ca](action), the [I](object_1) [any layers](object_2) [Overlay](object_3) ?
+- tell me the way to [ca](action), the [I](object_1) [any layers](object_2) [Overlay](object_3) ?
+- tell me how to [ca](action), the [I](object_1) [any layers](object_2) [Overlay](object_3) ?
+- show me the way to [ca](action), the [I](object_1) [any layers](object_2) [Overlay](object_3) ?
+- show me how to [ca](action), the [I](object_1) [any layers](object_2) [Overlay](object_3) ?
+- is there any way to [ca](action), the [I](object_1) [any layers](object_2) [Overlay](object_3) ?
+
+- [Replace](action) [text](object_1) in [text](object_1) layers
+- how to [Replace](action), the [text](object_1) [text layers](object_2) ?
+- [Replace](action), the [text](object_1) [text layers](object_2)
+- how do I [Replace](action), the [text](object_1) [text layers](object_2) ?
+- i dont know how to [Replace](action), the [text](object_1) [text layers](object_2) ?
+- tell me the way to [Replace](action), the [text](object_1) [text layers](object_2) ?
+- tell me how to [Replace](action), the [text](object_1) [text layers](object_2) ?
+- show me the way to [Replace](action), the [text](object_1) [text layers](object_2) ?
+- show me how to [Replace](action), the [text](object_1) [text layers](object_2) ?
+- is there any way to [Replace](action), the [text](object_1) [text layers](object_2) ?
+
+- [Photoshop](object_1) [using](action) [less ram](object_2) than allocated to [it](object_3)
+- how to [using](action), the [Photoshop](object_1) [less ram](object_2) [it](object_3) ?
+- [using](action), the [Photoshop](object_1) [less ram](object_2) [it](object_3)
+- how do I [using](action), the [Photoshop](object_1) [less ram](object_2) [it](object_3) ?
+- i dont know how to [using](action), the [Photoshop](object_1) [less ram](object_2) [it](object_3) ?
+- tell me the way to [using](action), the [Photoshop](object_1) [less ram](object_2) [it](object_3) ?
+- tell me how to [using](action), the [Photoshop](object_1) [less ram](object_2) [it](object_3) ?
+- show me the way to [using](action), the [Photoshop](object_1) [less ram](object_2) [it](object_3) ?
+- show me how to [using](action), the [Photoshop](object_1) [less ram](object_2) [it](object_3) ?
+- is there any way to [using](action), the [Photoshop](object_1) [less ram](object_2) [it](object_3) ?
+
+- how to [create](action) [a fanned ray image](object_1)
+- how to [create](action), the [a fanned ray image](object_1) ?
+- [create](action), the [a fanned ray image](object_1)
+- how do I [create](action), the [a fanned ray image](object_1) ?
+- i dont know how to [create](action), the [a fanned ray image](object_1) ?
+- tell me the way to [create](action), the [a fanned ray image](object_1) ?
+- tell me how to [create](action), the [a fanned ray image](object_1) ?
+- show me the way to [create](action), the [a fanned ray image](object_1) ?
+- show me how to [create](action), the [a fanned ray image](object_1) ?
+- is there any way to [create](action), the [a fanned ray image](object_1) ?
+
+- [ca](action)n't draw or erase after using [lasso tool](object_1)
+- how to [ca](action), the [lasso tool](object_1) ?
+- [ca](action), the [lasso tool](object_1)
+- how do I [ca](action), the [lasso tool](object_1) ?
+- i dont know how to [ca](action), the [lasso tool](object_1) ?
+- tell me the way to [ca](action), the [lasso tool](object_1) ?
+- tell me how to [ca](action), the [lasso tool](object_1) ?
+- show me the way to [ca](action), the [lasso tool](object_1) ?
+- show me how to [ca](action), the [lasso tool](object_1) ?
+- is there any way to [ca](action), the [lasso tool](object_1) ?
+
+- Pen pressure [controlled](action) brush spacing
+- how to [controlled](action), the  ?
+- [controlled](action), the 
+- how do I [controlled](action), the  ?
+- i dont know how to [controlled](action), the  ?
+- tell me the way to [controlled](action), the  ?
+- tell me how to [controlled](action), the  ?
+- show me the way to [controlled](action), the  ?
+- show me how to [controlled](action), the  ?
+- is there any way to [controlled](action), the  ?
+
+- [preview](object_1) [saved](action) [pdf show](object_2)  [b&w](object_3) in PS
+- how to [saved](action), the [preview](object_1) [pdf show](object_2) [b&w](object_3) ?
+- [saved](action), the [preview](object_1) [pdf show](object_2) [b&w](object_3)
+- how do I [saved](action), the [preview](object_1) [pdf show](object_2) [b&w](object_3) ?
+- i dont know how to [saved](action), the [preview](object_1) [pdf show](object_2) [b&w](object_3) ?
+- tell me the way to [saved](action), the [preview](object_1) [pdf show](object_2) [b&w](object_3) ?
+- tell me how to [saved](action), the [preview](object_1) [pdf show](object_2) [b&w](object_3) ?
+- show me the way to [saved](action), the [preview](object_1) [pdf show](object_2) [b&w](object_3) ?
+- show me how to [saved](action), the [preview](object_1) [pdf show](object_2) [b&w](object_3) ?
+- is there any way to [saved](action), the [preview](object_1) [pdf show](object_2) [b&w](object_3) ?
+
+- [Can](action) [so[me](object_2)one](object_1) help [me](object_2) edit [this logo](object_3)?
+- how to [Can](action), the [someone](object_1) [me](object_2) [this logo](object_3) ?
+- [Can](action), the [someone](object_1) [me](object_2) [this logo](object_3)
+- how do I [Can](action), the [someone](object_1) [me](object_2) [this logo](object_3) ?
+- i dont know how to [Can](action), the [someone](object_1) [me](object_2) [this logo](object_3) ?
+- tell me the way to [Can](action), the [someone](object_1) [me](object_2) [this logo](object_3) ?
+- tell me how to [Can](action), the [someone](object_1) [me](object_2) [this logo](object_3) ?
+- show me the way to [Can](action), the [someone](object_1) [me](object_2) [this logo](object_3) ?
+- show me how to [Can](action), the [someone](object_1) [me](object_2) [this logo](object_3) ?
+- is there any way to [Can](action), the [someone](object_1) [me](object_2) [this logo](object_3) ?
+
+- [10/30/2017 update photoshop](object_1) [i](object_2) [get](action) [dropouts](object_3) of part of photo & layers?
+- how to [get](action), the [10/30/2017 update photoshop](object_1) [i](object_2) [dropouts](object_3) ?
+- [get](action), the [10/30/2017 update photoshop](object_1) [i](object_2) [dropouts](object_3)
+- how do I [get](action), the [10/30/2017 update photoshop](object_1) [i](object_2) [dropouts](object_3) ?
+- i dont know how to [get](action), the [10/30/2017 update photoshop](object_1) [i](object_2) [dropouts](object_3) ?
+- tell me the way to [get](action), the [10/30/2017 update photoshop](object_1) [i](object_2) [dropouts](object_3) ?
+- tell me how to [get](action), the [10/30/2017 update photoshop](object_1) [i](object_2) [dropouts](object_3) ?
+- show me the way to [get](action), the [10/30/2017 update photoshop](object_1) [i](object_2) [dropouts](object_3) ?
+- show me how to [get](action), the [10/30/2017 update photoshop](object_1) [i](object_2) [dropouts](object_3) ?
+- is there any way to [get](action), the [10/30/2017 update photoshop](object_1) [i](object_2) [dropouts](object_3) ?
+
+- [PS](object_1): [Auto-[created](action) smart object](object_2) when placing can be editable but can't be overwritten
+- how to [created](action), the [PS](object_1) [Auto-created smart object](object_2) ?
+- [created](action), the [PS](object_1) [Auto-created smart object](object_2)
+- how do I [created](action), the [PS](object_1) [Auto-created smart object](object_2) ?
+- i dont know how to [created](action), the [PS](object_1) [Auto-created smart object](object_2) ?
+- tell me the way to [created](action), the [PS](object_1) [Auto-created smart object](object_2) ?
+- tell me how to [created](action), the [PS](object_1) [Auto-created smart object](object_2) ?
+- show me the way to [created](action), the [PS](object_1) [Auto-created smart object](object_2) ?
+- show me how to [created](action), the [PS](object_1) [Auto-created smart object](object_2) ?
+- is there any way to [created](action), the [PS](object_1) [Auto-created smart object](object_2) ?
+
+- [[Refine](action) Edge tool](object_1) causes [consistent crashing](object_2) [[Windows 10 PS CC](object_3) 2017]
+- how to [Refine](action), the [Refine Edge tool](object_1) [consistent crashing](object_2) [Windows 10 PS CC](object_3) ?
+- [Refine](action), the [Refine Edge tool](object_1) [consistent crashing](object_2) [Windows 10 PS CC](object_3)
+- how do I [Refine](action), the [Refine Edge tool](object_1) [consistent crashing](object_2) [Windows 10 PS CC](object_3) ?
+- i dont know how to [Refine](action), the [Refine Edge tool](object_1) [consistent crashing](object_2) [Windows 10 PS CC](object_3) ?
+- tell me the way to [Refine](action), the [Refine Edge tool](object_1) [consistent crashing](object_2) [Windows 10 PS CC](object_3) ?
+- tell me how to [Refine](action), the [Refine Edge tool](object_1) [consistent crashing](object_2) [Windows 10 PS CC](object_3) ?
+- show me the way to [Refine](action), the [Refine Edge tool](object_1) [consistent crashing](object_2) [Windows 10 PS CC](object_3) ?
+- show me how to [Refine](action), the [Refine Edge tool](object_1) [consistent crashing](object_2) [Windows 10 PS CC](object_3) ?
+- is there any way to [Refine](action), the [Refine Edge tool](object_1) [consistent crashing](object_2) [Windows 10 PS CC](object_3) ?
+
+- [Need](action) [help](object_1) with [low res low poly 3D](object_2)
+- how to [Need](action), the [help](object_1) [low res low poly 3D](object_2) ?
+- [Need](action), the [help](object_1) [low res low poly 3D](object_2)
+- how do I [Need](action), the [help](object_1) [low res low poly 3D](object_2) ?
+- i dont know how to [Need](action), the [help](object_1) [low res low poly 3D](object_2) ?
+- tell me the way to [Need](action), the [help](object_1) [low res low poly 3D](object_2) ?
+- tell me how to [Need](action), the [help](object_1) [low res low poly 3D](object_2) ?
+- show me the way to [Need](action), the [help](object_1) [low res low poly 3D](object_2) ?
+- show me how to [Need](action), the [help](object_1) [low res low poly 3D](object_2) ?
+- is there any way to [Need](action), the [help](object_1) [low res low poly 3D](object_2) ?
+
+- [Move](action) [an item](object_1) back to [the artboard](object_2)
+- how to [Move](action), the [an item](object_1) [the artboard](object_2) ?
+- [Move](action), the [an item](object_1) [the artboard](object_2)
+- how do I [Move](action), the [an item](object_1) [the artboard](object_2) ?
+- i dont know how to [Move](action), the [an item](object_1) [the artboard](object_2) ?
+- tell me the way to [Move](action), the [an item](object_1) [the artboard](object_2) ?
+- tell me how to [Move](action), the [an item](object_1) [the artboard](object_2) ?
+- show me the way to [Move](action), the [an item](object_1) [the artboard](object_2) ?
+- show me how to [Move](action), the [an item](object_1) [the artboard](object_2) ?
+- is there any way to [Move](action), the [an item](object_1) [the artboard](object_2) ?
+
+- How do [I](object_1) [achieve](action) [this effect](object_2) using [photoshop](object_3)?
+- how to [achieve](action), the [I](object_1) [this effect](object_2) [photoshop](object_3) ?
+- [achieve](action), the [I](object_1) [this effect](object_2) [photoshop](object_3)
+- how do I [achieve](action), the [I](object_1) [this effect](object_2) [photoshop](object_3) ?
+- i dont know how to [achieve](action), the [I](object_1) [this effect](object_2) [photoshop](object_3) ?
+- tell me the way to [achieve](action), the [I](object_1) [this effect](object_2) [photoshop](object_3) ?
+- tell me how to [achieve](action), the [I](object_1) [this effect](object_2) [photoshop](object_3) ?
+- show me the way to [achieve](action), the [I](object_1) [this effect](object_2) [photoshop](object_3) ?
+- show me how to [achieve](action), the [I](object_1) [this effect](object_2) [photoshop](object_3) ?
+- is there any way to [achieve](action), the [I](object_1) [this effect](object_2) [photoshop](object_3) ?
+
+- [I](object_1) [want](action) to cancel [my membership](object_2)
+- how to [want](action), the [I](object_1) [my membership](object_2) ?
+- [want](action), the [I](object_1) [my membership](object_2)
+- how do I [want](action), the [I](object_1) [my membership](object_2) ?
+- i dont know how to [want](action), the [I](object_1) [my membership](object_2) ?
+- tell me the way to [want](action), the [I](object_1) [my membership](object_2) ?
+- tell me how to [want](action), the [I](object_1) [my membership](object_2) ?
+- show me the way to [want](action), the [I](object_1) [my membership](object_2) ?
+- show me how to [want](action), the [I](object_1) [my membership](object_2) ?
+- is there any way to [want](action), the [I](object_1) [my membership](object_2) ?
+
+- [[Update](action) CS5 problem](object_1)
+- how to [Update](action), the [Update CS5 problem](object_1) ?
+- [Update](action), the [Update CS5 problem](object_1)
+- how do I [Update](action), the [Update CS5 problem](object_1) ?
+- i dont know how to [Update](action), the [Update CS5 problem](object_1) ?
+- tell me the way to [Update](action), the [Update CS5 problem](object_1) ?
+- tell me how to [Update](action), the [Update CS5 problem](object_1) ?
+- show me the way to [Update](action), the [Update CS5 problem](object_1) ?
+- show me how to [Update](action), the [Update CS5 problem](object_1) ?
+- is there any way to [Update](action), the [Update CS5 problem](object_1) ?
+
+- [Opening](action) [an image](object_1) from [a folder](object_2) into [PS](object_3)
+- how to [Opening](action), the [an image](object_1) [a folder](object_2) [PS](object_3) ?
+- [Opening](action), the [an image](object_1) [a folder](object_2) [PS](object_3)
+- how do I [Opening](action), the [an image](object_1) [a folder](object_2) [PS](object_3) ?
+- i dont know how to [Opening](action), the [an image](object_1) [a folder](object_2) [PS](object_3) ?
+- tell me the way to [Opening](action), the [an image](object_1) [a folder](object_2) [PS](object_3) ?
+- tell me how to [Opening](action), the [an image](object_1) [a folder](object_2) [PS](object_3) ?
+- show me the way to [Opening](action), the [an image](object_1) [a folder](object_2) [PS](object_3) ?
+- show me how to [Opening](action), the [an image](object_1) [a folder](object_2) [PS](object_3) ?
+- is there any way to [Opening](action), the [an image](object_1) [a folder](object_2) [PS](object_3) ?
+
+- [[Transform](action) tool](object_1) moving to [top left hand corner](object_2)...
+- how to [Transform](action), the [Transform tool](object_1) [top left hand corner](object_2) ?
+- [Transform](action), the [Transform tool](object_1) [top left hand corner](object_2)
+- how do I [Transform](action), the [Transform tool](object_1) [top left hand corner](object_2) ?
+- i dont know how to [Transform](action), the [Transform tool](object_1) [top left hand corner](object_2) ?
+- tell me the way to [Transform](action), the [Transform tool](object_1) [top left hand corner](object_2) ?
+- tell me how to [Transform](action), the [Transform tool](object_1) [top left hand corner](object_2) ?
+- show me the way to [Transform](action), the [Transform tool](object_1) [top left hand corner](object_2) ?
+- show me how to [Transform](action), the [Transform tool](object_1) [top left hand corner](object_2) ?
+- is there any way to [Transform](action), the [Transform tool](object_1) [top left hand corner](object_2) ?
+
+- [Trying](action) [to re-install Photoshop](object_1) through [cs6 design standard](object_2).
+- how to [Trying](action), the [to re-install Photoshop](object_1) [cs6 design standard](object_2) ?
+- [Trying](action), the [to re-install Photoshop](object_1) [cs6 design standard](object_2)
+- how do I [Trying](action), the [to re-install Photoshop](object_1) [cs6 design standard](object_2) ?
+- i dont know how to [Trying](action), the [to re-install Photoshop](object_1) [cs6 design standard](object_2) ?
+- tell me the way to [Trying](action), the [to re-install Photoshop](object_1) [cs6 design standard](object_2) ?
+- tell me how to [Trying](action), the [to re-install Photoshop](object_1) [cs6 design standard](object_2) ?
+- show me the way to [Trying](action), the [to re-install Photoshop](object_1) [cs6 design standard](object_2) ?
+- show me how to [Trying](action), the [to re-install Photoshop](object_1) [cs6 design standard](object_2) ?
+- is there any way to [Trying](action), the [to re-install Photoshop](object_1) [cs6 design standard](object_2) ?
+
+- How [can](action) [I](object_1) put [a text file](object_2) in [a Photoshop library](object_3)?
+- how to [can](action), the [I](object_1) [a text file](object_2) [a Photoshop library](object_3) ?
+- [can](action), the [I](object_1) [a text file](object_2) [a Photoshop library](object_3)
+- how do I [can](action), the [I](object_1) [a text file](object_2) [a Photoshop library](object_3) ?
+- i dont know how to [can](action), the [I](object_1) [a text file](object_2) [a Photoshop library](object_3) ?
+- tell me the way to [can](action), the [I](object_1) [a text file](object_2) [a Photoshop library](object_3) ?
+- tell me how to [can](action), the [I](object_1) [a text file](object_2) [a Photoshop library](object_3) ?
+- show me the way to [can](action), the [I](object_1) [a text file](object_2) [a Photoshop library](object_3) ?
+- show me how to [can](action), the [I](object_1) [a text file](object_2) [a Photoshop library](object_3) ?
+- is there any way to [can](action), the [I](object_1) [a text file](object_2) [a Photoshop library](object_3) ?
+
+- [Need](action) to [Update PS CS6](object_1) ([perpetual license](object_2)) to [13.0.4](object_3)
+- how to [Need](action), the [Update PS CS6](object_1) [perpetual license](object_2) [13.0.4](object_3) ?
+- [Need](action), the [Update PS CS6](object_1) [perpetual license](object_2) [13.0.4](object_3)
+- how do I [Need](action), the [Update PS CS6](object_1) [perpetual license](object_2) [13.0.4](object_3) ?
+- i dont know how to [Need](action), the [Update PS CS6](object_1) [perpetual license](object_2) [13.0.4](object_3) ?
+- tell me the way to [Need](action), the [Update PS CS6](object_1) [perpetual license](object_2) [13.0.4](object_3) ?
+- tell me how to [Need](action), the [Update PS CS6](object_1) [perpetual license](object_2) [13.0.4](object_3) ?
+- show me the way to [Need](action), the [Update PS CS6](object_1) [perpetual license](object_2) [13.0.4](object_3) ?
+- show me how to [Need](action), the [Update PS CS6](object_1) [perpetual license](object_2) [13.0.4](object_3) ?
+- is there any way to [Need](action), the [Update PS CS6](object_1) [perpetual license](object_2) [13.0.4](object_3) ?
+
+- How do [I](object_1) [fill](action) [a photo background](object_2) with [a solid color](object_3)?
+- how to [fill](action), the [I](object_1) [a photo background](object_2) [a solid color](object_3) ?
+- [fill](action), the [I](object_1) [a photo background](object_2) [a solid color](object_3)
+- how do I [fill](action), the [I](object_1) [a photo background](object_2) [a solid color](object_3) ?
+- i dont know how to [fill](action), the [I](object_1) [a photo background](object_2) [a solid color](object_3) ?
+- tell me the way to [fill](action), the [I](object_1) [a photo background](object_2) [a solid color](object_3) ?
+- tell me how to [fill](action), the [I](object_1) [a photo background](object_2) [a solid color](object_3) ?
+- show me the way to [fill](action), the [I](object_1) [a photo background](object_2) [a solid color](object_3) ?
+- show me how to [fill](action), the [I](object_1) [a photo background](object_2) [a solid color](object_3) ?
+- is there any way to [fill](action), the [I](object_1) [a photo background](object_2) [a solid color](object_3) ?
+
+- [Adding](action) [multiple images](object_1) to [a canvas](object_2)
+- how to [Adding](action), the [multiple images](object_1) [a canvas](object_2) ?
+- [Adding](action), the [multiple images](object_1) [a canvas](object_2)
+- how do I [Adding](action), the [multiple images](object_1) [a canvas](object_2) ?
+- i dont know how to [Adding](action), the [multiple images](object_1) [a canvas](object_2) ?
+- tell me the way to [Adding](action), the [multiple images](object_1) [a canvas](object_2) ?
+- tell me how to [Adding](action), the [multiple images](object_1) [a canvas](object_2) ?
+- show me the way to [Adding](action), the [multiple images](object_1) [a canvas](object_2) ?
+- show me how to [Adding](action), the [multiple images](object_1) [a canvas](object_2) ?
+- is there any way to [Adding](action), the [multiple images](object_1) [a canvas](object_2) ?
+
+- [Photoshop CS6](object_1) [saves](action) [slices](object_2) as [jpgs](object_3) rather than gifs
+- how to [saves](action), the [Photoshop CS6](object_1) [slices](object_2) [jpgs](object_3) ?
+- [saves](action), the [Photoshop CS6](object_1) [slices](object_2) [jpgs](object_3)
+- how do I [saves](action), the [Photoshop CS6](object_1) [slices](object_2) [jpgs](object_3) ?
+- i dont know how to [saves](action), the [Photoshop CS6](object_1) [slices](object_2) [jpgs](object_3) ?
+- tell me the way to [saves](action), the [Photoshop CS6](object_1) [slices](object_2) [jpgs](object_3) ?
+- tell me how to [saves](action), the [Photoshop CS6](object_1) [slices](object_2) [jpgs](object_3) ?
+- show me the way to [saves](action), the [Photoshop CS6](object_1) [slices](object_2) [jpgs](object_3) ?
+- show me how to [saves](action), the [Photoshop CS6](object_1) [slices](object_2) [jpgs](object_3) ?
+- is there any way to [saves](action), the [Photoshop CS6](object_1) [slices](object_2) [jpgs](object_3) ?
+
+- How to [set](action) [correct color profile](object_1)
+- how to [set](action), the [correct color profile](object_1) ?
+- [set](action), the [correct color profile](object_1)
+- how do I [set](action), the [correct color profile](object_1) ?
+- i dont know how to [set](action), the [correct color profile](object_1) ?
+- tell me the way to [set](action), the [correct color profile](object_1) ?
+- tell me how to [set](action), the [correct color profile](object_1) ?
+- show me the way to [set](action), the [correct color profile](object_1) ?
+- show me how to [set](action), the [correct color profile](object_1) ?
+- is there any way to [set](action), the [correct color profile](object_1) ?
+
+- [Loading](object_1) [pictures](object_2) [using](action) [File Explorer](object_3)
+- how to [using](action), the [Loading](object_1) [pictures](object_2) [File Explorer](object_3) ?
+- [using](action), the [Loading](object_1) [pictures](object_2) [File Explorer](object_3)
+- how do I [using](action), the [Loading](object_1) [pictures](object_2) [File Explorer](object_3) ?
+- i dont know how to [using](action), the [Loading](object_1) [pictures](object_2) [File Explorer](object_3) ?
+- tell me the way to [using](action), the [Loading](object_1) [pictures](object_2) [File Explorer](object_3) ?
+- tell me how to [using](action), the [Loading](object_1) [pictures](object_2) [File Explorer](object_3) ?
+- show me the way to [using](action), the [Loading](object_1) [pictures](object_2) [File Explorer](object_3) ?
+- show me how to [using](action), the [Loading](object_1) [pictures](object_2) [File Explorer](object_3) ?
+- is there any way to [using](action), the [Loading](object_1) [pictures](object_2) [File Explorer](object_3) ?
+
+- [[Imported](action) NEF photos](object_1) appear washed out and gray on [one computer](object_2) but normal on [another computer](object_3)
+- how to [Imported](action), the [Imported NEF photos](object_1) [one computer](object_2) [another computer](object_3) ?
+- [Imported](action), the [Imported NEF photos](object_1) [one computer](object_2) [another computer](object_3)
+- how do I [Imported](action), the [Imported NEF photos](object_1) [one computer](object_2) [another computer](object_3) ?
+- i dont know how to [Imported](action), the [Imported NEF photos](object_1) [one computer](object_2) [another computer](object_3) ?
+- tell me the way to [Imported](action), the [Imported NEF photos](object_1) [one computer](object_2) [another computer](object_3) ?
+- tell me how to [Imported](action), the [Imported NEF photos](object_1) [one computer](object_2) [another computer](object_3) ?
+- show me the way to [Imported](action), the [Imported NEF photos](object_1) [one computer](object_2) [another computer](object_3) ?
+- show me how to [Imported](action), the [Imported NEF photos](object_1) [one computer](object_2) [another computer](object_3) ?
+- is there any way to [Imported](action), the [Imported NEF photos](object_1) [one computer](object_2) [another computer](object_3) ?
+
+- [Photoshop CC](object_1) 2018 crashes when [i](object_2) [open](action) certa[i](object_2)n [i](object_2)mages.
+- how to [open](action), the [Photoshop CC](object_1) [i](object_2) [certain images](object_3) ?
+- [open](action), the [Photoshop CC](object_1) [i](object_2) [certain images](object_3)
+- how do I [open](action), the [Photoshop CC](object_1) [i](object_2) [certain images](object_3) ?
+- i dont know how to [open](action), the [Photoshop CC](object_1) [i](object_2) [certain images](object_3) ?
+- tell me the way to [open](action), the [Photoshop CC](object_1) [i](object_2) [certain images](object_3) ?
+- tell me how to [open](action), the [Photoshop CC](object_1) [i](object_2) [certain images](object_3) ?
+- show me the way to [open](action), the [Photoshop CC](object_1) [i](object_2) [certain images](object_3) ?
+- show me how to [open](action), the [Photoshop CC](object_1) [i](object_2) [certain images](object_3) ?
+- is there any way to [open](action), the [Photoshop CC](object_1) [i](object_2) [certain images](object_3) ?
+
+- [Liquify](action) [tool](object_1) in [CC](object_2)
+- how to [Liquify](action), the [tool](object_1) [CC](object_2) ?
+- [Liquify](action), the [tool](object_1) [CC](object_2)
+- how do I [Liquify](action), the [tool](object_1) [CC](object_2) ?
+- i dont know how to [Liquify](action), the [tool](object_1) [CC](object_2) ?
+- tell me the way to [Liquify](action), the [tool](object_1) [CC](object_2) ?
+- tell me how to [Liquify](action), the [tool](object_1) [CC](object_2) ?
+- show me the way to [Liquify](action), the [tool](object_1) [CC](object_2) ?
+- show me how to [Liquify](action), the [tool](object_1) [CC](object_2) ?
+- is there any way to [Liquify](action), the [tool](object_1) [CC](object_2) ?
+
+- How to [remove](action) [sign](object_1) from [post](object_2)?
+- how to [remove](action), the [sign](object_1) [post](object_2) ?
+- [remove](action), the [sign](object_1) [post](object_2)
+- how do I [remove](action), the [sign](object_1) [post](object_2) ?
+- i dont know how to [remove](action), the [sign](object_1) [post](object_2) ?
+- tell me the way to [remove](action), the [sign](object_1) [post](object_2) ?
+- tell me how to [remove](action), the [sign](object_1) [post](object_2) ?
+- show me the way to [remove](action), the [sign](object_1) [post](object_2) ?
+- show me how to [remove](action), the [sign](object_1) [post](object_2) ?
+- is there any way to [remove](action), the [sign](object_1) [post](object_2) ?
+
+- How do [I](object_1) [delete](action) Photoshop cache or [temporary files](object_2).
+- how to [delete](action), the [I](object_1) [temporary files](object_2) ?
+- [delete](action), the [I](object_1) [temporary files](object_2)
+- how do I [delete](action), the [I](object_1) [temporary files](object_2) ?
+- i dont know how to [delete](action), the [I](object_1) [temporary files](object_2) ?
+- tell me the way to [delete](action), the [I](object_1) [temporary files](object_2) ?
+- tell me how to [delete](action), the [I](object_1) [temporary files](object_2) ?
+- show me the way to [delete](action), the [I](object_1) [temporary files](object_2) ?
+- show me how to [delete](action), the [I](object_1) [temporary files](object_2) ?
+- is there any way to [delete](action), the [I](object_1) [temporary files](object_2) ?
+
+- Photoshop Variables - How do [you](object_1) [Name](action) [Files](object_2) from [a Spreadsheet Column](object_3)?
+- how to [Name](action), the [you](object_1) [Files](object_2) [a Spreadsheet Column](object_3) ?
+- [Name](action), the [you](object_1) [Files](object_2) [a Spreadsheet Column](object_3)
+- how do I [Name](action), the [you](object_1) [Files](object_2) [a Spreadsheet Column](object_3) ?
+- i dont know how to [Name](action), the [you](object_1) [Files](object_2) [a Spreadsheet Column](object_3) ?
+- tell me the way to [Name](action), the [you](object_1) [Files](object_2) [a Spreadsheet Column](object_3) ?
+- tell me how to [Name](action), the [you](object_1) [Files](object_2) [a Spreadsheet Column](object_3) ?
+- show me the way to [Name](action), the [you](object_1) [Files](object_2) [a Spreadsheet Column](object_3) ?
+- show me how to [Name](action), the [you](object_1) [Files](object_2) [a Spreadsheet Column](object_3) ?
+- is there any way to [Name](action), the [you](object_1) [Files](object_2) [a Spreadsheet Column](object_3) ?
+
+- [Load](action) [different image](object_1) after [3 seconds](object_2) on [a palette](object_3)
+- how to [Load](action), the [different image](object_1) [3 seconds](object_2) [a palette](object_3) ?
+- [Load](action), the [different image](object_1) [3 seconds](object_2) [a palette](object_3)
+- how do I [Load](action), the [different image](object_1) [3 seconds](object_2) [a palette](object_3) ?
+- i dont know how to [Load](action), the [different image](object_1) [3 seconds](object_2) [a palette](object_3) ?
+- tell me the way to [Load](action), the [different image](object_1) [3 seconds](object_2) [a palette](object_3) ?
+- tell me how to [Load](action), the [different image](object_1) [3 seconds](object_2) [a palette](object_3) ?
+- show me the way to [Load](action), the [different image](object_1) [3 seconds](object_2) [a palette](object_3) ?
+- show me how to [Load](action), the [different image](object_1) [3 seconds](object_2) [a palette](object_3) ?
+- is there any way to [Load](action), the [different image](object_1) [3 seconds](object_2) [a palette](object_3) ?
+
+- [Ca](action)n't select from [foreground/background](object_1) in [Layer Style color picker](object_2)
+- how to [Ca](action), the [foreground/background](object_1) [Layer Style color picker](object_2) ?
+- [Ca](action), the [foreground/background](object_1) [Layer Style color picker](object_2)
+- how do I [Ca](action), the [foreground/background](object_1) [Layer Style color picker](object_2) ?
+- i dont know how to [Ca](action), the [foreground/background](object_1) [Layer Style color picker](object_2) ?
+- tell me the way to [Ca](action), the [foreground/background](object_1) [Layer Style color picker](object_2) ?
+- tell me how to [Ca](action), the [foreground/background](object_1) [Layer Style color picker](object_2) ?
+- show me the way to [Ca](action), the [foreground/background](object_1) [Layer Style color picker](object_2) ?
+- show me how to [Ca](action), the [foreground/background](object_1) [Layer Style color picker](object_2) ?
+- is there any way to [Ca](action), the [foreground/background](object_1) [Layer Style color picker](object_2) ?
+
+- How to [create](action) [custom font size names](object_1)?
+- how to [create](action), the [custom font size names](object_1) ?
+- [create](action), the [custom font size names](object_1)
+- how do I [create](action), the [custom font size names](object_1) ?
+- i dont know how to [create](action), the [custom font size names](object_1) ?
+- tell me the way to [create](action), the [custom font size names](object_1) ?
+- tell me how to [create](action), the [custom font size names](object_1) ?
+- show me the way to [create](action), the [custom font size names](object_1) ?
+- show me how to [create](action), the [custom font size names](object_1) ?
+- is there any way to [create](action), the [custom font size names](object_1) ?
+
+- [Ca](action)n't use [the crop tool](object_1)
+- how to [Ca](action), the [the crop tool](object_1) ?
+- [Ca](action), the [the crop tool](object_1)
+- how do I [Ca](action), the [the crop tool](object_1) ?
+- i dont know how to [Ca](action), the [the crop tool](object_1) ?
+- tell me the way to [Ca](action), the [the crop tool](object_1) ?
+- tell me how to [Ca](action), the [the crop tool](object_1) ?
+- show me the way to [Ca](action), the [the crop tool](object_1) ?
+- show me how to [Ca](action), the [the crop tool](object_1) ?
+- is there any way to [Ca](action), the [the crop tool](object_1) ?
+
+- [ScriptListener](object_1) [records](action) [the 'Auto Tone' script](object_2) to perform [incorrect results](object_3)
+- how to [records](action), the [ScriptListener](object_1) [the 'Auto Tone' script](object_2) [incorrect results](object_3) ?
+- [records](action), the [ScriptListener](object_1) [the 'Auto Tone' script](object_2) [incorrect results](object_3)
+- how do I [records](action), the [ScriptListener](object_1) [the 'Auto Tone' script](object_2) [incorrect results](object_3) ?
+- i dont know how to [records](action), the [ScriptListener](object_1) [the 'Auto Tone' script](object_2) [incorrect results](object_3) ?
+- tell me the way to [records](action), the [ScriptListener](object_1) [the 'Auto Tone' script](object_2) [incorrect results](object_3) ?
+- tell me how to [records](action), the [ScriptListener](object_1) [the 'Auto Tone' script](object_2) [incorrect results](object_3) ?
+- show me the way to [records](action), the [ScriptListener](object_1) [the 'Auto Tone' script](object_2) [incorrect results](object_3) ?
+- show me how to [records](action), the [ScriptListener](object_1) [the 'Auto Tone' script](object_2) [incorrect results](object_3) ?
+- is there any way to [records](action), the [ScriptListener](object_1) [the 'Auto Tone' script](object_2) [incorrect results](object_3) ?
+
+- How to incrementally [save](action) [images](object_1) using [a hotkey](object_2)
+- how to [save](action), the [images](object_1) [a hotkey](object_2) ?
+- [save](action), the [images](object_1) [a hotkey](object_2)
+- how do I [save](action), the [images](object_1) [a hotkey](object_2) ?
+- i dont know how to [save](action), the [images](object_1) [a hotkey](object_2) ?
+- tell me the way to [save](action), the [images](object_1) [a hotkey](object_2) ?
+- tell me how to [save](action), the [images](object_1) [a hotkey](object_2) ?
+- show me the way to [save](action), the [images](object_1) [a hotkey](object_2) ?
+- show me how to [save](action), the [images](object_1) [a hotkey](object_2) ?
+- is there any way to [save](action), the [images](object_1) [a hotkey](object_2) ?
+
+- How do [I](object_1) [fix](action) [a gif Save](object_2) for [the web error](object_3) "The operation could not be completed. Access is denied." in CS6?
+- how to [fix](action), the [I](object_1) [a gif Save](object_2) [the web error](object_3) ?
+- [fix](action), the [I](object_1) [a gif Save](object_2) [the web error](object_3)
+- how do I [fix](action), the [I](object_1) [a gif Save](object_2) [the web error](object_3) ?
+- i dont know how to [fix](action), the [I](object_1) [a gif Save](object_2) [the web error](object_3) ?
+- tell me the way to [fix](action), the [I](object_1) [a gif Save](object_2) [the web error](object_3) ?
+- tell me how to [fix](action), the [I](object_1) [a gif Save](object_2) [the web error](object_3) ?
+- show me the way to [fix](action), the [I](object_1) [a gif Save](object_2) [the web error](object_3) ?
+- show me how to [fix](action), the [I](object_1) [a gif Save](object_2) [the web error](object_3) ?
+- is there any way to [fix](action), the [I](object_1) [a gif Save](object_2) [the web error](object_3) ?
+
+- New to [script](object_1)ing... [trying](action) to convert [script](object_1) to save [JPG](object_2) instead of [PSD](object_3)
+- how to [trying](action), the [script](object_1) [JPG](object_2) [PSD](object_3) ?
+- [trying](action), the [script](object_1) [JPG](object_2) [PSD](object_3)
+- how do I [trying](action), the [script](object_1) [JPG](object_2) [PSD](object_3) ?
+- i dont know how to [trying](action), the [script](object_1) [JPG](object_2) [PSD](object_3) ?
+- tell me the way to [trying](action), the [script](object_1) [JPG](object_2) [PSD](object_3) ?
+- tell me how to [trying](action), the [script](object_1) [JPG](object_2) [PSD](object_3) ?
+- show me the way to [trying](action), the [script](object_1) [JPG](object_2) [PSD](object_3) ?
+- show me how to [trying](action), the [script](object_1) [JPG](object_2) [PSD](object_3) ?
+- is there any way to [trying](action), the [script](object_1) [JPG](object_2) [PSD](object_3) ?
+
+- [Help](action) understanding [Photography](object_1) [plan trial requirements](object_2)
+- how to [Help](action), the [Photography](object_1) [plan trial requirements](object_2) ?
+- [Help](action), the [Photography](object_1) [plan trial requirements](object_2)
+- how do I [Help](action), the [Photography](object_1) [plan trial requirements](object_2) ?
+- i dont know how to [Help](action), the [Photography](object_1) [plan trial requirements](object_2) ?
+- tell me the way to [Help](action), the [Photography](object_1) [plan trial requirements](object_2) ?
+- tell me how to [Help](action), the [Photography](object_1) [plan trial requirements](object_2) ?
+- show me the way to [Help](action), the [Photography](object_1) [plan trial requirements](object_2) ?
+- show me how to [Help](action), the [Photography](object_1) [plan trial requirements](object_2) ?
+- is there any way to [Help](action), the [Photography](object_1) [plan trial requirements](object_2) ?
+
+- [Font size](object_1) not [showing](action) [change](object_2) in [real time](object_3)...
+- how to [showing](action), the [Font size](object_1) [change](object_2) [real time](object_3) ?
+- [showing](action), the [Font size](object_1) [change](object_2) [real time](object_3)
+- how do I [showing](action), the [Font size](object_1) [change](object_2) [real time](object_3) ?
+- i dont know how to [showing](action), the [Font size](object_1) [change](object_2) [real time](object_3) ?
+- tell me the way to [showing](action), the [Font size](object_1) [change](object_2) [real time](object_3) ?
+- tell me how to [showing](action), the [Font size](object_1) [change](object_2) [real time](object_3) ?
+- show me the way to [showing](action), the [Font size](object_1) [change](object_2) [real time](object_3) ?
+- show me how to [showing](action), the [Font size](object_1) [change](object_2) [real time](object_3) ?
+- is there any way to [showing](action), the [Font size](object_1) [change](object_2) [real time](object_3) ?
+
+- [create](action) [selection](object_1) with [color sampler](object_2)
+- how to [create](action), the [selection](object_1) [color sampler](object_2) ?
+- [create](action), the [selection](object_1) [color sampler](object_2)
+- how do I [create](action), the [selection](object_1) [color sampler](object_2) ?
+- i dont know how to [create](action), the [selection](object_1) [color sampler](object_2) ?
+- tell me the way to [create](action), the [selection](object_1) [color sampler](object_2) ?
+- tell me how to [create](action), the [selection](object_1) [color sampler](object_2) ?
+- show me the way to [create](action), the [selection](object_1) [color sampler](object_2) ?
+- show me how to [create](action), the [selection](object_1) [color sampler](object_2) ?
+- is there any way to [create](action), the [selection](object_1) [color sampler](object_2) ?
+
+- [CC](object_1) 2017 [ca](action)n't add to [selection](object_2) properly
+- how to [ca](action), the [CC](object_1) [selection](object_2) ?
+- [ca](action), the [CC](object_1) [selection](object_2)
+- how do I [ca](action), the [CC](object_1) [selection](object_2) ?
+- i dont know how to [ca](action), the [CC](object_1) [selection](object_2) ?
+- tell me the way to [ca](action), the [CC](object_1) [selection](object_2) ?
+- tell me how to [ca](action), the [CC](object_1) [selection](object_2) ?
+- show me the way to [ca](action), the [CC](object_1) [selection](object_2) ?
+- show me how to [ca](action), the [CC](object_1) [selection](object_2) ?
+- is there any way to [ca](action), the [CC](object_1) [selection](object_2) ?
+
+- [photoshop](object_1): [Could](action) not complete [the Crop command](object_2) because [a linked smart object file](object_3) is missing
+- how to [Could](action), the [photoshop](object_1) [the Crop command](object_2) [a linked smart object file](object_3) ?
+- [Could](action), the [photoshop](object_1) [the Crop command](object_2) [a linked smart object file](object_3)
+- how do I [Could](action), the [photoshop](object_1) [the Crop command](object_2) [a linked smart object file](object_3) ?
+- i dont know how to [Could](action), the [photoshop](object_1) [the Crop command](object_2) [a linked smart object file](object_3) ?
+- tell me the way to [Could](action), the [photoshop](object_1) [the Crop command](object_2) [a linked smart object file](object_3) ?
+- tell me how to [Could](action), the [photoshop](object_1) [the Crop command](object_2) [a linked smart object file](object_3) ?
+- show me the way to [Could](action), the [photoshop](object_1) [the Crop command](object_2) [a linked smart object file](object_3) ?
+- show me how to [Could](action), the [photoshop](object_1) [the Crop command](object_2) [a linked smart object file](object_3) ?
+- is there any way to [Could](action), the [photoshop](object_1) [the Crop command](object_2) [a linked smart object file](object_3) ?
+
+- [Photoshop CC](object_1)! How to [enable](action) [onion skin](object_2)?
+- how to [enable](action), the [Photoshop CC](object_1) [onion skin](object_2) ?
+- [enable](action), the [Photoshop CC](object_1) [onion skin](object_2)
+- how do I [enable](action), the [Photoshop CC](object_1) [onion skin](object_2) ?
+- i dont know how to [enable](action), the [Photoshop CC](object_1) [onion skin](object_2) ?
+- tell me the way to [enable](action), the [Photoshop CC](object_1) [onion skin](object_2) ?
+- tell me how to [enable](action), the [Photoshop CC](object_1) [onion skin](object_2) ?
+- show me the way to [enable](action), the [Photoshop CC](object_1) [onion skin](object_2) ?
+- show me how to [enable](action), the [Photoshop CC](object_1) [onion skin](object_2) ?
+- is there any way to [enable](action), the [Photoshop CC](object_1) [onion skin](object_2) ?
+
+- [placing](action) [an eps](object_1) with [clipping path](object_2) in [a tif](object_3)
+- how to [placing](action), the [an eps](object_1) [clipping path](object_2) [a tif](object_3) ?
+- [placing](action), the [an eps](object_1) [clipping path](object_2) [a tif](object_3)
+- how do I [placing](action), the [an eps](object_1) [clipping path](object_2) [a tif](object_3) ?
+- i dont know how to [placing](action), the [an eps](object_1) [clipping path](object_2) [a tif](object_3) ?
+- tell me the way to [placing](action), the [an eps](object_1) [clipping path](object_2) [a tif](object_3) ?
+- tell me how to [placing](action), the [an eps](object_1) [clipping path](object_2) [a tif](object_3) ?
+- show me the way to [placing](action), the [an eps](object_1) [clipping path](object_2) [a tif](object_3) ?
+- show me how to [placing](action), the [an eps](object_1) [clipping path](object_2) [a tif](object_3) ?
+- is there any way to [placing](action), the [an eps](object_1) [clipping path](object_2) [a tif](object_3) ?
+
+- PS CC 2017 - [resizing](action) [a layer](object_1) with [CMD+SHIFT](object_2)
+- how to [resizing](action), the [a layer](object_1) [CMD+SHIFT](object_2) ?
+- [resizing](action), the [a layer](object_1) [CMD+SHIFT](object_2)
+- how do I [resizing](action), the [a layer](object_1) [CMD+SHIFT](object_2) ?
+- i dont know how to [resizing](action), the [a layer](object_1) [CMD+SHIFT](object_2) ?
+- tell me the way to [resizing](action), the [a layer](object_1) [CMD+SHIFT](object_2) ?
+- tell me how to [resizing](action), the [a layer](object_1) [CMD+SHIFT](object_2) ?
+- show me the way to [resizing](action), the [a layer](object_1) [CMD+SHIFT](object_2) ?
+- show me how to [resizing](action), the [a layer](object_1) [CMD+SHIFT](object_2) ?
+- is there any way to [resizing](action), the [a layer](object_1) [CMD+SHIFT](object_2) ?
+
+- [importing](action) [pictures](object_1) from [lightroom android](object_2)
+- how to [importing](action), the [pictures](object_1) [lightroom android](object_2) ?
+- [importing](action), the [pictures](object_1) [lightroom android](object_2)
+- how do I [importing](action), the [pictures](object_1) [lightroom android](object_2) ?
+- i dont know how to [importing](action), the [pictures](object_1) [lightroom android](object_2) ?
+- tell me the way to [importing](action), the [pictures](object_1) [lightroom android](object_2) ?
+- tell me how to [importing](action), the [pictures](object_1) [lightroom android](object_2) ?
+- show me the way to [importing](action), the [pictures](object_1) [lightroom android](object_2) ?
+- show me how to [importing](action), the [pictures](object_1) [lightroom android](object_2) ?
+- is there any way to [importing](action), the [pictures](object_1) [lightroom android](object_2) ?
+
+- [Ca](action)n't find [specific brush](object_1) used previously...
+- how to [Ca](action), the [specific brush](object_1) ?
+- [Ca](action), the [specific brush](object_1)
+- how do I [Ca](action), the [specific brush](object_1) ?
+- i dont know how to [Ca](action), the [specific brush](object_1) ?
+- tell me the way to [Ca](action), the [specific brush](object_1) ?
+- tell me how to [Ca](action), the [specific brush](object_1) ?
+- show me the way to [Ca](action), the [specific brush](object_1) ?
+- show me how to [Ca](action), the [specific brush](object_1) ?
+- is there any way to [Ca](action), the [specific brush](object_1) ?
+
+- "[Could](action) not complete [your request](object_1) because [it](object_2) is not [the right kind](object_3) of document" Camera Raw problem
+- how to [Could](action), the [your request](object_1) [it](object_2) [the right kind](object_3) ?
+- [Could](action), the [your request](object_1) [it](object_2) [the right kind](object_3)
+- how do I [Could](action), the [your request](object_1) [it](object_2) [the right kind](object_3) ?
+- i dont know how to [Could](action), the [your request](object_1) [it](object_2) [the right kind](object_3) ?
+- tell me the way to [Could](action), the [your request](object_1) [it](object_2) [the right kind](object_3) ?
+- tell me how to [Could](action), the [your request](object_1) [it](object_2) [the right kind](object_3) ?
+- show me the way to [Could](action), the [your request](object_1) [it](object_2) [the right kind](object_3) ?
+- show me how to [Could](action), the [your request](object_1) [it](object_2) [the right kind](object_3) ?
+- is there any way to [Could](action), the [your request](object_1) [it](object_2) [the right kind](object_3) ?
+
+- [Select Tool](object_1) (to [select](action) [area](object_2) for [noise reduction](object_3)) not working on larger images (PS CC)
+- how to [select](action), the [Select Tool](object_1) [area](object_2) [noise reduction](object_3) ?
+- [select](action), the [Select Tool](object_1) [area](object_2) [noise reduction](object_3)
+- how do I [select](action), the [Select Tool](object_1) [area](object_2) [noise reduction](object_3) ?
+- i dont know how to [select](action), the [Select Tool](object_1) [area](object_2) [noise reduction](object_3) ?
+- tell me the way to [select](action), the [Select Tool](object_1) [area](object_2) [noise reduction](object_3) ?
+- tell me how to [select](action), the [Select Tool](object_1) [area](object_2) [noise reduction](object_3) ?
+- show me the way to [select](action), the [Select Tool](object_1) [area](object_2) [noise reduction](object_3) ?
+- show me how to [select](action), the [Select Tool](object_1) [area](object_2) [noise reduction](object_3) ?
+- is there any way to [select](action), the [Select Tool](object_1) [area](object_2) [noise reduction](object_3) ?
+
+- [Problems](object_1) with [customizing](action) [the character](object_2) leading in [PS](object_3) 2018
+- how to [customizing](action), the [Problems](object_1) [the character](object_2) [PS](object_3) ?
+- [customizing](action), the [Problems](object_1) [the character](object_2) [PS](object_3)
+- how do I [customizing](action), the [Problems](object_1) [the character](object_2) [PS](object_3) ?
+- i dont know how to [customizing](action), the [Problems](object_1) [the character](object_2) [PS](object_3) ?
+- tell me the way to [customizing](action), the [Problems](object_1) [the character](object_2) [PS](object_3) ?
+- tell me how to [customizing](action), the [Problems](object_1) [the character](object_2) [PS](object_3) ?
+- show me the way to [customizing](action), the [Problems](object_1) [the character](object_2) [PS](object_3) ?
+- show me how to [customizing](action), the [Problems](object_1) [the character](object_2) [PS](object_3) ?
+- is there any way to [customizing](action), the [Problems](object_1) [the character](object_2) [PS](object_3) ?
+
+- [Moving](action) [Plug ins](object_1) from [Photoshop Elements](object_2) to [Photoshop CC](object_3)
+- how to [Moving](action), the [Plug ins](object_1) [Photoshop Elements](object_2) [Photoshop CC](object_3) ?
+- [Moving](action), the [Plug ins](object_1) [Photoshop Elements](object_2) [Photoshop CC](object_3)
+- how do I [Moving](action), the [Plug ins](object_1) [Photoshop Elements](object_2) [Photoshop CC](object_3) ?
+- i dont know how to [Moving](action), the [Plug ins](object_1) [Photoshop Elements](object_2) [Photoshop CC](object_3) ?
+- tell me the way to [Moving](action), the [Plug ins](object_1) [Photoshop Elements](object_2) [Photoshop CC](object_3) ?
+- tell me how to [Moving](action), the [Plug ins](object_1) [Photoshop Elements](object_2) [Photoshop CC](object_3) ?
+- show me the way to [Moving](action), the [Plug ins](object_1) [Photoshop Elements](object_2) [Photoshop CC](object_3) ?
+- show me how to [Moving](action), the [Plug ins](object_1) [Photoshop Elements](object_2) [Photoshop CC](object_3) ?
+- is there any way to [Moving](action), the [Plug ins](object_1) [Photoshop Elements](object_2) [Photoshop CC](object_3) ?
+
+- [[Activate](action) CS3](object_1) on [a non internet system](object_2)
+- how to [Activate](action), the [Activate CS3](object_1) [a non internet system](object_2) ?
+- [Activate](action), the [Activate CS3](object_1) [a non internet system](object_2)
+- how do I [Activate](action), the [Activate CS3](object_1) [a non internet system](object_2) ?
+- i dont know how to [Activate](action), the [Activate CS3](object_1) [a non internet system](object_2) ?
+- tell me the way to [Activate](action), the [Activate CS3](object_1) [a non internet system](object_2) ?
+- tell me how to [Activate](action), the [Activate CS3](object_1) [a non internet system](object_2) ?
+- show me the way to [Activate](action), the [Activate CS3](object_1) [a non internet system](object_2) ?
+- show me how to [Activate](action), the [Activate CS3](object_1) [a non internet system](object_2) ?
+- is there any way to [Activate](action), the [Activate CS3](object_1) [a non internet system](object_2) ?
+
+- [Texture](action) [a vector illustration](object_1) or colorize [a photo](object_2) for [a 3D layer](object_3)?
+- how to [Texture](action), the [a vector illustration](object_1) [a photo](object_2) [a 3D layer](object_3) ?
+- [Texture](action), the [a vector illustration](object_1) [a photo](object_2) [a 3D layer](object_3)
+- how do I [Texture](action), the [a vector illustration](object_1) [a photo](object_2) [a 3D layer](object_3) ?
+- i dont know how to [Texture](action), the [a vector illustration](object_1) [a photo](object_2) [a 3D layer](object_3) ?
+- tell me the way to [Texture](action), the [a vector illustration](object_1) [a photo](object_2) [a 3D layer](object_3) ?
+- tell me how to [Texture](action), the [a vector illustration](object_1) [a photo](object_2) [a 3D layer](object_3) ?
+- show me the way to [Texture](action), the [a vector illustration](object_1) [a photo](object_2) [a 3D layer](object_3) ?
+- show me how to [Texture](action), the [a vector illustration](object_1) [a photo](object_2) [a 3D layer](object_3) ?
+- is there any way to [Texture](action), the [a vector illustration](object_1) [a photo](object_2) [a 3D layer](object_3) ?
+
+- How to [make](action) [photo](object_1) take on [gradient colors](object_2)? [Edited for [brevity](object_3)]
+- how to [make](action), the [photo](object_1) [gradient colors](object_2) [brevity](object_3) ?
+- [make](action), the [photo](object_1) [gradient colors](object_2) [brevity](object_3)
+- how do I [make](action), the [photo](object_1) [gradient colors](object_2) [brevity](object_3) ?
+- i dont know how to [make](action), the [photo](object_1) [gradient colors](object_2) [brevity](object_3) ?
+- tell me the way to [make](action), the [photo](object_1) [gradient colors](object_2) [brevity](object_3) ?
+- tell me how to [make](action), the [photo](object_1) [gradient colors](object_2) [brevity](object_3) ?
+- show me the way to [make](action), the [photo](object_1) [gradient colors](object_2) [brevity](object_3) ?
+- show me how to [make](action), the [photo](object_1) [gradient colors](object_2) [brevity](object_3) ?
+- is there any way to [make](action), the [photo](object_1) [gradient colors](object_2) [brevity](object_3) ?
+
+- [I](object_1) no longer [see](action) the Jpeg saving pop up (to set [the save level](object_2))
+- how to [see](action), the [I](object_1) [the save level](object_2) ?
+- [see](action), the [I](object_1) [the save level](object_2)
+- how do I [see](action), the [I](object_1) [the save level](object_2) ?
+- i dont know how to [see](action), the [I](object_1) [the save level](object_2) ?
+- tell me the way to [see](action), the [I](object_1) [the save level](object_2) ?
+- tell me how to [see](action), the [I](object_1) [the save level](object_2) ?
+- show me the way to [see](action), the [I](object_1) [the save level](object_2) ?
+- show me how to [see](action), the [I](object_1) [the save level](object_2) ?
+- is there any way to [see](action), the [I](object_1) [the save level](object_2) ?
+
+- [[Corrupted](action) window text](object_1)...
+- how to [Corrupted](action), the [Corrupted window text](object_1) ?
+- [Corrupted](action), the [Corrupted window text](object_1)
+- how do I [Corrupted](action), the [Corrupted window text](object_1) ?
+- i dont know how to [Corrupted](action), the [Corrupted window text](object_1) ?
+- tell me the way to [Corrupted](action), the [Corrupted window text](object_1) ?
+- tell me how to [Corrupted](action), the [Corrupted window text](object_1) ?
+- show me the way to [Corrupted](action), the [Corrupted window text](object_1) ?
+- show me how to [Corrupted](action), the [Corrupted window text](object_1) ?
+- is there any way to [Corrupted](action), the [Corrupted window text](object_1) ?
+
+- [Blur](action) along [a path](object_1) : Why when [I](object_2) change [the speed](object_3) of one point it changes [the speed](object_3) of all points ?
+- how to [Blur](action), the [a path](object_1) [I](object_2) [the speed](object_3) ?
+- [Blur](action), the [a path](object_1) [I](object_2) [the speed](object_3)
+- how do I [Blur](action), the [a path](object_1) [I](object_2) [the speed](object_3) ?
+- i dont know how to [Blur](action), the [a path](object_1) [I](object_2) [the speed](object_3) ?
+- tell me the way to [Blur](action), the [a path](object_1) [I](object_2) [the speed](object_3) ?
+- tell me how to [Blur](action), the [a path](object_1) [I](object_2) [the speed](object_3) ?
+- show me the way to [Blur](action), the [a path](object_1) [I](object_2) [the speed](object_3) ?
+- show me how to [Blur](action), the [a path](object_1) [I](object_2) [the speed](object_3) ?
+- is there any way to [Blur](action), the [a path](object_1) [I](object_2) [the speed](object_3) ?
+
+- [Automate](action) not working in [photoshop CS5](object_1) in [OS X El Capitan Version](object_2) 10.11.6
+- how to [Automate](action), the [photoshop CS5](object_1) [OS X El Capitan Version](object_2) ?
+- [Automate](action), the [photoshop CS5](object_1) [OS X El Capitan Version](object_2)
+- how do I [Automate](action), the [photoshop CS5](object_1) [OS X El Capitan Version](object_2) ?
+- i dont know how to [Automate](action), the [photoshop CS5](object_1) [OS X El Capitan Version](object_2) ?
+- tell me the way to [Automate](action), the [photoshop CS5](object_1) [OS X El Capitan Version](object_2) ?
+- tell me how to [Automate](action), the [photoshop CS5](object_1) [OS X El Capitan Version](object_2) ?
+- show me the way to [Automate](action), the [photoshop CS5](object_1) [OS X El Capitan Version](object_2) ?
+- show me how to [Automate](action), the [photoshop CS5](object_1) [OS X El Capitan Version](object_2) ?
+- is there any way to [Automate](action), the [photoshop CS5](object_1) [OS X El Capitan Version](object_2) ?
+
+- [Create](action) [action](object_1) to open, process and save [a batch](object_2) of  [raw file](object_3)
+- how to [Create](action), the [action](object_1) [a batch](object_2) [raw file](object_3) ?
+- [Create](action), the [action](object_1) [a batch](object_2) [raw file](object_3)
+- how do I [Create](action), the [action](object_1) [a batch](object_2) [raw file](object_3) ?
+- i dont know how to [Create](action), the [action](object_1) [a batch](object_2) [raw file](object_3) ?
+- tell me the way to [Create](action), the [action](object_1) [a batch](object_2) [raw file](object_3) ?
+- tell me how to [Create](action), the [action](object_1) [a batch](object_2) [raw file](object_3) ?
+- show me the way to [Create](action), the [action](object_1) [a batch](object_2) [raw file](object_3) ?
+- show me how to [Create](action), the [action](object_1) [a batch](object_2) [raw file](object_3) ?
+- is there any way to [Create](action), the [action](object_1) [a batch](object_2) [raw file](object_3) ?
+
+- [Given](action) up trying to run [Photoshop CC](object_1) on [my laptop](object_2) - can [I](object_3) load an earlier version
+- how to [Given](action), the [Photoshop CC](object_1) [my laptop](object_2) [I](object_3) ?
+- [Given](action), the [Photoshop CC](object_1) [my laptop](object_2) [I](object_3)
+- how do I [Given](action), the [Photoshop CC](object_1) [my laptop](object_2) [I](object_3) ?
+- i dont know how to [Given](action), the [Photoshop CC](object_1) [my laptop](object_2) [I](object_3) ?
+- tell me the way to [Given](action), the [Photoshop CC](object_1) [my laptop](object_2) [I](object_3) ?
+- tell me how to [Given](action), the [Photoshop CC](object_1) [my laptop](object_2) [I](object_3) ?
+- show me the way to [Given](action), the [Photoshop CC](object_1) [my laptop](object_2) [I](object_3) ?
+- show me how to [Given](action), the [Photoshop CC](object_1) [my laptop](object_2) [I](object_3) ?
+- is there any way to [Given](action), the [Photoshop CC](object_1) [my laptop](object_2) [I](object_3) ?
+
+- [Resample](action) [a selection](object_1) in [Photoshop CC](object_2) 2017?
+- how to [Resample](action), the [a selection](object_1) [Photoshop CC](object_2) ?
+- [Resample](action), the [a selection](object_1) [Photoshop CC](object_2)
+- how do I [Resample](action), the [a selection](object_1) [Photoshop CC](object_2) ?
+- i dont know how to [Resample](action), the [a selection](object_1) [Photoshop CC](object_2) ?
+- tell me the way to [Resample](action), the [a selection](object_1) [Photoshop CC](object_2) ?
+- tell me how to [Resample](action), the [a selection](object_1) [Photoshop CC](object_2) ?
+- show me the way to [Resample](action), the [a selection](object_1) [Photoshop CC](object_2) ?
+- show me how to [Resample](action), the [a selection](object_1) [Photoshop CC](object_2) ?
+- is there any way to [Resample](action), the [a selection](object_1) [Photoshop CC](object_2) ?
+
+- [Ca](action)nt open [files](object_1) in [PS](object_2)
+- how to [Ca](action), the [files](object_1) [PS](object_2) ?
+- [Ca](action), the [files](object_1) [PS](object_2)
+- how do I [Ca](action), the [files](object_1) [PS](object_2) ?
+- i dont know how to [Ca](action), the [files](object_1) [PS](object_2) ?
+- tell me the way to [Ca](action), the [files](object_1) [PS](object_2) ?
+- tell me how to [Ca](action), the [files](object_1) [PS](object_2) ?
+- show me the way to [Ca](action), the [files](object_1) [PS](object_2) ?
+- show me how to [Ca](action), the [files](object_1) [PS](object_2) ?
+- is there any way to [Ca](action), the [files](object_1) [PS](object_2) ?
+
+- Re: [Photoshop Crash](object_1) [gives](action) [error](object_2) [BEX64](object_3)
+- how to [gives](action), the [Photoshop Crash](object_1) [error](object_2) [BEX64](object_3) ?
+- [gives](action), the [Photoshop Crash](object_1) [error](object_2) [BEX64](object_3)
+- how do I [gives](action), the [Photoshop Crash](object_1) [error](object_2) [BEX64](object_3) ?
+- i dont know how to [gives](action), the [Photoshop Crash](object_1) [error](object_2) [BEX64](object_3) ?
+- tell me the way to [gives](action), the [Photoshop Crash](object_1) [error](object_2) [BEX64](object_3) ?
+- tell me how to [gives](action), the [Photoshop Crash](object_1) [error](object_2) [BEX64](object_3) ?
+- show me the way to [gives](action), the [Photoshop Crash](object_1) [error](object_2) [BEX64](object_3) ?
+- show me how to [gives](action), the [Photoshop Crash](object_1) [error](object_2) [BEX64](object_3) ?
+- is there any way to [gives](action), the [Photoshop Crash](object_1) [error](object_2) [BEX64](object_3) ?
+
+- [I](object_1)'m [creating](action) [a Calendar](object_2) in [Photoshop CC](object_3) 2017 and [I](object_1) need to create printer ready files that include the bleeds etc.  What is the best way to do that?
+- how to [creating](action), the [I](object_1) [a Calendar](object_2) [Photoshop CC](object_3) ?
+- [creating](action), the [I](object_1) [a Calendar](object_2) [Photoshop CC](object_3)
+- how do I [creating](action), the [I](object_1) [a Calendar](object_2) [Photoshop CC](object_3) ?
+- i dont know how to [creating](action), the [I](object_1) [a Calendar](object_2) [Photoshop CC](object_3) ?
+- tell me the way to [creating](action), the [I](object_1) [a Calendar](object_2) [Photoshop CC](object_3) ?
+- tell me how to [creating](action), the [I](object_1) [a Calendar](object_2) [Photoshop CC](object_3) ?
+- show me the way to [creating](action), the [I](object_1) [a Calendar](object_2) [Photoshop CC](object_3) ?
+- show me how to [creating](action), the [I](object_1) [a Calendar](object_2) [Photoshop CC](object_3) ?
+- is there any way to [creating](action), the [I](object_1) [a Calendar](object_2) [Photoshop CC](object_3) ?
+
+- Over [[exposed](action) image](object_1) after [merging layers](object_2)
+- how to [exposed](action), the [exposed image](object_1) [merging layers](object_2) ?
+- [exposed](action), the [exposed image](object_1) [merging layers](object_2)
+- how do I [exposed](action), the [exposed image](object_1) [merging layers](object_2) ?
+- i dont know how to [exposed](action), the [exposed image](object_1) [merging layers](object_2) ?
+- tell me the way to [exposed](action), the [exposed image](object_1) [merging layers](object_2) ?
+- tell me how to [exposed](action), the [exposed image](object_1) [merging layers](object_2) ?
+- show me the way to [exposed](action), the [exposed image](object_1) [merging layers](object_2) ?
+- show me how to [exposed](action), the [exposed image](object_1) [merging layers](object_2) ?
+- is there any way to [exposed](action), the [exposed image](object_1) [merging layers](object_2) ?
+
+- [Can](action)not open [a PS file](object_1) from [Bridge](object_2) 2018
+- how to [Can](action), the [a PS file](object_1) [Bridge](object_2) ?
+- [Can](action), the [a PS file](object_1) [Bridge](object_2)
+- how do I [Can](action), the [a PS file](object_1) [Bridge](object_2) ?
+- i dont know how to [Can](action), the [a PS file](object_1) [Bridge](object_2) ?
+- tell me the way to [Can](action), the [a PS file](object_1) [Bridge](object_2) ?
+- tell me how to [Can](action), the [a PS file](object_1) [Bridge](object_2) ?
+- show me the way to [Can](action), the [a PS file](object_1) [Bridge](object_2) ?
+- show me how to [Can](action), the [a PS file](object_1) [Bridge](object_2) ?
+- is there any way to [Can](action), the [a PS file](object_1) [Bridge](object_2) ?
+
+- [Photoshop [animated](action) fire action](object_1) is missing
+- how to [animated](action), the [Photoshop animated fire action](object_1) ?
+- [animated](action), the [Photoshop animated fire action](object_1)
+- how do I [animated](action), the [Photoshop animated fire action](object_1) ?
+- i dont know how to [animated](action), the [Photoshop animated fire action](object_1) ?
+- tell me the way to [animated](action), the [Photoshop animated fire action](object_1) ?
+- tell me how to [animated](action), the [Photoshop animated fire action](object_1) ?
+- show me the way to [animated](action), the [Photoshop animated fire action](object_1) ?
+- show me how to [animated](action), the [Photoshop animated fire action](object_1) ?
+- is there any way to [animated](action), the [Photoshop animated fire action](object_1) ?
+
+- [Updates](object_1) [wo](action)n't download on [CS5](object_2) ([64 bit](object_3))
+- how to [wo](action), the [Updates](object_1) [CS5](object_2) [64 bit](object_3) ?
+- [wo](action), the [Updates](object_1) [CS5](object_2) [64 bit](object_3)
+- how do I [wo](action), the [Updates](object_1) [CS5](object_2) [64 bit](object_3) ?
+- i dont know how to [wo](action), the [Updates](object_1) [CS5](object_2) [64 bit](object_3) ?
+- tell me the way to [wo](action), the [Updates](object_1) [CS5](object_2) [64 bit](object_3) ?
+- tell me how to [wo](action), the [Updates](object_1) [CS5](object_2) [64 bit](object_3) ?
+- show me the way to [wo](action), the [Updates](object_1) [CS5](object_2) [64 bit](object_3) ?
+- show me how to [wo](action), the [Updates](object_1) [CS5](object_2) [64 bit](object_3) ?
+- is there any way to [wo](action), the [Updates](object_1) [CS5](object_2) [64 bit](object_3) ?
+
+- Hi, [I](object_1) [ma](action) trying to do this in [photoshop](object_2).  Can [you](object_3) tell me where [I](object_1) can get a tutorial on achieving photos inside a viriety of cut outs.  Google evens for canada 150 and [you](object_3) see the logo with different photos in each section.  Any infor[ma](action)tion would be helpf
+- how to [ma](action), the [I](object_1) [photoshop](object_2) [you](object_3) ?
+- [ma](action), the [I](object_1) [photoshop](object_2) [you](object_3)
+- how do I [ma](action), the [I](object_1) [photoshop](object_2) [you](object_3) ?
+- i dont know how to [ma](action), the [I](object_1) [photoshop](object_2) [you](object_3) ?
+- tell me the way to [ma](action), the [I](object_1) [photoshop](object_2) [you](object_3) ?
+- tell me how to [ma](action), the [I](object_1) [photoshop](object_2) [you](object_3) ?
+- show me the way to [ma](action), the [I](object_1) [photoshop](object_2) [you](object_3) ?
+- show me how to [ma](action), the [I](object_1) [photoshop](object_2) [you](object_3) ?
+- is there any way to [ma](action), the [I](object_1) [photoshop](object_2) [you](object_3) ?
+
+- [Failure](object_1) to [open](action) [raw files](object_2) - could not complete [request](object_3) because of a disk error
+- how to [open](action), the [Failure](object_1) [raw files](object_2) [request](object_3) ?
+- [open](action), the [Failure](object_1) [raw files](object_2) [request](object_3)
+- how do I [open](action), the [Failure](object_1) [raw files](object_2) [request](object_3) ?
+- i dont know how to [open](action), the [Failure](object_1) [raw files](object_2) [request](object_3) ?
+- tell me the way to [open](action), the [Failure](object_1) [raw files](object_2) [request](object_3) ?
+- tell me how to [open](action), the [Failure](object_1) [raw files](object_2) [request](object_3) ?
+- show me the way to [open](action), the [Failure](object_1) [raw files](object_2) [request](object_3) ?
+- show me how to [open](action), the [Failure](object_1) [raw files](object_2) [request](object_3) ?
+- is there any way to [open](action), the [Failure](object_1) [raw files](object_2) [request](object_3) ?
+
+- [Photoshop cs2](object_1) [wo](action)n't open [DNG files](object_2)?
+- how to [wo](action), the [Photoshop cs2](object_1) [DNG files](object_2) ?
+- [wo](action), the [Photoshop cs2](object_1) [DNG files](object_2)
+- how do I [wo](action), the [Photoshop cs2](object_1) [DNG files](object_2) ?
+- i dont know how to [wo](action), the [Photoshop cs2](object_1) [DNG files](object_2) ?
+- tell me the way to [wo](action), the [Photoshop cs2](object_1) [DNG files](object_2) ?
+- tell me how to [wo](action), the [Photoshop cs2](object_1) [DNG files](object_2) ?
+- show me the way to [wo](action), the [Photoshop cs2](object_1) [DNG files](object_2) ?
+- show me how to [wo](action), the [Photoshop cs2](object_1) [DNG files](object_2) ?
+- is there any way to [wo](action), the [Photoshop cs2](object_1) [DNG files](object_2) ?
+
+- [[Keyframe](action) animation](object_1) of [adjustment layer sliders](object_2), [properties](object_3), and controls
+- how to [Keyframe](action), the [Keyframe animation](object_1) [adjustment layer sliders](object_2) [properties](object_3) ?
+- [Keyframe](action), the [Keyframe animation](object_1) [adjustment layer sliders](object_2) [properties](object_3)
+- how do I [Keyframe](action), the [Keyframe animation](object_1) [adjustment layer sliders](object_2) [properties](object_3) ?
+- i dont know how to [Keyframe](action), the [Keyframe animation](object_1) [adjustment layer sliders](object_2) [properties](object_3) ?
+- tell me the way to [Keyframe](action), the [Keyframe animation](object_1) [adjustment layer sliders](object_2) [properties](object_3) ?
+- tell me how to [Keyframe](action), the [Keyframe animation](object_1) [adjustment layer sliders](object_2) [properties](object_3) ?
+- show me the way to [Keyframe](action), the [Keyframe animation](object_1) [adjustment layer sliders](object_2) [properties](object_3) ?
+- show me how to [Keyframe](action), the [Keyframe animation](object_1) [adjustment layer sliders](object_2) [properties](object_3) ?
+- is there any way to [Keyframe](action), the [Keyframe animation](object_1) [adjustment layer sliders](object_2) [properties](object_3) ?
+
+- PS auto [selects](action) [all layers](object_1)
+- how to [selects](action), the [all layers](object_1) ?
+- [selects](action), the [all layers](object_1)
+- how do I [selects](action), the [all layers](object_1) ?
+- i dont know how to [selects](action), the [all layers](object_1) ?
+- tell me the way to [selects](action), the [all layers](object_1) ?
+- tell me how to [selects](action), the [all layers](object_1) ?
+- show me the way to [selects](action), the [all layers](object_1) ?
+- show me how to [selects](action), the [all layers](object_1) ?
+- is there any way to [selects](action), the [all layers](object_1) ?
+
+- [Photoshop CC](object_1) (2017) - "[Can](action)not Complete [Request](object_2) Because [File](object_3) Was Not Found"
+- how to [Can](action), the [Photoshop CC](object_1) [Request](object_2) [File](object_3) ?
+- [Can](action), the [Photoshop CC](object_1) [Request](object_2) [File](object_3)
+- how do I [Can](action), the [Photoshop CC](object_1) [Request](object_2) [File](object_3) ?
+- i dont know how to [Can](action), the [Photoshop CC](object_1) [Request](object_2) [File](object_3) ?
+- tell me the way to [Can](action), the [Photoshop CC](object_1) [Request](object_2) [File](object_3) ?
+- tell me how to [Can](action), the [Photoshop CC](object_1) [Request](object_2) [File](object_3) ?
+- show me the way to [Can](action), the [Photoshop CC](object_1) [Request](object_2) [File](object_3) ?
+- show me how to [Can](action), the [Photoshop CC](object_1) [Request](object_2) [File](object_3) ?
+- is there any way to [Can](action), the [Photoshop CC](object_1) [Request](object_2) [File](object_3) ?
+
+- [Filling](action) [a image](object_1) to [canvis limits](object_2)
+- how to [Filling](action), the [a image](object_1) [canvis limits](object_2) ?
+- [Filling](action), the [a image](object_1) [canvis limits](object_2)
+- how do I [Filling](action), the [a image](object_1) [canvis limits](object_2) ?
+- i dont know how to [Filling](action), the [a image](object_1) [canvis limits](object_2) ?
+- tell me the way to [Filling](action), the [a image](object_1) [canvis limits](object_2) ?
+- tell me how to [Filling](action), the [a image](object_1) [canvis limits](object_2) ?
+- show me the way to [Filling](action), the [a image](object_1) [canvis limits](object_2) ?
+- show me how to [Filling](action), the [a image](object_1) [canvis limits](object_2) ?
+- is there any way to [Filling](action), the [a image](object_1) [canvis limits](object_2) ?
+
+- [Can](action)not Set [Photoshop CC](object_1) 2017 to [Default Program](object_2)
+- how to [Can](action), the [Photoshop CC](object_1) [Default Program](object_2) ?
+- [Can](action), the [Photoshop CC](object_1) [Default Program](object_2)
+- how do I [Can](action), the [Photoshop CC](object_1) [Default Program](object_2) ?
+- i dont know how to [Can](action), the [Photoshop CC](object_1) [Default Program](object_2) ?
+- tell me the way to [Can](action), the [Photoshop CC](object_1) [Default Program](object_2) ?
+- tell me how to [Can](action), the [Photoshop CC](object_1) [Default Program](object_2) ?
+- show me the way to [Can](action), the [Photoshop CC](object_1) [Default Program](object_2) ?
+- show me how to [Can](action), the [Photoshop CC](object_1) [Default Program](object_2) ?
+- is there any way to [Can](action), the [Photoshop CC](object_1) [Default Program](object_2) ?
+
+- [Removing](action) [items](object_1) from [photos](object_2) in [Photoshop](object_3)
+- how to [Removing](action), the [items](object_1) [photos](object_2) [Photoshop](object_3) ?
+- [Removing](action), the [items](object_1) [photos](object_2) [Photoshop](object_3)
+- how do I [Removing](action), the [items](object_1) [photos](object_2) [Photoshop](object_3) ?
+- i dont know how to [Removing](action), the [items](object_1) [photos](object_2) [Photoshop](object_3) ?
+- tell me the way to [Removing](action), the [items](object_1) [photos](object_2) [Photoshop](object_3) ?
+- tell me how to [Removing](action), the [items](object_1) [photos](object_2) [Photoshop](object_3) ?
+- show me the way to [Removing](action), the [items](object_1) [photos](object_2) [Photoshop](object_3) ?
+- show me how to [Removing](action), the [items](object_1) [photos](object_2) [Photoshop](object_3) ?
+- is there any way to [Removing](action), the [items](object_1) [photos](object_2) [Photoshop](object_3) ?
+
+- [Need](action) [an incentive](object_1) to continue [Photoshop subscription](object_2).
+- how to [Need](action), the [an incentive](object_1) [Photoshop subscription](object_2) ?
+- [Need](action), the [an incentive](object_1) [Photoshop subscription](object_2)
+- how do I [Need](action), the [an incentive](object_1) [Photoshop subscription](object_2) ?
+- i dont know how to [Need](action), the [an incentive](object_1) [Photoshop subscription](object_2) ?
+- tell me the way to [Need](action), the [an incentive](object_1) [Photoshop subscription](object_2) ?
+- tell me how to [Need](action), the [an incentive](object_1) [Photoshop subscription](object_2) ?
+- show me the way to [Need](action), the [an incentive](object_1) [Photoshop subscription](object_2) ?
+- show me how to [Need](action), the [an incentive](object_1) [Photoshop subscription](object_2) ?
+- is there any way to [Need](action), the [an incentive](object_1) [Photoshop subscription](object_2) ?
+
+- "[Could](action) not apply [the workspace](object_1) because [the file](object_2) was not found."
+- how to [Could](action), the [the workspace](object_1) [the file](object_2) ?
+- [Could](action), the [the workspace](object_1) [the file](object_2)
+- how do I [Could](action), the [the workspace](object_1) [the file](object_2) ?
+- i dont know how to [Could](action), the [the workspace](object_1) [the file](object_2) ?
+- tell me the way to [Could](action), the [the workspace](object_1) [the file](object_2) ?
+- tell me how to [Could](action), the [the workspace](object_1) [the file](object_2) ?
+- show me the way to [Could](action), the [the workspace](object_1) [the file](object_2) ?
+- show me how to [Could](action), the [the workspace](object_1) [the file](object_2) ?
+- is there any way to [Could](action), the [the workspace](object_1) [the file](object_2) ?
+
+- [photoshop](object_1) has [encountered](action) [a problem](object_2) with [the display driver](object_3) and has temporarily disabled enhancement for this feature which use the graphic hardware
+- how to [encountered](action), the [photoshop](object_1) [a problem](object_2) [the display driver](object_3) ?
+- [encountered](action), the [photoshop](object_1) [a problem](object_2) [the display driver](object_3)
+- how do I [encountered](action), the [photoshop](object_1) [a problem](object_2) [the display driver](object_3) ?
+- i dont know how to [encountered](action), the [photoshop](object_1) [a problem](object_2) [the display driver](object_3) ?
+- tell me the way to [encountered](action), the [photoshop](object_1) [a problem](object_2) [the display driver](object_3) ?
+- tell me how to [encountered](action), the [photoshop](object_1) [a problem](object_2) [the display driver](object_3) ?
+- show me the way to [encountered](action), the [photoshop](object_1) [a problem](object_2) [the display driver](object_3) ?
+- show me how to [encountered](action), the [photoshop](object_1) [a problem](object_2) [the display driver](object_3) ?
+- is there any way to [encountered](action), the [photoshop](object_1) [a problem](object_2) [the display driver](object_3) ?
+
+- PDF to [PNG](object_1) - why does [it](object_2) [invert](action) [the colours](object_3)?
+- how to [invert](action), the [PNG](object_1) [it](object_2) [the colours](object_3) ?
+- [invert](action), the [PNG](object_1) [it](object_2) [the colours](object_3)
+- how do I [invert](action), the [PNG](object_1) [it](object_2) [the colours](object_3) ?
+- i dont know how to [invert](action), the [PNG](object_1) [it](object_2) [the colours](object_3) ?
+- tell me the way to [invert](action), the [PNG](object_1) [it](object_2) [the colours](object_3) ?
+- tell me how to [invert](action), the [PNG](object_1) [it](object_2) [the colours](object_3) ?
+- show me the way to [invert](action), the [PNG](object_1) [it](object_2) [the colours](object_3) ?
+- show me how to [invert](action), the [PNG](object_1) [it](object_2) [the colours](object_3) ?
+- is there any way to [invert](action), the [PNG](object_1) [it](object_2) [the colours](object_3) ?
+
+- [[Upgrading](action) Photoshop cs6](object_1)
+- how to [Upgrading](action), the [Upgrading Photoshop cs6](object_1) ?
+- [Upgrading](action), the [Upgrading Photoshop cs6](object_1)
+- how do I [Upgrading](action), the [Upgrading Photoshop cs6](object_1) ?
+- i dont know how to [Upgrading](action), the [Upgrading Photoshop cs6](object_1) ?
+- tell me the way to [Upgrading](action), the [Upgrading Photoshop cs6](object_1) ?
+- tell me how to [Upgrading](action), the [Upgrading Photoshop cs6](object_1) ?
+- show me the way to [Upgrading](action), the [Upgrading Photoshop cs6](object_1) ?
+- show me how to [Upgrading](action), the [Upgrading Photoshop cs6](object_1) ?
+- is there any way to [Upgrading](action), the [Upgrading Photoshop cs6](object_1) ?
+
+- [[Need](action) Help](object_1) Installing [AnimDessin](object_2) into [photoshop CC](object_3) 2017 and CS5
+- how to [Need](action), the [Need Help](object_1) [AnimDessin](object_2) [photoshop CC](object_3) ?
+- [Need](action), the [Need Help](object_1) [AnimDessin](object_2) [photoshop CC](object_3)
+- how do I [Need](action), the [Need Help](object_1) [AnimDessin](object_2) [photoshop CC](object_3) ?
+- i dont know how to [Need](action), the [Need Help](object_1) [AnimDessin](object_2) [photoshop CC](object_3) ?
+- tell me the way to [Need](action), the [Need Help](object_1) [AnimDessin](object_2) [photoshop CC](object_3) ?
+- tell me how to [Need](action), the [Need Help](object_1) [AnimDessin](object_2) [photoshop CC](object_3) ?
+- show me the way to [Need](action), the [Need Help](object_1) [AnimDessin](object_2) [photoshop CC](object_3) ?
+- show me how to [Need](action), the [Need Help](object_1) [AnimDessin](object_2) [photoshop CC](object_3) ?
+- is there any way to [Need](action), the [Need Help](object_1) [AnimDessin](object_2) [photoshop CC](object_3) ?
+
+- [PS6 OSX](object_1) [Can](action)not switch back from [layer style](object_2) to [colour picker](object_3), help please...
+- how to [Can](action), the [PS6 OSX](object_1) [layer style](object_2) [colour picker](object_3) ?
+- [Can](action), the [PS6 OSX](object_1) [layer style](object_2) [colour picker](object_3)
+- how do I [Can](action), the [PS6 OSX](object_1) [layer style](object_2) [colour picker](object_3) ?
+- i dont know how to [Can](action), the [PS6 OSX](object_1) [layer style](object_2) [colour picker](object_3) ?
+- tell me the way to [Can](action), the [PS6 OSX](object_1) [layer style](object_2) [colour picker](object_3) ?
+- tell me how to [Can](action), the [PS6 OSX](object_1) [layer style](object_2) [colour picker](object_3) ?
+- show me the way to [Can](action), the [PS6 OSX](object_1) [layer style](object_2) [colour picker](object_3) ?
+- show me how to [Can](action), the [PS6 OSX](object_1) [layer style](object_2) [colour picker](object_3) ?
+- is there any way to [Can](action), the [PS6 OSX](object_1) [layer style](object_2) [colour picker](object_3) ?
+
+- [Pinch](action) to zoom [feature](object_1) not working on [Surface Book](object_2)
+- how to [Pinch](action), the [feature](object_1) [Surface Book](object_2) ?
+- [Pinch](action), the [feature](object_1) [Surface Book](object_2)
+- how do I [Pinch](action), the [feature](object_1) [Surface Book](object_2) ?
+- i dont know how to [Pinch](action), the [feature](object_1) [Surface Book](object_2) ?
+- tell me the way to [Pinch](action), the [feature](object_1) [Surface Book](object_2) ?
+- tell me how to [Pinch](action), the [feature](object_1) [Surface Book](object_2) ?
+- show me the way to [Pinch](action), the [feature](object_1) [Surface Book](object_2) ?
+- show me how to [Pinch](action), the [feature](object_1) [Surface Book](object_2) ?
+- is there any way to [Pinch](action), the [feature](object_1) [Surface Book](object_2) ?
+
+- [I](object_1) have [problems](object_2) with [adjusting](action) [Line](object_3) spacing in Photoshop cc2018
+- how to [adjusting](action), the [I](object_1) [problems](object_2) [Line](object_3) ?
+- [adjusting](action), the [I](object_1) [problems](object_2) [Line](object_3)
+- how do I [adjusting](action), the [I](object_1) [problems](object_2) [Line](object_3) ?
+- i dont know how to [adjusting](action), the [I](object_1) [problems](object_2) [Line](object_3) ?
+- tell me the way to [adjusting](action), the [I](object_1) [problems](object_2) [Line](object_3) ?
+- tell me how to [adjusting](action), the [I](object_1) [problems](object_2) [Line](object_3) ?
+- show me the way to [adjusting](action), the [I](object_1) [problems](object_2) [Line](object_3) ?
+- show me how to [adjusting](action), the [I](object_1) [problems](object_2) [Line](object_3) ?
+- is there any way to [adjusting](action), the [I](object_1) [problems](object_2) [Line](object_3) ?
+
+- [I](object_1) [can](action)not open [photos](object_2) in [photos](object_2)hop cs5..error message: could not initialize [photos](object_2)hop because and unexpected end of filewas encountered
+- how to [can](action), the [I](object_1) [photos](object_2) [photoshop](object_3) ?
+- [can](action), the [I](object_1) [photos](object_2) [photoshop](object_3)
+- how do I [can](action), the [I](object_1) [photos](object_2) [photoshop](object_3) ?
+- i dont know how to [can](action), the [I](object_1) [photos](object_2) [photoshop](object_3) ?
+- tell me the way to [can](action), the [I](object_1) [photos](object_2) [photoshop](object_3) ?
+- tell me how to [can](action), the [I](object_1) [photos](object_2) [photoshop](object_3) ?
+- show me the way to [can](action), the [I](object_1) [photos](object_2) [photoshop](object_3) ?
+- show me how to [can](action), the [I](object_1) [photos](object_2) [photoshop](object_3) ?
+- is there any way to [can](action), the [I](object_1) [photos](object_2) [photoshop](object_3) ?
+
+- [Frame Animation](object_1) - [Adding](action) [An Object](object_2) that Doesn't Start on [First Frame - PS CC](object_3)
+- how to [Adding](action), the [Frame Animation](object_1) [An Object](object_2) [First Frame - PS CC](object_3) ?
+- [Adding](action), the [Frame Animation](object_1) [An Object](object_2) [First Frame - PS CC](object_3)
+- how do I [Adding](action), the [Frame Animation](object_1) [An Object](object_2) [First Frame - PS CC](object_3) ?
+- i dont know how to [Adding](action), the [Frame Animation](object_1) [An Object](object_2) [First Frame - PS CC](object_3) ?
+- tell me the way to [Adding](action), the [Frame Animation](object_1) [An Object](object_2) [First Frame - PS CC](object_3) ?
+- tell me how to [Adding](action), the [Frame Animation](object_1) [An Object](object_2) [First Frame - PS CC](object_3) ?
+- show me the way to [Adding](action), the [Frame Animation](object_1) [An Object](object_2) [First Frame - PS CC](object_3) ?
+- show me how to [Adding](action), the [Frame Animation](object_1) [An Object](object_2) [First Frame - PS CC](object_3) ?
+- is there any way to [Adding](action), the [Frame Animation](object_1) [An Object](object_2) [First Frame - PS CC](object_3) ?
+
+- Wine bottle mesh - [can](action) [I](object_1) edit [the cap material](object_2)
+- how to [can](action), the [I](object_1) [the cap material](object_2) ?
+- [can](action), the [I](object_1) [the cap material](object_2)
+- how do I [can](action), the [I](object_1) [the cap material](object_2) ?
+- i dont know how to [can](action), the [I](object_1) [the cap material](object_2) ?
+- tell me the way to [can](action), the [I](object_1) [the cap material](object_2) ?
+- tell me how to [can](action), the [I](object_1) [the cap material](object_2) ?
+- show me the way to [can](action), the [I](object_1) [the cap material](object_2) ?
+- show me how to [can](action), the [I](object_1) [the cap material](object_2) ?
+- is there any way to [can](action), the [I](object_1) [the cap material](object_2) ?
+
+- [Creating](action) [a headless body](object_1)
+- how to [Creating](action), the [a headless body](object_1) ?
+- [Creating](action), the [a headless body](object_1)
+- how do I [Creating](action), the [a headless body](object_1) ?
+- i dont know how to [Creating](action), the [a headless body](object_1) ?
+- tell me the way to [Creating](action), the [a headless body](object_1) ?
+- tell me how to [Creating](action), the [a headless body](object_1) ?
+- show me the way to [Creating](action), the [a headless body](object_1) ?
+- show me how to [Creating](action), the [a headless body](object_1) ?
+- is there any way to [Creating](action), the [a headless body](object_1) ?
+
+- [Script](object_1) to [copy](action) [Group](object_2) of [layers](object_3) without adding word "[copy](action)"
+- how to [copy](action), the [Script](object_1) [Group](object_2) [layers](object_3) ?
+- [copy](action), the [Script](object_1) [Group](object_2) [layers](object_3)
+- how do I [copy](action), the [Script](object_1) [Group](object_2) [layers](object_3) ?
+- i dont know how to [copy](action), the [Script](object_1) [Group](object_2) [layers](object_3) ?
+- tell me the way to [copy](action), the [Script](object_1) [Group](object_2) [layers](object_3) ?
+- tell me how to [copy](action), the [Script](object_1) [Group](object_2) [layers](object_3) ?
+- show me the way to [copy](action), the [Script](object_1) [Group](object_2) [layers](object_3) ?
+- show me how to [copy](action), the [Script](object_1) [Group](object_2) [layers](object_3) ?
+- is there any way to [copy](action), the [Script](object_1) [Group](object_2) [layers](object_3) ?
+
+- How to [blur](action) [a background image](object_1) to create [photorealistic depth](object_2) of [field](object_3)?
+- how to [blur](action), the [a background image](object_1) [photorealistic depth](object_2) [field](object_3) ?
+- [blur](action), the [a background image](object_1) [photorealistic depth](object_2) [field](object_3)
+- how do I [blur](action), the [a background image](object_1) [photorealistic depth](object_2) [field](object_3) ?
+- i dont know how to [blur](action), the [a background image](object_1) [photorealistic depth](object_2) [field](object_3) ?
+- tell me the way to [blur](action), the [a background image](object_1) [photorealistic depth](object_2) [field](object_3) ?
+- tell me how to [blur](action), the [a background image](object_1) [photorealistic depth](object_2) [field](object_3) ?
+- show me the way to [blur](action), the [a background image](object_1) [photorealistic depth](object_2) [field](object_3) ?
+- show me how to [blur](action), the [a background image](object_1) [photorealistic depth](object_2) [field](object_3) ?
+- is there any way to [blur](action), the [a background image](object_1) [photorealistic depth](object_2) [field](object_3) ?
+
+- How to [remove](action) [red pencil lines](object_1) from [a illustration](object_2) which is already colored with [Copic markers](object_3)?
+- how to [remove](action), the [red pencil lines](object_1) [a illustration](object_2) [Copic markers](object_3) ?
+- [remove](action), the [red pencil lines](object_1) [a illustration](object_2) [Copic markers](object_3)
+- how do I [remove](action), the [red pencil lines](object_1) [a illustration](object_2) [Copic markers](object_3) ?
+- i dont know how to [remove](action), the [red pencil lines](object_1) [a illustration](object_2) [Copic markers](object_3) ?
+- tell me the way to [remove](action), the [red pencil lines](object_1) [a illustration](object_2) [Copic markers](object_3) ?
+- tell me how to [remove](action), the [red pencil lines](object_1) [a illustration](object_2) [Copic markers](object_3) ?
+- show me the way to [remove](action), the [red pencil lines](object_1) [a illustration](object_2) [Copic markers](object_3) ?
+- show me how to [remove](action), the [red pencil lines](object_1) [a illustration](object_2) [Copic markers](object_3) ?
+- is there any way to [remove](action), the [red pencil lines](object_1) [a illustration](object_2) [Copic markers](object_3) ?
+
+- When [I](object_1) [scan](action) [something](object_2) [that´s](object_3) smaller than A4 [I](object_1) want a grid that outlines the size of the original [scan](action) when [I](object_1) print it.
+- how to [scan](action), the [I](object_1) [something](object_2) [that´s](object_3) ?
+- [scan](action), the [I](object_1) [something](object_2) [that´s](object_3)
+- how do I [scan](action), the [I](object_1) [something](object_2) [that´s](object_3) ?
+- i dont know how to [scan](action), the [I](object_1) [something](object_2) [that´s](object_3) ?
+- tell me the way to [scan](action), the [I](object_1) [something](object_2) [that´s](object_3) ?
+- tell me how to [scan](action), the [I](object_1) [something](object_2) [that´s](object_3) ?
+- show me the way to [scan](action), the [I](object_1) [something](object_2) [that´s](object_3) ?
+- show me how to [scan](action), the [I](object_1) [something](object_2) [that´s](object_3) ?
+- is there any way to [scan](action), the [I](object_1) [something](object_2) [that´s](object_3) ?
+
+- [Manage](action) [Image Sizes](object_1) when using [Image Processor](object_2) to convert .AI to .JPG
+- how to [Manage](action), the [Image Sizes](object_1) [Image Processor](object_2) ?
+- [Manage](action), the [Image Sizes](object_1) [Image Processor](object_2)
+- how do I [Manage](action), the [Image Sizes](object_1) [Image Processor](object_2) ?
+- i dont know how to [Manage](action), the [Image Sizes](object_1) [Image Processor](object_2) ?
+- tell me the way to [Manage](action), the [Image Sizes](object_1) [Image Processor](object_2) ?
+- tell me how to [Manage](action), the [Image Sizes](object_1) [Image Processor](object_2) ?
+- show me the way to [Manage](action), the [Image Sizes](object_1) [Image Processor](object_2) ?
+- show me how to [Manage](action), the [Image Sizes](object_1) [Image Processor](object_2) ?
+- is there any way to [Manage](action), the [Image Sizes](object_1) [Image Processor](object_2) ?
+
+- [I](object_1)'m [having](action) [trouble](object_2) setting [height](object_3) between lines of text "Photoshop 2018"
+- how to [having](action), the [I](object_1) [trouble](object_2) [height](object_3) ?
+- [having](action), the [I](object_1) [trouble](object_2) [height](object_3)
+- how do I [having](action), the [I](object_1) [trouble](object_2) [height](object_3) ?
+- i dont know how to [having](action), the [I](object_1) [trouble](object_2) [height](object_3) ?
+- tell me the way to [having](action), the [I](object_1) [trouble](object_2) [height](object_3) ?
+- tell me how to [having](action), the [I](object_1) [trouble](object_2) [height](object_3) ?
+- show me the way to [having](action), the [I](object_1) [trouble](object_2) [height](object_3) ?
+- show me how to [having](action), the [I](object_1) [trouble](object_2) [height](object_3) ?
+- is there any way to [having](action), the [I](object_1) [trouble](object_2) [height](object_3) ?
+
+- [Image Processor](object_1) [Wo](action)n't close [images](object_2)
+- how to [Wo](action), the [Image Processor](object_1) [images](object_2) ?
+- [Wo](action), the [Image Processor](object_1) [images](object_2)
+- how do I [Wo](action), the [Image Processor](object_1) [images](object_2) ?
+- i dont know how to [Wo](action), the [Image Processor](object_1) [images](object_2) ?
+- tell me the way to [Wo](action), the [Image Processor](object_1) [images](object_2) ?
+- tell me how to [Wo](action), the [Image Processor](object_1) [images](object_2) ?
+- show me the way to [Wo](action), the [Image Processor](object_1) [images](object_2) ?
+- show me how to [Wo](action), the [Image Processor](object_1) [images](object_2) ?
+- is there any way to [Wo](action), the [Image Processor](object_1) [images](object_2) ?
+
+- how to [retouch](action) [my makeup photos](object_1)?
+- how to [retouch](action), the [my makeup photos](object_1) ?
+- [retouch](action), the [my makeup photos](object_1)
+- how do I [retouch](action), the [my makeup photos](object_1) ?
+- i dont know how to [retouch](action), the [my makeup photos](object_1) ?
+- tell me the way to [retouch](action), the [my makeup photos](object_1) ?
+- tell me how to [retouch](action), the [my makeup photos](object_1) ?
+- show me the way to [retouch](action), the [my makeup photos](object_1) ?
+- show me how to [retouch](action), the [my makeup photos](object_1) ?
+- is there any way to [retouch](action), the [my makeup photos](object_1) ?
+
+- "[could](action) not apply [the select and mask workspace](object_1) because [the file](object_2) [could](action) not be found"
+- how to [could](action), the [the select and mask workspace](object_1) [the file](object_2) ?
+- [could](action), the [the select and mask workspace](object_1) [the file](object_2)
+- how do I [could](action), the [the select and mask workspace](object_1) [the file](object_2) ?
+- i dont know how to [could](action), the [the select and mask workspace](object_1) [the file](object_2) ?
+- tell me the way to [could](action), the [the select and mask workspace](object_1) [the file](object_2) ?
+- tell me how to [could](action), the [the select and mask workspace](object_1) [the file](object_2) ?
+- show me the way to [could](action), the [the select and mask workspace](object_1) [the file](object_2) ?
+- show me how to [could](action), the [the select and mask workspace](object_1) [the file](object_2) ?
+- is there any way to [could](action), the [the select and mask workspace](object_1) [the file](object_2) ?
+
+- [can](action) [i](object_1) use the "f[i](object_1)le [i](object_1)nfo" log to access prev[i](object_1)ous states no longer show[i](object_1)ng [i](object_1)n h[i](object_1)story?
+- how to [can](action), the [i](object_1) [the "file info](object_2) [previous states](object_3) ?
+- [can](action), the [i](object_1) [the "file info](object_2) [previous states](object_3)
+- how do I [can](action), the [i](object_1) [the "file info](object_2) [previous states](object_3) ?
+- i dont know how to [can](action), the [i](object_1) [the "file info](object_2) [previous states](object_3) ?
+- tell me the way to [can](action), the [i](object_1) [the "file info](object_2) [previous states](object_3) ?
+- tell me how to [can](action), the [i](object_1) [the "file info](object_2) [previous states](object_3) ?
+- show me the way to [can](action), the [i](object_1) [the "file info](object_2) [previous states](object_3) ?
+- show me how to [can](action), the [i](object_1) [the "file info](object_2) [previous states](object_3) ?
+- is there any way to [can](action), the [i](object_1) [the "file info](object_2) [previous states](object_3) ?
+
+- How do [I](object_1) [print](action) [Duotone separatipons](object_2) for [screen [print](action)ing](object_3)?
+- how to [print](action), the [I](object_1) [Duotone separatipons](object_2) [screen printing](object_3) ?
+- [print](action), the [I](object_1) [Duotone separatipons](object_2) [screen printing](object_3)
+- how do I [print](action), the [I](object_1) [Duotone separatipons](object_2) [screen printing](object_3) ?
+- i dont know how to [print](action), the [I](object_1) [Duotone separatipons](object_2) [screen printing](object_3) ?
+- tell me the way to [print](action), the [I](object_1) [Duotone separatipons](object_2) [screen printing](object_3) ?
+- tell me how to [print](action), the [I](object_1) [Duotone separatipons](object_2) [screen printing](object_3) ?
+- show me the way to [print](action), the [I](object_1) [Duotone separatipons](object_2) [screen printing](object_3) ?
+- show me how to [print](action), the [I](object_1) [Duotone separatipons](object_2) [screen printing](object_3) ?
+- is there any way to [print](action), the [I](object_1) [Duotone separatipons](object_2) [screen printing](object_3) ?
+
+- [Ca](action)nt edit [the text](object_1) in [PSD file](object_2)
+- how to [Ca](action), the [the text](object_1) [PSD file](object_2) ?
+- [Ca](action), the [the text](object_1) [PSD file](object_2)
+- how do I [Ca](action), the [the text](object_1) [PSD file](object_2) ?
+- i dont know how to [Ca](action), the [the text](object_1) [PSD file](object_2) ?
+- tell me the way to [Ca](action), the [the text](object_1) [PSD file](object_2) ?
+- tell me how to [Ca](action), the [the text](object_1) [PSD file](object_2) ?
+- show me the way to [Ca](action), the [the text](object_1) [PSD file](object_2) ?
+- show me how to [Ca](action), the [the text](object_1) [PSD file](object_2) ?
+- is there any way to [Ca](action), the [the text](object_1) [PSD file](object_2) ?
+
+- [[Locked](object_1)] Please, [Ca](action)n't [We](object_2) Just Continue To [Purchase Photoshop](object_3), not CC, Adobe?
+- how to [Ca](action), the [[Locked](object_1) [We](object_2) [Purchase Photoshop](object_3) ?
+- [Ca](action), the [[Locked](object_1) [We](object_2) [Purchase Photoshop](object_3)
+- how do I [Ca](action), the [[Locked](object_1) [We](object_2) [Purchase Photoshop](object_3) ?
+- i dont know how to [Ca](action), the [[Locked](object_1) [We](object_2) [Purchase Photoshop](object_3) ?
+- tell me the way to [Ca](action), the [[Locked](object_1) [We](object_2) [Purchase Photoshop](object_3) ?
+- tell me how to [Ca](action), the [[Locked](object_1) [We](object_2) [Purchase Photoshop](object_3) ?
+- show me the way to [Ca](action), the [[Locked](object_1) [We](object_2) [Purchase Photoshop](object_3) ?
+- show me how to [Ca](action), the [[Locked](object_1) [We](object_2) [Purchase Photoshop](object_3) ?
+- is there any way to [Ca](action), the [[Locked](object_1) [We](object_2) [Purchase Photoshop](object_3) ?
+
+- [Check](action) and change [document width](object_1) and [resolution](object_2).
+- how to [Check](action), the [document width](object_1) [resolution](object_2) ?
+- [Check](action), the [document width](object_1) [resolution](object_2)
+- how do I [Check](action), the [document width](object_1) [resolution](object_2) ?
+- i dont know how to [Check](action), the [document width](object_1) [resolution](object_2) ?
+- tell me the way to [Check](action), the [document width](object_1) [resolution](object_2) ?
+- tell me how to [Check](action), the [document width](object_1) [resolution](object_2) ?
+- show me the way to [Check](action), the [document width](object_1) [resolution](object_2) ?
+- show me how to [Check](action), the [document width](object_1) [resolution](object_2) ?
+- is there any way to [Check](action), the [document width](object_1) [resolution](object_2) ?
+
+- [Resizing](action) [script](object_1) with [different sizing](object_2) for [every image](object_3)
+- how to [Resizing](action), the [script](object_1) [different sizing](object_2) [every image](object_3) ?
+- [Resizing](action), the [script](object_1) [different sizing](object_2) [every image](object_3)
+- how do I [Resizing](action), the [script](object_1) [different sizing](object_2) [every image](object_3) ?
+- i dont know how to [Resizing](action), the [script](object_1) [different sizing](object_2) [every image](object_3) ?
+- tell me the way to [Resizing](action), the [script](object_1) [different sizing](object_2) [every image](object_3) ?
+- tell me how to [Resizing](action), the [script](object_1) [different sizing](object_2) [every image](object_3) ?
+- show me the way to [Resizing](action), the [script](object_1) [different sizing](object_2) [every image](object_3) ?
+- show me how to [Resizing](action), the [script](object_1) [different sizing](object_2) [every image](object_3) ?
+- is there any way to [Resizing](action), the [script](object_1) [different sizing](object_2) [every image](object_3) ?
+
+- [Ca](action)n't resize [text layer](object_1), keep getting [message](object_2) about [path](object_3)
+- how to [Ca](action), the [text layer](object_1) [message](object_2) [path](object_3) ?
+- [Ca](action), the [text layer](object_1) [message](object_2) [path](object_3)
+- how do I [Ca](action), the [text layer](object_1) [message](object_2) [path](object_3) ?
+- i dont know how to [Ca](action), the [text layer](object_1) [message](object_2) [path](object_3) ?
+- tell me the way to [Ca](action), the [text layer](object_1) [message](object_2) [path](object_3) ?
+- tell me how to [Ca](action), the [text layer](object_1) [message](object_2) [path](object_3) ?
+- show me the way to [Ca](action), the [text layer](object_1) [message](object_2) [path](object_3) ?
+- show me how to [Ca](action), the [text layer](object_1) [message](object_2) [path](object_3) ?
+- is there any way to [Ca](action), the [text layer](object_1) [message](object_2) [path](object_3) ?
+
+- How [can](action) [I](object_1) replace [mouth](object_2) in [a photo](object_3) professionally?
+- how to [can](action), the [I](object_1) [mouth](object_2) [a photo](object_3) ?
+- [can](action), the [I](object_1) [mouth](object_2) [a photo](object_3)
+- how do I [can](action), the [I](object_1) [mouth](object_2) [a photo](object_3) ?
+- i dont know how to [can](action), the [I](object_1) [mouth](object_2) [a photo](object_3) ?
+- tell me the way to [can](action), the [I](object_1) [mouth](object_2) [a photo](object_3) ?
+- tell me how to [can](action), the [I](object_1) [mouth](object_2) [a photo](object_3) ?
+- show me the way to [can](action), the [I](object_1) [mouth](object_2) [a photo](object_3) ?
+- show me how to [can](action), the [I](object_1) [mouth](object_2) [a photo](object_3) ?
+- is there any way to [can](action), the [I](object_1) [mouth](object_2) [a photo](object_3) ?
+
+- [stop](action) [photoshop](object_1) restoring [files](object_2) on [startup](object_3)
+- how to [stop](action), the [photoshop](object_1) [files](object_2) [startup](object_3) ?
+- [stop](action), the [photoshop](object_1) [files](object_2) [startup](object_3)
+- how do I [stop](action), the [photoshop](object_1) [files](object_2) [startup](object_3) ?
+- i dont know how to [stop](action), the [photoshop](object_1) [files](object_2) [startup](object_3) ?
+- tell me the way to [stop](action), the [photoshop](object_1) [files](object_2) [startup](object_3) ?
+- tell me how to [stop](action), the [photoshop](object_1) [files](object_2) [startup](object_3) ?
+- show me the way to [stop](action), the [photoshop](object_1) [files](object_2) [startup](object_3) ?
+- show me how to [stop](action), the [photoshop](object_1) [files](object_2) [startup](object_3) ?
+- is there any way to [stop](action), the [photoshop](object_1) [files](object_2) [startup](object_3) ?
+
+- How to [edit](action) [the text contents](object_1) using [smart object](object_2).
+- how to [edit](action), the [the text contents](object_1) [smart object](object_2) ?
+- [edit](action), the [the text contents](object_1) [smart object](object_2)
+- how do I [edit](action), the [the text contents](object_1) [smart object](object_2) ?
+- i dont know how to [edit](action), the [the text contents](object_1) [smart object](object_2) ?
+- tell me the way to [edit](action), the [the text contents](object_1) [smart object](object_2) ?
+- tell me how to [edit](action), the [the text contents](object_1) [smart object](object_2) ?
+- show me the way to [edit](action), the [the text contents](object_1) [smart object](object_2) ?
+- show me how to [edit](action), the [the text contents](object_1) [smart object](object_2) ?
+- is there any way to [edit](action), the [the text contents](object_1) [smart object](object_2) ?
+
+- [Add](action) [thumbnail](object_1) to [the user interface](object_2).
+- how to [Add](action), the [thumbnail](object_1) [the user interface](object_2) ?
+- [Add](action), the [thumbnail](object_1) [the user interface](object_2)
+- how do I [Add](action), the [thumbnail](object_1) [the user interface](object_2) ?
+- i dont know how to [Add](action), the [thumbnail](object_1) [the user interface](object_2) ?
+- tell me the way to [Add](action), the [thumbnail](object_1) [the user interface](object_2) ?
+- tell me how to [Add](action), the [thumbnail](object_1) [the user interface](object_2) ?
+- show me the way to [Add](action), the [thumbnail](object_1) [the user interface](object_2) ?
+- show me how to [Add](action), the [thumbnail](object_1) [the user interface](object_2) ?
+- is there any way to [Add](action), the [thumbnail](object_1) [the user interface](object_2) ?
+
+- [Change](action) [New Color](object_1) to [Background/Foreground Color](object_2)
+- how to [Change](action), the [New Color](object_1) [Background/Foreground Color](object_2) ?
+- [Change](action), the [New Color](object_1) [Background/Foreground Color](object_2)
+- how do I [Change](action), the [New Color](object_1) [Background/Foreground Color](object_2) ?
+- i dont know how to [Change](action), the [New Color](object_1) [Background/Foreground Color](object_2) ?
+- tell me the way to [Change](action), the [New Color](object_1) [Background/Foreground Color](object_2) ?
+- tell me how to [Change](action), the [New Color](object_1) [Background/Foreground Color](object_2) ?
+- show me the way to [Change](action), the [New Color](object_1) [Background/Foreground Color](object_2) ?
+- show me how to [Change](action), the [New Color](object_1) [Background/Foreground Color](object_2) ?
+- is there any way to [Change](action), the [New Color](object_1) [Background/Foreground Color](object_2) ?
+
+- [i](object_1) [want](action) to learn [i](object_1)n [depth](object_2) about [photoshop](object_3)
+- how to [want](action), the [i](object_1) [depth](object_2) [photoshop](object_3) ?
+- [want](action), the [i](object_1) [depth](object_2) [photoshop](object_3)
+- how do I [want](action), the [i](object_1) [depth](object_2) [photoshop](object_3) ?
+- i dont know how to [want](action), the [i](object_1) [depth](object_2) [photoshop](object_3) ?
+- tell me the way to [want](action), the [i](object_1) [depth](object_2) [photoshop](object_3) ?
+- tell me how to [want](action), the [i](object_1) [depth](object_2) [photoshop](object_3) ?
+- show me the way to [want](action), the [i](object_1) [depth](object_2) [photoshop](object_3) ?
+- show me how to [want](action), the [i](object_1) [depth](object_2) [photoshop](object_3) ?
+- is there any way to [want](action), the [i](object_1) [depth](object_2) [photoshop](object_3) ?
+
+- [Drop shadows](object_1) [wo](action)nt follow [mask](object_2)
+- how to [wo](action), the [Drop shadows](object_1) [mask](object_2) ?
+- [wo](action), the [Drop shadows](object_1) [mask](object_2)
+- how do I [wo](action), the [Drop shadows](object_1) [mask](object_2) ?
+- i dont know how to [wo](action), the [Drop shadows](object_1) [mask](object_2) ?
+- tell me the way to [wo](action), the [Drop shadows](object_1) [mask](object_2) ?
+- tell me how to [wo](action), the [Drop shadows](object_1) [mask](object_2) ?
+- show me the way to [wo](action), the [Drop shadows](object_1) [mask](object_2) ?
+- show me how to [wo](action), the [Drop shadows](object_1) [mask](object_2) ?
+- is there any way to [wo](action), the [Drop shadows](object_1) [mask](object_2) ?
+
+- [Changing](action) [a Image colour keeping details](object_1)
+- how to [Changing](action), the [a Image colour keeping details](object_1) ?
+- [Changing](action), the [a Image colour keeping details](object_1)
+- how do I [Changing](action), the [a Image colour keeping details](object_1) ?
+- i dont know how to [Changing](action), the [a Image colour keeping details](object_1) ?
+- tell me the way to [Changing](action), the [a Image colour keeping details](object_1) ?
+- tell me how to [Changing](action), the [a Image colour keeping details](object_1) ?
+- show me the way to [Changing](action), the [a Image colour keeping details](object_1) ?
+- show me how to [Changing](action), the [a Image colour keeping details](object_1) ?
+- is there any way to [Changing](action), the [a Image colour keeping details](object_1) ?
+
+- [Can](action)not fill [a background](object_1) with [a colour](object_2) without [small circles](object_3) appearing? (screenshot included)
+- how to [Can](action), the [a background](object_1) [a colour](object_2) [small circles](object_3) ?
+- [Can](action), the [a background](object_1) [a colour](object_2) [small circles](object_3)
+- how do I [Can](action), the [a background](object_1) [a colour](object_2) [small circles](object_3) ?
+- i dont know how to [Can](action), the [a background](object_1) [a colour](object_2) [small circles](object_3) ?
+- tell me the way to [Can](action), the [a background](object_1) [a colour](object_2) [small circles](object_3) ?
+- tell me how to [Can](action), the [a background](object_1) [a colour](object_2) [small circles](object_3) ?
+- show me the way to [Can](action), the [a background](object_1) [a colour](object_2) [small circles](object_3) ?
+- show me how to [Can](action), the [a background](object_1) [a colour](object_2) [small circles](object_3) ?
+- is there any way to [Can](action), the [a background](object_1) [a colour](object_2) [small circles](object_3) ?
+
+- [Bonding](action) [photo](object_1) to [one spot](object_2) in [video](object_3)
+- how to [Bonding](action), the [photo](object_1) [one spot](object_2) [video](object_3) ?
+- [Bonding](action), the [photo](object_1) [one spot](object_2) [video](object_3)
+- how do I [Bonding](action), the [photo](object_1) [one spot](object_2) [video](object_3) ?
+- i dont know how to [Bonding](action), the [photo](object_1) [one spot](object_2) [video](object_3) ?
+- tell me the way to [Bonding](action), the [photo](object_1) [one spot](object_2) [video](object_3) ?
+- tell me how to [Bonding](action), the [photo](object_1) [one spot](object_2) [video](object_3) ?
+- show me the way to [Bonding](action), the [photo](object_1) [one spot](object_2) [video](object_3) ?
+- show me how to [Bonding](action), the [photo](object_1) [one spot](object_2) [video](object_3) ?
+- is there any way to [Bonding](action), the [photo](object_1) [one spot](object_2) [video](object_3) ?
+
+- Hello,[I](object_1) [wanna](action) to use [photoshop](object_2) in [alegal way](object_3),please?
+- how to [wanna](action), the [I](object_1) [photoshop](object_2) [alegal way](object_3) ?
+- [wanna](action), the [I](object_1) [photoshop](object_2) [alegal way](object_3)
+- how do I [wanna](action), the [I](object_1) [photoshop](object_2) [alegal way](object_3) ?
+- i dont know how to [wanna](action), the [I](object_1) [photoshop](object_2) [alegal way](object_3) ?
+- tell me the way to [wanna](action), the [I](object_1) [photoshop](object_2) [alegal way](object_3) ?
+- tell me how to [wanna](action), the [I](object_1) [photoshop](object_2) [alegal way](object_3) ?
+- show me the way to [wanna](action), the [I](object_1) [photoshop](object_2) [alegal way](object_3) ?
+- show me how to [wanna](action), the [I](object_1) [photoshop](object_2) [alegal way](object_3) ?
+- is there any way to [wanna](action), the [I](object_1) [photoshop](object_2) [alegal way](object_3) ?
+
+- [[Update](action) problem](object_1) with [camera raw](object_2) in PS cs5
+- how to [Update](action), the [Update problem](object_1) [camera raw](object_2) ?
+- [Update](action), the [Update problem](object_1) [camera raw](object_2)
+- how do I [Update](action), the [Update problem](object_1) [camera raw](object_2) ?
+- i dont know how to [Update](action), the [Update problem](object_1) [camera raw](object_2) ?
+- tell me the way to [Update](action), the [Update problem](object_1) [camera raw](object_2) ?
+- tell me how to [Update](action), the [Update problem](object_1) [camera raw](object_2) ?
+- show me the way to [Update](action), the [Update problem](object_1) [camera raw](object_2) ?
+- show me how to [Update](action), the [Update problem](object_1) [camera raw](object_2) ?
+- is there any way to [Update](action), the [Update problem](object_1) [camera raw](object_2) ?
+
+- [I](object_1) [want](action) to show [my students](object_2) [de possibilities](object_3) of Photoshop in an video
+- how to [want](action), the [I](object_1) [my students](object_2) [de possibilities](object_3) ?
+- [want](action), the [I](object_1) [my students](object_2) [de possibilities](object_3)
+- how do I [want](action), the [I](object_1) [my students](object_2) [de possibilities](object_3) ?
+- i dont know how to [want](action), the [I](object_1) [my students](object_2) [de possibilities](object_3) ?
+- tell me the way to [want](action), the [I](object_1) [my students](object_2) [de possibilities](object_3) ?
+- tell me how to [want](action), the [I](object_1) [my students](object_2) [de possibilities](object_3) ?
+- show me the way to [want](action), the [I](object_1) [my students](object_2) [de possibilities](object_3) ?
+- show me how to [want](action), the [I](object_1) [my students](object_2) [de possibilities](object_3) ?
+- is there any way to [want](action), the [I](object_1) [my students](object_2) [de possibilities](object_3) ?
+
+- [I](object_1) [need](action) to delete [all snapshots](object_2) and [layer](object_3) comps by a script
+- how to [need](action), the [I](object_1) [all snapshots](object_2) [layer](object_3) ?
+- [need](action), the [I](object_1) [all snapshots](object_2) [layer](object_3)
+- how do I [need](action), the [I](object_1) [all snapshots](object_2) [layer](object_3) ?
+- i dont know how to [need](action), the [I](object_1) [all snapshots](object_2) [layer](object_3) ?
+- tell me the way to [need](action), the [I](object_1) [all snapshots](object_2) [layer](object_3) ?
+- tell me how to [need](action), the [I](object_1) [all snapshots](object_2) [layer](object_3) ?
+- show me the way to [need](action), the [I](object_1) [all snapshots](object_2) [layer](object_3) ?
+- show me how to [need](action), the [I](object_1) [all snapshots](object_2) [layer](object_3) ?
+- is there any way to [need](action), the [I](object_1) [all snapshots](object_2) [layer](object_3) ?
+
+- [Ca](action)n't paint on [picture](object_1) in [Photoshop CC](object_2)
+- how to [Ca](action), the [picture](object_1) [Photoshop CC](object_2) ?
+- [Ca](action), the [picture](object_1) [Photoshop CC](object_2)
+- how do I [Ca](action), the [picture](object_1) [Photoshop CC](object_2) ?
+- i dont know how to [Ca](action), the [picture](object_1) [Photoshop CC](object_2) ?
+- tell me the way to [Ca](action), the [picture](object_1) [Photoshop CC](object_2) ?
+- tell me how to [Ca](action), the [picture](object_1) [Photoshop CC](object_2) ?
+- show me the way to [Ca](action), the [picture](object_1) [Photoshop CC](object_2) ?
+- show me how to [Ca](action), the [picture](object_1) [Photoshop CC](object_2) ?
+- is there any way to [Ca](action), the [picture](object_1) [Photoshop CC](object_2) ?
+
+- [Installing](action) [CS3](object_1) and [upgrades](object_2) to [CS6](object_3) extended on a new pc with windows 10
+- how to [Installing](action), the [CS3](object_1) [upgrades](object_2) [CS6](object_3) ?
+- [Installing](action), the [CS3](object_1) [upgrades](object_2) [CS6](object_3)
+- how do I [Installing](action), the [CS3](object_1) [upgrades](object_2) [CS6](object_3) ?
+- i dont know how to [Installing](action), the [CS3](object_1) [upgrades](object_2) [CS6](object_3) ?
+- tell me the way to [Installing](action), the [CS3](object_1) [upgrades](object_2) [CS6](object_3) ?
+- tell me how to [Installing](action), the [CS3](object_1) [upgrades](object_2) [CS6](object_3) ?
+- show me the way to [Installing](action), the [CS3](object_1) [upgrades](object_2) [CS6](object_3) ?
+- show me how to [Installing](action), the [CS3](object_1) [upgrades](object_2) [CS6](object_3) ?
+- is there any way to [Installing](action), the [CS3](object_1) [upgrades](object_2) [CS6](object_3) ?
+
+- [[Refine](action) Edge Problem](object_1)
+- how to [Refine](action), the [Refine Edge Problem](object_1) ?
+- [Refine](action), the [Refine Edge Problem](object_1)
+- how do I [Refine](action), the [Refine Edge Problem](object_1) ?
+- i dont know how to [Refine](action), the [Refine Edge Problem](object_1) ?
+- tell me the way to [Refine](action), the [Refine Edge Problem](object_1) ?
+- tell me how to [Refine](action), the [Refine Edge Problem](object_1) ?
+- show me the way to [Refine](action), the [Refine Edge Problem](object_1) ?
+- show me how to [Refine](action), the [Refine Edge Problem](object_1) ?
+- is there any way to [Refine](action), the [Refine Edge Problem](object_1) ?
+
+- [Smudging](action) [Jitter tool](object_1) ?
+- how to [Smudging](action), the [Jitter tool](object_1) ?
+- [Smudging](action), the [Jitter tool](object_1)
+- how do I [Smudging](action), the [Jitter tool](object_1) ?
+- i dont know how to [Smudging](action), the [Jitter tool](object_1) ?
+- tell me the way to [Smudging](action), the [Jitter tool](object_1) ?
+- tell me how to [Smudging](action), the [Jitter tool](object_1) ?
+- show me the way to [Smudging](action), the [Jitter tool](object_1) ?
+- show me how to [Smudging](action), the [Jitter tool](object_1) ?
+- is there any way to [Smudging](action), the [Jitter tool](object_1) ?
+
+- [Can](action) [Photoshop CC](object_1) be used to create [line graphs](object_2), etc. to scale?
+- how to [Can](action), the [Photoshop CC](object_1) [line graphs](object_2) ?
+- [Can](action), the [Photoshop CC](object_1) [line graphs](object_2)
+- how do I [Can](action), the [Photoshop CC](object_1) [line graphs](object_2) ?
+- i dont know how to [Can](action), the [Photoshop CC](object_1) [line graphs](object_2) ?
+- tell me the way to [Can](action), the [Photoshop CC](object_1) [line graphs](object_2) ?
+- tell me how to [Can](action), the [Photoshop CC](object_1) [line graphs](object_2) ?
+- show me the way to [Can](action), the [Photoshop CC](object_1) [line graphs](object_2) ?
+- show me how to [Can](action), the [Photoshop CC](object_1) [line graphs](object_2) ?
+- is there any way to [Can](action), the [Photoshop CC](object_1) [line graphs](object_2) ?
+
+- [What](object_1) [happened](action) to [alt+enter shortcut](object_2) to stroke [path](object_3) with brush tool?
+- how to [happened](action), the [What](object_1) [alt+enter shortcut](object_2) [path](object_3) ?
+- [happened](action), the [What](object_1) [alt+enter shortcut](object_2) [path](object_3)
+- how do I [happened](action), the [What](object_1) [alt+enter shortcut](object_2) [path](object_3) ?
+- i dont know how to [happened](action), the [What](object_1) [alt+enter shortcut](object_2) [path](object_3) ?
+- tell me the way to [happened](action), the [What](object_1) [alt+enter shortcut](object_2) [path](object_3) ?
+- tell me how to [happened](action), the [What](object_1) [alt+enter shortcut](object_2) [path](object_3) ?
+- show me the way to [happened](action), the [What](object_1) [alt+enter shortcut](object_2) [path](object_3) ?
+- show me how to [happened](action), the [What](object_1) [alt+enter shortcut](object_2) [path](object_3) ?
+- is there any way to [happened](action), the [What](object_1) [alt+enter shortcut](object_2) [path](object_3) ?
+
+- [Keep](action) [image size](object_1) while increasing [the pixel size](object_2)
+- how to [Keep](action), the [image size](object_1) [the pixel size](object_2) ?
+- [Keep](action), the [image size](object_1) [the pixel size](object_2)
+- how do I [Keep](action), the [image size](object_1) [the pixel size](object_2) ?
+- i dont know how to [Keep](action), the [image size](object_1) [the pixel size](object_2) ?
+- tell me the way to [Keep](action), the [image size](object_1) [the pixel size](object_2) ?
+- tell me how to [Keep](action), the [image size](object_1) [the pixel size](object_2) ?
+- show me the way to [Keep](action), the [image size](object_1) [the pixel size](object_2) ?
+- show me how to [Keep](action), the [image size](object_1) [the pixel size](object_2) ?
+- is there any way to [Keep](action), the [image size](object_1) [the pixel size](object_2) ?
+
+- How do [I](object_1) [pick](action) what [screen dialog boxes](object_2) open on?!
+- how to [pick](action), the [I](object_1) [screen dialog boxes](object_2) ?
+- [pick](action), the [I](object_1) [screen dialog boxes](object_2)
+- how do I [pick](action), the [I](object_1) [screen dialog boxes](object_2) ?
+- i dont know how to [pick](action), the [I](object_1) [screen dialog boxes](object_2) ?
+- tell me the way to [pick](action), the [I](object_1) [screen dialog boxes](object_2) ?
+- tell me how to [pick](action), the [I](object_1) [screen dialog boxes](object_2) ?
+- show me the way to [pick](action), the [I](object_1) [screen dialog boxes](object_2) ?
+- show me how to [pick](action), the [I](object_1) [screen dialog boxes](object_2) ?
+- is there any way to [pick](action), the [I](object_1) [screen dialog boxes](object_2) ?
+
+- [[I](object_2)](object_1) was [wondering](action) how [[I](object_2)](object_1) could recreate [the text](object_3) on this t shirt.
+- how to [wondering](action), the [I](object_1) [I](object_2) [the text](object_3) ?
+- [wondering](action), the [I](object_1) [I](object_2) [the text](object_3)
+- how do I [wondering](action), the [I](object_1) [I](object_2) [the text](object_3) ?
+- i dont know how to [wondering](action), the [I](object_1) [I](object_2) [the text](object_3) ?
+- tell me the way to [wondering](action), the [I](object_1) [I](object_2) [the text](object_3) ?
+- tell me how to [wondering](action), the [I](object_1) [I](object_2) [the text](object_3) ?
+- show me the way to [wondering](action), the [I](object_1) [I](object_2) [the text](object_3) ?
+- show me how to [wondering](action), the [I](object_1) [I](object_2) [the text](object_3) ?
+- is there any way to [wondering](action), the [I](object_1) [I](object_2) [the text](object_3) ?
+
+- [My Photoshop script](object_1) is [giving](action) [different results](object_2) on [different machines](object_3)
+- how to [giving](action), the [My Photoshop script](object_1) [different results](object_2) [different machines](object_3) ?
+- [giving](action), the [My Photoshop script](object_1) [different results](object_2) [different machines](object_3)
+- how do I [giving](action), the [My Photoshop script](object_1) [different results](object_2) [different machines](object_3) ?
+- i dont know how to [giving](action), the [My Photoshop script](object_1) [different results](object_2) [different machines](object_3) ?
+- tell me the way to [giving](action), the [My Photoshop script](object_1) [different results](object_2) [different machines](object_3) ?
+- tell me how to [giving](action), the [My Photoshop script](object_1) [different results](object_2) [different machines](object_3) ?
+- show me the way to [giving](action), the [My Photoshop script](object_1) [different results](object_2) [different machines](object_3) ?
+- show me how to [giving](action), the [My Photoshop script](object_1) [different results](object_2) [different machines](object_3) ?
+- is there any way to [giving](action), the [My Photoshop script](object_1) [different results](object_2) [different machines](object_3) ?
+
+- [Photoshop](object_1) [wo](action)n't open as [default](object_2) for [it's own files](object_3)
+- how to [wo](action), the [Photoshop](object_1) [default](object_2) [it's own files](object_3) ?
+- [wo](action), the [Photoshop](object_1) [default](object_2) [it's own files](object_3)
+- how do I [wo](action), the [Photoshop](object_1) [default](object_2) [it's own files](object_3) ?
+- i dont know how to [wo](action), the [Photoshop](object_1) [default](object_2) [it's own files](object_3) ?
+- tell me the way to [wo](action), the [Photoshop](object_1) [default](object_2) [it's own files](object_3) ?
+- tell me how to [wo](action), the [Photoshop](object_1) [default](object_2) [it's own files](object_3) ?
+- show me the way to [wo](action), the [Photoshop](object_1) [default](object_2) [it's own files](object_3) ?
+- show me how to [wo](action), the [Photoshop](object_1) [default](object_2) [it's own files](object_3) ?
+- is there any way to [wo](action), the [Photoshop](object_1) [default](object_2) [it's own files](object_3) ?
+
+- [Cursors](object_1) are [1 black pixel](object_2), [can](action)not change back, even on [menus](object_3)
+- how to [can](action), the [Cursors](object_1) [1 black pixel](object_2) [menus](object_3) ?
+- [can](action), the [Cursors](object_1) [1 black pixel](object_2) [menus](object_3)
+- how do I [can](action), the [Cursors](object_1) [1 black pixel](object_2) [menus](object_3) ?
+- i dont know how to [can](action), the [Cursors](object_1) [1 black pixel](object_2) [menus](object_3) ?
+- tell me the way to [can](action), the [Cursors](object_1) [1 black pixel](object_2) [menus](object_3) ?
+- tell me how to [can](action), the [Cursors](object_1) [1 black pixel](object_2) [menus](object_3) ?
+- show me the way to [can](action), the [Cursors](object_1) [1 black pixel](object_2) [menus](object_3) ?
+- show me how to [can](action), the [Cursors](object_1) [1 black pixel](object_2) [menus](object_3) ?
+- is there any way to [can](action), the [Cursors](object_1) [1 black pixel](object_2) [menus](object_3) ?
+
+- how to [set](action) [color profile](object_1) for [correct Mac OS Preview printout](object_2)?
+- how to [set](action), the [color profile](object_1) [correct Mac OS Preview printout](object_2) ?
+- [set](action), the [color profile](object_1) [correct Mac OS Preview printout](object_2)
+- how do I [set](action), the [color profile](object_1) [correct Mac OS Preview printout](object_2) ?
+- i dont know how to [set](action), the [color profile](object_1) [correct Mac OS Preview printout](object_2) ?
+- tell me the way to [set](action), the [color profile](object_1) [correct Mac OS Preview printout](object_2) ?
+- tell me how to [set](action), the [color profile](object_1) [correct Mac OS Preview printout](object_2) ?
+- show me the way to [set](action), the [color profile](object_1) [correct Mac OS Preview printout](object_2) ?
+- show me how to [set](action), the [color profile](object_1) [correct Mac OS Preview printout](object_2) ?
+- is there any way to [set](action), the [color profile](object_1) [correct Mac OS Preview printout](object_2) ?
+
+- [Ca](action)n't open [32bit image](object_1) in [[Ca](action)mera Raw Filter](object_2)
+- how to [Ca](action), the [32bit image](object_1) [Camera Raw Filter](object_2) ?
+- [Ca](action), the [32bit image](object_1) [Camera Raw Filter](object_2)
+- how do I [Ca](action), the [32bit image](object_1) [Camera Raw Filter](object_2) ?
+- i dont know how to [Ca](action), the [32bit image](object_1) [Camera Raw Filter](object_2) ?
+- tell me the way to [Ca](action), the [32bit image](object_1) [Camera Raw Filter](object_2) ?
+- tell me how to [Ca](action), the [32bit image](object_1) [Camera Raw Filter](object_2) ?
+- show me the way to [Ca](action), the [32bit image](object_1) [Camera Raw Filter](object_2) ?
+- show me how to [Ca](action), the [32bit image](object_1) [Camera Raw Filter](object_2) ?
+- is there any way to [Ca](action), the [32bit image](object_1) [Camera Raw Filter](object_2) ?
+
+- [Need](action) [help](object_1) with [If](object_2)/[Then script adjustment](object_3)
+- how to [Need](action), the [help](object_1) [If](object_2) [Then script adjustment](object_3) ?
+- [Need](action), the [help](object_1) [If](object_2) [Then script adjustment](object_3)
+- how do I [Need](action), the [help](object_1) [If](object_2) [Then script adjustment](object_3) ?
+- i dont know how to [Need](action), the [help](object_1) [If](object_2) [Then script adjustment](object_3) ?
+- tell me the way to [Need](action), the [help](object_1) [If](object_2) [Then script adjustment](object_3) ?
+- tell me how to [Need](action), the [help](object_1) [If](object_2) [Then script adjustment](object_3) ?
+- show me the way to [Need](action), the [help](object_1) [If](object_2) [Then script adjustment](object_3) ?
+- show me how to [Need](action), the [help](object_1) [If](object_2) [Then script adjustment](object_3) ?
+- is there any way to [Need](action), the [help](object_1) [If](object_2) [Then script adjustment](object_3) ?
+
+- How to [open](action) [a file](object_1) in [Photoshop](object_2) with [javascript](object_3)
+- how to [open](action), the [a file](object_1) [Photoshop](object_2) [javascript](object_3) ?
+- [open](action), the [a file](object_1) [Photoshop](object_2) [javascript](object_3)
+- how do I [open](action), the [a file](object_1) [Photoshop](object_2) [javascript](object_3) ?
+- i dont know how to [open](action), the [a file](object_1) [Photoshop](object_2) [javascript](object_3) ?
+- tell me the way to [open](action), the [a file](object_1) [Photoshop](object_2) [javascript](object_3) ?
+- tell me how to [open](action), the [a file](object_1) [Photoshop](object_2) [javascript](object_3) ?
+- show me the way to [open](action), the [a file](object_1) [Photoshop](object_2) [javascript](object_3) ?
+- show me how to [open](action), the [a file](object_1) [Photoshop](object_2) [javascript](object_3) ?
+- is there any way to [open](action), the [a file](object_1) [Photoshop](object_2) [javascript](object_3) ?
+
+- [Repeat](action) last filter used, with [different values](object_1)
+- how to [Repeat](action), the [different values](object_1) ?
+- [Repeat](action), the [different values](object_1)
+- how do I [Repeat](action), the [different values](object_1) ?
+- i dont know how to [Repeat](action), the [different values](object_1) ?
+- tell me the way to [Repeat](action), the [different values](object_1) ?
+- tell me how to [Repeat](action), the [different values](object_1) ?
+- show me the way to [Repeat](action), the [different values](object_1) ?
+- show me how to [Repeat](action), the [different values](object_1) ?
+- is there any way to [Repeat](action), the [different values](object_1) ?
+
+- [I](object_1)'m [working](action) on [my Surface Pro](object_2) and [the mage](object_3) keeps rotating while [I](object_1) am trying to zoom or move my image. How can [I](object_1) either turn down the the sensitivity or turn off this function.
+- how to [working](action), the [I](object_1) [my Surface Pro](object_2) [the mage](object_3) ?
+- [working](action), the [I](object_1) [my Surface Pro](object_2) [the mage](object_3)
+- how do I [working](action), the [I](object_1) [my Surface Pro](object_2) [the mage](object_3) ?
+- i dont know how to [working](action), the [I](object_1) [my Surface Pro](object_2) [the mage](object_3) ?
+- tell me the way to [working](action), the [I](object_1) [my Surface Pro](object_2) [the mage](object_3) ?
+- tell me how to [working](action), the [I](object_1) [my Surface Pro](object_2) [the mage](object_3) ?
+- show me the way to [working](action), the [I](object_1) [my Surface Pro](object_2) [the mage](object_3) ?
+- show me how to [working](action), the [I](object_1) [my Surface Pro](object_2) [the mage](object_3) ?
+- is there any way to [working](action), the [I](object_1) [my Surface Pro](object_2) [the mage](object_3) ?
+
+- [Stitching](action) [Image](object_1) together and [Sky color](object_2)
+- how to [Stitching](action), the [Image](object_1) [Sky color](object_2) ?
+- [Stitching](action), the [Image](object_1) [Sky color](object_2)
+- how do I [Stitching](action), the [Image](object_1) [Sky color](object_2) ?
+- i dont know how to [Stitching](action), the [Image](object_1) [Sky color](object_2) ?
+- tell me the way to [Stitching](action), the [Image](object_1) [Sky color](object_2) ?
+- tell me how to [Stitching](action), the [Image](object_1) [Sky color](object_2) ?
+- show me the way to [Stitching](action), the [Image](object_1) [Sky color](object_2) ?
+- show me how to [Stitching](action), the [Image](object_1) [Sky color](object_2) ?
+- is there any way to [Stitching](action), the [Image](object_1) [Sky color](object_2) ?
+
+- ONE [Missing](action) [Keyboard Shortcut](object_1)
+- how to [Missing](action), the [Keyboard Shortcut](object_1) ?
+- [Missing](action), the [Keyboard Shortcut](object_1)
+- how do I [Missing](action), the [Keyboard Shortcut](object_1) ?
+- i dont know how to [Missing](action), the [Keyboard Shortcut](object_1) ?
+- tell me the way to [Missing](action), the [Keyboard Shortcut](object_1) ?
+- tell me how to [Missing](action), the [Keyboard Shortcut](object_1) ?
+- show me the way to [Missing](action), the [Keyboard Shortcut](object_1) ?
+- show me how to [Missing](action), the [Keyboard Shortcut](object_1) ?
+- is there any way to [Missing](action), the [Keyboard Shortcut](object_1) ?
+
+- [Can](action) not reinstall [CS6](object_1) as says "[adobe support adviser](object_2) not found"
+- how to [Can](action), the [CS6](object_1) [adobe support adviser](object_2) ?
+- [Can](action), the [CS6](object_1) [adobe support adviser](object_2)
+- how do I [Can](action), the [CS6](object_1) [adobe support adviser](object_2) ?
+- i dont know how to [Can](action), the [CS6](object_1) [adobe support adviser](object_2) ?
+- tell me the way to [Can](action), the [CS6](object_1) [adobe support adviser](object_2) ?
+- tell me how to [Can](action), the [CS6](object_1) [adobe support adviser](object_2) ?
+- show me the way to [Can](action), the [CS6](object_1) [adobe support adviser](object_2) ?
+- show me how to [Can](action), the [CS6](object_1) [adobe support adviser](object_2) ?
+- is there any way to [Can](action), the [CS6](object_1) [adobe support adviser](object_2) ?
+
+- [Cancel](action) [annual subscription](object_1)?
+- how to [Cancel](action), the [annual subscription](object_1) ?
+- [Cancel](action), the [annual subscription](object_1)
+- how do I [Cancel](action), the [annual subscription](object_1) ?
+- i dont know how to [Cancel](action), the [annual subscription](object_1) ?
+- tell me the way to [Cancel](action), the [annual subscription](object_1) ?
+- tell me how to [Cancel](action), the [annual subscription](object_1) ?
+- show me the way to [Cancel](action), the [annual subscription](object_1) ?
+- show me how to [Cancel](action), the [annual subscription](object_1) ?
+- is there any way to [Cancel](action), the [annual subscription](object_1) ?
+
+- [Need](action) to reinstall [complete CS5 suite](object_1).
+- how to [Need](action), the [complete CS5 suite](object_1) ?
+- [Need](action), the [complete CS5 suite](object_1)
+- how do I [Need](action), the [complete CS5 suite](object_1) ?
+- i dont know how to [Need](action), the [complete CS5 suite](object_1) ?
+- tell me the way to [Need](action), the [complete CS5 suite](object_1) ?
+- tell me how to [Need](action), the [complete CS5 suite](object_1) ?
+- show me the way to [Need](action), the [complete CS5 suite](object_1) ?
+- show me how to [Need](action), the [complete CS5 suite](object_1) ?
+- is there any way to [Need](action), the [complete CS5 suite](object_1) ?
+
+- [Bridge CC](object_1) 2018 8.0.1 and [Camera Raw](object_2) 10.1 [released](action) [Dec 11th](object_3), 2017
+- how to [released](action), the [Bridge CC](object_1) [Camera Raw](object_2) [Dec 11th](object_3) ?
+- [released](action), the [Bridge CC](object_1) [Camera Raw](object_2) [Dec 11th](object_3)
+- how do I [released](action), the [Bridge CC](object_1) [Camera Raw](object_2) [Dec 11th](object_3) ?
+- i dont know how to [released](action), the [Bridge CC](object_1) [Camera Raw](object_2) [Dec 11th](object_3) ?
+- tell me the way to [released](action), the [Bridge CC](object_1) [Camera Raw](object_2) [Dec 11th](object_3) ?
+- tell me how to [released](action), the [Bridge CC](object_1) [Camera Raw](object_2) [Dec 11th](object_3) ?
+- show me the way to [released](action), the [Bridge CC](object_1) [Camera Raw](object_2) [Dec 11th](object_3) ?
+- show me how to [released](action), the [Bridge CC](object_1) [Camera Raw](object_2) [Dec 11th](object_3) ?
+- is there any way to [released](action), the [Bridge CC](object_1) [Camera Raw](object_2) [Dec 11th](object_3) ?
+
+- [Want](action) to make [fill](object_1) of [text](object_2) transparent but not stroke
+- how to [Want](action), the [fill](object_1) [text](object_2) ?
+- [Want](action), the [fill](object_1) [text](object_2)
+- how do I [Want](action), the [fill](object_1) [text](object_2) ?
+- i dont know how to [Want](action), the [fill](object_1) [text](object_2) ?
+- tell me the way to [Want](action), the [fill](object_1) [text](object_2) ?
+- tell me how to [Want](action), the [fill](object_1) [text](object_2) ?
+- show me the way to [Want](action), the [fill](object_1) [text](object_2) ?
+- show me how to [Want](action), the [fill](object_1) [text](object_2) ?
+- is there any way to [Want](action), the [fill](object_1) [text](object_2) ?
+
+- [Convert](action) [an image](object_1) to [an 'informative'color gradient](object_2)
+- how to [Convert](action), the [an image](object_1) [an 'informative'color gradient](object_2) ?
+- [Convert](action), the [an image](object_1) [an 'informative'color gradient](object_2)
+- how do I [Convert](action), the [an image](object_1) [an 'informative'color gradient](object_2) ?
+- i dont know how to [Convert](action), the [an image](object_1) [an 'informative'color gradient](object_2) ?
+- tell me the way to [Convert](action), the [an image](object_1) [an 'informative'color gradient](object_2) ?
+- tell me how to [Convert](action), the [an image](object_1) [an 'informative'color gradient](object_2) ?
+- show me the way to [Convert](action), the [an image](object_1) [an 'informative'color gradient](object_2) ?
+- show me how to [Convert](action), the [an image](object_1) [an 'informative'color gradient](object_2) ?
+- is there any way to [Convert](action), the [an image](object_1) [an 'informative'color gradient](object_2) ?
+
+- [Alt](object_1) + [[drag](action) selects](object_2) [individual layers](object_3) and duplicates them, not groups
+- how to [drag](action), the [Alt](object_1) [drag selects](object_2) [individual layers](object_3) ?
+- [drag](action), the [Alt](object_1) [drag selects](object_2) [individual layers](object_3)
+- how do I [drag](action), the [Alt](object_1) [drag selects](object_2) [individual layers](object_3) ?
+- i dont know how to [drag](action), the [Alt](object_1) [drag selects](object_2) [individual layers](object_3) ?
+- tell me the way to [drag](action), the [Alt](object_1) [drag selects](object_2) [individual layers](object_3) ?
+- tell me how to [drag](action), the [Alt](object_1) [drag selects](object_2) [individual layers](object_3) ?
+- show me the way to [drag](action), the [Alt](object_1) [drag selects](object_2) [individual layers](object_3) ?
+- show me how to [drag](action), the [Alt](object_1) [drag selects](object_2) [individual layers](object_3) ?
+- is there any way to [drag](action), the [Alt](object_1) [drag selects](object_2) [individual layers](object_3) ?
+
+- [Moving](action) [Photoshop actions](object_1) to [a new computer](object_2)
+- how to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2)
+- how do I [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- i dont know how to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- tell me the way to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- tell me how to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- show me the way to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- show me how to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- is there any way to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+
+- Unable to [change](action) [hue](object_1)[/saturation](object_2)
+- how to [change](action), the [hue](object_1) [/saturation](object_2) ?
+- [change](action), the [hue](object_1) [/saturation](object_2)
+- how do I [change](action), the [hue](object_1) [/saturation](object_2) ?
+- i dont know how to [change](action), the [hue](object_1) [/saturation](object_2) ?
+- tell me the way to [change](action), the [hue](object_1) [/saturation](object_2) ?
+- tell me how to [change](action), the [hue](object_1) [/saturation](object_2) ?
+- show me the way to [change](action), the [hue](object_1) [/saturation](object_2) ?
+- show me how to [change](action), the [hue](object_1) [/saturation](object_2) ?
+- is there any way to [change](action), the [hue](object_1) [/saturation](object_2) ?
+
+- Do [I](object_1) [need](action) [a subscription](object_2)?!?
+- how to [need](action), the [I](object_1) [a subscription](object_2) ?
+- [need](action), the [I](object_1) [a subscription](object_2)
+- how do I [need](action), the [I](object_1) [a subscription](object_2) ?
+- i dont know how to [need](action), the [I](object_1) [a subscription](object_2) ?
+- tell me the way to [need](action), the [I](object_1) [a subscription](object_2) ?
+- tell me how to [need](action), the [I](object_1) [a subscription](object_2) ?
+- show me the way to [need](action), the [I](object_1) [a subscription](object_2) ?
+- show me how to [need](action), the [I](object_1) [a subscription](object_2) ?
+- is there any way to [need](action), the [I](object_1) [a subscription](object_2) ?
+
+- How [can](action) [I](object_1) change [the artboard](object_2) to white?
+- how to [can](action), the [I](object_1) [the artboard](object_2) ?
+- [can](action), the [I](object_1) [the artboard](object_2)
+- how do I [can](action), the [I](object_1) [the artboard](object_2) ?
+- i dont know how to [can](action), the [I](object_1) [the artboard](object_2) ?
+- tell me the way to [can](action), the [I](object_1) [the artboard](object_2) ?
+- tell me how to [can](action), the [I](object_1) [the artboard](object_2) ?
+- show me the way to [can](action), the [I](object_1) [the artboard](object_2) ?
+- show me how to [can](action), the [I](object_1) [the artboard](object_2) ?
+- is there any way to [can](action), the [I](object_1) [the artboard](object_2) ?
+
+- [Preparing](action) [files](object_1) for [printer](object_2): 8 or 16 bit?
+- how to [Preparing](action), the [files](object_1) [printer](object_2) ?
+- [Preparing](action), the [files](object_1) [printer](object_2)
+- how do I [Preparing](action), the [files](object_1) [printer](object_2) ?
+- i dont know how to [Preparing](action), the [files](object_1) [printer](object_2) ?
+- tell me the way to [Preparing](action), the [files](object_1) [printer](object_2) ?
+- tell me how to [Preparing](action), the [files](object_1) [printer](object_2) ?
+- show me the way to [Preparing](action), the [files](object_1) [printer](object_2) ?
+- show me how to [Preparing](action), the [files](object_1) [printer](object_2) ?
+- is there any way to [Preparing](action), the [files](object_1) [printer](object_2) ?
+
+- [Export image - [changed](action) file size](object_1)
+- how to [changed](action), the [Export image - changed file size](object_1) ?
+- [changed](action), the [Export image - changed file size](object_1)
+- how do I [changed](action), the [Export image - changed file size](object_1) ?
+- i dont know how to [changed](action), the [Export image - changed file size](object_1) ?
+- tell me the way to [changed](action), the [Export image - changed file size](object_1) ?
+- tell me how to [changed](action), the [Export image - changed file size](object_1) ?
+- show me the way to [changed](action), the [Export image - changed file size](object_1) ?
+- show me how to [changed](action), the [Export image - changed file size](object_1) ?
+- is there any way to [changed](action), the [Export image - changed file size](object_1) ?
+
+- [I](object_1)f [I](object_1) [uninstall](action) and re-install Photoshop CS6, will [all my current photoshop files](object_2) be deleted?
+- how to [uninstall](action), the [I](object_1) [all my current photoshop files](object_2) ?
+- [uninstall](action), the [I](object_1) [all my current photoshop files](object_2)
+- how do I [uninstall](action), the [I](object_1) [all my current photoshop files](object_2) ?
+- i dont know how to [uninstall](action), the [I](object_1) [all my current photoshop files](object_2) ?
+- tell me the way to [uninstall](action), the [I](object_1) [all my current photoshop files](object_2) ?
+- tell me how to [uninstall](action), the [I](object_1) [all my current photoshop files](object_2) ?
+- show me the way to [uninstall](action), the [I](object_1) [all my current photoshop files](object_2) ?
+- show me how to [uninstall](action), the [I](object_1) [all my current photoshop files](object_2) ?
+- is there any way to [uninstall](action), the [I](object_1) [all my current photoshop files](object_2) ?
+
+- [Moving](action) [Photoshop actions](object_1) to [a new computer](object_2)
+- how to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2)
+- how do I [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- i dont know how to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- tell me the way to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- tell me how to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- show me the way to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- show me how to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+- is there any way to [Moving](action), the [Photoshop actions](object_1) [a new computer](object_2) ?
+
+- [The animation timeline](object_1) [wo](action)n't show up right in [Photoshop CS6](object_2)
+- how to [wo](action), the [The animation timeline](object_1) [Photoshop CS6](object_2) ?
+- [wo](action), the [The animation timeline](object_1) [Photoshop CS6](object_2)
+- how do I [wo](action), the [The animation timeline](object_1) [Photoshop CS6](object_2) ?
+- i dont know how to [wo](action), the [The animation timeline](object_1) [Photoshop CS6](object_2) ?
+- tell me the way to [wo](action), the [The animation timeline](object_1) [Photoshop CS6](object_2) ?
+- tell me how to [wo](action), the [The animation timeline](object_1) [Photoshop CS6](object_2) ?
+- show me the way to [wo](action), the [The animation timeline](object_1) [Photoshop CS6](object_2) ?
+- show me how to [wo](action), the [The animation timeline](object_1) [Photoshop CS6](object_2) ?
+- is there any way to [wo](action), the [The animation timeline](object_1) [Photoshop CS6](object_2) ?
+
+- [Grab](action) or [drag layer](object_1) to [upward desire layer](object_2) in [same document](object_3)
+- how to [Grab](action), the [drag layer](object_1) [upward desire layer](object_2) [same document](object_3) ?
+- [Grab](action), the [drag layer](object_1) [upward desire layer](object_2) [same document](object_3)
+- how do I [Grab](action), the [drag layer](object_1) [upward desire layer](object_2) [same document](object_3) ?
+- i dont know how to [Grab](action), the [drag layer](object_1) [upward desire layer](object_2) [same document](object_3) ?
+- tell me the way to [Grab](action), the [drag layer](object_1) [upward desire layer](object_2) [same document](object_3) ?
+- tell me how to [Grab](action), the [drag layer](object_1) [upward desire layer](object_2) [same document](object_3) ?
+- show me the way to [Grab](action), the [drag layer](object_1) [upward desire layer](object_2) [same document](object_3) ?
+- show me how to [Grab](action), the [drag layer](object_1) [upward desire layer](object_2) [same document](object_3) ?
+- is there any way to [Grab](action), the [drag layer](object_1) [upward desire layer](object_2) [same document](object_3) ?
+
+- [Ca](action)nt see [psd or tiff images](object_1) in [PS](object_2).... [only icons](object_3) appear
+- how to [Ca](action), the [psd or tiff images](object_1) [PS](object_2) [only icons](object_3) ?
+- [Ca](action), the [psd or tiff images](object_1) [PS](object_2) [only icons](object_3)
+- how do I [Ca](action), the [psd or tiff images](object_1) [PS](object_2) [only icons](object_3) ?
+- i dont know how to [Ca](action), the [psd or tiff images](object_1) [PS](object_2) [only icons](object_3) ?
+- tell me the way to [Ca](action), the [psd or tiff images](object_1) [PS](object_2) [only icons](object_3) ?
+- tell me how to [Ca](action), the [psd or tiff images](object_1) [PS](object_2) [only icons](object_3) ?
+- show me the way to [Ca](action), the [psd or tiff images](object_1) [PS](object_2) [only icons](object_3) ?
+- show me how to [Ca](action), the [psd or tiff images](object_1) [PS](object_2) [only icons](object_3) ?
+- is there any way to [Ca](action), the [psd or tiff images](object_1) [PS](object_2) [only icons](object_3) ?
+
+- [Creating](action) [a Slideshow](object_1) of [your step](object_2) by [step actions](object_3)
+- how to [Creating](action), the [a Slideshow](object_1) [your step](object_2) [step actions](object_3) ?
+- [Creating](action), the [a Slideshow](object_1) [your step](object_2) [step actions](object_3)
+- how do I [Creating](action), the [a Slideshow](object_1) [your step](object_2) [step actions](object_3) ?
+- i dont know how to [Creating](action), the [a Slideshow](object_1) [your step](object_2) [step actions](object_3) ?
+- tell me the way to [Creating](action), the [a Slideshow](object_1) [your step](object_2) [step actions](object_3) ?
+- tell me how to [Creating](action), the [a Slideshow](object_1) [your step](object_2) [step actions](object_3) ?
+- show me the way to [Creating](action), the [a Slideshow](object_1) [your step](object_2) [step actions](object_3) ?
+- show me how to [Creating](action), the [a Slideshow](object_1) [your step](object_2) [step actions](object_3) ?
+- is there any way to [Creating](action), the [a Slideshow](object_1) [your step](object_2) [step actions](object_3) ?
+
+- [[Clipping](action) mask problem](object_1): can't see [my picture](object_2)
+- how to [Clipping](action), the [Clipping mask problem](object_1) [my picture](object_2) ?
+- [Clipping](action), the [Clipping mask problem](object_1) [my picture](object_2)
+- how do I [Clipping](action), the [Clipping mask problem](object_1) [my picture](object_2) ?
+- i dont know how to [Clipping](action), the [Clipping mask problem](object_1) [my picture](object_2) ?
+- tell me the way to [Clipping](action), the [Clipping mask problem](object_1) [my picture](object_2) ?
+- tell me how to [Clipping](action), the [Clipping mask problem](object_1) [my picture](object_2) ?
+- show me the way to [Clipping](action), the [Clipping mask problem](object_1) [my picture](object_2) ?
+- show me how to [Clipping](action), the [Clipping mask problem](object_1) [my picture](object_2) ?
+- is there any way to [Clipping](action), the [Clipping mask problem](object_1) [my picture](object_2) ?
+
+- [I](object_1) [installed](action) [C/C Photoshop & Bridge new update](object_2). [The icons](object_3) on my computer disappeared. How do [I](object_1) open it?
+- how to [installed](action), the [I](object_1) [C/C Photoshop & Bridge new update](object_2) [The icons](object_3) ?
+- [installed](action), the [I](object_1) [C/C Photoshop & Bridge new update](object_2) [The icons](object_3)
+- how do I [installed](action), the [I](object_1) [C/C Photoshop & Bridge new update](object_2) [The icons](object_3) ?
+- i dont know how to [installed](action), the [I](object_1) [C/C Photoshop & Bridge new update](object_2) [The icons](object_3) ?
+- tell me the way to [installed](action), the [I](object_1) [C/C Photoshop & Bridge new update](object_2) [The icons](object_3) ?
+- tell me how to [installed](action), the [I](object_1) [C/C Photoshop & Bridge new update](object_2) [The icons](object_3) ?
+- show me the way to [installed](action), the [I](object_1) [C/C Photoshop & Bridge new update](object_2) [The icons](object_3) ?
+- show me how to [installed](action), the [I](object_1) [C/C Photoshop & Bridge new update](object_2) [The icons](object_3) ?
+- is there any way to [installed](action), the [I](object_1) [C/C Photoshop & Bridge new update](object_2) [The icons](object_3) ?
+
+- [Running](action) [multiple photomerges](object_1) one after another
+- how to [Running](action), the [multiple photomerges](object_1) ?
+- [Running](action), the [multiple photomerges](object_1)
+- how do I [Running](action), the [multiple photomerges](object_1) ?
+- i dont know how to [Running](action), the [multiple photomerges](object_1) ?
+- tell me the way to [Running](action), the [multiple photomerges](object_1) ?
+- tell me how to [Running](action), the [multiple photomerges](object_1) ?
+- show me the way to [Running](action), the [multiple photomerges](object_1) ?
+- show me how to [Running](action), the [multiple photomerges](object_1) ?
+- is there any way to [Running](action), the [multiple photomerges](object_1) ?
+
+- how to [EASILY](object_1) [make](action) [a cinemagraph](object_2) in [Photoshop](object_3)
+- how to [make](action), the [EASILY](object_1) [a cinemagraph](object_2) [Photoshop](object_3) ?
+- [make](action), the [EASILY](object_1) [a cinemagraph](object_2) [Photoshop](object_3)
+- how do I [make](action), the [EASILY](object_1) [a cinemagraph](object_2) [Photoshop](object_3) ?
+- i dont know how to [make](action), the [EASILY](object_1) [a cinemagraph](object_2) [Photoshop](object_3) ?
+- tell me the way to [make](action), the [EASILY](object_1) [a cinemagraph](object_2) [Photoshop](object_3) ?
+- tell me how to [make](action), the [EASILY](object_1) [a cinemagraph](object_2) [Photoshop](object_3) ?
+- show me the way to [make](action), the [EASILY](object_1) [a cinemagraph](object_2) [Photoshop](object_3) ?
+- show me how to [make](action), the [EASILY](object_1) [a cinemagraph](object_2) [Photoshop](object_3) ?
+- is there any way to [make](action), the [EASILY](object_1) [a cinemagraph](object_2) [Photoshop](object_3) ?
+
+- [How to [Open](action) ai file](object_1) in [photoshop](object_2)?
+- how to [Open](action), the [How to Open ai file](object_1) [photoshop](object_2) ?
+- [Open](action), the [How to Open ai file](object_1) [photoshop](object_2)
+- how do I [Open](action), the [How to Open ai file](object_1) [photoshop](object_2) ?
+- i dont know how to [Open](action), the [How to Open ai file](object_1) [photoshop](object_2) ?
+- tell me the way to [Open](action), the [How to Open ai file](object_1) [photoshop](object_2) ?
+- tell me how to [Open](action), the [How to Open ai file](object_1) [photoshop](object_2) ?
+- show me the way to [Open](action), the [How to Open ai file](object_1) [photoshop](object_2) ?
+- show me how to [Open](action), the [How to Open ai file](object_1) [photoshop](object_2) ?
+- is there any way to [Open](action), the [How to Open ai file](object_1) [photoshop](object_2) ?
+
+- Get [[layerSet](action) size](object_1) but ignore [Effect layer](object_2).
+- how to [layerSet](action), the [layerSet size](object_1) [Effect layer](object_2) ?
+- [layerSet](action), the [layerSet size](object_1) [Effect layer](object_2)
+- how do I [layerSet](action), the [layerSet size](object_1) [Effect layer](object_2) ?
+- i dont know how to [layerSet](action), the [layerSet size](object_1) [Effect layer](object_2) ?
+- tell me the way to [layerSet](action), the [layerSet size](object_1) [Effect layer](object_2) ?
+- tell me how to [layerSet](action), the [layerSet size](object_1) [Effect layer](object_2) ?
+- show me the way to [layerSet](action), the [layerSet size](object_1) [Effect layer](object_2) ?
+- show me how to [layerSet](action), the [layerSet size](object_1) [Effect layer](object_2) ?
+- is there any way to [layerSet](action), the [layerSet size](object_1) [Effect layer](object_2) ?
+
+- [Keyboard shortcuts](object_1) do not [work](action) in [Adobe Photoshop CC](object_2) even after troubleshooting [all steps](object_3) listed on the help page
+- how to [work](action), the [Keyboard shortcuts](object_1) [Adobe Photoshop CC](object_2) [all steps](object_3) ?
+- [work](action), the [Keyboard shortcuts](object_1) [Adobe Photoshop CC](object_2) [all steps](object_3)
+- how do I [work](action), the [Keyboard shortcuts](object_1) [Adobe Photoshop CC](object_2) [all steps](object_3) ?
+- i dont know how to [work](action), the [Keyboard shortcuts](object_1) [Adobe Photoshop CC](object_2) [all steps](object_3) ?
+- tell me the way to [work](action), the [Keyboard shortcuts](object_1) [Adobe Photoshop CC](object_2) [all steps](object_3) ?
+- tell me how to [work](action), the [Keyboard shortcuts](object_1) [Adobe Photoshop CC](object_2) [all steps](object_3) ?
+- show me the way to [work](action), the [Keyboard shortcuts](object_1) [Adobe Photoshop CC](object_2) [all steps](object_3) ?
+- show me how to [work](action), the [Keyboard shortcuts](object_1) [Adobe Photoshop CC](object_2) [all steps](object_3) ?
+- is there any way to [work](action), the [Keyboard shortcuts](object_1) [Adobe Photoshop CC](object_2) [all steps](object_3) ?
+
+- [[Remove](action) background](object_1) from [plastic wrap - part](object_2) 2
+- how to [Remove](action), the [Remove background](object_1) [plastic wrap - part](object_2) ?
+- [Remove](action), the [Remove background](object_1) [plastic wrap - part](object_2)
+- how do I [Remove](action), the [Remove background](object_1) [plastic wrap - part](object_2) ?
+- i dont know how to [Remove](action), the [Remove background](object_1) [plastic wrap - part](object_2) ?
+- tell me the way to [Remove](action), the [Remove background](object_1) [plastic wrap - part](object_2) ?
+- tell me how to [Remove](action), the [Remove background](object_1) [plastic wrap - part](object_2) ?
+- show me the way to [Remove](action), the [Remove background](object_1) [plastic wrap - part](object_2) ?
+- show me how to [Remove](action), the [Remove background](object_1) [plastic wrap - part](object_2) ?
+- is there any way to [Remove](action), the [Remove background](object_1) [plastic wrap - part](object_2) ?
+
+- [Shortcut](object_1) to [flip](action) [a layer](object_2) horizontal/vertical
+- how to [flip](action), the [Shortcut](object_1) [a layer](object_2) ?
+- [flip](action), the [Shortcut](object_1) [a layer](object_2)
+- how do I [flip](action), the [Shortcut](object_1) [a layer](object_2) ?
+- i dont know how to [flip](action), the [Shortcut](object_1) [a layer](object_2) ?
+- tell me the way to [flip](action), the [Shortcut](object_1) [a layer](object_2) ?
+- tell me how to [flip](action), the [Shortcut](object_1) [a layer](object_2) ?
+- show me the way to [flip](action), the [Shortcut](object_1) [a layer](object_2) ?
+- show me how to [flip](action), the [Shortcut](object_1) [a layer](object_2) ?
+- is there any way to [flip](action), the [Shortcut](object_1) [a layer](object_2) ?
+
+- How to [repair](action) [a worn spot](object_1) in [a photo](object_2) over [hair](object_3)
+- how to [repair](action), the [a worn spot](object_1) [a photo](object_2) [hair](object_3) ?
+- [repair](action), the [a worn spot](object_1) [a photo](object_2) [hair](object_3)
+- how do I [repair](action), the [a worn spot](object_1) [a photo](object_2) [hair](object_3) ?
+- i dont know how to [repair](action), the [a worn spot](object_1) [a photo](object_2) [hair](object_3) ?
+- tell me the way to [repair](action), the [a worn spot](object_1) [a photo](object_2) [hair](object_3) ?
+- tell me how to [repair](action), the [a worn spot](object_1) [a photo](object_2) [hair](object_3) ?
+- show me the way to [repair](action), the [a worn spot](object_1) [a photo](object_2) [hair](object_3) ?
+- show me how to [repair](action), the [a worn spot](object_1) [a photo](object_2) [hair](object_3) ?
+- is there any way to [repair](action), the [a worn spot](object_1) [a photo](object_2) [hair](object_3) ?
+
+- [can](action) not complete [the request](object_1),because [the program](object_2) error
+- how to [can](action), the [the request](object_1) [the program](object_2) ?
+- [can](action), the [the request](object_1) [the program](object_2)
+- how do I [can](action), the [the request](object_1) [the program](object_2) ?
+- i dont know how to [can](action), the [the request](object_1) [the program](object_2) ?
+- tell me the way to [can](action), the [the request](object_1) [the program](object_2) ?
+- tell me how to [can](action), the [the request](object_1) [the program](object_2) ?
+- show me the way to [can](action), the [the request](object_1) [the program](object_2) ?
+- show me how to [can](action), the [the request](object_1) [the program](object_2) ?
+- is there any way to [can](action), the [the request](object_1) [the program](object_2) ?
+
+- How do [you](object_1) [mask](action) [the hair](object_2) perfectly ?
+- how to [mask](action), the [you](object_1) [the hair](object_2) ?
+- [mask](action), the [you](object_1) [the hair](object_2)
+- how do I [mask](action), the [you](object_1) [the hair](object_2) ?
+- i dont know how to [mask](action), the [you](object_1) [the hair](object_2) ?
+- tell me the way to [mask](action), the [you](object_1) [the hair](object_2) ?
+- tell me how to [mask](action), the [you](object_1) [the hair](object_2) ?
+- show me the way to [mask](action), the [you](object_1) [the hair](object_2) ?
+- show me how to [mask](action), the [you](object_1) [the hair](object_2) ?
+- is there any way to [mask](action), the [you](object_1) [the hair](object_2) ?
+
+- [I](object_1) [need](action) [help](object_2) please [[How to re-set Preferences](object_3)?]
+- how to [need](action), the [I](object_1) [help](object_2) [[How to re-set Preferences](object_3) ?
+- [need](action), the [I](object_1) [help](object_2) [[How to re-set Preferences](object_3)
+- how do I [need](action), the [I](object_1) [help](object_2) [[How to re-set Preferences](object_3) ?
+- i dont know how to [need](action), the [I](object_1) [help](object_2) [[How to re-set Preferences](object_3) ?
+- tell me the way to [need](action), the [I](object_1) [help](object_2) [[How to re-set Preferences](object_3) ?
+- tell me how to [need](action), the [I](object_1) [help](object_2) [[How to re-set Preferences](object_3) ?
+- show me the way to [need](action), the [I](object_1) [help](object_2) [[How to re-set Preferences](object_3) ?
+- show me how to [need](action), the [I](object_1) [help](object_2) [[How to re-set Preferences](object_3) ?
+- is there any way to [need](action), the [I](object_1) [help](object_2) [[How to re-set Preferences](object_3) ?
+
+- How to [render](action) [transparent clouds](object_1) in [Photoshop](object_2)?
+- how to [render](action), the [transparent clouds](object_1) [Photoshop](object_2) ?
+- [render](action), the [transparent clouds](object_1) [Photoshop](object_2)
+- how do I [render](action), the [transparent clouds](object_1) [Photoshop](object_2) ?
+- i dont know how to [render](action), the [transparent clouds](object_1) [Photoshop](object_2) ?
+- tell me the way to [render](action), the [transparent clouds](object_1) [Photoshop](object_2) ?
+- tell me how to [render](action), the [transparent clouds](object_1) [Photoshop](object_2) ?
+- show me the way to [render](action), the [transparent clouds](object_1) [Photoshop](object_2) ?
+- show me how to [render](action), the [transparent clouds](object_1) [Photoshop](object_2) ?
+- is there any way to [render](action), the [transparent clouds](object_1) [Photoshop](object_2) ?
+
+- [Ca](action)n't open [photos](object_1) in [PShop](object_2)
+- how to [Ca](action), the [photos](object_1) [PShop](object_2) ?
+- [Ca](action), the [photos](object_1) [PShop](object_2)
+- how do I [Ca](action), the [photos](object_1) [PShop](object_2) ?
+- i dont know how to [Ca](action), the [photos](object_1) [PShop](object_2) ?
+- tell me the way to [Ca](action), the [photos](object_1) [PShop](object_2) ?
+- tell me how to [Ca](action), the [photos](object_1) [PShop](object_2) ?
+- show me the way to [Ca](action), the [photos](object_1) [PShop](object_2) ?
+- show me how to [Ca](action), the [photos](object_1) [PShop](object_2) ?
+- is there any way to [Ca](action), the [photos](object_1) [PShop](object_2) ?
+
+- [It](object_1) [seems](action) when rotating b[it](object_3)maps [the result](object_2) is often fuzzy, [it](object_3) never used to be like this.
+- how to [seems](action), the [It](object_1) [the result](object_2) [it](object_3) ?
+- [seems](action), the [It](object_1) [the result](object_2) [it](object_3)
+- how do I [seems](action), the [It](object_1) [the result](object_2) [it](object_3) ?
+- i dont know how to [seems](action), the [It](object_1) [the result](object_2) [it](object_3) ?
+- tell me the way to [seems](action), the [It](object_1) [the result](object_2) [it](object_3) ?
+- tell me how to [seems](action), the [It](object_1) [the result](object_2) [it](object_3) ?
+- show me the way to [seems](action), the [It](object_1) [the result](object_2) [it](object_3) ?
+- show me how to [seems](action), the [It](object_1) [the result](object_2) [it](object_3) ?
+- is there any way to [seems](action), the [It](object_1) [the result](object_2) [it](object_3) ?
+
+- [Scratch [disk](object_3)s](object_1) / After [freeing](action) [space](object_2) on [disk](object_3), still not working
+- how to [freeing](action), the [Scratch disks](object_1) [space](object_2) [disk](object_3) ?
+- [freeing](action), the [Scratch disks](object_1) [space](object_2) [disk](object_3)
+- how do I [freeing](action), the [Scratch disks](object_1) [space](object_2) [disk](object_3) ?
+- i dont know how to [freeing](action), the [Scratch disks](object_1) [space](object_2) [disk](object_3) ?
+- tell me the way to [freeing](action), the [Scratch disks](object_1) [space](object_2) [disk](object_3) ?
+- tell me how to [freeing](action), the [Scratch disks](object_1) [space](object_2) [disk](object_3) ?
+- show me the way to [freeing](action), the [Scratch disks](object_1) [space](object_2) [disk](object_3) ?
+- show me how to [freeing](action), the [Scratch disks](object_1) [space](object_2) [disk](object_3) ?
+- is there any way to [freeing](action), the [Scratch disks](object_1) [space](object_2) [disk](object_3) ?
+
+- [Scaling](action) [an image](object_1) in [video timeline](object_2)?
+- how to [Scaling](action), the [an image](object_1) [video timeline](object_2) ?
+- [Scaling](action), the [an image](object_1) [video timeline](object_2)
+- how do I [Scaling](action), the [an image](object_1) [video timeline](object_2) ?
+- i dont know how to [Scaling](action), the [an image](object_1) [video timeline](object_2) ?
+- tell me the way to [Scaling](action), the [an image](object_1) [video timeline](object_2) ?
+- tell me how to [Scaling](action), the [an image](object_1) [video timeline](object_2) ?
+- show me the way to [Scaling](action), the [an image](object_1) [video timeline](object_2) ?
+- show me how to [Scaling](action), the [an image](object_1) [video timeline](object_2) ?
+- is there any way to [Scaling](action), the [an image](object_1) [video timeline](object_2) ?
+
+- [apply](action) [logo](object_1) and suitable for [different sizes](object_2)
+- how to [apply](action), the [logo](object_1) [different sizes](object_2) ?
+- [apply](action), the [logo](object_1) [different sizes](object_2)
+- how do I [apply](action), the [logo](object_1) [different sizes](object_2) ?
+- i dont know how to [apply](action), the [logo](object_1) [different sizes](object_2) ?
+- tell me the way to [apply](action), the [logo](object_1) [different sizes](object_2) ?
+- tell me how to [apply](action), the [logo](object_1) [different sizes](object_2) ?
+- show me the way to [apply](action), the [logo](object_1) [different sizes](object_2) ?
+- show me how to [apply](action), the [logo](object_1) [different sizes](object_2) ?
+- is there any way to [apply](action), the [logo](object_1) [different sizes](object_2) ?
+
+- [Add](action) [digit](object_1) to batch [rename files](object_2)
+- how to [Add](action), the [digit](object_1) [rename files](object_2) ?
+- [Add](action), the [digit](object_1) [rename files](object_2)
+- how do I [Add](action), the [digit](object_1) [rename files](object_2) ?
+- i dont know how to [Add](action), the [digit](object_1) [rename files](object_2) ?
+- tell me the way to [Add](action), the [digit](object_1) [rename files](object_2) ?
+- tell me how to [Add](action), the [digit](object_1) [rename files](object_2) ?
+- show me the way to [Add](action), the [digit](object_1) [rename files](object_2) ?
+- show me how to [Add](action), the [digit](object_1) [rename files](object_2) ?
+- is there any way to [Add](action), the [digit](object_1) [rename files](object_2) ?
+
+- [Problem](object_1) with [opening](action) [raw files](object_2)
+- how to [opening](action), the [Problem](object_1) [raw files](object_2) ?
+- [opening](action), the [Problem](object_1) [raw files](object_2)
+- how do I [opening](action), the [Problem](object_1) [raw files](object_2) ?
+- i dont know how to [opening](action), the [Problem](object_1) [raw files](object_2) ?
+- tell me the way to [opening](action), the [Problem](object_1) [raw files](object_2) ?
+- tell me how to [opening](action), the [Problem](object_1) [raw files](object_2) ?
+- show me the way to [opening](action), the [Problem](object_1) [raw files](object_2) ?
+- show me how to [opening](action), the [Problem](object_1) [raw files](object_2) ?
+- is there any way to [opening](action), the [Problem](object_1) [raw files](object_2) ?
+
+- [Photoshop CS5](object_1) [Unable to [reinstall](action) upgrade [version](object_2): earlier [version](object_2) serial number not accepted]
+- how to [reinstall](action), the [Photoshop CS5](object_1) [version](object_2) [earlier version serial number](object_3) ?
+- [reinstall](action), the [Photoshop CS5](object_1) [version](object_2) [earlier version serial number](object_3)
+- how do I [reinstall](action), the [Photoshop CS5](object_1) [version](object_2) [earlier version serial number](object_3) ?
+- i dont know how to [reinstall](action), the [Photoshop CS5](object_1) [version](object_2) [earlier version serial number](object_3) ?
+- tell me the way to [reinstall](action), the [Photoshop CS5](object_1) [version](object_2) [earlier version serial number](object_3) ?
+- tell me how to [reinstall](action), the [Photoshop CS5](object_1) [version](object_2) [earlier version serial number](object_3) ?
+- show me the way to [reinstall](action), the [Photoshop CS5](object_1) [version](object_2) [earlier version serial number](object_3) ?
+- show me how to [reinstall](action), the [Photoshop CS5](object_1) [version](object_2) [earlier version serial number](object_3) ?
+- is there any way to [reinstall](action), the [Photoshop CS5](object_1) [version](object_2) [earlier version serial number](object_3) ?
+
+- [Remove](action) faint [a line](object_1) through [full picture](object_2)
+- how to [Remove](action), the [a line](object_1) [full picture](object_2) ?
+- [Remove](action), the [a line](object_1) [full picture](object_2)
+- how do I [Remove](action), the [a line](object_1) [full picture](object_2) ?
+- i dont know how to [Remove](action), the [a line](object_1) [full picture](object_2) ?
+- tell me the way to [Remove](action), the [a line](object_1) [full picture](object_2) ?
+- tell me how to [Remove](action), the [a line](object_1) [full picture](object_2) ?
+- show me the way to [Remove](action), the [a line](object_1) [full picture](object_2) ?
+- show me how to [Remove](action), the [a line](object_1) [full picture](object_2) ?
+- is there any way to [Remove](action), the [a line](object_1) [full picture](object_2) ?
+
+- [PS CC](object_1) 19.0  [Can](action)not open or save .PDF [files](object_2)
+- how to [Can](action), the [PS CC](object_1) [files](object_2) ?
+- [Can](action), the [PS CC](object_1) [files](object_2)
+- how do I [Can](action), the [PS CC](object_1) [files](object_2) ?
+- i dont know how to [Can](action), the [PS CC](object_1) [files](object_2) ?
+- tell me the way to [Can](action), the [PS CC](object_1) [files](object_2) ?
+- tell me how to [Can](action), the [PS CC](object_1) [files](object_2) ?
+- show me the way to [Can](action), the [PS CC](object_1) [files](object_2) ?
+- show me how to [Can](action), the [PS CC](object_1) [files](object_2) ?
+- is there any way to [Can](action), the [PS CC](object_1) [files](object_2) ?
+
+- [I](object_1) [ca](action)n't use [Eyedropper tool](object_2)
+- how to [ca](action), the [I](object_1) [Eyedropper tool](object_2) ?
+- [ca](action), the [I](object_1) [Eyedropper tool](object_2)
+- how do I [ca](action), the [I](object_1) [Eyedropper tool](object_2) ?
+- i dont know how to [ca](action), the [I](object_1) [Eyedropper tool](object_2) ?
+- tell me the way to [ca](action), the [I](object_1) [Eyedropper tool](object_2) ?
+- tell me how to [ca](action), the [I](object_1) [Eyedropper tool](object_2) ?
+- show me the way to [ca](action), the [I](object_1) [Eyedropper tool](object_2) ?
+- show me how to [ca](action), the [I](object_1) [Eyedropper tool](object_2) ?
+- is there any way to [ca](action), the [I](object_1) [Eyedropper tool](object_2) ?
+
+- [Sharpen](action),shake [reduction tool](object_1) on [AEB](object_2) Merged images
+- how to [Sharpen](action), the [reduction tool](object_1) [AEB](object_2) ?
+- [Sharpen](action), the [reduction tool](object_1) [AEB](object_2)
+- how do I [Sharpen](action), the [reduction tool](object_1) [AEB](object_2) ?
+- i dont know how to [Sharpen](action), the [reduction tool](object_1) [AEB](object_2) ?
+- tell me the way to [Sharpen](action), the [reduction tool](object_1) [AEB](object_2) ?
+- tell me how to [Sharpen](action), the [reduction tool](object_1) [AEB](object_2) ?
+- show me the way to [Sharpen](action), the [reduction tool](object_1) [AEB](object_2) ?
+- show me how to [Sharpen](action), the [reduction tool](object_1) [AEB](object_2) ?
+- is there any way to [Sharpen](action), the [reduction tool](object_1) [AEB](object_2) ?
+
+- how to [print](action) [an image](object_1) with [a transperant background](object_2) in [photoshop](object_3)
+- how to [print](action), the [an image](object_1) [a transperant background](object_2) [photoshop](object_3) ?
+- [print](action), the [an image](object_1) [a transperant background](object_2) [photoshop](object_3)
+- how do I [print](action), the [an image](object_1) [a transperant background](object_2) [photoshop](object_3) ?
+- i dont know how to [print](action), the [an image](object_1) [a transperant background](object_2) [photoshop](object_3) ?
+- tell me the way to [print](action), the [an image](object_1) [a transperant background](object_2) [photoshop](object_3) ?
+- tell me how to [print](action), the [an image](object_1) [a transperant background](object_2) [photoshop](object_3) ?
+- show me the way to [print](action), the [an image](object_1) [a transperant background](object_2) [photoshop](object_3) ?
+- show me how to [print](action), the [an image](object_1) [a transperant background](object_2) [photoshop](object_3) ?
+- is there any way to [print](action), the [an image](object_1) [a transperant background](object_2) [photoshop](object_3) ?
+
+- how do [i](object_1) [place](action) an [i](object_1)mage [i](object_1)nto [a photo](object_3)
+- how to [place](action), the [i](object_1) [an image](object_2) [a photo](object_3) ?
+- [place](action), the [i](object_1) [an image](object_2) [a photo](object_3)
+- how do I [place](action), the [i](object_1) [an image](object_2) [a photo](object_3) ?
+- i dont know how to [place](action), the [i](object_1) [an image](object_2) [a photo](object_3) ?
+- tell me the way to [place](action), the [i](object_1) [an image](object_2) [a photo](object_3) ?
+- tell me how to [place](action), the [i](object_1) [an image](object_2) [a photo](object_3) ?
+- show me the way to [place](action), the [i](object_1) [an image](object_2) [a photo](object_3) ?
+- show me how to [place](action), the [i](object_1) [an image](object_2) [a photo](object_3) ?
+- is there any way to [place](action), the [i](object_1) [an image](object_2) [a photo](object_3) ?
+
+- How do [I](object_1) [create](action) [the transition](object_2) between [two complementary colors](object_3) as pigment would?
+- how to [create](action), the [I](object_1) [the transition](object_2) [two complementary colors](object_3) ?
+- [create](action), the [I](object_1) [the transition](object_2) [two complementary colors](object_3)
+- how do I [create](action), the [I](object_1) [the transition](object_2) [two complementary colors](object_3) ?
+- i dont know how to [create](action), the [I](object_1) [the transition](object_2) [two complementary colors](object_3) ?
+- tell me the way to [create](action), the [I](object_1) [the transition](object_2) [two complementary colors](object_3) ?
+- tell me how to [create](action), the [I](object_1) [the transition](object_2) [two complementary colors](object_3) ?
+- show me the way to [create](action), the [I](object_1) [the transition](object_2) [two complementary colors](object_3) ?
+- show me how to [create](action), the [I](object_1) [the transition](object_2) [two complementary colors](object_3) ?
+- is there any way to [create](action), the [I](object_1) [the transition](object_2) [two complementary colors](object_3) ?
+
+- Is [it](object_1) possible to [make](action) [this picture](object_2) JUST using [photoshop](object_3)?
+- how to [make](action), the [it](object_1) [this picture](object_2) [photoshop](object_3) ?
+- [make](action), the [it](object_1) [this picture](object_2) [photoshop](object_3)
+- how do I [make](action), the [it](object_1) [this picture](object_2) [photoshop](object_3) ?
+- i dont know how to [make](action), the [it](object_1) [this picture](object_2) [photoshop](object_3) ?
+- tell me the way to [make](action), the [it](object_1) [this picture](object_2) [photoshop](object_3) ?
+- tell me how to [make](action), the [it](object_1) [this picture](object_2) [photoshop](object_3) ?
+- show me the way to [make](action), the [it](object_1) [this picture](object_2) [photoshop](object_3) ?
+- show me how to [make](action), the [it](object_1) [this picture](object_2) [photoshop](object_3) ?
+- is there any way to [make](action), the [it](object_1) [this picture](object_2) [photoshop](object_3) ?
+
+- [Seeing](action) [warning triangles](object_1) in the layers palette beside [text layers](object_2) when opening [PS7 files](object_3) in CS2, and getting popup notices.
+- how to [Seeing](action), the [warning triangles](object_1) [text layers](object_2) [PS7 files](object_3) ?
+- [Seeing](action), the [warning triangles](object_1) [text layers](object_2) [PS7 files](object_3)
+- how do I [Seeing](action), the [warning triangles](object_1) [text layers](object_2) [PS7 files](object_3) ?
+- i dont know how to [Seeing](action), the [warning triangles](object_1) [text layers](object_2) [PS7 files](object_3) ?
+- tell me the way to [Seeing](action), the [warning triangles](object_1) [text layers](object_2) [PS7 files](object_3) ?
+- tell me how to [Seeing](action), the [warning triangles](object_1) [text layers](object_2) [PS7 files](object_3) ?
+- show me the way to [Seeing](action), the [warning triangles](object_1) [text layers](object_2) [PS7 files](object_3) ?
+- show me how to [Seeing](action), the [warning triangles](object_1) [text layers](object_2) [PS7 files](object_3) ?
+- is there any way to [Seeing](action), the [warning triangles](object_1) [text layers](object_2) [PS7 files](object_3) ?
+
+- [Downloading](action) [Types](object_1) of [Brush Strokes](object_2)
+- how to [Downloading](action), the [Types](object_1) [Brush Strokes](object_2) ?
+- [Downloading](action), the [Types](object_1) [Brush Strokes](object_2)
+- how do I [Downloading](action), the [Types](object_1) [Brush Strokes](object_2) ?
+- i dont know how to [Downloading](action), the [Types](object_1) [Brush Strokes](object_2) ?
+- tell me the way to [Downloading](action), the [Types](object_1) [Brush Strokes](object_2) ?
+- tell me how to [Downloading](action), the [Types](object_1) [Brush Strokes](object_2) ?
+- show me the way to [Downloading](action), the [Types](object_1) [Brush Strokes](object_2) ?
+- show me how to [Downloading](action), the [Types](object_1) [Brush Strokes](object_2) ?
+- is there any way to [Downloading](action), the [Types](object_1) [Brush Strokes](object_2) ?
+
+- How do [you](object_1) [stop](action) [the image](object_2) from moving while drawing?
+- how to [stop](action), the [you](object_1) [the image](object_2) ?
+- [stop](action), the [you](object_1) [the image](object_2)
+- how do I [stop](action), the [you](object_1) [the image](object_2) ?
+- i dont know how to [stop](action), the [you](object_1) [the image](object_2) ?
+- tell me the way to [stop](action), the [you](object_1) [the image](object_2) ?
+- tell me how to [stop](action), the [you](object_1) [the image](object_2) ?
+- show me the way to [stop](action), the [you](object_1) [the image](object_2) ?
+- show me how to [stop](action), the [you](object_1) [the image](object_2) ?
+- is there any way to [stop](action), the [you](object_1) [the image](object_2) ?
+
+- [I](object_1)'m not able to [make](action) [a selection](object_2) with [script](object_3) to some of specific colors
+- how to [make](action), the [I](object_1) [a selection](object_2) [script](object_3) ?
+- [make](action), the [I](object_1) [a selection](object_2) [script](object_3)
+- how do I [make](action), the [I](object_1) [a selection](object_2) [script](object_3) ?
+- i dont know how to [make](action), the [I](object_1) [a selection](object_2) [script](object_3) ?
+- tell me the way to [make](action), the [I](object_1) [a selection](object_2) [script](object_3) ?
+- tell me how to [make](action), the [I](object_1) [a selection](object_2) [script](object_3) ?
+- show me the way to [make](action), the [I](object_1) [a selection](object_2) [script](object_3) ?
+- show me how to [make](action), the [I](object_1) [a selection](object_2) [script](object_3) ?
+- is there any way to [make](action), the [I](object_1) [a selection](object_2) [script](object_3) ?
+
+- Did [[you](object_2)](object_1) [know](action) that when [[you](object_2)](object_1) copy [a layer](object_3) it looses quality ?
+- how to [know](action), the [you](object_1) [you](object_2) [a layer](object_3) ?
+- [know](action), the [you](object_1) [you](object_2) [a layer](object_3)
+- how do I [know](action), the [you](object_1) [you](object_2) [a layer](object_3) ?
+- i dont know how to [know](action), the [you](object_1) [you](object_2) [a layer](object_3) ?
+- tell me the way to [know](action), the [you](object_1) [you](object_2) [a layer](object_3) ?
+- tell me how to [know](action), the [you](object_1) [you](object_2) [a layer](object_3) ?
+- show me the way to [know](action), the [you](object_1) [you](object_2) [a layer](object_3) ?
+- show me how to [know](action), the [you](object_1) [you](object_2) [a layer](object_3) ?
+- is there any way to [know](action), the [you](object_1) [you](object_2) [a layer](object_3) ?
+
+- to [run](action) [a script](object_1) when opening [a dialog box](object_2)?
+- how to [run](action), the [a script](object_1) [a dialog box](object_2) ?
+- [run](action), the [a script](object_1) [a dialog box](object_2)
+- how do I [run](action), the [a script](object_1) [a dialog box](object_2) ?
+- i dont know how to [run](action), the [a script](object_1) [a dialog box](object_2) ?
+- tell me the way to [run](action), the [a script](object_1) [a dialog box](object_2) ?
+- tell me how to [run](action), the [a script](object_1) [a dialog box](object_2) ?
+- show me the way to [run](action), the [a script](object_1) [a dialog box](object_2) ?
+- show me how to [run](action), the [a script](object_1) [a dialog box](object_2) ?
+- is there any way to [run](action), the [a script](object_1) [a dialog box](object_2) ?
+
+- [straighten](action) [a horizontal line](object_1) using [Ruler, Options](object_2), [Straighten](object_3)
+- how to [straighten](action), the [a horizontal line](object_1) [Ruler, Options](object_2) [Straighten](object_3) ?
+- [straighten](action), the [a horizontal line](object_1) [Ruler, Options](object_2) [Straighten](object_3)
+- how do I [straighten](action), the [a horizontal line](object_1) [Ruler, Options](object_2) [Straighten](object_3) ?
+- i dont know how to [straighten](action), the [a horizontal line](object_1) [Ruler, Options](object_2) [Straighten](object_3) ?
+- tell me the way to [straighten](action), the [a horizontal line](object_1) [Ruler, Options](object_2) [Straighten](object_3) ?
+- tell me how to [straighten](action), the [a horizontal line](object_1) [Ruler, Options](object_2) [Straighten](object_3) ?
+- show me the way to [straighten](action), the [a horizontal line](object_1) [Ruler, Options](object_2) [Straighten](object_3) ?
+- show me how to [straighten](action), the [a horizontal line](object_1) [Ruler, Options](object_2) [Straighten](object_3) ?
+- is there any way to [straighten](action), the [a horizontal line](object_1) [Ruler, Options](object_2) [Straighten](object_3) ?
+
+- [Renaming](action) other than [selected layer](object_1) using [Action Manager](object_2)
+- how to [Renaming](action), the [selected layer](object_1) [Action Manager](object_2) ?
+- [Renaming](action), the [selected layer](object_1) [Action Manager](object_2)
+- how do I [Renaming](action), the [selected layer](object_1) [Action Manager](object_2) ?
+- i dont know how to [Renaming](action), the [selected layer](object_1) [Action Manager](object_2) ?
+- tell me the way to [Renaming](action), the [selected layer](object_1) [Action Manager](object_2) ?
+- tell me how to [Renaming](action), the [selected layer](object_1) [Action Manager](object_2) ?
+- show me the way to [Renaming](action), the [selected layer](object_1) [Action Manager](object_2) ?
+- show me how to [Renaming](action), the [selected layer](object_1) [Action Manager](object_2) ?
+- is there any way to [Renaming](action), the [selected layer](object_1) [Action Manager](object_2) ?
+
+- [[Highlighted](action) fonts](object_1) do not show [live changes](object_2)
+- how to [Highlighted](action), the [Highlighted fonts](object_1) [live changes](object_2) ?
+- [Highlighted](action), the [Highlighted fonts](object_1) [live changes](object_2)
+- how do I [Highlighted](action), the [Highlighted fonts](object_1) [live changes](object_2) ?
+- i dont know how to [Highlighted](action), the [Highlighted fonts](object_1) [live changes](object_2) ?
+- tell me the way to [Highlighted](action), the [Highlighted fonts](object_1) [live changes](object_2) ?
+- tell me how to [Highlighted](action), the [Highlighted fonts](object_1) [live changes](object_2) ?
+- show me the way to [Highlighted](action), the [Highlighted fonts](object_1) [live changes](object_2) ?
+- show me how to [Highlighted](action), the [Highlighted fonts](object_1) [live changes](object_2) ?
+- is there any way to [Highlighted](action), the [Highlighted fonts](object_1) [live changes](object_2) ?
+
+- [[Photoshop](object_2) Droplet](object_1) "[can](action)not communicate with [Photoshop](object_2)"
+- how to [can](action), the [Photoshop Droplet](object_1) [Photoshop](object_2) ?
+- [can](action), the [Photoshop Droplet](object_1) [Photoshop](object_2)
+- how do I [can](action), the [Photoshop Droplet](object_1) [Photoshop](object_2) ?
+- i dont know how to [can](action), the [Photoshop Droplet](object_1) [Photoshop](object_2) ?
+- tell me the way to [can](action), the [Photoshop Droplet](object_1) [Photoshop](object_2) ?
+- tell me how to [can](action), the [Photoshop Droplet](object_1) [Photoshop](object_2) ?
+- show me the way to [can](action), the [Photoshop Droplet](object_1) [Photoshop](object_2) ?
+- show me how to [can](action), the [Photoshop Droplet](object_1) [Photoshop](object_2) ?
+- is there any way to [can](action), the [Photoshop Droplet](object_1) [Photoshop](object_2) ?
+
+- [Updated Camera Raw](object_1) and now [I](object_2) [ca](action)n't open [CR2 Files](object_3) in PS CC
+- how to [ca](action), the [Updated Camera Raw](object_1) [I](object_2) [CR2 Files](object_3) ?
+- [ca](action), the [Updated Camera Raw](object_1) [I](object_2) [CR2 Files](object_3)
+- how do I [ca](action), the [Updated Camera Raw](object_1) [I](object_2) [CR2 Files](object_3) ?
+- i dont know how to [ca](action), the [Updated Camera Raw](object_1) [I](object_2) [CR2 Files](object_3) ?
+- tell me the way to [ca](action), the [Updated Camera Raw](object_1) [I](object_2) [CR2 Files](object_3) ?
+- tell me how to [ca](action), the [Updated Camera Raw](object_1) [I](object_2) [CR2 Files](object_3) ?
+- show me the way to [ca](action), the [Updated Camera Raw](object_1) [I](object_2) [CR2 Files](object_3) ?
+- show me how to [ca](action), the [Updated Camera Raw](object_1) [I](object_2) [CR2 Files](object_3) ?
+- is there any way to [ca](action), the [Updated Camera Raw](object_1) [I](object_2) [CR2 Files](object_3) ?
+
+- [Applying](action) [Color Filter](object_1)
+- how to [Applying](action), the [Color Filter](object_1) ?
+- [Applying](action), the [Color Filter](object_1)
+- how do I [Applying](action), the [Color Filter](object_1) ?
+- i dont know how to [Applying](action), the [Color Filter](object_1) ?
+- tell me the way to [Applying](action), the [Color Filter](object_1) ?
+- tell me how to [Applying](action), the [Color Filter](object_1) ?
+- show me the way to [Applying](action), the [Color Filter](object_1) ?
+- show me how to [Applying](action), the [Color Filter](object_1) ?
+- is there any way to [Applying](action), the [Color Filter](object_1) ?
+
+- MacOS Cover [Flow](action) Not Working for [Photoshop jpegs](object_1) saved on [SMB Volume](object_2)
+- how to [Flow](action), the [Photoshop jpegs](object_1) [SMB Volume](object_2) ?
+- [Flow](action), the [Photoshop jpegs](object_1) [SMB Volume](object_2)
+- how do I [Flow](action), the [Photoshop jpegs](object_1) [SMB Volume](object_2) ?
+- i dont know how to [Flow](action), the [Photoshop jpegs](object_1) [SMB Volume](object_2) ?
+- tell me the way to [Flow](action), the [Photoshop jpegs](object_1) [SMB Volume](object_2) ?
+- tell me how to [Flow](action), the [Photoshop jpegs](object_1) [SMB Volume](object_2) ?
+- show me the way to [Flow](action), the [Photoshop jpegs](object_1) [SMB Volume](object_2) ?
+- show me how to [Flow](action), the [Photoshop jpegs](object_1) [SMB Volume](object_2) ?
+- is there any way to [Flow](action), the [Photoshop jpegs](object_1) [SMB Volume](object_2) ?
+
+- [needing](action) [advice](object_1) on [how to transition](object_2)
+- how to [needing](action), the [advice](object_1) [how to transition](object_2) ?
+- [needing](action), the [advice](object_1) [how to transition](object_2)
+- how do I [needing](action), the [advice](object_1) [how to transition](object_2) ?
+- i dont know how to [needing](action), the [advice](object_1) [how to transition](object_2) ?
+- tell me the way to [needing](action), the [advice](object_1) [how to transition](object_2) ?
+- tell me how to [needing](action), the [advice](object_1) [how to transition](object_2) ?
+- show me the way to [needing](action), the [advice](object_1) [how to transition](object_2) ?
+- show me how to [needing](action), the [advice](object_1) [how to transition](object_2) ?
+- is there any way to [needing](action), the [advice](object_1) [how to transition](object_2) ?
+
+- [Ca](action)n't open [PNG](object_1) in [Photoshop](object_2)
+- how to [Ca](action), the [PNG](object_1) [Photoshop](object_2) ?
+- [Ca](action), the [PNG](object_1) [Photoshop](object_2)
+- how do I [Ca](action), the [PNG](object_1) [Photoshop](object_2) ?
+- i dont know how to [Ca](action), the [PNG](object_1) [Photoshop](object_2) ?
+- tell me the way to [Ca](action), the [PNG](object_1) [Photoshop](object_2) ?
+- tell me how to [Ca](action), the [PNG](object_1) [Photoshop](object_2) ?
+- show me the way to [Ca](action), the [PNG](object_1) [Photoshop](object_2) ?
+- show me how to [Ca](action), the [PNG](object_1) [Photoshop](object_2) ?
+- is there any way to [Ca](action), the [PNG](object_1) [Photoshop](object_2) ?
+
+- [Mac](object_1) [wo](action)n't load [Photoshop brush packs](object_2)
+- how to [wo](action), the [Mac](object_1) [Photoshop brush packs](object_2) ?
+- [wo](action), the [Mac](object_1) [Photoshop brush packs](object_2)
+- how do I [wo](action), the [Mac](object_1) [Photoshop brush packs](object_2) ?
+- i dont know how to [wo](action), the [Mac](object_1) [Photoshop brush packs](object_2) ?
+- tell me the way to [wo](action), the [Mac](object_1) [Photoshop brush packs](object_2) ?
+- tell me how to [wo](action), the [Mac](object_1) [Photoshop brush packs](object_2) ?
+- show me the way to [wo](action), the [Mac](object_1) [Photoshop brush packs](object_2) ?
+- show me how to [wo](action), the [Mac](object_1) [Photoshop brush packs](object_2) ?
+- is there any way to [wo](action), the [Mac](object_1) [Photoshop brush packs](object_2) ?
+
+- [Photoshop 2018 problem](object_1), [need](action) to use [PS](object_2) 2017
+- how to [need](action), the [Photoshop 2018 problem](object_1) [PS](object_2) ?
+- [need](action), the [Photoshop 2018 problem](object_1) [PS](object_2)
+- how do I [need](action), the [Photoshop 2018 problem](object_1) [PS](object_2) ?
+- i dont know how to [need](action), the [Photoshop 2018 problem](object_1) [PS](object_2) ?
+- tell me the way to [need](action), the [Photoshop 2018 problem](object_1) [PS](object_2) ?
+- tell me how to [need](action), the [Photoshop 2018 problem](object_1) [PS](object_2) ?
+- show me the way to [need](action), the [Photoshop 2018 problem](object_1) [PS](object_2) ?
+- show me how to [need](action), the [Photoshop 2018 problem](object_1) [PS](object_2) ?
+- is there any way to [need](action), the [Photoshop 2018 problem](object_1) [PS](object_2) ?
+
+- [Photoshop](object_1) [saves](action) [file](object_2) with [an Illustrator icon](object_3)
+- how to [saves](action), the [Photoshop](object_1) [file](object_2) [an Illustrator icon](object_3) ?
+- [saves](action), the [Photoshop](object_1) [file](object_2) [an Illustrator icon](object_3)
+- how do I [saves](action), the [Photoshop](object_1) [file](object_2) [an Illustrator icon](object_3) ?
+- i dont know how to [saves](action), the [Photoshop](object_1) [file](object_2) [an Illustrator icon](object_3) ?
+- tell me the way to [saves](action), the [Photoshop](object_1) [file](object_2) [an Illustrator icon](object_3) ?
+- tell me how to [saves](action), the [Photoshop](object_1) [file](object_2) [an Illustrator icon](object_3) ?
+- show me the way to [saves](action), the [Photoshop](object_1) [file](object_2) [an Illustrator icon](object_3) ?
+- show me how to [saves](action), the [Photoshop](object_1) [file](object_2) [an Illustrator icon](object_3) ?
+- is there any way to [saves](action), the [Photoshop](object_1) [file](object_2) [an Illustrator icon](object_3) ?
+
+- [[Dismantled](action) PNG](object_1) images [compilation](object_2) of [an animation](object_3)
+- how to [Dismantled](action), the [Dismantled PNG](object_1) [compilation](object_2) [an animation](object_3) ?
+- [Dismantled](action), the [Dismantled PNG](object_1) [compilation](object_2) [an animation](object_3)
+- how do I [Dismantled](action), the [Dismantled PNG](object_1) [compilation](object_2) [an animation](object_3) ?
+- i dont know how to [Dismantled](action), the [Dismantled PNG](object_1) [compilation](object_2) [an animation](object_3) ?
+- tell me the way to [Dismantled](action), the [Dismantled PNG](object_1) [compilation](object_2) [an animation](object_3) ?
+- tell me how to [Dismantled](action), the [Dismantled PNG](object_1) [compilation](object_2) [an animation](object_3) ?
+- show me the way to [Dismantled](action), the [Dismantled PNG](object_1) [compilation](object_2) [an animation](object_3) ?
+- show me how to [Dismantled](action), the [Dismantled PNG](object_1) [compilation](object_2) [an animation](object_3) ?
+- is there any way to [Dismantled](action), the [Dismantled PNG](object_1) [compilation](object_2) [an animation](object_3) ?
+
+- [Trouble](object_1) with [placing](action) [an image](object_2)....
+- how to [placing](action), the [Trouble](object_1) [an image](object_2) ?
+- [placing](action), the [Trouble](object_1) [an image](object_2)
+- how do I [placing](action), the [Trouble](object_1) [an image](object_2) ?
+- i dont know how to [placing](action), the [Trouble](object_1) [an image](object_2) ?
+- tell me the way to [placing](action), the [Trouble](object_1) [an image](object_2) ?
+- tell me how to [placing](action), the [Trouble](object_1) [an image](object_2) ?
+- show me the way to [placing](action), the [Trouble](object_1) [an image](object_2) ?
+- show me how to [placing](action), the [Trouble](object_1) [an image](object_2) ?
+- is there any way to [placing](action), the [Trouble](object_1) [an image](object_2) ?
+
+- how [can](action) [I](object_1) change [language](object_2) for [use actions](object_3) in english - PS CC 2018
+- how to [can](action), the [I](object_1) [language](object_2) [use actions](object_3) ?
+- [can](action), the [I](object_1) [language](object_2) [use actions](object_3)
+- how do I [can](action), the [I](object_1) [language](object_2) [use actions](object_3) ?
+- i dont know how to [can](action), the [I](object_1) [language](object_2) [use actions](object_3) ?
+- tell me the way to [can](action), the [I](object_1) [language](object_2) [use actions](object_3) ?
+- tell me how to [can](action), the [I](object_1) [language](object_2) [use actions](object_3) ?
+- show me the way to [can](action), the [I](object_1) [language](object_2) [use actions](object_3) ?
+- show me how to [can](action), the [I](object_1) [language](object_2) [use actions](object_3) ?
+- is there any way to [can](action), the [I](object_1) [language](object_2) [use actions](object_3) ?
+
+- [Help](action), [I](object_1) was in [a hit](object_2) and [run](object_3) and cant find the culprit
+- how to [Help](action), the [I](object_1) [a hit](object_2) [run](object_3) ?
+- [Help](action), the [I](object_1) [a hit](object_2) [run](object_3)
+- how do I [Help](action), the [I](object_1) [a hit](object_2) [run](object_3) ?
+- i dont know how to [Help](action), the [I](object_1) [a hit](object_2) [run](object_3) ?
+- tell me the way to [Help](action), the [I](object_1) [a hit](object_2) [run](object_3) ?
+- tell me how to [Help](action), the [I](object_1) [a hit](object_2) [run](object_3) ?
+- show me the way to [Help](action), the [I](object_1) [a hit](object_2) [run](object_3) ?
+- show me how to [Help](action), the [I](object_1) [a hit](object_2) [run](object_3) ?
+- is there any way to [Help](action), the [I](object_1) [a hit](object_2) [run](object_3) ?
+
+- How to [make](action) [scans](object_1) of [Kodak color](object_2) slides less blurry?
+- how to [make](action), the [scans](object_1) [Kodak color](object_2) ?
+- [make](action), the [scans](object_1) [Kodak color](object_2)
+- how do I [make](action), the [scans](object_1) [Kodak color](object_2) ?
+- i dont know how to [make](action), the [scans](object_1) [Kodak color](object_2) ?
+- tell me the way to [make](action), the [scans](object_1) [Kodak color](object_2) ?
+- tell me how to [make](action), the [scans](object_1) [Kodak color](object_2) ?
+- show me the way to [make](action), the [scans](object_1) [Kodak color](object_2) ?
+- show me how to [make](action), the [scans](object_1) [Kodak color](object_2) ?
+- is there any way to [make](action), the [scans](object_1) [Kodak color](object_2) ?
+
+- [Help](object_1): Since [update PS](object_2) [recognizes](action) [my pen](object_3) but I cant draw anymore. Also Smooth Scrolling Problems.
+- how to [recognizes](action), the [Help](object_1) [update PS](object_2) [my pen](object_3) ?
+- [recognizes](action), the [Help](object_1) [update PS](object_2) [my pen](object_3)
+- how do I [recognizes](action), the [Help](object_1) [update PS](object_2) [my pen](object_3) ?
+- i dont know how to [recognizes](action), the [Help](object_1) [update PS](object_2) [my pen](object_3) ?
+- tell me the way to [recognizes](action), the [Help](object_1) [update PS](object_2) [my pen](object_3) ?
+- tell me how to [recognizes](action), the [Help](object_1) [update PS](object_2) [my pen](object_3) ?
+- show me the way to [recognizes](action), the [Help](object_1) [update PS](object_2) [my pen](object_3) ?
+- show me how to [recognizes](action), the [Help](object_1) [update PS](object_2) [my pen](object_3) ?
+- is there any way to [recognizes](action), the [Help](object_1) [update PS](object_2) [my pen](object_3) ?
+
+- How to [add](action) [an angle control](object_1).
+- how to [add](action), the [an angle control](object_1) ?
+- [add](action), the [an angle control](object_1)
+- how do I [add](action), the [an angle control](object_1) ?
+- i dont know how to [add](action), the [an angle control](object_1) ?
+- tell me the way to [add](action), the [an angle control](object_1) ?
+- tell me how to [add](action), the [an angle control](object_1) ?
+- show me the way to [add](action), the [an angle control](object_1) ?
+- show me how to [add](action), the [an angle control](object_1) ?
+- is there any way to [add](action), the [an angle control](object_1) ?
+
+- [Ca](action)n't change [print output size](object_1) from 8.5x11
+- how to [Ca](action), the [print output size](object_1) ?
+- [Ca](action), the [print output size](object_1)
+- how do I [Ca](action), the [print output size](object_1) ?
+- i dont know how to [Ca](action), the [print output size](object_1) ?
+- tell me the way to [Ca](action), the [print output size](object_1) ?
+- tell me how to [Ca](action), the [print output size](object_1) ?
+- show me the way to [Ca](action), the [print output size](object_1) ?
+- show me how to [Ca](action), the [print output size](object_1) ?
+- is there any way to [Ca](action), the [print output size](object_1) ?
+
+- Best [drawing](action) [paper](object_1) for [scanning](object_2)?
+- how to [drawing](action), the [paper](object_1) [scanning](object_2) ?
+- [drawing](action), the [paper](object_1) [scanning](object_2)
+- how do I [drawing](action), the [paper](object_1) [scanning](object_2) ?
+- i dont know how to [drawing](action), the [paper](object_1) [scanning](object_2) ?
+- tell me the way to [drawing](action), the [paper](object_1) [scanning](object_2) ?
+- tell me how to [drawing](action), the [paper](object_1) [scanning](object_2) ?
+- show me the way to [drawing](action), the [paper](object_1) [scanning](object_2) ?
+- show me how to [drawing](action), the [paper](object_1) [scanning](object_2) ?
+- is there any way to [drawing](action), the [paper](object_1) [scanning](object_2) ?
+
+- [Certain areas](object_1) [produce](action) [different colors](object_2) and [I](object_3) have no clue why.
+- how to [produce](action), the [Certain areas](object_1) [different colors](object_2) [I](object_3) ?
+- [produce](action), the [Certain areas](object_1) [different colors](object_2) [I](object_3)
+- how do I [produce](action), the [Certain areas](object_1) [different colors](object_2) [I](object_3) ?
+- i dont know how to [produce](action), the [Certain areas](object_1) [different colors](object_2) [I](object_3) ?
+- tell me the way to [produce](action), the [Certain areas](object_1) [different colors](object_2) [I](object_3) ?
+- tell me how to [produce](action), the [Certain areas](object_1) [different colors](object_2) [I](object_3) ?
+- show me the way to [produce](action), the [Certain areas](object_1) [different colors](object_2) [I](object_3) ?
+- show me how to [produce](action), the [Certain areas](object_1) [different colors](object_2) [I](object_3) ?
+- is there any way to [produce](action), the [Certain areas](object_1) [different colors](object_2) [I](object_3) ?
+
+- [Ca](action)n't render [PNG image sequences](object_1) in [Photoshop](object_2)
+- how to [Ca](action), the [PNG image sequences](object_1) [Photoshop](object_2) ?
+- [Ca](action), the [PNG image sequences](object_1) [Photoshop](object_2)
+- how do I [Ca](action), the [PNG image sequences](object_1) [Photoshop](object_2) ?
+- i dont know how to [Ca](action), the [PNG image sequences](object_1) [Photoshop](object_2) ?
+- tell me the way to [Ca](action), the [PNG image sequences](object_1) [Photoshop](object_2) ?
+- tell me how to [Ca](action), the [PNG image sequences](object_1) [Photoshop](object_2) ?
+- show me the way to [Ca](action), the [PNG image sequences](object_1) [Photoshop](object_2) ?
+- show me how to [Ca](action), the [PNG image sequences](object_1) [Photoshop](object_2) ?
+- is there any way to [Ca](action), the [PNG image sequences](object_1) [Photoshop](object_2) ?
+
+- [[chosed](action) brush](object_1) jumps back to [previous used tool](object_2)
+- how to [chosed](action), the [chosed brush](object_1) [previous used tool](object_2) ?
+- [chosed](action), the [chosed brush](object_1) [previous used tool](object_2)
+- how do I [chosed](action), the [chosed brush](object_1) [previous used tool](object_2) ?
+- i dont know how to [chosed](action), the [chosed brush](object_1) [previous used tool](object_2) ?
+- tell me the way to [chosed](action), the [chosed brush](object_1) [previous used tool](object_2) ?
+- tell me how to [chosed](action), the [chosed brush](object_1) [previous used tool](object_2) ?
+- show me the way to [chosed](action), the [chosed brush](object_1) [previous used tool](object_2) ?
+- show me how to [chosed](action), the [chosed brush](object_1) [previous used tool](object_2) ?
+- is there any way to [chosed](action), the [chosed brush](object_1) [previous used tool](object_2) ?
+
+- [Removing](action) [canvas texture](object_1)
+- how to [Removing](action), the [canvas texture](object_1) ?
+- [Removing](action), the [canvas texture](object_1)
+- how do I [Removing](action), the [canvas texture](object_1) ?
+- i dont know how to [Removing](action), the [canvas texture](object_1) ?
+- tell me the way to [Removing](action), the [canvas texture](object_1) ?
+- tell me how to [Removing](action), the [canvas texture](object_1) ?
+- show me the way to [Removing](action), the [canvas texture](object_1) ?
+- show me how to [Removing](action), the [canvas texture](object_1) ?
+- is there any way to [Removing](action), the [canvas texture](object_1) ?
+
+- How do [I](object_1) [edit](action) [text layers](object_2) in [PSD templates](object_3)?
+- how to [edit](action), the [I](object_1) [text layers](object_2) [PSD templates](object_3) ?
+- [edit](action), the [I](object_1) [text layers](object_2) [PSD templates](object_3)
+- how do I [edit](action), the [I](object_1) [text layers](object_2) [PSD templates](object_3) ?
+- i dont know how to [edit](action), the [I](object_1) [text layers](object_2) [PSD templates](object_3) ?
+- tell me the way to [edit](action), the [I](object_1) [text layers](object_2) [PSD templates](object_3) ?
+- tell me how to [edit](action), the [I](object_1) [text layers](object_2) [PSD templates](object_3) ?
+- show me the way to [edit](action), the [I](object_1) [text layers](object_2) [PSD templates](object_3) ?
+- show me how to [edit](action), the [I](object_1) [text layers](object_2) [PSD templates](object_3) ?
+- is there any way to [edit](action), the [I](object_1) [text layers](object_2) [PSD templates](object_3) ?
+
+- [Removing](action) [glare](object_1) on [a photo](object_2)
+- how to [Removing](action), the [glare](object_1) [a photo](object_2) ?
+- [Removing](action), the [glare](object_1) [a photo](object_2)
+- how do I [Removing](action), the [glare](object_1) [a photo](object_2) ?
+- i dont know how to [Removing](action), the [glare](object_1) [a photo](object_2) ?
+- tell me the way to [Removing](action), the [glare](object_1) [a photo](object_2) ?
+- tell me how to [Removing](action), the [glare](object_1) [a photo](object_2) ?
+- show me the way to [Removing](action), the [glare](object_1) [a photo](object_2) ?
+- show me how to [Removing](action), the [glare](object_1) [a photo](object_2) ?
+- is there any way to [Removing](action), the [glare](object_1) [a photo](object_2) ?
+
+- [border](object_1) [wo](action)n't print in [photoshop](object_2)
+- how to [wo](action), the [border](object_1) [photoshop](object_2) ?
+- [wo](action), the [border](object_1) [photoshop](object_2)
+- how do I [wo](action), the [border](object_1) [photoshop](object_2) ?
+- i dont know how to [wo](action), the [border](object_1) [photoshop](object_2) ?
+- tell me the way to [wo](action), the [border](object_1) [photoshop](object_2) ?
+- tell me how to [wo](action), the [border](object_1) [photoshop](object_2) ?
+- show me the way to [wo](action), the [border](object_1) [photoshop](object_2) ?
+- show me how to [wo](action), the [border](object_1) [photoshop](object_2) ?
+- is there any way to [wo](action), the [border](object_1) [photoshop](object_2) ?
+
+- [PS 2018 Layer selection](object_1) doesn't [work](action) properly. [It](object_2) ignores [some layers](object_3)
+- how to [work](action), the [PS 2018 Layer selection](object_1) [It](object_2) [some layers](object_3) ?
+- [work](action), the [PS 2018 Layer selection](object_1) [It](object_2) [some layers](object_3)
+- how do I [work](action), the [PS 2018 Layer selection](object_1) [It](object_2) [some layers](object_3) ?
+- i dont know how to [work](action), the [PS 2018 Layer selection](object_1) [It](object_2) [some layers](object_3) ?
+- tell me the way to [work](action), the [PS 2018 Layer selection](object_1) [It](object_2) [some layers](object_3) ?
+- tell me how to [work](action), the [PS 2018 Layer selection](object_1) [It](object_2) [some layers](object_3) ?
+- show me the way to [work](action), the [PS 2018 Layer selection](object_1) [It](object_2) [some layers](object_3) ?
+- show me how to [work](action), the [PS 2018 Layer selection](object_1) [It](object_2) [some layers](object_3) ?
+- is there any way to [work](action), the [PS 2018 Layer selection](object_1) [It](object_2) [some layers](object_3) ?
+
+- [Photoshop CS5](object_1) [crashes](action) when changing [file info](object_2)
+- how to [crashes](action), the [Photoshop CS5](object_1) [file info](object_2) ?
+- [crashes](action), the [Photoshop CS5](object_1) [file info](object_2)
+- how do I [crashes](action), the [Photoshop CS5](object_1) [file info](object_2) ?
+- i dont know how to [crashes](action), the [Photoshop CS5](object_1) [file info](object_2) ?
+- tell me the way to [crashes](action), the [Photoshop CS5](object_1) [file info](object_2) ?
+- tell me how to [crashes](action), the [Photoshop CS5](object_1) [file info](object_2) ?
+- show me the way to [crashes](action), the [Photoshop CS5](object_1) [file info](object_2) ?
+- show me how to [crashes](action), the [Photoshop CS5](object_1) [file info](object_2) ?
+- is there any way to [crashes](action), the [Photoshop CS5](object_1) [file info](object_2) ?
+
+- [blurry p[i](object_3)xels](object_1) on [[i](object_3)mage](object_2) when [i](object_3) [change](action) the contrast or br[i](object_3)ghtness
+- how to [change](action), the [blurry pixels](object_1) [image](object_2) [i](object_3) ?
+- [change](action), the [blurry pixels](object_1) [image](object_2) [i](object_3)
+- how do I [change](action), the [blurry pixels](object_1) [image](object_2) [i](object_3) ?
+- i dont know how to [change](action), the [blurry pixels](object_1) [image](object_2) [i](object_3) ?
+- tell me the way to [change](action), the [blurry pixels](object_1) [image](object_2) [i](object_3) ?
+- tell me how to [change](action), the [blurry pixels](object_1) [image](object_2) [i](object_3) ?
+- show me the way to [change](action), the [blurry pixels](object_1) [image](object_2) [i](object_3) ?
+- show me how to [change](action), the [blurry pixels](object_1) [image](object_2) [i](object_3) ?
+- is there any way to [change](action), the [blurry pixels](object_1) [image](object_2) [i](object_3) ?
+
+- [Photoshop CC](object_1) 2018: [Ca](action)n’t Move and [reposition texture](object_2) In [Layer Style](object_3) in Bevel and Emboss
+- how to [Ca](action), the [Photoshop CC](object_1) [reposition texture](object_2) [Layer Style](object_3) ?
+- [Ca](action), the [Photoshop CC](object_1) [reposition texture](object_2) [Layer Style](object_3)
+- how do I [Ca](action), the [Photoshop CC](object_1) [reposition texture](object_2) [Layer Style](object_3) ?
+- i dont know how to [Ca](action), the [Photoshop CC](object_1) [reposition texture](object_2) [Layer Style](object_3) ?
+- tell me the way to [Ca](action), the [Photoshop CC](object_1) [reposition texture](object_2) [Layer Style](object_3) ?
+- tell me how to [Ca](action), the [Photoshop CC](object_1) [reposition texture](object_2) [Layer Style](object_3) ?
+- show me the way to [Ca](action), the [Photoshop CC](object_1) [reposition texture](object_2) [Layer Style](object_3) ?
+- show me how to [Ca](action), the [Photoshop CC](object_1) [reposition texture](object_2) [Layer Style](object_3) ?
+- is there any way to [Ca](action), the [Photoshop CC](object_1) [reposition texture](object_2) [Layer Style](object_3) ?
+
+- [Can](action)not install [PS](object_1) 6 on macOS [high Sierra](object_2)
+- how to [Can](action), the [PS](object_1) [high Sierra](object_2) ?
+- [Can](action), the [PS](object_1) [high Sierra](object_2)
+- how do I [Can](action), the [PS](object_1) [high Sierra](object_2) ?
+- i dont know how to [Can](action), the [PS](object_1) [high Sierra](object_2) ?
+- tell me the way to [Can](action), the [PS](object_1) [high Sierra](object_2) ?
+- tell me how to [Can](action), the [PS](object_1) [high Sierra](object_2) ?
+- show me the way to [Can](action), the [PS](object_1) [high Sierra](object_2) ?
+- show me how to [Can](action), the [PS](object_1) [high Sierra](object_2) ?
+- is there any way to [Can](action), the [PS](object_1) [high Sierra](object_2) ?
+
+- how to [apply](action) [changes](object_1) to [all images](object_2)
+- how to [apply](action), the [changes](object_1) [all images](object_2) ?
+- [apply](action), the [changes](object_1) [all images](object_2)
+- how do I [apply](action), the [changes](object_1) [all images](object_2) ?
+- i dont know how to [apply](action), the [changes](object_1) [all images](object_2) ?
+- tell me the way to [apply](action), the [changes](object_1) [all images](object_2) ?
+- tell me how to [apply](action), the [changes](object_1) [all images](object_2) ?
+- show me the way to [apply](action), the [changes](object_1) [all images](object_2) ?
+- show me how to [apply](action), the [changes](object_1) [all images](object_2) ?
+- is there any way to [apply](action), the [changes](object_1) [all images](object_2) ?
+
+- How to [make](action) [a shape](object_1) outline [a letter](object_2)
+- how to [make](action), the [a shape](object_1) [a letter](object_2) ?
+- [make](action), the [a shape](object_1) [a letter](object_2)
+- how do I [make](action), the [a shape](object_1) [a letter](object_2) ?
+- i dont know how to [make](action), the [a shape](object_1) [a letter](object_2) ?
+- tell me the way to [make](action), the [a shape](object_1) [a letter](object_2) ?
+- tell me how to [make](action), the [a shape](object_1) [a letter](object_2) ?
+- show me the way to [make](action), the [a shape](object_1) [a letter](object_2) ?
+- show me how to [make](action), the [a shape](object_1) [a letter](object_2) ?
+- is there any way to [make](action), the [a shape](object_1) [a letter](object_2) ?
+
+- [Ca](action)n't place [images](object_1)
+- how to [Ca](action), the [images](object_1) ?
+- [Ca](action), the [images](object_1)
+- how do I [Ca](action), the [images](object_1) ?
+- i dont know how to [Ca](action), the [images](object_1) ?
+- tell me the way to [Ca](action), the [images](object_1) ?
+- tell me how to [Ca](action), the [images](object_1) ?
+- show me the way to [Ca](action), the [images](object_1) ?
+- show me how to [Ca](action), the [images](object_1) ?
+- is there any way to [Ca](action), the [images](object_1) ?
+
+- [Photoshop CC](object_1) 2018: How do [I](object_2) [draw](action) [a line](object_3)?
+- how to [draw](action), the [Photoshop CC](object_1) [I](object_2) [a line](object_3) ?
+- [draw](action), the [Photoshop CC](object_1) [I](object_2) [a line](object_3)
+- how do I [draw](action), the [Photoshop CC](object_1) [I](object_2) [a line](object_3) ?
+- i dont know how to [draw](action), the [Photoshop CC](object_1) [I](object_2) [a line](object_3) ?
+- tell me the way to [draw](action), the [Photoshop CC](object_1) [I](object_2) [a line](object_3) ?
+- tell me how to [draw](action), the [Photoshop CC](object_1) [I](object_2) [a line](object_3) ?
+- show me the way to [draw](action), the [Photoshop CC](object_1) [I](object_2) [a line](object_3) ?
+- show me how to [draw](action), the [Photoshop CC](object_1) [I](object_2) [a line](object_3) ?
+- is there any way to [draw](action), the [Photoshop CC](object_1) [I](object_2) [a line](object_3) ?
+
+- [What](object_1) am [I](object_2) [doing](action) wrong? Cannot save as [brush](object_3)?
+- how to [doing](action), the [What](object_1) [I](object_2) [brush](object_3) ?
+- [doing](action), the [What](object_1) [I](object_2) [brush](object_3)
+- how do I [doing](action), the [What](object_1) [I](object_2) [brush](object_3) ?
+- i dont know how to [doing](action), the [What](object_1) [I](object_2) [brush](object_3) ?
+- tell me the way to [doing](action), the [What](object_1) [I](object_2) [brush](object_3) ?
+- tell me how to [doing](action), the [What](object_1) [I](object_2) [brush](object_3) ?
+- show me the way to [doing](action), the [What](object_1) [I](object_2) [brush](object_3) ?
+- show me how to [doing](action), the [What](object_1) [I](object_2) [brush](object_3) ?
+- is there any way to [doing](action), the [What](object_1) [I](object_2) [brush](object_3) ?
+
+- How to [add](action) [wrinkles](object_1) to [a layer](object_2) to make [a shirt design](object_3) look more real?
+- how to [add](action), the [wrinkles](object_1) [a layer](object_2) [a shirt design](object_3) ?
+- [add](action), the [wrinkles](object_1) [a layer](object_2) [a shirt design](object_3)
+- how do I [add](action), the [wrinkles](object_1) [a layer](object_2) [a shirt design](object_3) ?
+- i dont know how to [add](action), the [wrinkles](object_1) [a layer](object_2) [a shirt design](object_3) ?
+- tell me the way to [add](action), the [wrinkles](object_1) [a layer](object_2) [a shirt design](object_3) ?
+- tell me how to [add](action), the [wrinkles](object_1) [a layer](object_2) [a shirt design](object_3) ?
+- show me the way to [add](action), the [wrinkles](object_1) [a layer](object_2) [a shirt design](object_3) ?
+- show me how to [add](action), the [wrinkles](object_1) [a layer](object_2) [a shirt design](object_3) ?
+- is there any way to [add](action), the [wrinkles](object_1) [a layer](object_2) [a shirt design](object_3) ?
+
+- [Save](action) [pic](object_1) with [Photoshop 5.5megas](object_2), with paint 2.2megas, why?
+- how to [Save](action), the [pic](object_1) [Photoshop 5.5megas](object_2) ?
+- [Save](action), the [pic](object_1) [Photoshop 5.5megas](object_2)
+- how do I [Save](action), the [pic](object_1) [Photoshop 5.5megas](object_2) ?
+- i dont know how to [Save](action), the [pic](object_1) [Photoshop 5.5megas](object_2) ?
+- tell me the way to [Save](action), the [pic](object_1) [Photoshop 5.5megas](object_2) ?
+- tell me how to [Save](action), the [pic](object_1) [Photoshop 5.5megas](object_2) ?
+- show me the way to [Save](action), the [pic](object_1) [Photoshop 5.5megas](object_2) ?
+- show me how to [Save](action), the [pic](object_1) [Photoshop 5.5megas](object_2) ?
+- is there any way to [Save](action), the [pic](object_1) [Photoshop 5.5megas](object_2) ?
+
+- How to [handle](action) [center point error](object_1) on [coordination](object_2)?
+- how to [handle](action), the [center point error](object_1) [coordination](object_2) ?
+- [handle](action), the [center point error](object_1) [coordination](object_2)
+- how do I [handle](action), the [center point error](object_1) [coordination](object_2) ?
+- i dont know how to [handle](action), the [center point error](object_1) [coordination](object_2) ?
+- tell me the way to [handle](action), the [center point error](object_1) [coordination](object_2) ?
+- tell me how to [handle](action), the [center point error](object_1) [coordination](object_2) ?
+- show me the way to [handle](action), the [center point error](object_1) [coordination](object_2) ?
+- show me how to [handle](action), the [center point error](object_1) [coordination](object_2) ?
+- is there any way to [handle](action), the [center point error](object_1) [coordination](object_2) ?
+
+- [Ca](action)n't create [tree](object_1) in [Photoshop CC](object_2) 2018
+- how to [Ca](action), the [tree](object_1) [Photoshop CC](object_2) ?
+- [Ca](action), the [tree](object_1) [Photoshop CC](object_2)
+- how do I [Ca](action), the [tree](object_1) [Photoshop CC](object_2) ?
+- i dont know how to [Ca](action), the [tree](object_1) [Photoshop CC](object_2) ?
+- tell me the way to [Ca](action), the [tree](object_1) [Photoshop CC](object_2) ?
+- tell me how to [Ca](action), the [tree](object_1) [Photoshop CC](object_2) ?
+- show me the way to [Ca](action), the [tree](object_1) [Photoshop CC](object_2) ?
+- show me how to [Ca](action), the [tree](object_1) [Photoshop CC](object_2) ?
+- is there any way to [Ca](action), the [tree](object_1) [Photoshop CC](object_2) ?
+
+- [Photoshop CC](object_1) 2018 does not [update](action) hide/show [layers](object_2) on [Macbook Pro](object_3) 15" 2017
+- how to [update](action), the [Photoshop CC](object_1) [layers](object_2) [Macbook Pro](object_3) ?
+- [update](action), the [Photoshop CC](object_1) [layers](object_2) [Macbook Pro](object_3)
+- how do I [update](action), the [Photoshop CC](object_1) [layers](object_2) [Macbook Pro](object_3) ?
+- i dont know how to [update](action), the [Photoshop CC](object_1) [layers](object_2) [Macbook Pro](object_3) ?
+- tell me the way to [update](action), the [Photoshop CC](object_1) [layers](object_2) [Macbook Pro](object_3) ?
+- tell me how to [update](action), the [Photoshop CC](object_1) [layers](object_2) [Macbook Pro](object_3) ?
+- show me the way to [update](action), the [Photoshop CC](object_1) [layers](object_2) [Macbook Pro](object_3) ?
+- show me how to [update](action), the [Photoshop CC](object_1) [layers](object_2) [Macbook Pro](object_3) ?
+- is there any way to [update](action), the [Photoshop CC](object_1) [layers](object_2) [Macbook Pro](object_3) ?
+
+- Re: how to [cancel](action) [monthly subscription](object_1) to photoshop? [Website](object_2) leads [you](object_3) in a loop
+- how to [cancel](action), the [monthly subscription](object_1) [Website](object_2) [you](object_3) ?
+- [cancel](action), the [monthly subscription](object_1) [Website](object_2) [you](object_3)
+- how do I [cancel](action), the [monthly subscription](object_1) [Website](object_2) [you](object_3) ?
+- i dont know how to [cancel](action), the [monthly subscription](object_1) [Website](object_2) [you](object_3) ?
+- tell me the way to [cancel](action), the [monthly subscription](object_1) [Website](object_2) [you](object_3) ?
+- tell me how to [cancel](action), the [monthly subscription](object_1) [Website](object_2) [you](object_3) ?
+- show me the way to [cancel](action), the [monthly subscription](object_1) [Website](object_2) [you](object_3) ?
+- show me how to [cancel](action), the [monthly subscription](object_1) [Website](object_2) [you](object_3) ?
+- is there any way to [cancel](action), the [monthly subscription](object_1) [Website](object_2) [you](object_3) ?
+
+- [Add](action) [outlines](object_1) to [a background-less image](object_2)
+- how to [Add](action), the [outlines](object_1) [a background-less image](object_2) ?
+- [Add](action), the [outlines](object_1) [a background-less image](object_2)
+- how do I [Add](action), the [outlines](object_1) [a background-less image](object_2) ?
+- i dont know how to [Add](action), the [outlines](object_1) [a background-less image](object_2) ?
+- tell me the way to [Add](action), the [outlines](object_1) [a background-less image](object_2) ?
+- tell me how to [Add](action), the [outlines](object_1) [a background-less image](object_2) ?
+- show me the way to [Add](action), the [outlines](object_1) [a background-less image](object_2) ?
+- show me how to [Add](action), the [outlines](object_1) [a background-less image](object_2) ?
+- is there any way to [Add](action), the [outlines](object_1) [a background-less image](object_2) ?
+
+- How to [edit](action) [an image](object_1) to match [a hexadecimal value](object_2)?
+- how to [edit](action), the [an image](object_1) [a hexadecimal value](object_2) ?
+- [edit](action), the [an image](object_1) [a hexadecimal value](object_2)
+- how do I [edit](action), the [an image](object_1) [a hexadecimal value](object_2) ?
+- i dont know how to [edit](action), the [an image](object_1) [a hexadecimal value](object_2) ?
+- tell me the way to [edit](action), the [an image](object_1) [a hexadecimal value](object_2) ?
+- tell me how to [edit](action), the [an image](object_1) [a hexadecimal value](object_2) ?
+- show me the way to [edit](action), the [an image](object_1) [a hexadecimal value](object_2) ?
+- show me how to [edit](action), the [an image](object_1) [a hexadecimal value](object_2) ?
+- is there any way to [edit](action), the [an image](object_1) [a hexadecimal value](object_2) ?
+
+- [I](object_1) [ca](action)n't remove [the "s[ca](action)ling](object_2)" when resizing [a picture](object_3)
+- how to [ca](action), the [I](object_1) [the "scaling](object_2) [a picture](object_3) ?
+- [ca](action), the [I](object_1) [the "scaling](object_2) [a picture](object_3)
+- how do I [ca](action), the [I](object_1) [the "scaling](object_2) [a picture](object_3) ?
+- i dont know how to [ca](action), the [I](object_1) [the "scaling](object_2) [a picture](object_3) ?
+- tell me the way to [ca](action), the [I](object_1) [the "scaling](object_2) [a picture](object_3) ?
+- tell me how to [ca](action), the [I](object_1) [the "scaling](object_2) [a picture](object_3) ?
+- show me the way to [ca](action), the [I](object_1) [the "scaling](object_2) [a picture](object_3) ?
+- show me how to [ca](action), the [I](object_1) [the "scaling](object_2) [a picture](object_3) ?
+- is there any way to [ca](action), the [I](object_1) [the "scaling](object_2) [a picture](object_3) ?
+
+- How to [add](action) [an angle control](object_1)
+- how to [add](action), the [an angle control](object_1) ?
+- [add](action), the [an angle control](object_1)
+- how do I [add](action), the [an angle control](object_1) ?
+- i dont know how to [add](action), the [an angle control](object_1) ?
+- tell me the way to [add](action), the [an angle control](object_1) ?
+- tell me how to [add](action), the [an angle control](object_1) ?
+- show me the way to [add](action), the [an angle control](object_1) ?
+- show me how to [add](action), the [an angle control](object_1) ?
+- is there any way to [add](action), the [an angle control](object_1) ?
+
+- [Photoshop - Script](object_1) - How to [script](action) [Window](object_2)>[Arrange](object_3)>Match Zoom
+- how to [script](action), the [Photoshop - Script](object_1) [Window](object_2) [Arrange](object_3) ?
+- [script](action), the [Photoshop - Script](object_1) [Window](object_2) [Arrange](object_3)
+- how do I [script](action), the [Photoshop - Script](object_1) [Window](object_2) [Arrange](object_3) ?
+- i dont know how to [script](action), the [Photoshop - Script](object_1) [Window](object_2) [Arrange](object_3) ?
+- tell me the way to [script](action), the [Photoshop - Script](object_1) [Window](object_2) [Arrange](object_3) ?
+- tell me how to [script](action), the [Photoshop - Script](object_1) [Window](object_2) [Arrange](object_3) ?
+- show me the way to [script](action), the [Photoshop - Script](object_1) [Window](object_2) [Arrange](object_3) ?
+- show me how to [script](action), the [Photoshop - Script](object_1) [Window](object_2) [Arrange](object_3) ?
+- is there any way to [script](action), the [Photoshop - Script](object_1) [Window](object_2) [Arrange](object_3) ?
+
+- [Can](action)not select or move text.
+- how to [Can](action), the  ?
+- [Can](action), the 
+- how do I [Can](action), the  ?
+- i dont know how to [Can](action), the  ?
+- tell me the way to [Can](action), the  ?
+- tell me how to [Can](action), the  ?
+- show me the way to [Can](action), the  ?
+- show me how to [Can](action), the  ?
+- is there any way to [Can](action), the  ?
+
+- [Problem [modifying](action) gradients](object_1) in [the gradient editor](object_2)
+- how to [modifying](action), the [Problem modifying gradients](object_1) [the gradient editor](object_2) ?
+- [modifying](action), the [Problem modifying gradients](object_1) [the gradient editor](object_2)
+- how do I [modifying](action), the [Problem modifying gradients](object_1) [the gradient editor](object_2) ?
+- i dont know how to [modifying](action), the [Problem modifying gradients](object_1) [the gradient editor](object_2) ?
+- tell me the way to [modifying](action), the [Problem modifying gradients](object_1) [the gradient editor](object_2) ?
+- tell me how to [modifying](action), the [Problem modifying gradients](object_1) [the gradient editor](object_2) ?
+- show me the way to [modifying](action), the [Problem modifying gradients](object_1) [the gradient editor](object_2) ?
+- show me how to [modifying](action), the [Problem modifying gradients](object_1) [the gradient editor](object_2) ?
+- is there any way to [modifying](action), the [Problem modifying gradients](object_1) [the gradient editor](object_2) ?
+
+- [Saving](action) [multiple layers](object_1) as [separate images](object_2)
+- how to [Saving](action), the [multiple layers](object_1) [separate images](object_2) ?
+- [Saving](action), the [multiple layers](object_1) [separate images](object_2)
+- how do I [Saving](action), the [multiple layers](object_1) [separate images](object_2) ?
+- i dont know how to [Saving](action), the [multiple layers](object_1) [separate images](object_2) ?
+- tell me the way to [Saving](action), the [multiple layers](object_1) [separate images](object_2) ?
+- tell me how to [Saving](action), the [multiple layers](object_1) [separate images](object_2) ?
+- show me the way to [Saving](action), the [multiple layers](object_1) [separate images](object_2) ?
+- show me how to [Saving](action), the [multiple layers](object_1) [separate images](object_2) ?
+- is there any way to [Saving](action), the [multiple layers](object_1) [separate images](object_2) ?
+
+- how to [fill](action) [pixels](object_1) around [quick selection](object_2)
+- how to [fill](action), the [pixels](object_1) [quick selection](object_2) ?
+- [fill](action), the [pixels](object_1) [quick selection](object_2)
+- how do I [fill](action), the [pixels](object_1) [quick selection](object_2) ?
+- i dont know how to [fill](action), the [pixels](object_1) [quick selection](object_2) ?
+- tell me the way to [fill](action), the [pixels](object_1) [quick selection](object_2) ?
+- tell me how to [fill](action), the [pixels](object_1) [quick selection](object_2) ?
+- show me the way to [fill](action), the [pixels](object_1) [quick selection](object_2) ?
+- show me how to [fill](action), the [pixels](object_1) [quick selection](object_2) ?
+- is there any way to [fill](action), the [pixels](object_1) [quick selection](object_2) ?
+
+- [Reducing](action) [brush size problem](object_1) with [touch-ring rotation](object_2) on [wacom Intuos](object_3) pro
+- how to [Reducing](action), the [brush size problem](object_1) [touch-ring rotation](object_2) [wacom Intuos](object_3) ?
+- [Reducing](action), the [brush size problem](object_1) [touch-ring rotation](object_2) [wacom Intuos](object_3)
+- how do I [Reducing](action), the [brush size problem](object_1) [touch-ring rotation](object_2) [wacom Intuos](object_3) ?
+- i dont know how to [Reducing](action), the [brush size problem](object_1) [touch-ring rotation](object_2) [wacom Intuos](object_3) ?
+- tell me the way to [Reducing](action), the [brush size problem](object_1) [touch-ring rotation](object_2) [wacom Intuos](object_3) ?
+- tell me how to [Reducing](action), the [brush size problem](object_1) [touch-ring rotation](object_2) [wacom Intuos](object_3) ?
+- show me the way to [Reducing](action), the [brush size problem](object_1) [touch-ring rotation](object_2) [wacom Intuos](object_3) ?
+- show me how to [Reducing](action), the [brush size problem](object_1) [touch-ring rotation](object_2) [wacom Intuos](object_3) ?
+- is there any way to [Reducing](action), the [brush size problem](object_1) [touch-ring rotation](object_2) [wacom Intuos](object_3) ?
+
+- [Help](action) with morphing [an image](object_1) into [a different shape](object_2)
+- how to [Help](action), the [an image](object_1) [a different shape](object_2) ?
+- [Help](action), the [an image](object_1) [a different shape](object_2)
+- how do I [Help](action), the [an image](object_1) [a different shape](object_2) ?
+- i dont know how to [Help](action), the [an image](object_1) [a different shape](object_2) ?
+- tell me the way to [Help](action), the [an image](object_1) [a different shape](object_2) ?
+- tell me how to [Help](action), the [an image](object_1) [a different shape](object_2) ?
+- show me the way to [Help](action), the [an image](object_1) [a different shape](object_2) ?
+- show me how to [Help](action), the [an image](object_1) [a different shape](object_2) ?
+- is there any way to [Help](action), the [an image](object_1) [a different shape](object_2) ?
+
+- How [can](action) [I](object_1) reduce [the size](object_2) of [a diagram](object_3) but keep the quality.
+- how to [can](action), the [I](object_1) [the size](object_2) [a diagram](object_3) ?
+- [can](action), the [I](object_1) [the size](object_2) [a diagram](object_3)
+- how do I [can](action), the [I](object_1) [the size](object_2) [a diagram](object_3) ?
+- i dont know how to [can](action), the [I](object_1) [the size](object_2) [a diagram](object_3) ?
+- tell me the way to [can](action), the [I](object_1) [the size](object_2) [a diagram](object_3) ?
+- tell me how to [can](action), the [I](object_1) [the size](object_2) [a diagram](object_3) ?
+- show me the way to [can](action), the [I](object_1) [the size](object_2) [a diagram](object_3) ?
+- show me how to [can](action), the [I](object_1) [the size](object_2) [a diagram](object_3) ?
+- is there any way to [can](action), the [I](object_1) [the size](object_2) [a diagram](object_3) ?
+
+- [Reinstalling](action) [Photoshop CS6](object_1) after [many upgrades](object_2)
+- how to [Reinstalling](action), the [Photoshop CS6](object_1) [many upgrades](object_2) ?
+- [Reinstalling](action), the [Photoshop CS6](object_1) [many upgrades](object_2)
+- how do I [Reinstalling](action), the [Photoshop CS6](object_1) [many upgrades](object_2) ?
+- i dont know how to [Reinstalling](action), the [Photoshop CS6](object_1) [many upgrades](object_2) ?
+- tell me the way to [Reinstalling](action), the [Photoshop CS6](object_1) [many upgrades](object_2) ?
+- tell me how to [Reinstalling](action), the [Photoshop CS6](object_1) [many upgrades](object_2) ?
+- show me the way to [Reinstalling](action), the [Photoshop CS6](object_1) [many upgrades](object_2) ?
+- show me how to [Reinstalling](action), the [Photoshop CS6](object_1) [many upgrades](object_2) ?
+- is there any way to [Reinstalling](action), the [Photoshop CS6](object_1) [many upgrades](object_2) ?
+
+- [Photoshop CS5.1](object_1) [install](action) [Win 10 tiny/unusable icons](object_2), [fonts](object_3) in menu bars - unusable
+- how to [install](action), the [Photoshop CS5.1](object_1) [Win 10 tiny/unusable icons](object_2) [fonts](object_3) ?
+- [install](action), the [Photoshop CS5.1](object_1) [Win 10 tiny/unusable icons](object_2) [fonts](object_3)
+- how do I [install](action), the [Photoshop CS5.1](object_1) [Win 10 tiny/unusable icons](object_2) [fonts](object_3) ?
+- i dont know how to [install](action), the [Photoshop CS5.1](object_1) [Win 10 tiny/unusable icons](object_2) [fonts](object_3) ?
+- tell me the way to [install](action), the [Photoshop CS5.1](object_1) [Win 10 tiny/unusable icons](object_2) [fonts](object_3) ?
+- tell me how to [install](action), the [Photoshop CS5.1](object_1) [Win 10 tiny/unusable icons](object_2) [fonts](object_3) ?
+- show me the way to [install](action), the [Photoshop CS5.1](object_1) [Win 10 tiny/unusable icons](object_2) [fonts](object_3) ?
+- show me how to [install](action), the [Photoshop CS5.1](object_1) [Win 10 tiny/unusable icons](object_2) [fonts](object_3) ?
+- is there any way to [install](action), the [Photoshop CS5.1](object_1) [Win 10 tiny/unusable icons](object_2) [fonts](object_3) ?
+
+- [ca](action)n't see [layer](object_1) palette- [MacBook Air](object_2)
+- how to [ca](action), the [layer](object_1) [MacBook Air](object_2) ?
+- [ca](action), the [layer](object_1) [MacBook Air](object_2)
+- how do I [ca](action), the [layer](object_1) [MacBook Air](object_2) ?
+- i dont know how to [ca](action), the [layer](object_1) [MacBook Air](object_2) ?
+- tell me the way to [ca](action), the [layer](object_1) [MacBook Air](object_2) ?
+- tell me how to [ca](action), the [layer](object_1) [MacBook Air](object_2) ?
+- show me the way to [ca](action), the [layer](object_1) [MacBook Air](object_2) ?
+- show me how to [ca](action), the [layer](object_1) [MacBook Air](object_2) ?
+- is there any way to [ca](action), the [layer](object_1) [MacBook Air](object_2) ?
+
+- [Recommendation](object_1): [Annotation / Mark-Up Plugin](object_2) for [adding](action) [Info Bubbles](object_3)
+- how to [adding](action), the [Recommendation](object_1) [Annotation / Mark-Up Plugin](object_2) [Info Bubbles](object_3) ?
+- [adding](action), the [Recommendation](object_1) [Annotation / Mark-Up Plugin](object_2) [Info Bubbles](object_3)
+- how do I [adding](action), the [Recommendation](object_1) [Annotation / Mark-Up Plugin](object_2) [Info Bubbles](object_3) ?
+- i dont know how to [adding](action), the [Recommendation](object_1) [Annotation / Mark-Up Plugin](object_2) [Info Bubbles](object_3) ?
+- tell me the way to [adding](action), the [Recommendation](object_1) [Annotation / Mark-Up Plugin](object_2) [Info Bubbles](object_3) ?
+- tell me how to [adding](action), the [Recommendation](object_1) [Annotation / Mark-Up Plugin](object_2) [Info Bubbles](object_3) ?
+- show me the way to [adding](action), the [Recommendation](object_1) [Annotation / Mark-Up Plugin](object_2) [Info Bubbles](object_3) ?
+- show me how to [adding](action), the [Recommendation](object_1) [Annotation / Mark-Up Plugin](object_2) [Info Bubbles](object_3) ?
+- is there any way to [adding](action), the [Recommendation](object_1) [Annotation / Mark-Up Plugin](object_2) [Info Bubbles](object_3) ?
+
+- [Photoshop](object_1) [will](action) not open [pdf](object_2) created with [photoshop](object_3)
+- how to [will](action), the [Photoshop](object_1) [pdf](object_2) [photoshop](object_3) ?
+- [will](action), the [Photoshop](object_1) [pdf](object_2) [photoshop](object_3)
+- how do I [will](action), the [Photoshop](object_1) [pdf](object_2) [photoshop](object_3) ?
+- i dont know how to [will](action), the [Photoshop](object_1) [pdf](object_2) [photoshop](object_3) ?
+- tell me the way to [will](action), the [Photoshop](object_1) [pdf](object_2) [photoshop](object_3) ?
+- tell me how to [will](action), the [Photoshop](object_1) [pdf](object_2) [photoshop](object_3) ?
+- show me the way to [will](action), the [Photoshop](object_1) [pdf](object_2) [photoshop](object_3) ?
+- show me how to [will](action), the [Photoshop](object_1) [pdf](object_2) [photoshop](object_3) ?
+- is there any way to [will](action), the [Photoshop](object_1) [pdf](object_2) [photoshop](object_3) ?
+
+- How do [i](object_1) m[i](object_1)grate sett[i](object_1)ngs, [workspace](object_3) and preferences [i](object_1)n PS 2018 to a d[i](object_1)fferent computer?
+- how to [migrate](action), the [i](object_1) [settings](object_2) [workspace](object_3) ?
+- [migrate](action), the [i](object_1) [settings](object_2) [workspace](object_3)
+- how do I [migrate](action), the [i](object_1) [settings](object_2) [workspace](object_3) ?
+- i dont know how to [migrate](action), the [i](object_1) [settings](object_2) [workspace](object_3) ?
+- tell me the way to [migrate](action), the [i](object_1) [settings](object_2) [workspace](object_3) ?
+- tell me how to [migrate](action), the [i](object_1) [settings](object_2) [workspace](object_3) ?
+- show me the way to [migrate](action), the [i](object_1) [settings](object_2) [workspace](object_3) ?
+- show me how to [migrate](action), the [i](object_1) [settings](object_2) [workspace](object_3) ?
+- is there any way to [migrate](action), the [i](object_1) [settings](object_2) [workspace](object_3) ?
+
+- [I](object_1) [ca](action)nt install and [any adobe program](object_2)...
+- how to [ca](action), the [I](object_1) [any adobe program](object_2) ?
+- [ca](action), the [I](object_1) [any adobe program](object_2)
+- how do I [ca](action), the [I](object_1) [any adobe program](object_2) ?
+- i dont know how to [ca](action), the [I](object_1) [any adobe program](object_2) ?
+- tell me the way to [ca](action), the [I](object_1) [any adobe program](object_2) ?
+- tell me how to [ca](action), the [I](object_1) [any adobe program](object_2) ?
+- show me the way to [ca](action), the [I](object_1) [any adobe program](object_2) ?
+- show me how to [ca](action), the [I](object_1) [any adobe program](object_2) ?
+- is there any way to [ca](action), the [I](object_1) [any adobe program](object_2) ?
+
+- [Using](action) [Trim Tool](object_1) to remove [white Borders](object_2)
+- how to [Using](action), the [Trim Tool](object_1) [white Borders](object_2) ?
+- [Using](action), the [Trim Tool](object_1) [white Borders](object_2)
+- how do I [Using](action), the [Trim Tool](object_1) [white Borders](object_2) ?
+- i dont know how to [Using](action), the [Trim Tool](object_1) [white Borders](object_2) ?
+- tell me the way to [Using](action), the [Trim Tool](object_1) [white Borders](object_2) ?
+- tell me how to [Using](action), the [Trim Tool](object_1) [white Borders](object_2) ?
+- show me the way to [Using](action), the [Trim Tool](object_1) [white Borders](object_2) ?
+- show me how to [Using](action), the [Trim Tool](object_1) [white Borders](object_2) ?
+- is there any way to [Using](action), the [Trim Tool](object_1) [white Borders](object_2) ?
+
+- [Ca](action)n't deactivate [CS3](object_1)
+- how to [Ca](action), the [CS3](object_1) ?
+- [Ca](action), the [CS3](object_1)
+- how do I [Ca](action), the [CS3](object_1) ?
+- i dont know how to [Ca](action), the [CS3](object_1) ?
+- tell me the way to [Ca](action), the [CS3](object_1) ?
+- tell me how to [Ca](action), the [CS3](object_1) ?
+- show me the way to [Ca](action), the [CS3](object_1) ?
+- show me how to [Ca](action), the [CS3](object_1) ?
+- is there any way to [Ca](action), the [CS3](object_1) ?
+
+- [Use](object_1) Photoshop Data [Merge](action) to put [an Image](object_2) into [Perspective](object_3)
+- how to [Merge](action), the [Use](object_1) [an Image](object_2) [Perspective](object_3) ?
+- [Merge](action), the [Use](object_1) [an Image](object_2) [Perspective](object_3)
+- how do I [Merge](action), the [Use](object_1) [an Image](object_2) [Perspective](object_3) ?
+- i dont know how to [Merge](action), the [Use](object_1) [an Image](object_2) [Perspective](object_3) ?
+- tell me the way to [Merge](action), the [Use](object_1) [an Image](object_2) [Perspective](object_3) ?
+- tell me how to [Merge](action), the [Use](object_1) [an Image](object_2) [Perspective](object_3) ?
+- show me the way to [Merge](action), the [Use](object_1) [an Image](object_2) [Perspective](object_3) ?
+- show me how to [Merge](action), the [Use](object_1) [an Image](object_2) [Perspective](object_3) ?
+- is there any way to [Merge](action), the [Use](object_1) [an Image](object_2) [Perspective](object_3) ?
+
+- [[Resizing](action) Script](object_1) or [conditional action](object_2)
+- how to [Resizing](action), the [Resizing Script](object_1) [conditional action](object_2) ?
+- [Resizing](action), the [Resizing Script](object_1) [conditional action](object_2)
+- how do I [Resizing](action), the [Resizing Script](object_1) [conditional action](object_2) ?
+- i dont know how to [Resizing](action), the [Resizing Script](object_1) [conditional action](object_2) ?
+- tell me the way to [Resizing](action), the [Resizing Script](object_1) [conditional action](object_2) ?
+- tell me how to [Resizing](action), the [Resizing Script](object_1) [conditional action](object_2) ?
+- show me the way to [Resizing](action), the [Resizing Script](object_1) [conditional action](object_2) ?
+- show me how to [Resizing](action), the [Resizing Script](object_1) [conditional action](object_2) ?
+- is there any way to [Resizing](action), the [Resizing Script](object_1) [conditional action](object_2) ?
+
+- [[Install](action) Previous Versions](object_1)? [(Mac) Crash](object_2)
+- how to [Install](action), the [Install Previous Versions](object_1) [(Mac) Crash](object_2) ?
+- [Install](action), the [Install Previous Versions](object_1) [(Mac) Crash](object_2)
+- how do I [Install](action), the [Install Previous Versions](object_1) [(Mac) Crash](object_2) ?
+- i dont know how to [Install](action), the [Install Previous Versions](object_1) [(Mac) Crash](object_2) ?
+- tell me the way to [Install](action), the [Install Previous Versions](object_1) [(Mac) Crash](object_2) ?
+- tell me how to [Install](action), the [Install Previous Versions](object_1) [(Mac) Crash](object_2) ?
+- show me the way to [Install](action), the [Install Previous Versions](object_1) [(Mac) Crash](object_2) ?
+- show me how to [Install](action), the [Install Previous Versions](object_1) [(Mac) Crash](object_2) ?
+- is there any way to [Install](action), the [Install Previous Versions](object_1) [(Mac) Crash](object_2) ?
+
+- [What](object_1) is [the best way](object_2) to [preview](action) and save [images](object_3) for the web?
+- how to [preview](action), the [What](object_1) [the best way](object_2) [images](object_3) ?
+- [preview](action), the [What](object_1) [the best way](object_2) [images](object_3)
+- how do I [preview](action), the [What](object_1) [the best way](object_2) [images](object_3) ?
+- i dont know how to [preview](action), the [What](object_1) [the best way](object_2) [images](object_3) ?
+- tell me the way to [preview](action), the [What](object_1) [the best way](object_2) [images](object_3) ?
+- tell me how to [preview](action), the [What](object_1) [the best way](object_2) [images](object_3) ?
+- show me the way to [preview](action), the [What](object_1) [the best way](object_2) [images](object_3) ?
+- show me how to [preview](action), the [What](object_1) [the best way](object_2) [images](object_3) ?
+- is there any way to [preview](action), the [What](object_1) [the best way](object_2) [images](object_3) ?
+
+- How to [set](action) [simple transparency](object_1) for [a title text](object_2)-only [header graphic](object_3)?
+- how to [set](action), the [simple transparency](object_1) [a title text](object_2) [header graphic](object_3) ?
+- [set](action), the [simple transparency](object_1) [a title text](object_2) [header graphic](object_3)
+- how do I [set](action), the [simple transparency](object_1) [a title text](object_2) [header graphic](object_3) ?
+- i dont know how to [set](action), the [simple transparency](object_1) [a title text](object_2) [header graphic](object_3) ?
+- tell me the way to [set](action), the [simple transparency](object_1) [a title text](object_2) [header graphic](object_3) ?
+- tell me how to [set](action), the [simple transparency](object_1) [a title text](object_2) [header graphic](object_3) ?
+- show me the way to [set](action), the [simple transparency](object_1) [a title text](object_2) [header graphic](object_3) ?
+- show me how to [set](action), the [simple transparency](object_1) [a title text](object_2) [header graphic](object_3) ?
+- is there any way to [set](action), the [simple transparency](object_1) [a title text](object_2) [header graphic](object_3) ?
+
+- How to [measure](action) [percentage](object_1) of [empty space](object_2) in [an image](object_3)?
+- how to [measure](action), the [percentage](object_1) [empty space](object_2) [an image](object_3) ?
+- [measure](action), the [percentage](object_1) [empty space](object_2) [an image](object_3)
+- how do I [measure](action), the [percentage](object_1) [empty space](object_2) [an image](object_3) ?
+- i dont know how to [measure](action), the [percentage](object_1) [empty space](object_2) [an image](object_3) ?
+- tell me the way to [measure](action), the [percentage](object_1) [empty space](object_2) [an image](object_3) ?
+- tell me how to [measure](action), the [percentage](object_1) [empty space](object_2) [an image](object_3) ?
+- show me the way to [measure](action), the [percentage](object_1) [empty space](object_2) [an image](object_3) ?
+- show me how to [measure](action), the [percentage](object_1) [empty space](object_2) [an image](object_3) ?
+- is there any way to [measure](action), the [percentage](object_1) [empty space](object_2) [an image](object_3) ?
+
+- [Photoshop CS4](object_1) [Extended](object_2) - "[could](action) not complete [your request](object_3) because it is not the right kind of document"
+- how to [could](action), the [Photoshop CS4](object_1) [Extended](object_2) [your request](object_3) ?
+- [could](action), the [Photoshop CS4](object_1) [Extended](object_2) [your request](object_3)
+- how do I [could](action), the [Photoshop CS4](object_1) [Extended](object_2) [your request](object_3) ?
+- i dont know how to [could](action), the [Photoshop CS4](object_1) [Extended](object_2) [your request](object_3) ?
+- tell me the way to [could](action), the [Photoshop CS4](object_1) [Extended](object_2) [your request](object_3) ?
+- tell me how to [could](action), the [Photoshop CS4](object_1) [Extended](object_2) [your request](object_3) ?
+- show me the way to [could](action), the [Photoshop CS4](object_1) [Extended](object_2) [your request](object_3) ?
+- show me how to [could](action), the [Photoshop CS4](object_1) [Extended](object_2) [your request](object_3) ?
+- is there any way to [could](action), the [Photoshop CS4](object_1) [Extended](object_2) [your request](object_3) ?
+
+- [Select](action) and mask [Error](object_1)
+- how to [Select](action), the [Error](object_1) ?
+- [Select](action), the [Error](object_1)
+- how do I [Select](action), the [Error](object_1) ?
+- i dont know how to [Select](action), the [Error](object_1) ?
+- tell me the way to [Select](action), the [Error](object_1) ?
+- tell me how to [Select](action), the [Error](object_1) ?
+- show me the way to [Select](action), the [Error](object_1) ?
+- show me how to [Select](action), the [Error](object_1) ?
+- is there any way to [Select](action), the [Error](object_1) ?
+
+- [I](object_1) [want](action) [procedure](object_2) for dividing [circle](object_3) into 2 equal parts and filling filling different colors on both.
+- how to [want](action), the [I](object_1) [procedure](object_2) [circle](object_3) ?
+- [want](action), the [I](object_1) [procedure](object_2) [circle](object_3)
+- how do I [want](action), the [I](object_1) [procedure](object_2) [circle](object_3) ?
+- i dont know how to [want](action), the [I](object_1) [procedure](object_2) [circle](object_3) ?
+- tell me the way to [want](action), the [I](object_1) [procedure](object_2) [circle](object_3) ?
+- tell me how to [want](action), the [I](object_1) [procedure](object_2) [circle](object_3) ?
+- show me the way to [want](action), the [I](object_1) [procedure](object_2) [circle](object_3) ?
+- show me how to [want](action), the [I](object_1) [procedure](object_2) [circle](object_3) ?
+- is there any way to [want](action), the [I](object_1) [procedure](object_2) [circle](object_3) ?
+
+- then [camera raw](object_1) [wo](action)n't open [image](object_2) up in [photoshop](object_3)?
+- how to [wo](action), the [camera raw](object_1) [image](object_2) [photoshop](object_3) ?
+- [wo](action), the [camera raw](object_1) [image](object_2) [photoshop](object_3)
+- how do I [wo](action), the [camera raw](object_1) [image](object_2) [photoshop](object_3) ?
+- i dont know how to [wo](action), the [camera raw](object_1) [image](object_2) [photoshop](object_3) ?
+- tell me the way to [wo](action), the [camera raw](object_1) [image](object_2) [photoshop](object_3) ?
+- tell me how to [wo](action), the [camera raw](object_1) [image](object_2) [photoshop](object_3) ?
+- show me the way to [wo](action), the [camera raw](object_1) [image](object_2) [photoshop](object_3) ?
+- show me how to [wo](action), the [camera raw](object_1) [image](object_2) [photoshop](object_3) ?
+- is there any way to [wo](action), the [camera raw](object_1) [image](object_2) [photoshop](object_3) ?
+
+- [Missing](action) [MSVCP120.dll file](object_1)
+- how to [Missing](action), the [MSVCP120.dll file](object_1) ?
+- [Missing](action), the [MSVCP120.dll file](object_1)
+- how do I [Missing](action), the [MSVCP120.dll file](object_1) ?
+- i dont know how to [Missing](action), the [MSVCP120.dll file](object_1) ?
+- tell me the way to [Missing](action), the [MSVCP120.dll file](object_1) ?
+- tell me how to [Missing](action), the [MSVCP120.dll file](object_1) ?
+- show me the way to [Missing](action), the [MSVCP120.dll file](object_1) ?
+- show me how to [Missing](action), the [MSVCP120.dll file](object_1) ?
+- is there any way to [Missing](action), the [MSVCP120.dll file](object_1) ?
+
+- [Photoshop CC](object_1) [2018 - line [spacing](action) tool failoure](object_2)
+- how to [spacing](action), the [Photoshop CC](object_1) [2018 - line spacing tool failoure](object_2) ?
+- [spacing](action), the [Photoshop CC](object_1) [2018 - line spacing tool failoure](object_2)
+- how do I [spacing](action), the [Photoshop CC](object_1) [2018 - line spacing tool failoure](object_2) ?
+- i dont know how to [spacing](action), the [Photoshop CC](object_1) [2018 - line spacing tool failoure](object_2) ?
+- tell me the way to [spacing](action), the [Photoshop CC](object_1) [2018 - line spacing tool failoure](object_2) ?
+- tell me how to [spacing](action), the [Photoshop CC](object_1) [2018 - line spacing tool failoure](object_2) ?
+- show me the way to [spacing](action), the [Photoshop CC](object_1) [2018 - line spacing tool failoure](object_2) ?
+- show me how to [spacing](action), the [Photoshop CC](object_1) [2018 - line spacing tool failoure](object_2) ?
+- is there any way to [spacing](action), the [Photoshop CC](object_1) [2018 - line spacing tool failoure](object_2) ?
+
+- [Achieve](action) [a monocolor effect](object_1) without loosing [black parts](object_2) of [the picture](object_3)?
+- how to [Achieve](action), the [a monocolor effect](object_1) [black parts](object_2) [the picture](object_3) ?
+- [Achieve](action), the [a monocolor effect](object_1) [black parts](object_2) [the picture](object_3)
+- how do I [Achieve](action), the [a monocolor effect](object_1) [black parts](object_2) [the picture](object_3) ?
+- i dont know how to [Achieve](action), the [a monocolor effect](object_1) [black parts](object_2) [the picture](object_3) ?
+- tell me the way to [Achieve](action), the [a monocolor effect](object_1) [black parts](object_2) [the picture](object_3) ?
+- tell me how to [Achieve](action), the [a monocolor effect](object_1) [black parts](object_2) [the picture](object_3) ?
+- show me the way to [Achieve](action), the [a monocolor effect](object_1) [black parts](object_2) [the picture](object_3) ?
+- show me how to [Achieve](action), the [a monocolor effect](object_1) [black parts](object_2) [the picture](object_3) ?
+- is there any way to [Achieve](action), the [a monocolor effect](object_1) [black parts](object_2) [the picture](object_3) ?
+
+- [CS6](object_1) [will](action) not let [me](object_2) save [a file](object_3) as a jpeg without it being a "copy"
+- how to [will](action), the [CS6](object_1) [me](object_2) [a file](object_3) ?
+- [will](action), the [CS6](object_1) [me](object_2) [a file](object_3)
+- how do I [will](action), the [CS6](object_1) [me](object_2) [a file](object_3) ?
+- i dont know how to [will](action), the [CS6](object_1) [me](object_2) [a file](object_3) ?
+- tell me the way to [will](action), the [CS6](object_1) [me](object_2) [a file](object_3) ?
+- tell me how to [will](action), the [CS6](object_1) [me](object_2) [a file](object_3) ?
+- show me the way to [will](action), the [CS6](object_1) [me](object_2) [a file](object_3) ?
+- show me how to [will](action), the [CS6](object_1) [me](object_2) [a file](object_3) ?
+- is there any way to [will](action), the [CS6](object_1) [me](object_2) [a file](object_3) ?
+
+- [Any way](object_1) to [restore](action) [Alt-v-a](object_2) to view [actual pixels](object_3) in Photoshop CC 2018 (PC)
+- how to [restore](action), the [Any way](object_1) [Alt-v-a](object_2) [actual pixels](object_3) ?
+- [restore](action), the [Any way](object_1) [Alt-v-a](object_2) [actual pixels](object_3)
+- how do I [restore](action), the [Any way](object_1) [Alt-v-a](object_2) [actual pixels](object_3) ?
+- i dont know how to [restore](action), the [Any way](object_1) [Alt-v-a](object_2) [actual pixels](object_3) ?
+- tell me the way to [restore](action), the [Any way](object_1) [Alt-v-a](object_2) [actual pixels](object_3) ?
+- tell me how to [restore](action), the [Any way](object_1) [Alt-v-a](object_2) [actual pixels](object_3) ?
+- show me the way to [restore](action), the [Any way](object_1) [Alt-v-a](object_2) [actual pixels](object_3) ?
+- show me how to [restore](action), the [Any way](object_1) [Alt-v-a](object_2) [actual pixels](object_3) ?
+- is there any way to [restore](action), the [Any way](object_1) [Alt-v-a](object_2) [actual pixels](object_3) ?
+
+- How do [I](object_1) [create](action) [a color](object_2)?
+- how to [create](action), the [I](object_1) [a color](object_2) ?
+- [create](action), the [I](object_1) [a color](object_2)
+- how do I [create](action), the [I](object_1) [a color](object_2) ?
+- i dont know how to [create](action), the [I](object_1) [a color](object_2) ?
+- tell me the way to [create](action), the [I](object_1) [a color](object_2) ?
+- tell me how to [create](action), the [I](object_1) [a color](object_2) ?
+- show me the way to [create](action), the [I](object_1) [a color](object_2) ?
+- show me how to [create](action), the [I](object_1) [a color](object_2) ?
+- is there any way to [create](action), the [I](object_1) [a color](object_2) ?
+
+- [Copy](action) and paste [shortcut color code](object_1) not working on [Photoshop](object_2)
+- how to [Copy](action), the [shortcut color code](object_1) [Photoshop](object_2) ?
+- [Copy](action), the [shortcut color code](object_1) [Photoshop](object_2)
+- how do I [Copy](action), the [shortcut color code](object_1) [Photoshop](object_2) ?
+- i dont know how to [Copy](action), the [shortcut color code](object_1) [Photoshop](object_2) ?
+- tell me the way to [Copy](action), the [shortcut color code](object_1) [Photoshop](object_2) ?
+- tell me how to [Copy](action), the [shortcut color code](object_1) [Photoshop](object_2) ?
+- show me the way to [Copy](action), the [shortcut color code](object_1) [Photoshop](object_2) ?
+- show me how to [Copy](action), the [shortcut color code](object_1) [Photoshop](object_2) ?
+- is there any way to [Copy](action), the [shortcut color code](object_1) [Photoshop](object_2) ?
+
+- how do [I](object_1) [save](action) [a file](object_2) in [photoshop](object_3) to a specific file not listed?
+- how to [save](action), the [I](object_1) [a file](object_2) [photoshop](object_3) ?
+- [save](action), the [I](object_1) [a file](object_2) [photoshop](object_3)
+- how do I [save](action), the [I](object_1) [a file](object_2) [photoshop](object_3) ?
+- i dont know how to [save](action), the [I](object_1) [a file](object_2) [photoshop](object_3) ?
+- tell me the way to [save](action), the [I](object_1) [a file](object_2) [photoshop](object_3) ?
+- tell me how to [save](action), the [I](object_1) [a file](object_2) [photoshop](object_3) ?
+- show me the way to [save](action), the [I](object_1) [a file](object_2) [photoshop](object_3) ?
+- show me how to [save](action), the [I](object_1) [a file](object_2) [photoshop](object_3) ?
+- is there any way to [save](action), the [I](object_1) [a file](object_2) [photoshop](object_3) ?
+
+- [Unwanted behavior](object_1) with [pen](object_2) after [using](action) [some functionalities](object_3)
+- how to [using](action), the [Unwanted behavior](object_1) [pen](object_2) [some functionalities](object_3) ?
+- [using](action), the [Unwanted behavior](object_1) [pen](object_2) [some functionalities](object_3)
+- how do I [using](action), the [Unwanted behavior](object_1) [pen](object_2) [some functionalities](object_3) ?
+- i dont know how to [using](action), the [Unwanted behavior](object_1) [pen](object_2) [some functionalities](object_3) ?
+- tell me the way to [using](action), the [Unwanted behavior](object_1) [pen](object_2) [some functionalities](object_3) ?
+- tell me how to [using](action), the [Unwanted behavior](object_1) [pen](object_2) [some functionalities](object_3) ?
+- show me the way to [using](action), the [Unwanted behavior](object_1) [pen](object_2) [some functionalities](object_3) ?
+- show me how to [using](action), the [Unwanted behavior](object_1) [pen](object_2) [some functionalities](object_3) ?
+- is there any way to [using](action), the [Unwanted behavior](object_1) [pen](object_2) [some functionalities](object_3) ?
+
+- [[updated](action) pc files](object_1) to [creative cloud library](object_2)
+- how to [updated](action), the [updated pc files](object_1) [creative cloud library](object_2) ?
+- [updated](action), the [updated pc files](object_1) [creative cloud library](object_2)
+- how do I [updated](action), the [updated pc files](object_1) [creative cloud library](object_2) ?
+- i dont know how to [updated](action), the [updated pc files](object_1) [creative cloud library](object_2) ?
+- tell me the way to [updated](action), the [updated pc files](object_1) [creative cloud library](object_2) ?
+- tell me how to [updated](action), the [updated pc files](object_1) [creative cloud library](object_2) ?
+- show me the way to [updated](action), the [updated pc files](object_1) [creative cloud library](object_2) ?
+- show me how to [updated](action), the [updated pc files](object_1) [creative cloud library](object_2) ?
+- is there any way to [updated](action), the [updated pc files](object_1) [creative cloud library](object_2) ?
+
+- How do [I](object_1) [create](action) [chrome text](object_2)?
+- how to [create](action), the [I](object_1) [chrome text](object_2) ?
+- [create](action), the [I](object_1) [chrome text](object_2)
+- how do I [create](action), the [I](object_1) [chrome text](object_2) ?
+- i dont know how to [create](action), the [I](object_1) [chrome text](object_2) ?
+- tell me the way to [create](action), the [I](object_1) [chrome text](object_2) ?
+- tell me how to [create](action), the [I](object_1) [chrome text](object_2) ?
+- show me the way to [create](action), the [I](object_1) [chrome text](object_2) ?
+- show me how to [create](action), the [I](object_1) [chrome text](object_2) ?
+- is there any way to [create](action), the [I](object_1) [chrome text](object_2) ?
+
+- [Photoshop](object_1) [jumping](action) to edge when zoomed in using [any tool](object_2) on [wacom](object_3) intuos tablet
+- how to [jumping](action), the [Photoshop](object_1) [any tool](object_2) [wacom](object_3) ?
+- [jumping](action), the [Photoshop](object_1) [any tool](object_2) [wacom](object_3)
+- how do I [jumping](action), the [Photoshop](object_1) [any tool](object_2) [wacom](object_3) ?
+- i dont know how to [jumping](action), the [Photoshop](object_1) [any tool](object_2) [wacom](object_3) ?
+- tell me the way to [jumping](action), the [Photoshop](object_1) [any tool](object_2) [wacom](object_3) ?
+- tell me how to [jumping](action), the [Photoshop](object_1) [any tool](object_2) [wacom](object_3) ?
+- show me the way to [jumping](action), the [Photoshop](object_1) [any tool](object_2) [wacom](object_3) ?
+- show me how to [jumping](action), the [Photoshop](object_1) [any tool](object_2) [wacom](object_3) ?
+- is there any way to [jumping](action), the [Photoshop](object_1) [any tool](object_2) [wacom](object_3) ?
+
+- How to [save](action) [image size settings](object_1) to preset in "[Save](object_2) for [Web](object_3)" ??
+- how to [save](action), the [image size settings](object_1) [Save](object_2) [Web](object_3) ?
+- [save](action), the [image size settings](object_1) [Save](object_2) [Web](object_3)
+- how do I [save](action), the [image size settings](object_1) [Save](object_2) [Web](object_3) ?
+- i dont know how to [save](action), the [image size settings](object_1) [Save](object_2) [Web](object_3) ?
+- tell me the way to [save](action), the [image size settings](object_1) [Save](object_2) [Web](object_3) ?
+- tell me how to [save](action), the [image size settings](object_1) [Save](object_2) [Web](object_3) ?
+- show me the way to [save](action), the [image size settings](object_1) [Save](object_2) [Web](object_3) ?
+- show me how to [save](action), the [image size settings](object_1) [Save](object_2) [Web](object_3) ?
+- is there any way to [save](action), the [image size settings](object_1) [Save](object_2) [Web](object_3) ?
+
+- How to [open](action) [specific folder](object_1) to select [images](object_2)?
+- how to [open](action), the [specific folder](object_1) [images](object_2) ?
+- [open](action), the [specific folder](object_1) [images](object_2)
+- how do I [open](action), the [specific folder](object_1) [images](object_2) ?
+- i dont know how to [open](action), the [specific folder](object_1) [images](object_2) ?
+- tell me the way to [open](action), the [specific folder](object_1) [images](object_2) ?
+- tell me how to [open](action), the [specific folder](object_1) [images](object_2) ?
+- show me the way to [open](action), the [specific folder](object_1) [images](object_2) ?
+- show me how to [open](action), the [specific folder](object_1) [images](object_2) ?
+- is there any way to [open](action), the [specific folder](object_1) [images](object_2) ?
+
+- How do [you](object_1) [set](action) [a keyboard shortcut](object_2) for [onionskins](object_3)?
+- how to [set](action), the [you](object_1) [a keyboard shortcut](object_2) [onionskins](object_3) ?
+- [set](action), the [you](object_1) [a keyboard shortcut](object_2) [onionskins](object_3)
+- how do I [set](action), the [you](object_1) [a keyboard shortcut](object_2) [onionskins](object_3) ?
+- i dont know how to [set](action), the [you](object_1) [a keyboard shortcut](object_2) [onionskins](object_3) ?
+- tell me the way to [set](action), the [you](object_1) [a keyboard shortcut](object_2) [onionskins](object_3) ?
+- tell me how to [set](action), the [you](object_1) [a keyboard shortcut](object_2) [onionskins](object_3) ?
+- show me the way to [set](action), the [you](object_1) [a keyboard shortcut](object_2) [onionskins](object_3) ?
+- show me how to [set](action), the [you](object_1) [a keyboard shortcut](object_2) [onionskins](object_3) ?
+- is there any way to [set](action), the [you](object_1) [a keyboard shortcut](object_2) [onionskins](object_3) ?
+
+- Is there [a way](object_1) to [pause](action) [the history](object_2) ?
+- how to [pause](action), the [a way](object_1) [the history](object_2) ?
+- [pause](action), the [a way](object_1) [the history](object_2)
+- how do I [pause](action), the [a way](object_1) [the history](object_2) ?
+- i dont know how to [pause](action), the [a way](object_1) [the history](object_2) ?
+- tell me the way to [pause](action), the [a way](object_1) [the history](object_2) ?
+- tell me how to [pause](action), the [a way](object_1) [the history](object_2) ?
+- show me the way to [pause](action), the [a way](object_1) [the history](object_2) ?
+- show me how to [pause](action), the [a way](object_1) [the history](object_2) ?
+- is there any way to [pause](action), the [a way](object_1) [the history](object_2) ?
+
+- Is there [a way](object_1) to [use](action) [the auto align command](object_2) based on [a portion](object_3) of the image only?
+- how to [use](action), the [a way](object_1) [the auto align command](object_2) [a portion](object_3) ?
+- [use](action), the [a way](object_1) [the auto align command](object_2) [a portion](object_3)
+- how do I [use](action), the [a way](object_1) [the auto align command](object_2) [a portion](object_3) ?
+- i dont know how to [use](action), the [a way](object_1) [the auto align command](object_2) [a portion](object_3) ?
+- tell me the way to [use](action), the [a way](object_1) [the auto align command](object_2) [a portion](object_3) ?
+- tell me how to [use](action), the [a way](object_1) [the auto align command](object_2) [a portion](object_3) ?
+- show me the way to [use](action), the [a way](object_1) [the auto align command](object_2) [a portion](object_3) ?
+- show me how to [use](action), the [a way](object_1) [the auto align command](object_2) [a portion](object_3) ?
+- is there any way to [use](action), the [a way](object_1) [the auto align command](object_2) [a portion](object_3) ?
+
+- How do [I](object_1) [add](action) [a rainbow 'filter](object_2)' to a G[I](object_1)F (i.e color changing)?
+- how to [add](action), the [I](object_1) [a rainbow 'filter](object_2) [a GIF](object_3) ?
+- [add](action), the [I](object_1) [a rainbow 'filter](object_2) [a GIF](object_3)
+- how do I [add](action), the [I](object_1) [a rainbow 'filter](object_2) [a GIF](object_3) ?
+- i dont know how to [add](action), the [I](object_1) [a rainbow 'filter](object_2) [a GIF](object_3) ?
+- tell me the way to [add](action), the [I](object_1) [a rainbow 'filter](object_2) [a GIF](object_3) ?
+- tell me how to [add](action), the [I](object_1) [a rainbow 'filter](object_2) [a GIF](object_3) ?
+- show me the way to [add](action), the [I](object_1) [a rainbow 'filter](object_2) [a GIF](object_3) ?
+- show me how to [add](action), the [I](object_1) [a rainbow 'filter](object_2) [a GIF](object_3) ?
+- is there any way to [add](action), the [I](object_1) [a rainbow 'filter](object_2) [a GIF](object_3) ?
+
+- [Disable Alt](object_1) + [Click](action) to delete [brushes/ swatches](object_2)
+- how to [Click](action), the [Disable Alt](object_1) [brushes/ swatches](object_2) ?
+- [Click](action), the [Disable Alt](object_1) [brushes/ swatches](object_2)
+- how do I [Click](action), the [Disable Alt](object_1) [brushes/ swatches](object_2) ?
+- i dont know how to [Click](action), the [Disable Alt](object_1) [brushes/ swatches](object_2) ?
+- tell me the way to [Click](action), the [Disable Alt](object_1) [brushes/ swatches](object_2) ?
+- tell me how to [Click](action), the [Disable Alt](object_1) [brushes/ swatches](object_2) ?
+- show me the way to [Click](action), the [Disable Alt](object_1) [brushes/ swatches](object_2) ?
+- show me how to [Click](action), the [Disable Alt](object_1) [brushes/ swatches](object_2) ?
+- is there any way to [Click](action), the [Disable Alt](object_1) [brushes/ swatches](object_2) ?
+
+- How do [I](object_1) [re](action)-c[re](action)ate this image?
+- how to [re](action), the [I](object_1) ?
+- [re](action), the [I](object_1)
+- how do I [re](action), the [I](object_1) ?
+- i dont know how to [re](action), the [I](object_1) ?
+- tell me the way to [re](action), the [I](object_1) ?
+- tell me how to [re](action), the [I](object_1) ?
+- show me the way to [re](action), the [I](object_1) ?
+- show me how to [re](action), the [I](object_1) ?
+- is there any way to [re](action), the [I](object_1) ?
+
+- [Shortcut / hotkey](object_1) for [[scaling](action) size](object_2) of [layer](object_3)
+- how to [scaling](action), the [Shortcut / hotkey](object_1) [scaling size](object_2) [layer](object_3) ?
+- [scaling](action), the [Shortcut / hotkey](object_1) [scaling size](object_2) [layer](object_3)
+- how do I [scaling](action), the [Shortcut / hotkey](object_1) [scaling size](object_2) [layer](object_3) ?
+- i dont know how to [scaling](action), the [Shortcut / hotkey](object_1) [scaling size](object_2) [layer](object_3) ?
+- tell me the way to [scaling](action), the [Shortcut / hotkey](object_1) [scaling size](object_2) [layer](object_3) ?
+- tell me how to [scaling](action), the [Shortcut / hotkey](object_1) [scaling size](object_2) [layer](object_3) ?
+- show me the way to [scaling](action), the [Shortcut / hotkey](object_1) [scaling size](object_2) [layer](object_3) ?
+- show me how to [scaling](action), the [Shortcut / hotkey](object_1) [scaling size](object_2) [layer](object_3) ?
+- is there any way to [scaling](action), the [Shortcut / hotkey](object_1) [scaling size](object_2) [layer](object_3) ?
+
+- [Looping](action) [a gif](object_1) in [Animation](object_2) [(Timeline](object_3))
+- how to [Looping](action), the [a gif](object_1) [Animation](object_2) [(Timeline](object_3) ?
+- [Looping](action), the [a gif](object_1) [Animation](object_2) [(Timeline](object_3)
+- how do I [Looping](action), the [a gif](object_1) [Animation](object_2) [(Timeline](object_3) ?
+- i dont know how to [Looping](action), the [a gif](object_1) [Animation](object_2) [(Timeline](object_3) ?
+- tell me the way to [Looping](action), the [a gif](object_1) [Animation](object_2) [(Timeline](object_3) ?
+- tell me how to [Looping](action), the [a gif](object_1) [Animation](object_2) [(Timeline](object_3) ?
+- show me the way to [Looping](action), the [a gif](object_1) [Animation](object_2) [(Timeline](object_3) ?
+- show me how to [Looping](action), the [a gif](object_1) [Animation](object_2) [(Timeline](object_3) ?
+- is there any way to [Looping](action), the [a gif](object_1) [Animation](object_2) [(Timeline](object_3) ?
+
+- [Importing](action) [PNGs](object_1) with [Transparent Backgrounds](object_2)
+- how to [Importing](action), the [PNGs](object_1) [Transparent Backgrounds](object_2) ?
+- [Importing](action), the [PNGs](object_1) [Transparent Backgrounds](object_2)
+- how do I [Importing](action), the [PNGs](object_1) [Transparent Backgrounds](object_2) ?
+- i dont know how to [Importing](action), the [PNGs](object_1) [Transparent Backgrounds](object_2) ?
+- tell me the way to [Importing](action), the [PNGs](object_1) [Transparent Backgrounds](object_2) ?
+- tell me how to [Importing](action), the [PNGs](object_1) [Transparent Backgrounds](object_2) ?
+- show me the way to [Importing](action), the [PNGs](object_1) [Transparent Backgrounds](object_2) ?
+- show me how to [Importing](action), the [PNGs](object_1) [Transparent Backgrounds](object_2) ?
+- is there any way to [Importing](action), the [PNGs](object_1) [Transparent Backgrounds](object_2) ?
+
+- hi [everyone.i](object_1) just [downloaded](action) [a photoshop cs6 software](object_2) through softlay.net [website](object_3) and i cant find the serial number for the installation.
+- how to [downloaded](action), the [everyone.i](object_1) [a photoshop cs6 software](object_2) [website](object_3) ?
+- [downloaded](action), the [everyone.i](object_1) [a photoshop cs6 software](object_2) [website](object_3)
+- how do I [downloaded](action), the [everyone.i](object_1) [a photoshop cs6 software](object_2) [website](object_3) ?
+- i dont know how to [downloaded](action), the [everyone.i](object_1) [a photoshop cs6 software](object_2) [website](object_3) ?
+- tell me the way to [downloaded](action), the [everyone.i](object_1) [a photoshop cs6 software](object_2) [website](object_3) ?
+- tell me how to [downloaded](action), the [everyone.i](object_1) [a photoshop cs6 software](object_2) [website](object_3) ?
+- show me the way to [downloaded](action), the [everyone.i](object_1) [a photoshop cs6 software](object_2) [website](object_3) ?
+- show me how to [downloaded](action), the [everyone.i](object_1) [a photoshop cs6 software](object_2) [website](object_3) ?
+- is there any way to [downloaded](action), the [everyone.i](object_1) [a photoshop cs6 software](object_2) [website](object_3) ?
+
+- [I](object_1) [want](action) to install [Photoshop](object_2) 32 bit!
+- how to [want](action), the [I](object_1) [Photoshop](object_2) ?
+- [want](action), the [I](object_1) [Photoshop](object_2)
+- how do I [want](action), the [I](object_1) [Photoshop](object_2) ?
+- i dont know how to [want](action), the [I](object_1) [Photoshop](object_2) ?
+- tell me the way to [want](action), the [I](object_1) [Photoshop](object_2) ?
+- tell me how to [want](action), the [I](object_1) [Photoshop](object_2) ?
+- show me the way to [want](action), the [I](object_1) [Photoshop](object_2) ?
+- show me how to [want](action), the [I](object_1) [Photoshop](object_2) ?
+- is there any way to [want](action), the [I](object_1) [Photoshop](object_2) ?
+
+- [Creating](action) [pdf](object_1) from [psd files](object_2)...different result this week from last...[what](object_3) gives?
+- how to [Creating](action), the [pdf](object_1) [psd files](object_2) [what](object_3) ?
+- [Creating](action), the [pdf](object_1) [psd files](object_2) [what](object_3)
+- how do I [Creating](action), the [pdf](object_1) [psd files](object_2) [what](object_3) ?
+- i dont know how to [Creating](action), the [pdf](object_1) [psd files](object_2) [what](object_3) ?
+- tell me the way to [Creating](action), the [pdf](object_1) [psd files](object_2) [what](object_3) ?
+- tell me how to [Creating](action), the [pdf](object_1) [psd files](object_2) [what](object_3) ?
+- show me the way to [Creating](action), the [pdf](object_1) [psd files](object_2) [what](object_3) ?
+- show me how to [Creating](action), the [pdf](object_1) [psd files](object_2) [what](object_3) ?
+- is there any way to [Creating](action), the [pdf](object_1) [psd files](object_2) [what](object_3) ?
+
+- [Can](action)not confirm [Color picker dialog](object_1) by pressing [enter](object_2)
+- how to [Can](action), the [Color picker dialog](object_1) [enter](object_2) ?
+- [Can](action), the [Color picker dialog](object_1) [enter](object_2)
+- how do I [Can](action), the [Color picker dialog](object_1) [enter](object_2) ?
+- i dont know how to [Can](action), the [Color picker dialog](object_1) [enter](object_2) ?
+- tell me the way to [Can](action), the [Color picker dialog](object_1) [enter](object_2) ?
+- tell me how to [Can](action), the [Color picker dialog](object_1) [enter](object_2) ?
+- show me the way to [Can](action), the [Color picker dialog](object_1) [enter](object_2) ?
+- show me how to [Can](action), the [Color picker dialog](object_1) [enter](object_2) ?
+- is there any way to [Can](action), the [Color picker dialog](object_1) [enter](object_2) ?
+
+- [Check](action) [the width](object_1) of [the document](object_2) and do [something](object_3)!
+- how to [Check](action), the [the width](object_1) [the document](object_2) [something](object_3) ?
+- [Check](action), the [the width](object_1) [the document](object_2) [something](object_3)
+- how do I [Check](action), the [the width](object_1) [the document](object_2) [something](object_3) ?
+- i dont know how to [Check](action), the [the width](object_1) [the document](object_2) [something](object_3) ?
+- tell me the way to [Check](action), the [the width](object_1) [the document](object_2) [something](object_3) ?
+- tell me how to [Check](action), the [the width](object_1) [the document](object_2) [something](object_3) ?
+- show me the way to [Check](action), the [the width](object_1) [the document](object_2) [something](object_3) ?
+- show me how to [Check](action), the [the width](object_1) [the document](object_2) [something](object_3) ?
+- is there any way to [Check](action), the [the width](object_1) [the document](object_2) [something](object_3) ?
+
+- How [can](action) [I](object_1) set [place options](object_2) from [Library](object_3) in Photoshop?
+- how to [can](action), the [I](object_1) [place options](object_2) [Library](object_3) ?
+- [can](action), the [I](object_1) [place options](object_2) [Library](object_3)
+- how do I [can](action), the [I](object_1) [place options](object_2) [Library](object_3) ?
+- i dont know how to [can](action), the [I](object_1) [place options](object_2) [Library](object_3) ?
+- tell me the way to [can](action), the [I](object_1) [place options](object_2) [Library](object_3) ?
+- tell me how to [can](action), the [I](object_1) [place options](object_2) [Library](object_3) ?
+- show me the way to [can](action), the [I](object_1) [place options](object_2) [Library](object_3) ?
+- show me how to [can](action), the [I](object_1) [place options](object_2) [Library](object_3) ?
+- is there any way to [can](action), the [I](object_1) [place options](object_2) [Library](object_3) ?
+
+- Help [- Pallette](object_1) [wo](action)n't appear when using [eyedropper tool](object_2)...[Zoom tool](object_3) gives cascade effect.
+- how to [wo](action), the [- Pallette](object_1) [eyedropper tool](object_2) [Zoom tool](object_3) ?
+- [wo](action), the [- Pallette](object_1) [eyedropper tool](object_2) [Zoom tool](object_3)
+- how do I [wo](action), the [- Pallette](object_1) [eyedropper tool](object_2) [Zoom tool](object_3) ?
+- i dont know how to [wo](action), the [- Pallette](object_1) [eyedropper tool](object_2) [Zoom tool](object_3) ?
+- tell me the way to [wo](action), the [- Pallette](object_1) [eyedropper tool](object_2) [Zoom tool](object_3) ?
+- tell me how to [wo](action), the [- Pallette](object_1) [eyedropper tool](object_2) [Zoom tool](object_3) ?
+- show me the way to [wo](action), the [- Pallette](object_1) [eyedropper tool](object_2) [Zoom tool](object_3) ?
+- show me how to [wo](action), the [- Pallette](object_1) [eyedropper tool](object_2) [Zoom tool](object_3) ?
+- is there any way to [wo](action), the [- Pallette](object_1) [eyedropper tool](object_2) [Zoom tool](object_3) ?
+
+- [Can](action) [you](object_1) recommend [laptop](object_2) or [MacBook](object_3) which can run 3d options in Photoshop?
+- how to [Can](action), the [you](object_1) [laptop](object_2) [MacBook](object_3) ?
+- [Can](action), the [you](object_1) [laptop](object_2) [MacBook](object_3)
+- how do I [Can](action), the [you](object_1) [laptop](object_2) [MacBook](object_3) ?
+- i dont know how to [Can](action), the [you](object_1) [laptop](object_2) [MacBook](object_3) ?
+- tell me the way to [Can](action), the [you](object_1) [laptop](object_2) [MacBook](object_3) ?
+- tell me how to [Can](action), the [you](object_1) [laptop](object_2) [MacBook](object_3) ?
+- show me the way to [Can](action), the [you](object_1) [laptop](object_2) [MacBook](object_3) ?
+- show me how to [Can](action), the [you](object_1) [laptop](object_2) [MacBook](object_3) ?
+- is there any way to [Can](action), the [you](object_1) [laptop](object_2) [MacBook](object_3) ?
+
+- [[Floating](action) windows](object_1) won't show [images](object_2) properly
+- how to [Floating](action), the [Floating windows](object_1) [images](object_2) ?
+- [Floating](action), the [Floating windows](object_1) [images](object_2)
+- how do I [Floating](action), the [Floating windows](object_1) [images](object_2) ?
+- i dont know how to [Floating](action), the [Floating windows](object_1) [images](object_2) ?
+- tell me the way to [Floating](action), the [Floating windows](object_1) [images](object_2) ?
+- tell me how to [Floating](action), the [Floating windows](object_1) [images](object_2) ?
+- show me the way to [Floating](action), the [Floating windows](object_1) [images](object_2) ?
+- show me how to [Floating](action), the [Floating windows](object_1) [images](object_2) ?
+- is there any way to [Floating](action), the [Floating windows](object_1) [images](object_2) ?
+
+- [Lasso tool](object_1) [closes](action) automatically before finishing [the selection](object_2)
+- how to [closes](action), the [Lasso tool](object_1) [the selection](object_2) ?
+- [closes](action), the [Lasso tool](object_1) [the selection](object_2)
+- how do I [closes](action), the [Lasso tool](object_1) [the selection](object_2) ?
+- i dont know how to [closes](action), the [Lasso tool](object_1) [the selection](object_2) ?
+- tell me the way to [closes](action), the [Lasso tool](object_1) [the selection](object_2) ?
+- tell me how to [closes](action), the [Lasso tool](object_1) [the selection](object_2) ?
+- show me the way to [closes](action), the [Lasso tool](object_1) [the selection](object_2) ?
+- show me how to [closes](action), the [Lasso tool](object_1) [the selection](object_2) ?
+- is there any way to [closes](action), the [Lasso tool](object_1) [the selection](object_2) ?
+
+- photoshop [freezes](action) when opening [canon](object_1) [raw](object_2) from 5DM4
+- how to [freezes](action), the [canon](object_1) [raw](object_2) ?
+- [freezes](action), the [canon](object_1) [raw](object_2)
+- how do I [freezes](action), the [canon](object_1) [raw](object_2) ?
+- i dont know how to [freezes](action), the [canon](object_1) [raw](object_2) ?
+- tell me the way to [freezes](action), the [canon](object_1) [raw](object_2) ?
+- tell me how to [freezes](action), the [canon](object_1) [raw](object_2) ?
+- show me the way to [freezes](action), the [canon](object_1) [raw](object_2) ?
+- show me how to [freezes](action), the [canon](object_1) [raw](object_2) ?
+- is there any way to [freezes](action), the [canon](object_1) [raw](object_2) ?
+
+- How to [cancel](action) [Photoshop subscription](object_1)?
+- how to [cancel](action), the [Photoshop subscription](object_1) ?
+- [cancel](action), the [Photoshop subscription](object_1)
+- how do I [cancel](action), the [Photoshop subscription](object_1) ?
+- i dont know how to [cancel](action), the [Photoshop subscription](object_1) ?
+- tell me the way to [cancel](action), the [Photoshop subscription](object_1) ?
+- tell me how to [cancel](action), the [Photoshop subscription](object_1) ?
+- show me the way to [cancel](action), the [Photoshop subscription](object_1) ?
+- show me how to [cancel](action), the [Photoshop subscription](object_1) ?
+- is there any way to [cancel](action), the [Photoshop subscription](object_1) ?
+
+- Please [can](action) so[me](object_1) help [me](object_1) how [I](object_2) would create [this effect](object_3)...
+- how to [can](action), the [me](object_1) [I](object_2) [this effect](object_3) ?
+- [can](action), the [me](object_1) [I](object_2) [this effect](object_3)
+- how do I [can](action), the [me](object_1) [I](object_2) [this effect](object_3) ?
+- i dont know how to [can](action), the [me](object_1) [I](object_2) [this effect](object_3) ?
+- tell me the way to [can](action), the [me](object_1) [I](object_2) [this effect](object_3) ?
+- tell me how to [can](action), the [me](object_1) [I](object_2) [this effect](object_3) ?
+- show me the way to [can](action), the [me](object_1) [I](object_2) [this effect](object_3) ?
+- show me how to [can](action), the [me](object_1) [I](object_2) [this effect](object_3) ?
+- is there any way to [can](action), the [me](object_1) [I](object_2) [this effect](object_3) ?
+
+- [Photoshop](object_1) [wo](action)nt open [files](object_2) anymore
+- how to [wo](action), the [Photoshop](object_1) [files](object_2) ?
+- [wo](action), the [Photoshop](object_1) [files](object_2)
+- how do I [wo](action), the [Photoshop](object_1) [files](object_2) ?
+- i dont know how to [wo](action), the [Photoshop](object_1) [files](object_2) ?
+- tell me the way to [wo](action), the [Photoshop](object_1) [files](object_2) ?
+- tell me how to [wo](action), the [Photoshop](object_1) [files](object_2) ?
+- show me the way to [wo](action), the [Photoshop](object_1) [files](object_2) ?
+- show me how to [wo](action), the [Photoshop](object_1) [files](object_2) ?
+- is there any way to [wo](action), the [Photoshop](object_1) [files](object_2) ?
+
+- [Create](action) [vector file](object_1) and [colour](object_2)
+- how to [Create](action), the [vector file](object_1) [colour](object_2) ?
+- [Create](action), the [vector file](object_1) [colour](object_2)
+- how do I [Create](action), the [vector file](object_1) [colour](object_2) ?
+- i dont know how to [Create](action), the [vector file](object_1) [colour](object_2) ?
+- tell me the way to [Create](action), the [vector file](object_1) [colour](object_2) ?
+- tell me how to [Create](action), the [vector file](object_1) [colour](object_2) ?
+- show me the way to [Create](action), the [vector file](object_1) [colour](object_2) ?
+- show me how to [Create](action), the [vector file](object_1) [colour](object_2) ?
+- is there any way to [Create](action), the [vector file](object_1) [colour](object_2) ?
+
+- How [would](action) [you](object_1) compile [different texture maps](object_2) into [one image](object_3)?
+- how to [would](action), the [you](object_1) [different texture maps](object_2) [one image](object_3) ?
+- [would](action), the [you](object_1) [different texture maps](object_2) [one image](object_3)
+- how do I [would](action), the [you](object_1) [different texture maps](object_2) [one image](object_3) ?
+- i dont know how to [would](action), the [you](object_1) [different texture maps](object_2) [one image](object_3) ?
+- tell me the way to [would](action), the [you](object_1) [different texture maps](object_2) [one image](object_3) ?
+- tell me how to [would](action), the [you](object_1) [different texture maps](object_2) [one image](object_3) ?
+- show me the way to [would](action), the [you](object_1) [different texture maps](object_2) [one image](object_3) ?
+- show me how to [would](action), the [you](object_1) [different texture maps](object_2) [one image](object_3) ?
+- is there any way to [would](action), the [you](object_1) [different texture maps](object_2) [one image](object_3) ?
+
+- [1px hairline](object_1) in [Photoshop](object_2) after [scaling](action) [a selection](object_3) (feather is set to 0px)
+- how to [scaling](action), the [1px hairline](object_1) [Photoshop](object_2) [a selection](object_3) ?
+- [scaling](action), the [1px hairline](object_1) [Photoshop](object_2) [a selection](object_3)
+- how do I [scaling](action), the [1px hairline](object_1) [Photoshop](object_2) [a selection](object_3) ?
+- i dont know how to [scaling](action), the [1px hairline](object_1) [Photoshop](object_2) [a selection](object_3) ?
+- tell me the way to [scaling](action), the [1px hairline](object_1) [Photoshop](object_2) [a selection](object_3) ?
+- tell me how to [scaling](action), the [1px hairline](object_1) [Photoshop](object_2) [a selection](object_3) ?
+- show me the way to [scaling](action), the [1px hairline](object_1) [Photoshop](object_2) [a selection](object_3) ?
+- show me how to [scaling](action), the [1px hairline](object_1) [Photoshop](object_2) [a selection](object_3) ?
+- is there any way to [scaling](action), the [1px hairline](object_1) [Photoshop](object_2) [a selection](object_3) ?
+
+- [UI](object_1): [Remember](action) [last path](object_2) entered
+- how to [Remember](action), the [UI](object_1) [last path](object_2) ?
+- [Remember](action), the [UI](object_1) [last path](object_2)
+- how do I [Remember](action), the [UI](object_1) [last path](object_2) ?
+- i dont know how to [Remember](action), the [UI](object_1) [last path](object_2) ?
+- tell me the way to [Remember](action), the [UI](object_1) [last path](object_2) ?
+- tell me how to [Remember](action), the [UI](object_1) [last path](object_2) ?
+- show me the way to [Remember](action), the [UI](object_1) [last path](object_2) ?
+- show me how to [Remember](action), the [UI](object_1) [last path](object_2) ?
+- is there any way to [Remember](action), the [UI](object_1) [last path](object_2) ?
+
+- [[Open](action) ai file](object_1) in [Photoshop CC](object_2)
+- how to [Open](action), the [Open ai file](object_1) [Photoshop CC](object_2) ?
+- [Open](action), the [Open ai file](object_1) [Photoshop CC](object_2)
+- how do I [Open](action), the [Open ai file](object_1) [Photoshop CC](object_2) ?
+- i dont know how to [Open](action), the [Open ai file](object_1) [Photoshop CC](object_2) ?
+- tell me the way to [Open](action), the [Open ai file](object_1) [Photoshop CC](object_2) ?
+- tell me how to [Open](action), the [Open ai file](object_1) [Photoshop CC](object_2) ?
+- show me the way to [Open](action), the [Open ai file](object_1) [Photoshop CC](object_2) ?
+- show me how to [Open](action), the [Open ai file](object_1) [Photoshop CC](object_2) ?
+- is there any way to [Open](action), the [Open ai file](object_1) [Photoshop CC](object_2) ?
+
+- .psd [[File](action) Error](object_1) - ["not a valid Photoshop document](object_2)"
+- how to [File](action), the [File Error](object_1) ["not a valid Photoshop document](object_2) ?
+- [File](action), the [File Error](object_1) ["not a valid Photoshop document](object_2)
+- how do I [File](action), the [File Error](object_1) ["not a valid Photoshop document](object_2) ?
+- i dont know how to [File](action), the [File Error](object_1) ["not a valid Photoshop document](object_2) ?
+- tell me the way to [File](action), the [File Error](object_1) ["not a valid Photoshop document](object_2) ?
+- tell me how to [File](action), the [File Error](object_1) ["not a valid Photoshop document](object_2) ?
+- show me the way to [File](action), the [File Error](object_1) ["not a valid Photoshop document](object_2) ?
+- show me how to [File](action), the [File Error](object_1) ["not a valid Photoshop document](object_2) ?
+- is there any way to [File](action), the [File Error](object_1) ["not a valid Photoshop document](object_2) ?
+
+- [Help](action): Change [Feather value](object_1) on [Photoshop UI](object_2) [(menu bar](object_3))
+- how to [Help](action), the [Feather value](object_1) [Photoshop UI](object_2) [(menu bar](object_3) ?
+- [Help](action), the [Feather value](object_1) [Photoshop UI](object_2) [(menu bar](object_3)
+- how do I [Help](action), the [Feather value](object_1) [Photoshop UI](object_2) [(menu bar](object_3) ?
+- i dont know how to [Help](action), the [Feather value](object_1) [Photoshop UI](object_2) [(menu bar](object_3) ?
+- tell me the way to [Help](action), the [Feather value](object_1) [Photoshop UI](object_2) [(menu bar](object_3) ?
+- tell me how to [Help](action), the [Feather value](object_1) [Photoshop UI](object_2) [(menu bar](object_3) ?
+- show me the way to [Help](action), the [Feather value](object_1) [Photoshop UI](object_2) [(menu bar](object_3) ?
+- show me how to [Help](action), the [Feather value](object_1) [Photoshop UI](object_2) [(menu bar](object_3) ?
+- is there any way to [Help](action), the [Feather value](object_1) [Photoshop UI](object_2) [(menu bar](object_3) ?
+
+- Is there [a way](object_1) to [use](action) [the brush tool](object_2) and [eyedropper tool](object_3) at the same time?
+- how to [use](action), the [a way](object_1) [the brush tool](object_2) [eyedropper tool](object_3) ?
+- [use](action), the [a way](object_1) [the brush tool](object_2) [eyedropper tool](object_3)
+- how do I [use](action), the [a way](object_1) [the brush tool](object_2) [eyedropper tool](object_3) ?
+- i dont know how to [use](action), the [a way](object_1) [the brush tool](object_2) [eyedropper tool](object_3) ?
+- tell me the way to [use](action), the [a way](object_1) [the brush tool](object_2) [eyedropper tool](object_3) ?
+- tell me how to [use](action), the [a way](object_1) [the brush tool](object_2) [eyedropper tool](object_3) ?
+- show me the way to [use](action), the [a way](object_1) [the brush tool](object_2) [eyedropper tool](object_3) ?
+- show me how to [use](action), the [a way](object_1) [the brush tool](object_2) [eyedropper tool](object_3) ?
+- is there any way to [use](action), the [a way](object_1) [the brush tool](object_2) [eyedropper tool](object_3) ?
+
+- [Photoshop](object_1) [will](action) not open [any pictures](object_2).
+- how to [will](action), the [Photoshop](object_1) [any pictures](object_2) ?
+- [will](action), the [Photoshop](object_1) [any pictures](object_2)
+- how do I [will](action), the [Photoshop](object_1) [any pictures](object_2) ?
+- i dont know how to [will](action), the [Photoshop](object_1) [any pictures](object_2) ?
+- tell me the way to [will](action), the [Photoshop](object_1) [any pictures](object_2) ?
+- tell me how to [will](action), the [Photoshop](object_1) [any pictures](object_2) ?
+- show me the way to [will](action), the [Photoshop](object_1) [any pictures](object_2) ?
+- show me how to [will](action), the [Photoshop](object_1) [any pictures](object_2) ?
+- is there any way to [will](action), the [Photoshop](object_1) [any pictures](object_2) ?
+
+- When [I](object_1) [start](action) using select & mask [my photoshop](object_2) crashes with following [dialog box](object_3).
+- how to [start](action), the [I](object_1) [my photoshop](object_2) [dialog box](object_3) ?
+- [start](action), the [I](object_1) [my photoshop](object_2) [dialog box](object_3)
+- how do I [start](action), the [I](object_1) [my photoshop](object_2) [dialog box](object_3) ?
+- i dont know how to [start](action), the [I](object_1) [my photoshop](object_2) [dialog box](object_3) ?
+- tell me the way to [start](action), the [I](object_1) [my photoshop](object_2) [dialog box](object_3) ?
+- tell me how to [start](action), the [I](object_1) [my photoshop](object_2) [dialog box](object_3) ?
+- show me the way to [start](action), the [I](object_1) [my photoshop](object_2) [dialog box](object_3) ?
+- show me how to [start](action), the [I](object_1) [my photoshop](object_2) [dialog box](object_3) ?
+- is there any way to [start](action), the [I](object_1) [my photoshop](object_2) [dialog box](object_3) ?
+
+- [[Merging](action) adjustment layer](object_1) or clipping [it](object_2) to layer causes [effect](object_3) to disappear
+- how to [Merging](action), the [Merging adjustment layer](object_1) [it](object_2) [effect](object_3) ?
+- [Merging](action), the [Merging adjustment layer](object_1) [it](object_2) [effect](object_3)
+- how do I [Merging](action), the [Merging adjustment layer](object_1) [it](object_2) [effect](object_3) ?
+- i dont know how to [Merging](action), the [Merging adjustment layer](object_1) [it](object_2) [effect](object_3) ?
+- tell me the way to [Merging](action), the [Merging adjustment layer](object_1) [it](object_2) [effect](object_3) ?
+- tell me how to [Merging](action), the [Merging adjustment layer](object_1) [it](object_2) [effect](object_3) ?
+- show me the way to [Merging](action), the [Merging adjustment layer](object_1) [it](object_2) [effect](object_3) ?
+- show me how to [Merging](action), the [Merging adjustment layer](object_1) [it](object_2) [effect](object_3) ?
+- is there any way to [Merging](action), the [Merging adjustment layer](object_1) [it](object_2) [effect](object_3) ?
+
+- How [could](action) [I](object_1) achieve [this blur](object_2)?
+- how to [could](action), the [I](object_1) [this blur](object_2) ?
+- [could](action), the [I](object_1) [this blur](object_2)
+- how do I [could](action), the [I](object_1) [this blur](object_2) ?
+- i dont know how to [could](action), the [I](object_1) [this blur](object_2) ?
+- tell me the way to [could](action), the [I](object_1) [this blur](object_2) ?
+- tell me how to [could](action), the [I](object_1) [this blur](object_2) ?
+- show me the way to [could](action), the [I](object_1) [this blur](object_2) ?
+- show me how to [could](action), the [I](object_1) [this blur](object_2) ?
+- is there any way to [could](action), the [I](object_1) [this blur](object_2) ?
+
+- [[Change](action) Stroke proprieties](object_1) after its made
+- how to [Change](action), the [Change Stroke proprieties](object_1) ?
+- [Change](action), the [Change Stroke proprieties](object_1)
+- how do I [Change](action), the [Change Stroke proprieties](object_1) ?
+- i dont know how to [Change](action), the [Change Stroke proprieties](object_1) ?
+- tell me the way to [Change](action), the [Change Stroke proprieties](object_1) ?
+- tell me how to [Change](action), the [Change Stroke proprieties](object_1) ?
+- show me the way to [Change](action), the [Change Stroke proprieties](object_1) ?
+- show me how to [Change](action), the [Change Stroke proprieties](object_1) ?
+- is there any way to [Change](action), the [Change Stroke proprieties](object_1) ?
+
+- How to [bring](action) [a line](object_1) to [all sides](object_2) of [an image](object_3) quickly?
+- how to [bring](action), the [a line](object_1) [all sides](object_2) [an image](object_3) ?
+- [bring](action), the [a line](object_1) [all sides](object_2) [an image](object_3)
+- how do I [bring](action), the [a line](object_1) [all sides](object_2) [an image](object_3) ?
+- i dont know how to [bring](action), the [a line](object_1) [all sides](object_2) [an image](object_3) ?
+- tell me the way to [bring](action), the [a line](object_1) [all sides](object_2) [an image](object_3) ?
+- tell me how to [bring](action), the [a line](object_1) [all sides](object_2) [an image](object_3) ?
+- show me the way to [bring](action), the [a line](object_1) [all sides](object_2) [an image](object_3) ?
+- show me how to [bring](action), the [a line](object_1) [all sides](object_2) [an image](object_3) ?
+- is there any way to [bring](action), the [a line](object_1) [all sides](object_2) [an image](object_3) ?
+
+- [Question](object_1): [writing](action) [text](object_2) around [a photo](object_3)
+- how to [writing](action), the [Question](object_1) [text](object_2) [a photo](object_3) ?
+- [writing](action), the [Question](object_1) [text](object_2) [a photo](object_3)
+- how do I [writing](action), the [Question](object_1) [text](object_2) [a photo](object_3) ?
+- i dont know how to [writing](action), the [Question](object_1) [text](object_2) [a photo](object_3) ?
+- tell me the way to [writing](action), the [Question](object_1) [text](object_2) [a photo](object_3) ?
+- tell me how to [writing](action), the [Question](object_1) [text](object_2) [a photo](object_3) ?
+- show me the way to [writing](action), the [Question](object_1) [text](object_2) [a photo](object_3) ?
+- show me how to [writing](action), the [Question](object_1) [text](object_2) [a photo](object_3) ?
+- is there any way to [writing](action), the [Question](object_1) [text](object_2) [a photo](object_3) ?
+
+- [Make](action) [a group layer](object_1) (including [children](object_2)) visible ?
+- how to [Make](action), the [a group layer](object_1) [children](object_2) ?
+- [Make](action), the [a group layer](object_1) [children](object_2)
+- how do I [Make](action), the [a group layer](object_1) [children](object_2) ?
+- i dont know how to [Make](action), the [a group layer](object_1) [children](object_2) ?
+- tell me the way to [Make](action), the [a group layer](object_1) [children](object_2) ?
+- tell me how to [Make](action), the [a group layer](object_1) [children](object_2) ?
+- show me the way to [Make](action), the [a group layer](object_1) [children](object_2) ?
+- show me how to [Make](action), the [a group layer](object_1) [children](object_2) ?
+- is there any way to [Make](action), the [a group layer](object_1) [children](object_2) ?
+
+- [[Healing](action) brush](object_1) and [clone tool](object_2) neither one are working.  [I](object_3) have restarted Photoshop and [I](object_3) still cannot use either tool [I](object_3) am on an iMac with High Sierra.
+- how to [Healing](action), the [Healing brush](object_1) [clone tool](object_2) [I](object_3) ?
+- [Healing](action), the [Healing brush](object_1) [clone tool](object_2) [I](object_3)
+- how do I [Healing](action), the [Healing brush](object_1) [clone tool](object_2) [I](object_3) ?
+- i dont know how to [Healing](action), the [Healing brush](object_1) [clone tool](object_2) [I](object_3) ?
+- tell me the way to [Healing](action), the [Healing brush](object_1) [clone tool](object_2) [I](object_3) ?
+- tell me how to [Healing](action), the [Healing brush](object_1) [clone tool](object_2) [I](object_3) ?
+- show me the way to [Healing](action), the [Healing brush](object_1) [clone tool](object_2) [I](object_3) ?
+- show me how to [Healing](action), the [Healing brush](object_1) [clone tool](object_2) [I](object_3) ?
+- is there any way to [Healing](action), the [Healing brush](object_1) [clone tool](object_2) [I](object_3) ?
+
+- [I](object_1) [need](action) [a Phone number](object_2) for [Adobe Photoshop](object_3)
+- how to [need](action), the [I](object_1) [a Phone number](object_2) [Adobe Photoshop](object_3) ?
+- [need](action), the [I](object_1) [a Phone number](object_2) [Adobe Photoshop](object_3)
+- how do I [need](action), the [I](object_1) [a Phone number](object_2) [Adobe Photoshop](object_3) ?
+- i dont know how to [need](action), the [I](object_1) [a Phone number](object_2) [Adobe Photoshop](object_3) ?
+- tell me the way to [need](action), the [I](object_1) [a Phone number](object_2) [Adobe Photoshop](object_3) ?
+- tell me how to [need](action), the [I](object_1) [a Phone number](object_2) [Adobe Photoshop](object_3) ?
+- show me the way to [need](action), the [I](object_1) [a Phone number](object_2) [Adobe Photoshop](object_3) ?
+- show me how to [need](action), the [I](object_1) [a Phone number](object_2) [Adobe Photoshop](object_3) ?
+- is there any way to [need](action), the [I](object_1) [a Phone number](object_2) [Adobe Photoshop](object_3) ?
+
+- [liquefy tool](object_1) [cause](action) [edges](object_2) of [image](object_3) to suck in
+- how to [cause](action), the [liquefy tool](object_1) [edges](object_2) [image](object_3) ?
+- [cause](action), the [liquefy tool](object_1) [edges](object_2) [image](object_3)
+- how do I [cause](action), the [liquefy tool](object_1) [edges](object_2) [image](object_3) ?
+- i dont know how to [cause](action), the [liquefy tool](object_1) [edges](object_2) [image](object_3) ?
+- tell me the way to [cause](action), the [liquefy tool](object_1) [edges](object_2) [image](object_3) ?
+- tell me how to [cause](action), the [liquefy tool](object_1) [edges](object_2) [image](object_3) ?
+- show me the way to [cause](action), the [liquefy tool](object_1) [edges](object_2) [image](object_3) ?
+- show me how to [cause](action), the [liquefy tool](object_1) [edges](object_2) [image](object_3) ?
+- is there any way to [cause](action), the [liquefy tool](object_1) [edges](object_2) [image](object_3) ?
+
+- [Photoshop](object_1) repeatedly [crashing](action) [surface book](object_2) [2 - help](object_3)?
+- how to [crashing](action), the [Photoshop](object_1) [surface book](object_2) [2 - help](object_3) ?
+- [crashing](action), the [Photoshop](object_1) [surface book](object_2) [2 - help](object_3)
+- how do I [crashing](action), the [Photoshop](object_1) [surface book](object_2) [2 - help](object_3) ?
+- i dont know how to [crashing](action), the [Photoshop](object_1) [surface book](object_2) [2 - help](object_3) ?
+- tell me the way to [crashing](action), the [Photoshop](object_1) [surface book](object_2) [2 - help](object_3) ?
+- tell me how to [crashing](action), the [Photoshop](object_1) [surface book](object_2) [2 - help](object_3) ?
+- show me the way to [crashing](action), the [Photoshop](object_1) [surface book](object_2) [2 - help](object_3) ?
+- show me how to [crashing](action), the [Photoshop](object_1) [surface book](object_2) [2 - help](object_3) ?
+- is there any way to [crashing](action), the [Photoshop](object_1) [surface book](object_2) [2 - help](object_3) ?
+
+- [Want](action) to Switch from CorelDRAW to [Photoshop](object_1)
+- how to [Want](action), the [Photoshop](object_1) ?
+- [Want](action), the [Photoshop](object_1)
+- how do I [Want](action), the [Photoshop](object_1) ?
+- i dont know how to [Want](action), the [Photoshop](object_1) ?
+- tell me the way to [Want](action), the [Photoshop](object_1) ?
+- tell me how to [Want](action), the [Photoshop](object_1) ?
+- show me the way to [Want](action), the [Photoshop](object_1) ?
+- show me how to [Want](action), the [Photoshop](object_1) ?
+- is there any way to [Want](action), the [Photoshop](object_1) ?
+
+- [Ca](action)n't save in [Jpeg format](object_1)
+- how to [Ca](action), the [Jpeg format](object_1) ?
+- [Ca](action), the [Jpeg format](object_1)
+- how do I [Ca](action), the [Jpeg format](object_1) ?
+- i dont know how to [Ca](action), the [Jpeg format](object_1) ?
+- tell me the way to [Ca](action), the [Jpeg format](object_1) ?
+- tell me how to [Ca](action), the [Jpeg format](object_1) ?
+- show me the way to [Ca](action), the [Jpeg format](object_1) ?
+- show me how to [Ca](action), the [Jpeg format](object_1) ?
+- is there any way to [Ca](action), the [Jpeg format](object_1) ?
+
+- [Help](action) with using [Brushes](object_1) in [Photoshop CC](object_2)
+- how to [Help](action), the [Brushes](object_1) [Photoshop CC](object_2) ?
+- [Help](action), the [Brushes](object_1) [Photoshop CC](object_2)
+- how do I [Help](action), the [Brushes](object_1) [Photoshop CC](object_2) ?
+- i dont know how to [Help](action), the [Brushes](object_1) [Photoshop CC](object_2) ?
+- tell me the way to [Help](action), the [Brushes](object_1) [Photoshop CC](object_2) ?
+- tell me how to [Help](action), the [Brushes](object_1) [Photoshop CC](object_2) ?
+- show me the way to [Help](action), the [Brushes](object_1) [Photoshop CC](object_2) ?
+- show me how to [Help](action), the [Brushes](object_1) [Photoshop CC](object_2) ?
+- is there any way to [Help](action), the [Brushes](object_1) [Photoshop CC](object_2) ?
+
+- [Photoshop CS6](object_1) [[Wo](action)n't Open - Cloud Subscription](object_2) Expired
+- how to [Wo](action), the [Photoshop CS6](object_1) [Won't Open - Cloud Subscription](object_2) ?
+- [Wo](action), the [Photoshop CS6](object_1) [Won't Open - Cloud Subscription](object_2)
+- how do I [Wo](action), the [Photoshop CS6](object_1) [Won't Open - Cloud Subscription](object_2) ?
+- i dont know how to [Wo](action), the [Photoshop CS6](object_1) [Won't Open - Cloud Subscription](object_2) ?
+- tell me the way to [Wo](action), the [Photoshop CS6](object_1) [Won't Open - Cloud Subscription](object_2) ?
+- tell me how to [Wo](action), the [Photoshop CS6](object_1) [Won't Open - Cloud Subscription](object_2) ?
+- show me the way to [Wo](action), the [Photoshop CS6](object_1) [Won't Open - Cloud Subscription](object_2) ?
+- show me how to [Wo](action), the [Photoshop CS6](object_1) [Won't Open - Cloud Subscription](object_2) ?
+- is there any way to [Wo](action), the [Photoshop CS6](object_1) [Won't Open - Cloud Subscription](object_2) ?
+
+- How do [I](object_1) [copy](action) [a shape](object_2)
+- how to [copy](action), the [I](object_1) [a shape](object_2) ?
+- [copy](action), the [I](object_1) [a shape](object_2)
+- how do I [copy](action), the [I](object_1) [a shape](object_2) ?
+- i dont know how to [copy](action), the [I](object_1) [a shape](object_2) ?
+- tell me the way to [copy](action), the [I](object_1) [a shape](object_2) ?
+- tell me how to [copy](action), the [I](object_1) [a shape](object_2) ?
+- show me the way to [copy](action), the [I](object_1) [a shape](object_2) ?
+- show me how to [copy](action), the [I](object_1) [a shape](object_2) ?
+- is there any way to [copy](action), the [I](object_1) [a shape](object_2) ?
+
+- [Integrate](action) [a font](object_1) in [photoshop document](object_2)
+- how to [Integrate](action), the [a font](object_1) [photoshop document](object_2) ?
+- [Integrate](action), the [a font](object_1) [photoshop document](object_2)
+- how do I [Integrate](action), the [a font](object_1) [photoshop document](object_2) ?
+- i dont know how to [Integrate](action), the [a font](object_1) [photoshop document](object_2) ?
+- tell me the way to [Integrate](action), the [a font](object_1) [photoshop document](object_2) ?
+- tell me how to [Integrate](action), the [a font](object_1) [photoshop document](object_2) ?
+- show me the way to [Integrate](action), the [a font](object_1) [photoshop document](object_2) ?
+- show me how to [Integrate](action), the [a font](object_1) [photoshop document](object_2) ?
+- is there any way to [Integrate](action), the [a font](object_1) [photoshop document](object_2) ?
+
+- [Donwgrading](action) [UI script](object_1) from [PS CC](object_2) to [PS C6](object_3)
+- how to [Donwgrading](action), the [UI script](object_1) [PS CC](object_2) [PS C6](object_3) ?
+- [Donwgrading](action), the [UI script](object_1) [PS CC](object_2) [PS C6](object_3)
+- how do I [Donwgrading](action), the [UI script](object_1) [PS CC](object_2) [PS C6](object_3) ?
+- i dont know how to [Donwgrading](action), the [UI script](object_1) [PS CC](object_2) [PS C6](object_3) ?
+- tell me the way to [Donwgrading](action), the [UI script](object_1) [PS CC](object_2) [PS C6](object_3) ?
+- tell me how to [Donwgrading](action), the [UI script](object_1) [PS CC](object_2) [PS C6](object_3) ?
+- show me the way to [Donwgrading](action), the [UI script](object_1) [PS CC](object_2) [PS C6](object_3) ?
+- show me how to [Donwgrading](action), the [UI script](object_1) [PS CC](object_2) [PS C6](object_3) ?
+- is there any way to [Donwgrading](action), the [UI script](object_1) [PS CC](object_2) [PS C6](object_3) ?
+
+- [[Flatten](action) image dialogue box](object_1) in [Photoshop](object_2) ([PC](object_3) vs. Mac)
+- how to [Flatten](action), the [Flatten image dialogue box](object_1) [Photoshop](object_2) [PC](object_3) ?
+- [Flatten](action), the [Flatten image dialogue box](object_1) [Photoshop](object_2) [PC](object_3)
+- how do I [Flatten](action), the [Flatten image dialogue box](object_1) [Photoshop](object_2) [PC](object_3) ?
+- i dont know how to [Flatten](action), the [Flatten image dialogue box](object_1) [Photoshop](object_2) [PC](object_3) ?
+- tell me the way to [Flatten](action), the [Flatten image dialogue box](object_1) [Photoshop](object_2) [PC](object_3) ?
+- tell me how to [Flatten](action), the [Flatten image dialogue box](object_1) [Photoshop](object_2) [PC](object_3) ?
+- show me the way to [Flatten](action), the [Flatten image dialogue box](object_1) [Photoshop](object_2) [PC](object_3) ?
+- show me how to [Flatten](action), the [Flatten image dialogue box](object_1) [Photoshop](object_2) [PC](object_3) ?
+- is there any way to [Flatten](action), the [Flatten image dialogue box](object_1) [Photoshop](object_2) [PC](object_3) ?
+
+- How do [I](object_1) [skew](action) [a shape gradient](object_2)?
+- how to [skew](action), the [I](object_1) [a shape gradient](object_2) ?
+- [skew](action), the [I](object_1) [a shape gradient](object_2)
+- how do I [skew](action), the [I](object_1) [a shape gradient](object_2) ?
+- i dont know how to [skew](action), the [I](object_1) [a shape gradient](object_2) ?
+- tell me the way to [skew](action), the [I](object_1) [a shape gradient](object_2) ?
+- tell me how to [skew](action), the [I](object_1) [a shape gradient](object_2) ?
+- show me the way to [skew](action), the [I](object_1) [a shape gradient](object_2) ?
+- show me how to [skew](action), the [I](object_1) [a shape gradient](object_2) ?
+- is there any way to [skew](action), the [I](object_1) [a shape gradient](object_2) ?
+
+- How to partially [change](action) [the color](object_1) of [a brush stroke](object_2) after [it](object_3)'s been drawn?
+- how to [change](action), the [the color](object_1) [a brush stroke](object_2) [it](object_3) ?
+- [change](action), the [the color](object_1) [a brush stroke](object_2) [it](object_3)
+- how do I [change](action), the [the color](object_1) [a brush stroke](object_2) [it](object_3) ?
+- i dont know how to [change](action), the [the color](object_1) [a brush stroke](object_2) [it](object_3) ?
+- tell me the way to [change](action), the [the color](object_1) [a brush stroke](object_2) [it](object_3) ?
+- tell me how to [change](action), the [the color](object_1) [a brush stroke](object_2) [it](object_3) ?
+- show me the way to [change](action), the [the color](object_1) [a brush stroke](object_2) [it](object_3) ?
+- show me how to [change](action), the [the color](object_1) [a brush stroke](object_2) [it](object_3) ?
+- is there any way to [change](action), the [the color](object_1) [a brush stroke](object_2) [it](object_3) ?
+
+- [creative cloud](object_1) and [photoshop](object_2) [linking](action) [smart object problem](object_3)
+- how to [linking](action), the [creative cloud](object_1) [photoshop](object_2) [smart object problem](object_3) ?
+- [linking](action), the [creative cloud](object_1) [photoshop](object_2) [smart object problem](object_3)
+- how do I [linking](action), the [creative cloud](object_1) [photoshop](object_2) [smart object problem](object_3) ?
+- i dont know how to [linking](action), the [creative cloud](object_1) [photoshop](object_2) [smart object problem](object_3) ?
+- tell me the way to [linking](action), the [creative cloud](object_1) [photoshop](object_2) [smart object problem](object_3) ?
+- tell me how to [linking](action), the [creative cloud](object_1) [photoshop](object_2) [smart object problem](object_3) ?
+- show me the way to [linking](action), the [creative cloud](object_1) [photoshop](object_2) [smart object problem](object_3) ?
+- show me how to [linking](action), the [creative cloud](object_1) [photoshop](object_2) [smart object problem](object_3) ?
+- is there any way to [linking](action), the [creative cloud](object_1) [photoshop](object_2) [smart object problem](object_3) ?
+
+- do not [work](action) [the square brackets](object_1) to enlarge [brush](object_2) on [the fly](object_3) on macbook pro with Italian qwerty keyboard
+- how to [work](action), the [the square brackets](object_1) [brush](object_2) [the fly](object_3) ?
+- [work](action), the [the square brackets](object_1) [brush](object_2) [the fly](object_3)
+- how do I [work](action), the [the square brackets](object_1) [brush](object_2) [the fly](object_3) ?
+- i dont know how to [work](action), the [the square brackets](object_1) [brush](object_2) [the fly](object_3) ?
+- tell me the way to [work](action), the [the square brackets](object_1) [brush](object_2) [the fly](object_3) ?
+- tell me how to [work](action), the [the square brackets](object_1) [brush](object_2) [the fly](object_3) ?
+- show me the way to [work](action), the [the square brackets](object_1) [brush](object_2) [the fly](object_3) ?
+- show me how to [work](action), the [the square brackets](object_1) [brush](object_2) [the fly](object_3) ?
+- is there any way to [work](action), the [the square brackets](object_1) [brush](object_2) [the fly](object_3) ?
+
+- [[ellipse](action) tool color problem](object_1)!
+- how to [ellipse](action), the [ellipse tool color problem](object_1) ?
+- [ellipse](action), the [ellipse tool color problem](object_1)
+- how do I [ellipse](action), the [ellipse tool color problem](object_1) ?
+- i dont know how to [ellipse](action), the [ellipse tool color problem](object_1) ?
+- tell me the way to [ellipse](action), the [ellipse tool color problem](object_1) ?
+- tell me how to [ellipse](action), the [ellipse tool color problem](object_1) ?
+- show me the way to [ellipse](action), the [ellipse tool color problem](object_1) ?
+- show me how to [ellipse](action), the [ellipse tool color problem](object_1) ?
+- is there any way to [ellipse](action), the [ellipse tool color problem](object_1) ?
+
 - Hi, I'm having a problem with my [photoshop](object_1).
 - Hi, I'm having a problem when I [install](action) [photoshop](object_1).
 - Hey, I've got a trouble with my [photoshop](object_1).
 - hey, I've got trouble when [install](action) [photoshop](object_1)
-
-- how [change](action) [thickness of line](object_1) with [rectangle tool](object_2) ?
-- how to [change](action) [thickness of line](object_1) with [rectangle tool](object_2) ?
-- [change](action) [thickness of line](object_1) with [rectangle tool](object_2).
-- how do I [change](action) [thickness of line](object_1) with [rectangle tool](object_2) ?
-- i dont know how to [change](action) [thickness of line](object_1) with [rectangle tool](object_2) ?
-- i dont know how to [change](action) [thickness of line](object_1) with [rectangle tool](object_2). Can you help me ?
-- tell me how to [change](action) [thickness of line](object_1) with [rectangle tool](object_2) ?
-- show me the way to [change](action) [thickness of line](object_1) with [rectangle tool](object_2) ?
-- is there any way to [change](action) [thickness of line](object_1) with [rectangle tool](object_2) ?
-
-- how [erase](action) [image](object_1) with [it](mention) ?
-- how to [erase](action) [image](object_1) with [it](mention) ?
-- [erase](action) [image]](object_1) with [it](mention).
-- how do I [erase](action) [image](object_1) with [it](mention) ?
-- i dont know how to [erase](action) [image](object_1) with [it](mention) ?
-- i dont know how to [erase](action) [image](object_1) with [it](mention). Can you help me ?
-- tell me how to [erase](action) [image](object_1) with [it](mention) ?
-- show me the way to [erase](action) [image](object_1) with [it](mention) ?
-- is there any way to [erase](action) [image](object_1) with [it](mention) ?
-
-- how [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
-- how to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
-- [remove](action) [it](mention) [from](link) a [glass picture frame](object_2).
-- how do I [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
-- i dont know how to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
-- i dont know how to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2). Can you help me ?
-- tell me how to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
-- show me the way to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
-- is there any way to [remove](action) [it](mention) [from](link) a [glass picture frame](object_2) ?
-
-- how [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
-- how to [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
-- [remove](action) [green screen](object_1) [from](link) [background](object_2).
-- how do I [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
-- i dont know how to [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
-- i dont know how to [remove](action) [green screen](object_1) [from](link) [background](object_2). Can you help me ?
-- tell me how to [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
-- show me the way to [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
-- is there any way to [remove](action) [green screen](object_1) [from](link) [background](object_2) ?
-
-- how [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
-- how to [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
-- [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
-- how do I [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
-- i dont know how to [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
-- i dont know how to [change](action) [thickness of line](object_1) [with](link) [it](mention). Can you help me ?
-- tell me how to [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
-- show me the way to [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
-- is there any way to [change](action) [thickness of line](object_1) [with](link) [it](mention) ?
-
-- how [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
-- how to [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
-- [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
-- how do I [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
-- i dont know how to [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
-- i dont know how to [paint](action) a [straight line](object_1) [using](link) [it](mention). Can you help me ?
-- tell me how to [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
-- show me the way to [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
-- is there any way to [paint](action) a [straight line](object_1) [using](link) [it](mention) ?
+- I can not [run](action) it.
+- I can not [install](action) it.
 
 - How to [reset](action) Edit Settings Back to Default in adobe [camera raw](object_1)?
 - [camera raw](object_1) [reset](action) to original?
@@ -1128,9 +8862,6 @@
 - How do I [stroke](action) a [path](object_1) with phtoshop
 - I am using PS CC 2017 and I'm having problems [stroking](action) a [path](object_1).  The option is greyed out.  No problem with this in my old PS.  Can you tell me what setting I may have wrong for this to happen?
 - by the way, can you show me the way to [run](action) it after fisined installing ?
-- How to [reset](action) Edit Settings Back to Default in adobe [it](mention)?
-- How to [reset](action) [it](mention) setting in multiple imagesin action?
-- How do I [stroke](action) a [path](object_1) with phtoshop
 
 
 - I get a error when trying to [install](action) [photoshop](object_1) [CC](version) and i dont know why?
@@ -1139,7 +8870,7 @@
 - I tried to [install](action) [photoshop](object_1) [CS5](version) on my new laptop but it doesn't work. Please help me!!
 - Hi, I need [install](action) my [photoshop](object_1) [CS6](version) in my new laptop bought 10 days ago, but retain the app in my old computer which I still use.
 - I no longer have a slot on my mac desktop to install the cd. I downloaded the [photoshop](object_1) and I keep getting this error when trying to [install](action). Anyone know how I can get this installed? Thanks!
-
+- When I [install](action) my [photoshop](object_1), it says: Installing Failed. I am using [windows 10](OS). It seems nothing is wrong but only the installation. 
 - I've downloaded the [photoshop](object_1) [CS5](action) extended version but can't [install](action) it on my new [Mac](equipment) computer.
 - i try to [install](action) adobe [photoshop](object_1) [cc](version) 2015 but it keep sayin to download adobe support advisor. could you help me ?
 - Hi I'm wondering if it is possible to [install](action) [photoshop](object_1) [cs6](version) on [iPad](equipment)??
@@ -1155,7 +8886,7 @@
 
 
 
-
+- I can [add](action) [text](object_1) to [image](object_2) that I open into photoshop but not when Its a blank tab, it just says rendering type.
 - I have an [image](object_2) of space and I want it to [add](action) some [text](object_1) I've got. What's the best way of going about this?
 - Basically, I am trying to [add](action) [text](object_1) within the [image](object_2), but when I do so, the text goes into the gaps as well.
 - How do I [add](action) [text](object_1) to a [image](object_2) in photoshop?
@@ -1163,9 +8894,6 @@
 - I want to [add](action) [text](object_1) to a [image](object_2). I made a new blank layer above the image and clicked on the "T" button.  I am able to click in the workspace and the cursor flashes so I can add text; but, when I go up to the menu to scroll through the different types of text available, Photoshop freezes for quite awhile.  The types of text menu eventually opens but I cannot do anything because Photoshop does not respond again.  I used to be able to add text to my Photoshop files.  What am I doing wrong?  Does this happen to anyone else?
 - If I want to [add](action) [text](object_1) to a [image](object_2), then how can I do that?
 - I want to [add](action) [text](object_1) to a [image](object_2) and followed the online instructions but No text appears on my photo. What am I doing wrong?
-- Basically, I am trying to [add](action) [text](object_1) within [it](mention), but when I do so, the text goes into the gaps as well.
-- How do I [add](action) [it](mention) to a [image](object_2) in photoshop?
-- If I want to [add](action) [text](object_1) to [it](mention), then how can I do that?
 
 - How do I [adjust](action) the [image](object_1) size on three sides only?
 - In the attached example, my cursor was aimed at the second line and the area clicked was the line above. This aim problem only applies to text. Everything else is fine. If I need to edit text I, I have to click on the line below. Any ideas how I can fix this?
@@ -1187,9 +8915,6 @@
 - tell me the way to [add](action) [text](object_1) to [image](object_2) ?
 - show me how to [add](action) [text](object_1) to [image](object_2) ?
 - is there any way to [add](action) [text](object_1) to [image](object_2) ?
-- how [add](action) [text](object_1) to [it](mention) ?
-- how to [add](action) [text](object_1) to [it](mention) ?
-- [add](action) [text](object_1) to [it](mention). 
 
 - how [add](action) [conditional](object_1) [action](object_2) ?
 - how to [add](action) [conditional](object_1) [action](object_2) ?
@@ -1201,16 +8926,6 @@
 - show me the way to [add](action) [conditional](object_1) [action](object_2) ?
 - is there any way to [add](action) [conditional](object_1) [action](object_2) ?
 
-- how [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
-- how to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
-- [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
-- how do I [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
-- i dont know how to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
-- i dont know how to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention). Can you help me ?
-- tell me how to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
-- show me the way to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
-- is there any way to [import](action) [photo](object_1) [into](link) [stack](object_2) [using](link_2) [it](mention) ?
-
 - how [apply](action) saved [camera raw](object_1) settings ?
 - how to [apply](action) saved [camera raw](object_1) settings ?
 - [apply](action) saved [camera raw](object_1) settings.
@@ -1219,9 +8934,6 @@
 - tell me the way to [apply](action) saved [camera raw](object_1) settings ?
 - show me how to [apply](action) saved [camera raw](object_1) settings ?
 - is there any way to [apply](action) saved [camera raw](object_1) settings ?
-- how [apply](action) saved [it](mention) settings ?
-- how to [apply](action) saved [it](mention) settings ?
-- [apply](action) saved [it](mention) settings.
 
 - how [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?  
 - how to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?  
@@ -1231,13 +8943,7 @@
 - i dont know how to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature. Can you help me ?
 - tell me the way to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?
 - show me how to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?  
-- is the any way to [clean](action) up [it](mention) with the [visualize spots](object_2) feature ?
-- how [clean](action) up [it](mention) with the [visualize spots](object_2) feature ?  
-- how to [clean](action) up [it](mention) with the [visualize spots](object_2) feature ?  
-- [clean](action) up [it](mention) with the [visualize spots](object_2) feature.
-- i dont know how to [clean](action) up the [photo](object_1) with [it](mention) feature ?
-- i dont know how to [clean](action) up the [photo](object_1) with [it](mention) feature. Can you help me ?
-- tell me the way to [clean](action) up the [photo](object_1) with [it](mention) feature ?
+- is the any way to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?    
 
 - how [copy and paste](action) [camera raw](object_1) settings ? 
 - how to [copy and paste](action) [camera raw](object_1) settings ? 
@@ -1257,87 +8963,6 @@
 - show me the way to [create](action) [360](object_1) degree [panorama](object_2) ?
 - is there any way to [create](action) [360](object_1) degree [panorama](object_2) ?
 
-- how [get rid of](action) [grid](object_1) [in](link) [it](mention) ?
-- how to [get rid of](action) [grid](object_1) [in](link) [it](mention) ?
-- [get rid of](action) [grid](object_1) [in](link) [it](mention)
-- i dont know how to [get rid of](action) [grid](object_1) [in](link) [it](mention) ?
-- how do I [get rid of](action) [grid](object_1) [in](link) [it](mention) ?
-- tell me how to [get rid of](action) [grid](object_1) [in](link) [it](mention) ?
-- show me the way to [get rid of](action) [grid](object_1) [in](link) [it](mention) ?
-- is there any way to [get rid of](action) [grid](object_1) [in](link) [it](mention) ?
-
-- how [create](action) [stylized portrait](object_1) using [HDR tone](object_2) ?
-- how to [create](action) [stylized portrait](object_1) using [HDR tone](object_2) ?
-- [create](action) [stylized portrait](object_1) using [HDR tone](object_2)
-- i dont know how to [create](action) [stylized portrait](object_1) using [HDR tone](object_2) ?
-- how do I [create](action) [stylized portrait](object_1) using [HDR tone](object_2) ?
-- tell me how to [create](action) [stylized portrait](object_1) using [HDR tone](object_2) ?
-- show me the way to [create](action) [stylized portrait](object_1) using [HDR tone](object_2) ?
-- is there any way to [create](action) [stylized portrait](object_1) using [HDR tone](object_2) ?
-
-- how use [HDR tone](object_2) to [create](action) [stylized portrait](object_1) ?
-- how to use [HDR tone](object_2) to [create](action) [stylized portrait](object_1) ?
-- use [HDR tone](object_2) to [create](action) [stylized portrait](object_1) ?
-- i dont know how to use [HDR tone](object_2) to [create](action) [stylized portrait](object_1) ?
-- how do I use [HDR tone](object_2) to [create](action) [stylized portrait](object_1) ?
-- tell me how to use [HDR tone](object_2) to [create](action) [stylized portrait](object_1) ?
-- show me the way to use [HDR tone](object_2) to [create](action) [stylized portrait](object_1) ?
-- is there any way to use [HDR tone](object_2) to [create](action) [stylized portrait](object_1) ?
-
-- how [use](link) [color range mask](object_2) to [apply](action) the [local adjustment](object_1) ?
-- how to [use](link) [color range mask](object_2) to [apply](action) the [local adjustment](object_1) ?
-- [use](link) [color range mask](object_2) to [apply](action) the [local adjustment](object_1) ?
-- i dont know how to [use](link) [color range mask](object_2) to [apply](action) the [local adjustment](object_1) ?
-- how do I [use](link) [color range mask](object_2) to [apply](action) the [local adjustment](object_1) ?
-- tell me how to [use](link) [color range mask](object_2) to [apply](action) the [local adjustment](object_1) ?
-- show me the way to [use](link) [color range mask](object_2) to [apply](action) the [local adjustment](object_1) ?
-- is there any way to [use](link) [color range mask](object_2) to [apply](action) the [local adjustment](object_1) ?
-
-- how [use](link) [it](mention) to [apply](action) the [local adjustment](object_1) ?
-- how to [use](link) [it](mention) to [apply](action) the [local adjustment](object_1) ?
-- [use](link) [it](mention) to [apply](action) the [local adjustment](object_1) ?
-- i dont know how to [use](link) [it](mention) to [apply](action) the [local adjustment](object_1) ?
-- how do I [use](link) [it](mention) to [apply](action) the [local adjustment](object_1) ?
-- tell me how to [use](link) [it](mention) to [apply](action) the [local adjustment](object_1) ?
-- show me the way to [use](link) [it](mention) to [apply](action) the [local adjustment](object_1) ?
-- is there any way to [use](link) [it](mention) to [apply](action) the [local adjustment](object_1) ?
-
-- how use [it](mention) to [expose](action) settings to [individual images](object_1) ?
-- how to use [it](mention) to [expose](action) settings to [individual images](object_1) ?
-- use [it](mention) to [expose](action) settings to [individual images](object_1) ?
-- i dont know how to use [it](mention) to [expose](action) settings to [individual images](object_1) ?
-- how do I use [it](mention) to [expose](action) settings to [individual images](object_1) ?
-- tell me how to use [it](mention) to [expose](action) settings to [individual images](object_1) ?
-- show me the way to use [it](mention) to [expose](action) settings to [individual images](object_1) ?
-- is there any way to use [it](object_2) to [expose](action) settings to [individual images](object_1) ?
-
-- how [use](link) [it](mention) to [remove](action) [background](object_1) ?
-- how to [use](link) [it](mention) to [remove](action) [background](object_1) ?
-- [use](link) [it](mention) to [remove](action) settings to [background](object_1) ?
-- i dont know how to [use](link) [it](mention) to [remove](action) [background](object_1) ?
-- how do I [use](link) [it](mention) to [remove](action) [background](object_1) ?
-- tell me how to [use](link) [it](mention) to [remove](action) [background](object_1) ?
-- show me the way to [use](link) [it](mention) to [remove](action) [background](object_1) ?
-- is there any way to [use](link) [it](object_2) to [remove](action) [background](object_1) ?
-
-- how [create](action) [image](object_1) with [double exposure](object_2) effect ?
-- how to [create](action) [image](object_1) with [double exposure](object_2) effect ?
-- [create](action) [image](object_1) with [double exposure](object_2)
-- i dont know how to [create](action) [image](object_1) with [double exposure](object_2) effect ?
-- how do I [create](action) [image](object_1) with [double exposure](object_2) effect ?
-- tell me how to [create](action) [image](object_1) with [double exposure](object_2) effect ?
-- show me the way to [create](action) [image](object_1) with [double exposure](object_2) effect ?
-- is there any way to [create](action) [image](object_1) with [double exposure](object_2) ?
-
-- how [make](action) [background](object_1) with [this](mention) effect ?
-- how to [make](action) [background](object_1) with [this](mention) effect ?
-- [make](action) [background](object_1) with [this](mention)
-- i dont know how to [make](action) [image](object_1) with [this](mention) effect ?
-- how do I [make](action) [background](object_1) with [this](mention) effect ?
-- tell me how to [make](action) [background](object_1) with [this](mention) effect ?
-- show me the way to [make](action) [background](object_1) with [this](mention) effect ?
-- is there any way to [make](action) [background](object_1) with [this](mention) ?
-
 - how [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
 - how to [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
 - [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews
@@ -1347,30 +8972,14 @@
 - show me the way to [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
 - is there any way to [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
 
-- how [add](action) [profiles](object_1) [to](link) [favorites](object_2) ?
-- how to [add](action) [profiles](object_1) [to](link) [favorites](object_2) ?
-- [add](action) [profiles](object_1) [to](link) [favorites](object_2).
-- how do I [add](action) [profiles](object_1) [to](link) [favorites](object_2) ?
-- i dont know how to [add](action) [profiles](object_1) [to](link) [favorites](object_2) ?
-- tell me how to [add](action) [profiles](object_1) [to](link) [favorites](object_2) ?
-- show me the way to [add](action) [profiles](object_1) [to](link) [favorites](object_2) ?
-- is there any way to [add](action) [profiles](object_1) [to](link) [favorites](object_2) ?
-
-- how [add](action) [them](mention) to [favorites](object_2) ?
-- how to [add](action) [them](mention) to [favorites](object_2) ?
-- [add](action) [them](mention) to [favorites](object_2).
-- how do I [add](action) [them](mention) to [favorites](object_2) ?
-- i dont know how to [add](action) [them](mention) to [favorites](object_2) ?
-- tell me how to [add](action) [them](mention) to [favorites](object_2) ?
-- show me the way to [add](action) [them](mention) to [favorites](object_2) ?
-- is there any way to [add](action) [them](mention) to [favorites](object_2) ?
-
-- how [add](action) [profiles](object_1) [to](link) [it](mention) ?
-- how to [add](action) [profiles](object_1) [to](link) [it](mention) ?
-- [add](action) [profiles](object_1) [to](link) [it](mention).
-- tell me how to [add](action) [it](mention) [to](link) [favorites](object_2) ?
-- show me the way to [add](action) [it](mention) [to](link) [favorites](object_2) ?
-- is there any way to [add](action) [it](mention) [to](link) [favorites](object_2) ?
+- how [add](action) [profiles](object_1) to [favorites](object_2) ?
+- how to [add](action) [profiles](object_1) to [favorites](object_2) ?
+- [add](action) [profiles](object_1) to [favorites](object_2).
+- how do I [add](action) [profiles](object_1) to [favorites](object_2) ?
+- i dont know how to [add](action) [profiles](object_1) to [favorites](object_2) ?
+- tell me how to [add](action) [profiles](object_1) to [favorites](object_2) ?
+- show me the way to [add](action) [profiles](object_1) to [favorites](object_2) ?
+- is there any way to [add](action) [profiles](object_1) to [favorites](object_2) ?
 
 - how [adjust](action) [image](object_1) ?
 - how to [adjust](action) [image](object_1) ?
@@ -1381,157 +8990,25 @@
 - show me how to [adjust](action) [image](object_1) ?
 - show me the way to [adjust](action) [image](object_1) ?
 - is there any way to [adjust](action) [image](object_1) ?
-- how [adjust](action) [it](mention) ?
-- how to [adjust](action) [it](mention) ?
-- [adjust](action) [it](mention)
 
-- how [apply](action) [profiles](object_1) [to](link) the [image](object_2) ?
-- how to [apply](action) [profiles](object_1) [to](link) the [image](object_2) ?
-- [apply](action) [profiles](object_1) [to](link) the [image](object_2)
-- how do I [apply](action) [profiles](object_1) [to](link) the [image](object_2) ?
-- i dont know how to [apply](action) [profiles](object_1) [to](link) the [image](object_2) ?
-- tell me how to [apply](action) [profiles](object_1) [to](link) the [image](object_2) ?
-- show me the way to [apply](action) [profiles](object_1) [to](link) the [image](object_2) ?
-- tell me the way to [apply](action) [profiles](object_1) [to](link) the [image](object_2) ?
-- is there any way to [apply](action) [profiles](object_1) [to](link) the [image](object_2) ?
-- how [apply](action) [profiles](object_1) [to](link) [it](mention) ?
-- how to [apply](action) [profiles](object_1) [to](link) [it](mention) ?
-- [apply](action) [profiles](object_1) [to](link) [it](mention)
+- how [apply](action) [profiles](object_1) to [image](object_2) ?
+- how to [apply](action) [profiles](object_1) to [image](object_2) ?
+- [apply](action) [profiles](object_1) to [image](object_2)
+- how do I [apply](action) [profiles](object_1) to [image](object_2) ?
+- i dont know how to [apply](action) [profiles](object_1) to [image](object_2) ?
+- tell me how to [apply](action) [profiles](object_1) to [image](object_2) ?
+- show me the way to [apply](action) [profiles](object_1) to [image](object_2) ?
+- tell me the way to [apply](action) [profiles](object_1) to [image](object_2) ?
+- is there any way to [apply](action) [profiles](object_1) to [image](object_2) ?
 
-- how to [assign](action) [profiles](object_1) [to](link) [image](object_2) ?
-- [assign](action) [profiles](object_1) [to](link) [image](object_2)
-- how do I [assign](action) [profiles](object_1) [to](link) [image](object_2) ?
-- i dont know how to [assign](action) [profiles](object_1) [to](link) [image](object_2) ?
-- tell me how to [assign](action) [profiles](object_1) [to](link) [image](object_2) ?
-- show me the way to [assign](action) [profiles](object_1) [to](link) [image](object_2) ?
-- tell me the way to [assign](action) [profiles](object_1) [to](link) [image](object_2) ?
-- is there any way to [assign](action) [profiles](object_1) [to](link) [image](object_2) ?
-
-- how to [use](link) [it](mention) to [move](action) [layer](object_1) ?
-- [use](link) [it](mention) to [move](action) [layer](object_1)
-- how do I [use](link) [it](mention) to [move](action) [layer](object_1) ?
-- i dont know how to [use](link) [it](mention) to [move](action) [layer](object_1) ?
-- tell me how to [use](link) [it](mention) to [move](action) [layer](object_1) ?
-- show me the way to [use](link) [it](mention) to [move](action) [layer](object_1) ?
-- tell me the way to [use](link) [it](mention) to [move](action) [layer](object_1) ?
-- is there any way to [use](link) [it](mention) to [move](action) [layer](object_1) ?
-
-- how to [assign](action) [them](mention) [to](link) [image](object_2) ?
-- [assign](action) [them](mention) [to](link) [image](object_2)
-- how do I [assign](action) [them](mention) [to](link) [image](object_2) ?
-- i dont know how to [assign](action) [them](mention) [to](link) [image](object_2) ?
-- tell me how to [assign](action) [them](mention) [to](link) [image](object_2) ?
-- show me the way to [assign](action) [them](mention) [to](link) [image](object_2) ?
-- tell me the way to [assign](action) [them](mention) [to](link) [image](object_2) ?
-- is there any way to [assign](action) [them](mention) [to](link) [image](object_2) ?
-
-- how to [choose](action) [it](mention) in the [eyedropper](object_2) tool ?
-- [choose](action) [it](mention) in the [eyedropper](object_2) tool
-- how do I [choose](action) [it](mention) in the [eyedropper](object_2) tool ?
-- i dont know how to [choose](action) [it](mention) in the [eyedropper](object_2) tool ?
-- tell me how to [choose](action) [it](mention) in the [eyedropper](object_2) tool ?
-- show me the way to [choose](action) [it](mention) in the [eyedropper](object_2) tool ?
-- tell me the way to [choose](action) [it](mention) in the [eyedropper](object_2) tool ?
-- is there any way to [choose](action) [it](mention) in the [eyedropper](object_2) tool ?
-
-- how to [choose](action) the [color](object_1) in [it](mention) ?
-- [choose](action) [color](object_1) in [it](mention)
-- how do I [choose](action) [color](object_1) in [it](mention) ?
-- i dont know how to [choose](action) [color](object_1) in [it](mention) ?
-- tell me how to [choose](action) [color](object_1) in [it](mention) ?
-- show me the way to [choose](action) [color](object_1) in [it](mention) ?
-- tell me the way to [choose](action) [color](object_1) in [it](mention) ?
-- is there any way to [choose](action) [color](object_1) in [it](mention) ?
-
-- how to [assign](action) [profiles](object_1) [to](link) [it](mention) ?
-- [assign](action) [profiles](object_1) [to](link) [it](mention)
-- how do I [assign](action) [profiles](object_1) [to](link) [it](mention) ?
-- i dont know how to [assign](action) [profiles](object_1) [to](link) [it](mention) ?
-- tell me how to [assign](action) [profiles](object_1) [to](link) [it](mention) ?
-- show me the way to [assign](action) [profiles](object_1) [to](link) [it](mention) ?
-- tell me the way to [assign](action) [profiles](object_1) [to](link) [it](mention) ?
-- is there any way to [assign](action) [profiles](object_1) [to](link) [it](mention) ?
-
-- how to [assign](action) [them](object_1) to the [image](object_2) ?
-- [assign](action) [them](object_1) to the [image](object_2)
-- how do I [assign](action) [them](object_1) to [image](object_2) ?
-- i dont know how to [assign](action) [them](object_1) to the [image](object_2) ?
-- tell me how to [assign](action) [them](object_1) to [image](object_2) ?
-- show me the way to [assign](action) [them](object_1) to the [image](object_2) ?
-- tell me the way to [assign](action) [them](object_1) to the [image](object_2) ?
-- is there any way to [assign](action) [them](object_1) to the [image](object_2) ?
-
-- how to [remove](action) [it](mention) [from](link) a [photo](object_2) ?
-- [remove](action) [it](mention) [from](link) a [photo](object_2)
-- how do I [remove](action) [it](mention) [from](link) a [photo](object_2) ?
-- i dont know how to [remove](action) [it](mention) [from](link) a [photo](object_2) ?
-- tell me how to [remove](action) [it](mention) [from](link) a [photo](object_2) ?
-- show me the way to [remove](action) [it](mention) [from](link) a [photo](object_2) ?
-- tell me the way to [remove](action) [it](mention) [from](link) a [photo](object_2) ?
-- is there any way to [remove](action) [it](mention) [from](link) a [photo](object_2) ?
-
-- how to [remove](action) [it](mention) ?
-- [remove](action) [it](mention)
-- how do I [remove](action) [it](mention) ?
-- i dont know how to [remove](action) [it](mention) ?
-- tell me how to [remove](action) [it](mention) ?
-- show me the way to [remove](action) [it](mention) ?
-- tell me the way to [remove](action) [it](mention) ?
-- is there any way to [remove](action) [it](mention) ?
-
-- how to [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool ?
-- [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool
-- how do I [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool ?
-- i dont know how to [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool ?
-- tell me how to [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool ?
-- show me the way to [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool ?
-- tell me the way to [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool ?
-- is there any way to [make](action) [twitch overlays](object_1) with the [rectangle](object_2) tool ?
-
-- how use [it](mention) to [create](action) a [portfolio](object_1) on the website ?
-- how to use [it](mention) to [create](action) a [portfolio](object_1) on the website ?
-- use [it](mention) to [create](action) a [portfolio](object_1) on the website ?
-- i dont know how to use [it](mention) to [create](action) a [portfolio](object_1) on the website ?
-- how do I use [it](mention) to [create](action) a [portfolio](object_1) on the website ?
-- tell me how to use [it](mention) to [create](action) a [portfolio](object_1) on the website ?
-- show me the way to use [it](mention) to [create](action) a [portfolio](object_1) on the website ?
-- is there any way to use [it](object_2) to [create](action) a [portfolio](object_1) on the website ?
-
-- how to [create](action) [it](mention) [in](link) a [shape](object_2) ?
-- [create](action) [it](mention) [in](link) a [shape](object_2)
-- how do I [create](action) [it](mention) [in](link) a [shape](object_2) ?
-- i dont know how to [create](action) [it](mention) [in](link) a [shape](object_2) ?
-- tell me how to [create](action) [it](mention) [in](link) a [shape](object_2) ?
-- show me the way to [create](action) [it](mention) [in](link) a [shape](object_2) ?
-- tell me the way to [create](action) [it](mention) [in](link) a [shape](object_2) ?
-- is there any way to [create](action) [it](mention) [in](link) a [shape](object_2) ?
-
-- how to [create](action) [digital collage](object_1) in [it](mention) ?
-- [create](action) [digital collage](object_1) in [it](mention)
-- how do I [create](action) [digital collage](object_1) in [it](mention) ?
-- i dont know how to [create](action) [digital collage](object_1) in [it](mention) ?
-- tell me how to [create](action) [digital collage](object_1) in [it](mention) ?
-- show me the way to [create](action) [digital collage](object_1) in [it](mention) ?
-- tell me the way to [create](action) [digital collage](object_1) in [it](mention) ?
-- is there any way to [create](action) [digital collage](object_1) in [it](mention) ?
-
-- how to [create](action) [rectangular shapes](object_1) with [it](mention) ?
-- [create](action) [rectangular shapes](object_1) with [it](mention)
-- how do I [create](action) [rectangular shapes](object_1) with [it](mention) ?
-- i dont know how to [create](action) [rectangular shapes](object_1) with [it](mention) ?
-- tell me how to [create](action) [rectangular shapes](object_1) with [it](mention) ?
-- show me the way to [create](action) [rectangular shapes](object_1) with [it](mention) ?
-- tell me the way to [create](action) [rectangular shapes](object_1) with [it](mention) ?
-- is there any way to [create](action) [rectangular shapes](object_1) with [it](mention) ?
-
-- how to [create](action) [rectangular shapes](object_1) with [this](mention) tool ?
-- [create](action) [rectangular shapes](object_1) with [this](mention) tool
-- how do I [create](action) [rectangular shapes](object_1) with [this](mention) tool ?
-- i dont know how to [create](action) [rectangular shapes](object_1) with [this](mention) tool ?
-- tell me how to [create](action) [rectangular shapes](object_1) with [this](mention) tool ?
-- show me the way to [create](action) [rectangular shapes](object_1) with [this](mention) tool ?
-- tell me the way to [create](action) [rectangular shapes](object_1) with [this](mention) tool ?
-- is there any way to [create](action) [rectangular shapes](object_1) with [this](mention)tool ?
+- how to [assign](action) [profiles](object_1) to [image](object_2) ?
+- [assign](action) [profiles](object_1) to [image](object_2)
+- how do I [assign](action) [profiles](object_1) to [image](object_2) ?
+- i dont know how to [assign](action) [profiles](object_1) to [image](object_2) ?
+- tell me how to [assign](action) [profiles](object_1) to [image](object_2) ?
+- show me the way to [assign](action) [profiles](object_1) to [image](object_2) ?
+- tell me the way to [assign](action) [profiles](object_1) to [image](object_2) ?
+- is there any way to [assign](action) [profiles](object_1) to [image](object_2) ?
 
 - how to [cast](action) the [color](object_1) ?
 - [cast](action) the [color](object_1).
@@ -1553,18 +9030,15 @@
 - show me the way to [correct and check](action) the [text](object_1) ?
 - is there any way to [correct and check](action) the [text](object_1) ?
 
-- how to [choose](action) the [color](object_1) in the [toolbox](object_2) ?
-- [choose](action) the [color](object_1) in the [toolbox](object_2).
-- how do I [choose](action) the [color](object_1) in the [toolbox](object_2) ?
-- i dont know how to [choose](action) the [color](object_1) in the [toolbox](object_2) ?
-- tell me the way to [choose](action) the [color](object_1) in the [toolbox](object_2) ?
-- tell me how to [choose](action) the [color](object_1) in the [toolbox](object_2) ?
-- show me the way to [choose](action) the [color](object_1) in the [toolbox](object_2) ?
-- show me how to [choose](action) the [color](object_1) in the [toolbox](object_2) ?
-- is there any way to [choose](action) the [color](object_1) in the [toolbox](object_2) ?
-- how to [choose](action) the [color](object_1) in [it](mention) ?
-- [choose](action) the [color](object_1) in [it](mention).
-- how do I [choose](action) the [color](object_1) in [it](mention) ?
+- how to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- [choose](action) the [color](object_1) in the [tool box](object_2).
+- how do I [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- i dont know how to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- tell me the way to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- tell me how to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- show me the way to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- show me how to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- is there any way to [choose](action) the [color](object_1) in the [tool box](object_2) ?
 
 - how to [choose](action) the [color](object_1) in the [eyedropper](object_2) tool?
 - [choose](action) the [color](object_1) in the [eyedropper](object_2) tool.
@@ -1595,37 +9069,15 @@
 - show me the way to [combine](action) [image](object_1) with [auto blend layer](object_2) ?
 - is there any way to [combine](action) [image](object_1) with [auto blend layer](object_2) ?
 
-- how to [combine](action) [image](object_1) [with](link) [it](mention) ?
-- [combine](action) [image](object_1) [with](link) [it](mention).
-- how do I [combine](action) [image](object_1) [with](link) [it](mention) ?
-- i dont know how to [combine](action) [image](object_1) [with](link) [it](mention) ?
-- tell me how to [combine](action) [image](object_1) [with](link) [it](mention) ?
-- tell me the way to [combine](action) [image](object_1) [with](link) [it](mention) ?
-- show me how to [combine](action) [image](object_1) [with](link) [it](mention) ?
-- show me the way to [combine](action) [image](object_1) [with](link) [it](mention) ?
-- is there any way to [combine](action) [image](object_1) [with](link) [it](mention) ?
-
-
-- how to [convert](action) [3D layer](object_1) [to](link) [2D](object_2) layer ?
-- [convert](action) [3D layer](object_1) [to](link) [2D](object_2) layer.
-- how do I [convert](action) [3D layer](object_1) [to](link) [2D](object_2) layer ?
-- i dont know how to [convert](action) [3D layer](object_1) [to](link) [2D](object_2) layer ?
-- show me the way to [convert](action) [3D layer](object_1) [to](link) [2D](object_2) layer ?
-- show me how to [convert](action) [3D layer](object_1) [to](link) [2D](object_2) layer ?
-- tell me the way to [convert](action) [3D layer](object_1) [to](link) [2D](object_2) layer ?
-- tell me how to [convert](action) [3D layer](object_1) [to](link) [2D](object_2) layer ?
-- is there any way to [convert](action) [3D layer](object_1) [to](link) [2D](object_2) layer ?
-
-
-- how to [convert](action) [it](mention) [to](link) [2D layer](object_2) ?
-- [convert](action) [it](mention) [to](link) [2D layer](object_2)
-- how do I [convert](action) [it](mention) [to](link) [2D layer](object_2) ?
-- i dont know how to [convert](action) [it](mention) [to](link) [2D layer](object_2) ?
-- show me the way to [convert](action) [it](mention) [to](link) [2D layer](object_2) ?
-- show me how to [convert](action) [it](mention) [to](link) [2D layer](object_2) ?
-- tell me the way to [convert](action) [it](mention) [to](link) [2D layer](object_2) ?
-- tell me how to [convert](action) [it](mention) [to](link) [2D layer](object_2) ?
-- is there any way to [convert](action) [it](mention) [to](link) [2D layer](object_2) ?
+- how to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- [convert](action) [3D layer](object_1) to [2D](object_2) layer.
+- how do I [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- i dont know how to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- show me the way to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- show me how to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- tell me the way to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- tell me how to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- is there any way to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
 
 - how to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
 - [convert](action) [3D layer](object_1) to [smart object](object_2)
@@ -1636,9 +9088,6 @@
 - tell me how to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
 - tell me the way to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
 - is there any way to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
-- how to [convert](action) [it](mention) to [smart object](object_2) ?
-- [convert](action) [it](mention) to [smart object](object_2)
-- how do I [convert](action) [it](mention) to [smart object](object_2) ?
 
 - how to [convert](action) [color image](object_1) to [black and white image](object_2) ?
 - [convert](action) [3D layer](object_1) to [black and white image](object_2)
@@ -1649,9 +9098,6 @@
 - tell me how to [convert](action) [color image](object_1) to [black and white image](object_2) ?
 - tell me the way to [convert](action) [color image](object_1) to [black and white image](object_2) ?
 - is there any way to [convert](action) [color image](object_1) to [black and white image](object_2) ?
-- how to [convert](action) [it](mention) to [black and white image](object_2) ?
-- [convert](action) [it](mention) to [black and white image](object_2)
-- how do I [convert](action) [it](mention) to [black and white image](object_2) ?
 
 - how to [count](action) [objects](object_1) in [image](object_2) ?
 - [count](action) [objects](object_1) in [image](object_2). 
@@ -1672,9 +9118,6 @@
 - show me the way to [create](action) the [poster](object_1) ?
 - show me how to [create](action) the [poster](object_1) ?
 - is there any way to [create](action) the [poster](object_1) ?
-- how to [create](action) [it](mention) ?
-- [create](action) [it](mention)
-- how do I [create](action) [it](mention) ?
 
 - how to [create](action) the [web banner](object_1) ?
 - [create](action) the [web banner](object_1)
@@ -1685,9 +9128,6 @@
 - show me the way to [create](action) the [web banner](object_1) ?
 - show me how to [create](action) the [web banner](object_1) ?
 - is there any way to [create](action) the [web banner](object_1) ?
-- show me the way to [create](action) [it](mention) ?
-- show me how to [create](action) [it](mention) ?
- how to [create](action) [it](mention) ?
 
 - how to [create](action) [panorama](object_1) with [camera raw](object_2) ?
 - [create](action) [panorama](object_1) with [camera raw](object_2). 
@@ -1698,12 +9138,9 @@
 - show me the way to [create](action) [panorama](object_1) with [camera raw](object_2) ?
 - show me how to [create](action) [panorama](object_1) with [camera raw](object_2) ?
 - is there any way to [create](action) [panorama](object_1) with [camera raw](object_2) ?
-- how to [create](action) [panorama](object_1) with [it](mention) ?
-- [create](action) [panorama](object_1) with [it](mention). 
-- how do I [create](action) [panorama](object_1) with [it](mention) ?
 
 - how to [create](action) [panorama](object_1) with [photomerge](object_2) ?
-- [create](action) [panorama](object_1) with [photomerge](object_2).
+- [create](action) [panorama](object_1) with [photomerge](object_2). 
 - how do i [create](action) [panorama](object_1) with [photomerge](object_2) ?
 - tell me the way to [create](action) [panorama](object_1) with [photomerge](object_2) ?
 - tell me how to [create](action) [panorama](object_1) with [photomerge](object_2) ?
@@ -1711,12 +9148,6 @@
 - show me the way to [create](action) [panorama](object_1) with [photomerge](object_2) ?
 - show me how to [create](action) [panorama](object_1) with [photomerge](object_2) ?
 - is there any way to [create](action) [panorama](object_1) with [photomerge](object_2) ?
-- how to [create](action) [it](mention) with [photomerge](object_2) ?
-- [create](action) [it](mention) with [photomerge](object_2).
-- how do i [create](action) [it](mention) with [photomerge](object_2) ?
-- how to [create](action) [panorama](object_1) with [it](mention) ?
-- [create](action) [panorama](object_1) with [it](mention).
-- how do i [create](action) [panorama](object_1) with [it](mention) ?
 
 - how to [crop](action) the [photo](object_1) ?
 - [crop](action) the [photo](object_1)
@@ -1747,9 +9178,6 @@
 - show me the way to [delete](action) the [channel](object_1) ?
 - show me how to [delete](action) the [channel](object_1) ?
 - is there any way to [delete](action) the [channel](object_1) ?
-- how to [delete](action) [it](mention) ?
-- [delete](action) the [it](mention)
-- how do I [delete](action) the [it](mention) ?
 
 - how to [edit](action) the [channel](object_1) ?
 - [edit](action) the [channel](object_1)
@@ -1761,16 +9189,6 @@
 - show me how to [edit](action) the [channel](object_1) ?
 - is there any way to [edit](action) the [channel](object_1) ?
 
-- how to [edit](action) [it](mention) ?
-- [edit](action) [it](mention)
-- how do I [edit](action) [it](mention) ?
-- i dont know how to [edit](action) [it](mention) ?
-- tell me the way to [edit](action) [it](mention) ?
-- tell me how to [edit](action) [it](mention) ?
-- show me the way to [edit](action) [it](mention) ?
-- show me how to [edit](action) [it](mention) ?
-- is there any way to [edit](action) [it](mention) ?
-
 - how to [edit](action) the [panorama](object_1) ?
 - [edit](action) the [panorama](object_1)
 - how do I [edit](action) the [panorama](object_1) ?
@@ -1780,9 +9198,6 @@
 - show me the way to [edit](action) the [panorama](object_1) ?
 - show me how to [edit](action) the [panorama](object_1) ?
 - is there any way to [edit](action) the [panorama](object_1) ?
-- how to [edit](action) [it](mention) ?
-- [edit](action) [it](mention)
-- how do I [edit](action) [it](mention) ?
 
 - how to [edit](action) the [text](object_1) ?
 - [edit](action) the [text](object_1)
@@ -1813,9 +9228,6 @@
 - show me the way to [manage](action) the [camera raw](object_1) ?
 - show me how to [manage](action) the [camera raw](object_1) ?
 - is there any way to [manage](action) the [camera raw](object_1) ?
-- how to [manage](action) [it](mention) ?
-- [manage](action) [it](metion)
-- how do I [manage](action) [it](mention) ?
 
 - how to [paint](action) the [3D](object_1) [image](object_2) ?
 - [paint](action) the [3D](object_1) [image](object_2)
@@ -1837,16 +9249,6 @@
 - show me how to [resize](action) the [image](object_1) ?
 - is there any way to [resize](action) the [image](object_1) ?
 
-- how to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
-- [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
-- how do I [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
-- i dont know how to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
-- tell me the way to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
-- tell me how to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
-- show me the way to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
-- show me how to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
-- is there any way to [resize](action) [it](mention) [to fit](link) [canvas](object_2) ?
-
 - how to [rotate](action) [image](object_1) ?
 - [rotate](action) [image](object_1)
 - how do I [rotate](action) the [image](object_1) ?
@@ -1865,9 +9267,6 @@
 - show me the way to [select](action) the [channel](object_1) ?
 - show me how to [select](action) the [channel](object_1) ?
 - is there any way to [select](action) the [channel](object_1) ?
-- tell me the way to [select](action) [it](mention) ?
-- tell me how to [select](action) [it](mention) ?
-- show me the way to [select](action) [it](mention) ?
 
 - how to [show and hide](action) [channel](object_1) ?
 - [show and hide](action) [channel](object_1)
@@ -1877,9 +9276,6 @@
 - show me the way to [show and hide](action) the [channel](object_1) ?
 - show me how to [show and hide](action) the [channel](object_1) ?
 - is there any way to [show and hide](action) the [channel](object_1) ?
-- tell me the way to [show and hide](action) [it](mention) ?
-- tell me how to [show and hide](action) [it](mention) ?
-- show me the way to [show and hide](action) [it](mention) ?
 
 - how to [straighten](action) [image](object_1) ?
 - [straighten](action) [image](object_1)
@@ -1910,9 +9306,6 @@
 - show me the way to [paint](action) the [panorama](object_1) ?
 - show me how to [paint](action) the [panorama](object_1) ?
 - is there any way to [paint](action) the [panorama](object_1) ?
-- tell me the way to [paint](action) [it](mention) ?
-- tell me how to [paint](action) [it](mention) ?
-- show me the way to [paint](action) [it](mention) ?
 
 - how to [reset](action) [camera raw](object_1) ?
 - [reset](action) [camera raw](object_1).
@@ -1943,9 +9336,6 @@
 - show me the way to [save](action) the [camera raw](object_1) ?
 - show me how to [save](action) the [camera raw](object_1) ?
 - is there any way to [save](action) the [camera raw](object_1) ?
-- tell me how to [save](action) [it](mention) ?
-- show me the way to [save](action) [it](mention) ?
-- show me how to [save](action) [it](mention) ?
 
 - how to [save](action) the [image state](object_1) as [snapshot](object_2) ?
 - [rotate](action) the [image state](object_1) [snapshot](object_2)
@@ -1967,18 +9357,15 @@
 - show me how to [take](action) the [picture](object_1) for [photomerge](object_2) ?
 - is there any way to [take](action) the [picture](object_1) for [photomerge](object_2) ?
 
-- how to [use](action) the [spot removal tool](object_1) ?
-- [use](action) the [spot removal tool](object_1)
-- how do I [use](action) the [spot removal tool](object_1)
-- i dont know how to [use](action) the [spot removal tool](object_1)
-- tell me the way to [use](action) the [spot removal tool](object_1)
-- tell me how to [use](action) the [spot removal tool](object_1)
+- how to [use](action) the [spot removal tool](object_2) ?
+- [use](action) the [spot removal tool](object_2)
+- how do I [use](action) the [spot removal tool](object_2)
+- i dont know how to [use](action) the [spot removal tool](object_2)
+- tell me the way to [use](action) the [spot removal tool](object_2)
+- tell me how to [use](action) the [spot removal tool](object_2)
 - show me the way to [take](action) the [picture](object_1) for [photomerge](object_2) ?
 - show me how to [take](action) the [picture](object_1) for [photomerge](object_2) ?
 - is there any way to [take](action) the [picture](object_1) for [photomerge](object_2) ?
-- i dont know how to [use](action) [it](mention)
-- tell me the way to [use](action) [it](mention)
-- tell me how to [use](action) [it](mention)
 
 - how to [change](action) the unit of [measurement](object_1) ?
 - [change](action) the unit of [measurement](object_1)
@@ -1989,9 +9376,6 @@
 - show me the way to [change](action) the unit of [measurement](object_1) ?
 - show me how to [change](action) the unit of [measurement](object_1) ?
 - is there any way to [change](action) the unit of [measurement](object_1) ?
-- how to [change](action) the unit of [it](mention) ?
-- [change](action) the unit of [it](mention)
-- how do I [change](action) the unit of [it](mention) ?
 
 - how to [download](action) [photoshop](object_1) [CC](version) ?
 - [download](action) [photoshop](object_1) [CC](version)
@@ -2023,99 +9407,55 @@
 - show me how to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
 - is there any way to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
 
-
-
-
-- how to [apply](action) [local adjustment](object_1) [with](link) [adjustment brush](object_2) ?
-- [apply](action) [local adjustment](object_1) [with](link) [adjustment brush](object_2)
-- how do I [apply](action) [local adjustment](object_1) [with](link) [adjustment brush](object_2) ?
-- i dont know how to [apply](action) [local adjustment](object_1) [with](link) [adjustment brush](object_2) ?
-- tell me the way to [apply](action) [local adjustment](object_1) [with](link) [adjustment brush](object_2) ?
-- tell me how to [apply](action) [local adjustment](object_1) [with](link) [adjustment brush](object_2) ?
-- show me the way to [apply](action) [local adjustment](object_1) [with](link) [adjustment brush](object_2) ?
+- how to [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- [apply](action) [local adjustment](object_1) with [adjustment brush](object_2)
+- how do I [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- i dont know how to [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- tell me the way to [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- tell me how to [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- show me the way to [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
 - show me how to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
 - is there any way to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
 
-- how to [apply](action) [it](mention) [with](link) [adjustment brush](object_2) ?
-- [apply](action) [it](mention) [with](link) [adjustment brush](object_2)
-- how do I [apply](action) [it](mention) [with](link) [adjustment brush](object_2) ?
-- i dont know how to [apply](action) [it](mention) [with](link) [adjustment brush](object_2) ?
-- tell me the way to [apply](action) [it](mention) [with](link) [adjustment brush](object_2) ?
-- tell me how to [apply](action) [it](mention) [with](link) [adjustment brush](object_2) ?
-- show me the way to [apply](action) [it](mention) [with](link) [adjustment brush](object_2) ?
+- how to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- [apply](action) [local adjustment](object_1) with [color range mask](object_2)
+- how do I [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- i dont know how to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- tell me the way to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- tell me how to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- show me the way to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- show me how to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- is there any way to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
 
-- how to [apply](action) [local adjustment](object_1) [with](link) [color range mask](object_2) ?
-- [apply](action) [local adjustment](object_1) [with](link) [color range mask](object_2)
-- how do I [apply](action) [local adjustment](object_1) [with](link) [color range mask](object_2) ?
-- i dont know how to [apply](action) [local adjustment](object_1) [with](link) [color range mask](object_2) ?
-- tell me the way to [apply](action) [local adjustment](object_1) [with](link) [color range mask](object_2) ?
-- tell me how to [apply](action) [local adjustment](object_1) [with](link) [color range mask](object_2) ?
-- show me the way to [apply](action) [local adjustment](object_1) [with](link) [color range mask](object_2) ?
-- show me how to [apply](action) [local adjustment](object_1) [with](link) [color range mask](object_2) ?
-- is there any way to [apply](action) [local adjustment](object_1) [with](link) [color range mask](object_2) ?
-- tell me how to [apply](action) [local adjustment](object_1) [with](link)h [it](mention) ?
-- show me the way to [apply](action) [local adjustment](object_1) [with](link) [it](mention) ?
-- show me how to [apply](action) [local adjustment](object_1) [with](link) [it](mention) ?
+- how to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- [apply](action) [local adjustment](object_1) with [depth range mask](object_2)
+- how do I [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- i dont know how to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- tell me the way to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- tell me how to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- show me the way to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- show me how to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- is there any way to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
 
-- how to [apply](action) [local adjustment](object_1) [with](link) [depth range mask](object_2) ?
-- [apply](action) [local adjustment](object_1) [with](link) [depth range mask](object_2)
-- how do I [apply](action) [local adjustment](object_1) [with](link) [depth range mask](object_2) ?
-- i dont know how to [apply](action) [local adjustment](object_1) [with](link) [depth range mask](object_2) ?
-- tell me the way to [apply](action) [local adjustment](object_1) [with](link) [depth range mask](object_2) ?
-- tell me how to [apply](action) [local adjustment](object_1) [with](link) [depth range mask](object_2) ?
-- show me the way to [apply](action) [local adjustment](object_1) [with](link) [depth range mask](object_2) ?
-- show me how to [apply](action) [local adjustment](object_1) [with](link) [depth range mask](object_2) ?
-- is there any way to [apply](action) [local adjustment](object_1) [with](link) [depth range mask](object_2) ?
+- how to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- [apply](action) [local adjustment](object_1) with [graduated filter](object_2)
+- how do I [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- i dont know how to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- tell me the way to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- tell me how to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- show me the way to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- show me how to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- is there any way to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
 
-- how to [apply](action) [it](mention) [with](link) [depth range mask](object_2) ?
-- [apply](action) [it](mention) [with](link) [depth range mask](object_2)
-- how do I [apply](action) [it](mention) [with](link) [depth range mask](object_2) ?
-- i dont know how to [apply](action) [it](mention) [with](link) [depth range mask](object_2) ?
-- tell me the way to [apply](action) [it](mention) [with](link) [depth range mask](object_2) ?
-- tell me how to [apply](action) [it](mention) [with](link) [depth range mask](object_2) ?
-- show me the way to [apply](action) [it](mention) [with](link) [depth range mask](object_2) ?
-- show me how to [apply](action) [it](mention) [with](link) [depth range mask](object_2) ?
-- is there any way to [apply](action) [it](mention) [with](link) [depth range mask](object_2) ?
-
-- how to [apply](action) [local adjustment](object_1) [with](link) [graduated filter](object_2) ?
-- [apply](action) [local adjustment](object_1) [with](link) [graduated filter](object_2)
-- how do I [apply](action) [local adjustment](object_1) [with](link) [depth range mask](object_2) ?
-- i dont know how to [apply](action) [local adjustment](object_1) [with](link) [graduated filter](object_2) ?
-- tell me the way to [apply](action) [local adjustment](object_1) [with](link) [graduated filter](object_2) ?
-- tell me how to [apply](action) [local adjustment](object_1) [with](link) [graduated filter](object_2) ?
-- show me the way to [apply](action) [local adjustment](object_1) [with](link) [graduated filter](object_2) ?
-- show me how to [apply](action) [local adjustment](object_1) [with](link) [graduated filter](object_2) ?
-- is there any way to [apply](action) [local adjustment](object_1) [with](link) [graduated filter](object_2) ?
-
-- how to [apply](action) [it](mention) [with](link) [graduated filter](object_2) ?
-- [apply](action) [it](mention) [with](link) [graduated filter](object_2)
-- how do I [apply](action) [it](mention) [with](link) [depth range mask](object_2) ?
-- i dont know how to [apply](action) [it](mention) [with](link) [graduated filter](object_2) ?
-- tell me the way to [apply](action) [it](mention) [with](link) [graduated filter](object_2) ?
-- tell me how to [apply](action) [it](mention) [with](link) [graduated filter](object_2) ?
-- show me the way to [apply](action) [it](mention) [with](link) [graduated filter](object_2) ?
-- show me how to [apply](action) [it](mention) [with](link) [graduated filter](object_2) ?
-- is there any way to [apply](action) [it](mention) [with](link) [graduated filter](object_2) ?
-
-- how to [apply](action) [local adjustment](object_1) [with](link) [luminance range mask](object_2) ?
-- [apply](action) [local adjustment](object_1) [with](link) [luminance range mask](object_2)
-- how do I [apply](action) [local adjustment](object_1) [with](link) [luminance range mask](object_2) ?
-- i dont know how to [apply](action) [local adjustment](object_1) [with](link) [luminance range mask](object_2) ?
-- tell me the way to [apply](action) [local adjustment](object_1) [with](link) [luminance range mask](object_2) ?
-- tell me how to [apply](action) [local adjustment](object_1) [with](link) [luminance range mask](object_2) ?
-- show me the way to [apply](action) [local adjustment](object_1) [with](link) [luminance range mask](object_2) ?
-- show me how to [apply](action) [local adjustment](object_1) [with](link) [luminance range mask](object_2) ?
-- is there any way to [apply](action) [local adjustment](object_1) [with](link) [luminance range mask](object_2) ?
-
-- how to [apply](action) [it](mention) [with](link) [luminance range mask](object_2) ?
-- [apply](action) [it](mention) [with](link) [luminance range mask](object_2)
-- how do I [apply](action) [it](mention) [with](link) [luminance range mask](object_2) ?
-- i dont know how to [apply](action) [it](mention) [with](link) [luminance range mask](object_2) ?
-- tell me the way to [apply](action) [it](mention) [with](link) [luminance range mask](object_2) ?
-- tell me how to [apply](action) [it](mention) [with](link) [luminance range mask](object_2) ?
-- show me the way to [apply](action) [it](mention) [with](link) [luminance range mask](object_2) ?
-- show me how to [apply](action) [it](mention) [with](link) [luminance range mask](object_2) ?
-- is there any way to [apply](action) [it](mention) [with](link) [luminance range mask](object_2) ?
+- how to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- [apply](action) [local adjustment](object_1) with [luminance range mask](object_2)
+- how do I [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- i dont know how to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- tell me the way to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- tell me how to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- show me the way to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- show me how to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- is there any way to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
 
 - how to [fill](action) [path](object_1) with [color](object_2) ?
 - [fill](action) [path](object_1) with [color](object_2)
@@ -2156,22 +9496,16 @@
 - show me the way to [adjust](action) [color rendering](object_1) in [camera raw](object_2)
 - show me how to [adjust](action) [color rendering](object_1) in [camera raw](object_2)
 - is there any way to [adjust](action) [color rendering](object_1) in [camera raw](object_2) ?
-- how to [adjust](action) [color rendering](object_1) in [it](mention)
-- [adjust](action) [color rendering](object_1) in [it](mention)
-- how do I [adjust](action) [color rendering](object_1) in [it](mention)
 
-- how to [create](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
-- [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
-- how do I [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
-- i dont know how to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
-- tell me the way to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
-- tell me how to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
-- show me the way to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
-- show me how to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2)
-- is there any way to [adjust](action) [digital collage](object_1) [in](link) [adobe stock](object_2) ?
-- how to [create](action) [it](mention) in [adobe stock](object_2)
-- [adjust](action) [it](mention) in [adobe stock](object_2)
-- how do I [adjust](action) [it](mention) in [adobe stock](object_2)
+- how to [create](action) [digital collage](object_1) in [adobe stock](object_2)
+- [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- how do I [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- i dont know how to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- tell me the way to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- tell me how to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- show me the way to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- show me how to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- is there any way to [adjust](action) [digital collage](object_1) in [adobe stock](object_2) ?
 
 - how to [create](action) [portfolio](object_1) in [website](object_2) with [adobe_portfolio](object_3)
 - [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3)
@@ -2202,9 +9536,6 @@
 - show me the way to [use](action) [crop tool](object_1)
 - show me how to [use](action) [crop tool](object_1)
 - is there any way to [use](action) [crop tool](object_1) ?
-- how to [use](action) [it](mention)
-- [use](action) [it](mention)
-- how do I [use](action) [it](mention)
 
 - how to [resize](action) [canvas](object_1) using [crop tool](object_2)
 - [resize](action) [canvas](object_1) using [crop tool](object_2)
@@ -2216,17 +9547,6 @@
 - show me how to [resize](action) [canvas](object_1) using [crop tool](object_2)
 - is there any way to [resize](action) [canvas](object_1) using [crop tool](object_2) ?
 
-- how to [resize](action) [it](mention) using [crop tool](object_2)
-- [resize](action) [it](mention) using [crop tool](object_2)
-- how do I [resize](action) [it](mention) using [crop tool](object_2)
-- i dont know how to [resize](action) [it](mention using [crop tool](object_2)
-- tell me the way to [resize](action) [it](mention) using [crop tool](object_2)
-- tell me how to [resize](action) [it](mention) using [crop tool](object_2)
-- show me the way to [resize](action) [it](mention) using [crop tool](object_2)
-- show me how to [resize](action) [it](mention) using [crop tool](object_2)
-- is there any way to [resize](action) [it](mention) using [crop tool](object_2) ?
-
-
 - how to [stroke](action) [Path](object_1) with [color](object_2)
 - [stroke](action) [Path](object_1) with [color](object_2)
 - how do I [stroke](action) [Path](object_1) with [color](object_2)
@@ -2237,21 +9557,14 @@
 - show me how to [stroke](action) [Path](object_1) with [color](object_2)
 - is there any way to [stroke](action) [Path](object_1) with [color](object_2) ?
 
-- how to [create](action) the [paragraph style](object_1) ?
-- [create](action) the [paragraph style](object_1)  ?
-- how do I [create](action) the [paragraph style](object_1) ?
-- tell me the way to [create](action) the [paragraph style](object_1) ?
-- tell me how to [create](action) the [paragraph style](object_1)  ?
-- show me the way to [create](action) the [paragraph style](object_1)  ?
-- show me how to [create](action) the [paragraph style](object_1)  ?
-- is there any way to [create](action) the [paragraph style](object_1)  ?
-- how to [create](action) [it](mention) ?
-- [create](action) [it](mention)  ?
-- how do I [create](action) [it](mention) ?
-- tell me how to [create](action) [it](mention)  ?
-- show me the way to [create](action) [it](mention)  ?
-- show me how to [create](action) [it](mention)  ?
-- is there any way to [create](action) [it](mention)  ?
+- how to [create](action) the [paragraph style](object_2) ?
+- [create](action) the [paragraph style](object_2)  ?
+- how do I [create](action) the [paragraph style](object_2) ?
+- tell me the way to [create](action) the [paragraph style](object_2) ?
+- tell me how to [create](action) the [paragraph style](object_2)  ?
+- show me the way to [create](action) the [paragraph style](object_2)  ?
+- show me how to [create](action) the [paragraph style](object_2)  ?
+- is there any way to [create](action) the [paragraph style](object_2)  ?
 
 - how to [create](action) the [paragraph style](object_2) ?
 - [create](action) the [paragraph style](object_2) ?
