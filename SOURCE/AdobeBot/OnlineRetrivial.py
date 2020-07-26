@@ -109,8 +109,8 @@ def search_for(query):
                     if type(c) is tuple and c[0] == 'video':
                         num_video = num_video + 1
                         video_content = content
-            # If there is one one video, return directly
-            if num_video == 1:
+            # If there is one video from tutorial, return directly
+            if num_video == 1 and url.find("/how-to/") != -1:
                 result = endcode(video_content.contents)
                 return [json.dumps(result), json.dumps(result)]
         else:
