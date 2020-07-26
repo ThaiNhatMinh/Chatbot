@@ -3,10 +3,15 @@ import json
 import logging
 import SimilarityModel
 import CrawlAdobeHelpx
+from handle_data import handleData
+# from actions import call_API
 
-KEY = 'f9ee0ed0-cbd4-11ea-9c95-555571ca657c'
+KEY = '2d3aa670-cf60-11ea-871e-f7a573154db6'
 ADOBEHELPX_URL = 'https://helpx.adobe.com'
 YOUTUBE_URL = "https://www.youtube.com/"
+
+
+cache_results = {}
 
 def get_document(url):
     headers = {'Content-Type': 'application/json'}
@@ -69,6 +74,13 @@ def endcode(contents):
             result.append({'respone': content[1]})
     return result
 
+def save_cache(query, result):
+    cache_results[query] = [json.dumps(result), json.dumps(result)]
+    data = [{'question': query, 'anwser': ''}]
+    handler = handleData()
+    handler.importToNLU(data)
+    handler.importToStory(data)
+
 def search_for(query):
     ''' Search over the internet 'text'.
         Get link of the article.
@@ -77,10 +89,15 @@ def search_for(query):
 
         @return tuple result for web and ontology
     '''
+    origin_query = query
+
+    for cache_query, cache_result in cache_results:
+        if query == cache_query:
+            return cache_result
     # Search over the internet 'text':
     # ...
     urls = get_urls(query)
-    if len(urls) == 0:
+    if urls is not None and len(urls) == 0:
         logging.error("Can not search over internet")
         return None
 
@@ -93,7 +110,8 @@ def search_for(query):
         if url.startswith(YOUTUBE_URL):
             result = [{'video': [
                 {'res_video': 'I have found a video about that may help you:'}, {'link': url}]}]
-            return [json.dumps(result), json.dumps(result)]
+            cache_results[origin_query] = [json.dumps(result), json.dumps(result)]
+            return cache_results[origin_query]
 
         documents = []
         if url.startswith(ADOBEHELPX_URL) and not query.startswith("what is"):
@@ -112,7 +130,8 @@ def search_for(query):
             # If there is one video from tutorial, return directly
             if num_video == 1 and url.find("/how-to/") != -1:
                 result = endcode(video_content.contents)
-                return [json.dumps(result), json.dumps(result)]
+                cache_results[origin_query] = [json.dumps(result), json.dumps(result)]
+                return cache_results[origin_query]
         else:
             documents = get_document(url)
             if documents is None or len(documents) == 0:
@@ -138,4 +157,5 @@ def search_for(query):
                                     'image': []
                                 }}
                             ]
-        return [json.dumps(result_for_web), json.dumps(result_for_ontology)]
+        cache_results[origin_query] = [json.dumps(result_for_web), json.dumps(result_for_ontology)]
+        return cache_results[origin_query]

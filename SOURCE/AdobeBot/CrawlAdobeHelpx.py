@@ -33,17 +33,20 @@ class HelpXContent(object):
     def is_empty(self):
         return len(self.contents) == 0
 
-url = ['https://helpx.adobe.com/photoshop-elements/using/creating-layers.html',
-'https://helpx.adobe.com/photoshop/using/choosing-colors.html',
-'https://helpx.adobe.com/photoshop/using/color-settings.html',
-'https://helpx.adobe.com/photoshop/how-to/camera-raw.html',
-'https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html',
-'https://helpx.adobe.com/photoshop/using/create-smart-objects.html',
-'https://helpx.adobe.com/photoshop/key-concepts/composite.html',
-'https://helpx.adobe.com/photoshop/how-to/compositing.html']
-
 WEB_TUTORIAL = 'tutorial-content'
 WEB_ARTICLE = 'main-content'
+ADOBEHELPX_URL = 'https://helpx.adobe.com'
+
+def update_image_url(text):
+    soup = BeautifulSoup(text, "html.parser")
+    imgs = soup.findAll('img')
+    for img in imgs:
+        image_path = img.get('src')
+        if image_path and image_path.startswith('/'):
+            img['src'] = ADOBEHELPX_URL + image_path
+    return str(soup)
+
+
 def get(url):
 
     resp = requests.get(url)
@@ -72,8 +75,8 @@ def get(url):
             logger.info(u"Add header: {}\n".format(header))
             current = HelpXContent(header)
         elif child['class'][0] == 'image' and current is not None:
-            current.add_image('https://helpx.adobe.com' + child.div.img['src'])
-            logger.info("Add image: " + 'https://helpx.adobe.com' + child.div.img['src'] + '\n')
+            current.add_image(ADOBEHELPX_URL + child.div.img['src'])
+            logger.info("Add image: " + ADOBEHELPX_URL + child.div.img['src'] + '\n')
         elif child['class'][0] == 'text':
             text = ''
             # logger.info("p: {}".format(''.join(child.div.contents)))
@@ -107,7 +110,7 @@ def get(url):
             #                 text = text + normalize_string(li.contents[0])
             #             elif len(li.contents) > 1:
             #                 text = text + " ".join(str(c) for c in li.contents)
-            text = normalize_string(text)
+            text = update_image_url(normalize_string(text))
             logger.info("Add text: {}\n".format(text))
             current.add(text)
         elif child['class'][0] == 'variable':
@@ -150,6 +153,16 @@ def to_string(content: HelpXContent) -> str:
 
     return "".join(content.contents)
 
-# for u in url:
-#     get(u)
-# get(url[1])
+if __name__ == '__main__':
+    url = ['https://helpx.adobe.com/photoshop-elements/using/creating-layers.html',
+    'https://helpx.adobe.com/photoshop/using/choosing-colors.html',
+    'https://helpx.adobe.com/photoshop/using/color-settings.html',
+    'https://helpx.adobe.com/photoshop/how-to/camera-raw.html',
+    'https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html',
+    'https://helpx.adobe.com/photoshop/using/create-smart-objects.html',
+    'https://helpx.adobe.com/photoshop/key-concepts/composite.html',
+    'https://helpx.adobe.com/photoshop/how-to/compositing.html']
+
+    # for u in url:
+    #     get(u)
+    get(url[1])
