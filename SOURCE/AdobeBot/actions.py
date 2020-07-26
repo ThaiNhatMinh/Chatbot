@@ -101,11 +101,6 @@ class ActionSearchEntity(Action):
 		logging.info("text: {}".format(tracker.latest_message.get('text')))
 		logging.info("list_entity: {}".format(" ".join(list_entity)))
 		if not list_entity:
-			document = OnlineRetrivial.search_for(tracker.latest_message.get('text'))
-			if not document:
-				dispatcher.utter_message("[{'respone': 'Sorry I dont know that'}]")
-			else:
-				dispatcher.utter_message(document[0])
 			query2 = tracker.latest_message.get('text')
 			headers = { 'Content-Type': 'application/json' }
 			body = {"sentence" : query2}
