@@ -2,16 +2,13 @@
   "action_fingerprints": {
     "action_listen": {
       "slots": [
-        "link",
         "object_1",
-        "equipment",
-        "object_3",
-        "object_2",
-        "mention",
-        "version",
         "action",
-        "link_2",
-        "OS"
+        "OS",
+        "version",
+        "object_2",
+        "object_3",
+        "equipment"
       ]
     },
     "null": {
@@ -47,7 +44,7 @@
     "rasa_core.policies.fallback.FallbackPolicy",
     "rasa_core.policies.form_policy.FormPolicy"
   ],
-  "trained_at": "20200718-212921",
+  "trained_at": "20200727-083905",
   "rasa_core": "0.14.5",
   "tensorflow": "1.12.3",
   "sklearn": "0.20.4"
