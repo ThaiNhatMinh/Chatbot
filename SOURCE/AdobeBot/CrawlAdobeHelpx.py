@@ -112,6 +112,8 @@ def get(url):
             #                 text = text + " ".join(str(c) for c in li.contents)
             text = update_image_url(normalize_string(text))
             logger.info("Add text: {}\n".format(text))
+            if current is None:
+                current = HelpXContent("Introduction")
             current.add(text)
         elif child['class'][0] == 'variable':
             text = "{}: {}".format(child.contents[7].p.span.contents[0], normalize_string(child.contents[8].p.p.contents[0]))
