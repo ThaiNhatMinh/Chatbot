@@ -12,6 +12,7 @@ YOUTUBE_URL = "https://www.youtube.com/"
 
 
 cache_results = {}
+handler = handleData()
 
 def get_document(url):
     headers = {'Content-Type': 'application/json'}
@@ -74,12 +75,48 @@ def endcode(contents):
             result.append({'respone': content[1]})
     return result
 
+def call_API(_type, content):
+    headers = {'Content-Type': 'application/json'}
+    url = 'http://localhost:5000/' + _type
+    respone = requests.post(url, data = json.dumps(content), headers = headers)
+    content = respone.json()
+    list_content = content['resp']
+    return list_content
+
 def save_cache(query, result):
     cache_results[query] = [json.dumps(result), json.dumps(result)]
-    data = [{'question': query, 'anwser': ''}]
-    handler = handleData()
-    handler.importToNLU(data)
-    handler.importToStory(data)
+    # "answer": "bcd",
+    #         "video": "b",
+    #         "image": [],
+    #         "step": [
+    #             {
+    #                 "resp": "def",
+    #                 "image": []
+    #             }
+    #         ]
+    data = {
+        "question": query,
+        "anwser": {}
+    }
+
+    if len(result) == 1:
+        if result[0][0] == 'video':  # One video
+            data['answer']['video'] = result[0][1][1]['link']
+        else:
+            data['answer']['answer'] = result[0][1]
+    elif len(result) >= 2:
+        data['answer']['step'] = []
+        for part in result:
+            if part[0] == 'respone':
+                data['answer']['step'].append({'resp': part[1]})
+            elif part[0] == 'image':
+                data['answer']['step'].append({'image': part[1]})
+            elif part[0] == 'video':
+                data['answer']['video'] = result[0][1][1]['link']
+
+    handler.importToNLU([data])
+    handler.importToStory([data])
+    # call_API('import-online', [data])
 
 def search_for(query):
     ''' Search over the internet 'text'.
@@ -91,8 +128,9 @@ def search_for(query):
     '''
     origin_query = query
 
-    for cache_query, cache_result in cache_results:
+    for cache_query, cache_result in cache_results.items():
         if query == cache_query:
+            logging.info("Found result in cache, return now...")
             return cache_result
     # Search over the internet 'text':
     # ...
