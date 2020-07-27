@@ -144,6 +144,7 @@ class handleData:
                             newROTag.set(attrOwl+'resource',about+'Operation')
                             newRootOpe.append(newROTag)
                             rootOwl.append(newRootOpe)
+                newRootProcess = ET.Element(tagOwl + 'NamedIndividual')
                 for hasProcess in objectProperty.findall('hasProcess'):
                     if hasProcess.text != None:
                         # newType1 = ET.Element(attrOwl+'type')
@@ -151,30 +152,30 @@ class handleData:
                         # new.append(newType1)
                         checkProcess = True
                         #Thêm 1 process mới
-                        newRootProcess = ET.Element(tagOwl + 'NamedIndividual')
-                        newRootProcess.set(attrOwl + 'about', about+hasProcess.text.capitalize())
+                        
+                        newRootProcess.set(attrOwl + 'about', about+name.capitalize())
                         newTypeProcess = ET.Element(attrOwl+'type')
                         newTypeProcess.set(attrOwl + 'resource', about + 'Process')
                         newRootProcess.append(newTypeProcess)
                         # print(hasProcess.text)
                         newProcess = ET.Element('hasProcess')
-                        newProcess.set(attrOwl+'resource',about+hasProcess.text.capitalize())
+                        newProcess.set(attrOwl+'resource',about+name.capitalize())
                         new.append(newProcess)
                 for hasStep in objectProperty.findall('hasStep'):
                     stepArr = []
                     index = 1
                     for step in hasStep.findall('step'):
                         newSt = ET.Element('hasStep')
-                        newSt.set(attrOwl+'resource',about+hasProcess.text.capitalize()+"_step"+str(index))
+                        newSt.set(attrOwl+'resource',about+name.capitalize()+"_step"+str(index))
                         new.append(newSt)
                         newStep=ET.Element(tagOwl + 'NamedIndividual')
-                        newStep.set(attrOwl + 'about', about+hasProcess.text.capitalize()+"_step"+str(index))
+                        newStep.set(attrOwl + 'about', about+name.capitalize()+"_step"+str(index))
                         newStepType = ET.Element(attrOwl+'type')
                         newStepType.set(attrOwl + 'resource', about + "Task")
                         newStep.append(newStepType)
                         #newRootProcess.append(newStepType)
                         procesStep = ET.Element('hasStep')
-                        procesStep.set(attrOwl+'resource',about+hasProcess.text.capitalize()+"_step"+str(index))
+                        procesStep.set(attrOwl+'resource',about+name.capitalize()+"_step"+str(index))
                         newRootProcess.append(procesStep)
                         for object1 in step.findall('object'):
                             if object1.text != None:
@@ -280,7 +281,35 @@ class handleData:
                 objectProperty.append(hasOperation)
 
             #còn step chưa xử lý
+            answer = question["anwser"]
+            if len(answer["step"]) > 0:
+                hasStep = ET.Element('hasStep')
+                for step in answer["step"]:
+                    resp = step['resp']
+                    stepEL = ET.Element('step')
+                    resp = ET.Element('resp')
+                    resp.text = resp
+                    stepEL.append(resp)
+                    for image in step["image"]:
+                        if "http" not in image: continue
+                        hasImage = ET.Element('hasImage')
+                        imgName = seperate.getTitle() + str(i) + ".png"
+                        i+=1
+                        hasImage.text = imgName
+                        stepEL.append(hasImage)
+                        with open(str(path) + "\\data\\" + imgName, 'wb') as handle:
+                            response = requests.get(image, stream=True)
 
+                            if not response.ok:
+                                print(response)
+
+                            for block in response.iter_content(1024):
+                                if not block:
+                                    break
+
+                                handle.write(block)
+                    hasStep.append(stepEL)
+                objectProperty.append(hasStep)
             ontology.append(objectProperty)
 
             dataProperty = ET.Element('dataproperty')
@@ -307,12 +336,18 @@ class handleData:
                             handle.write(block)
             
             hasURL = ET.Element('hasURL')
+            if hasattr(answer, 'url'):
+                hasURL.text = answer["url"]
             dataProperty.append(hasURL)
+            
             hasVideo = ET.Element('hasVideo')
+            if hasattr(answer, 'video'):
+                hasVideo.text = answer["video"]
             dataProperty.append(hasVideo)
 
             Response = ET.Element('Response')
-            Response.text = answer["answer"]
+            if hasattr(answer, 'answer'):
+                Response.text = answer["answer"]
 
             dataProperty.append(Response)
 
